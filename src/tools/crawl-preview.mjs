@@ -14,7 +14,10 @@ if (args['pages-from']) {
   const fs = await import('node:fs'), path = await import('node:path');
   const root = path.resolve(String(args['pages-from']));
   const walk = (d) => fs.readdirSync(d).flatMap((f) => { const p = path.join(d, f); return fs.statSync(p).isDirectory() ? walk(p) : f.endsWith('.html') ? [path.relative(root, p).split(path.sep).join('/')] : []; });
-  for (const rel of walk(root)) pageQ.push(new URL(rel.replace(/(^|\/)index\.html$/, '$1').replace(/\.html$/, '').split('/').map(encodeURIComponent).join('/'), BASE).href);
+  // extensionless like the site links them — except a name whose stem ends in '.', which no host maps
+  // back ('Real Flavor..html'); that one is requested by its real file name
+  const seed = (rel) => { const r = rel.replace(/(^|\/)index\.html$/, '$1'); const bare = r.replace(/\.html$/, ''); return bare.endsWith('.') ? r : bare; };
+  for (const rel of walk(root)) pageQ.push(new URL(seed(rel).split('/').map(encodeURIComponent).join('/'), BASE).href);
 }
 const strip = (u) => { const x = new URL(u); x.hash = ''; return x.href; };
 function refsOf(html, pageUrl) {
