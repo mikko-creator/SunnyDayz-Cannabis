@@ -1,0 +1,134 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/brand/breath-free",
+ "slug": "brand-breath-free",
+ "type": "brand",
+ "title": "BREATH FREE",
+ "seoTitle": "BREATH FREE",
+ "model": {
+  "kind": "brand",
+  "path": "/brand/breath-free",
+  "slug": "breath-free",
+  "name": "BREATH FREE",
+  "h1": "BREATH FREE",
+  "logo": null,
+  "banner": {
+   "title": "BREATH FREE",
+   "description": "Shop cannabis products from BREATH FREE at a dispensary near you",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Brands",
+    "href": "/brands"
+   },
+   {
+    "label": "BREATH FREE",
+    "href": null
+   }
+  ],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "empty",
+  "emptyState": {
+   "heading": "No search results found",
+   "text": "No results match the filter criteria. Remove a filter or clear all filters to search again"
+  },
+  "cards": [],
+  "productCount": 1,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/breath-free-breathe-free-guava-biscotti-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Breathe Free - Guava Biscotti - 3.5G Flower",
+    "brand": "BREATH FREE",
+    "description": "Breathe Free presents Guava Biscotti, a premium 3.5g flower that delivers an exotic sensory experience. This carefully cultivated cannabis flower combines sweet tropical guava notes with rich, nutty biscotti undertones, creating a uniquely indulgent aroma and flavor profile. The dense, resinous buds showcase expert craftsmanship and attention to quality. Guava Biscotti offers a balanced experience that cannabis enthusiasts will appreciate for its distinctive terpene profile and smooth smoke. Whether you're exploring new strains or seeking something memorable, this pre-packed flower provides convenience without compromising quality. Each 3.5g package preserves freshness and potency, making it perfect for those who value both flavor and effect in their cannabis selection.",
+    "price": "$35",
+    "priceAmount": 35,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://images.prismic.io/sunny-dayz/Z5vMhZbqstJ9-Dzv_flowers-sativa.png?auto=format,compress",
+     "alt": "Breathe Free - Guava Biscotti - 3.5G Flower"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/brands",
+       "name": "Brands"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "BREATH FREE"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BREATH FREE",
+       "description": "Breathe Free presents Guava Biscotti, a premium 3.5g flower that delivers an exotic sensory experience. This carefully cultivated cannabis flower combines sweet tropical guava notes with rich, nutty biscotti undertones, creating a uniquely indulgent aroma and flavor profile. The dense, resinous buds showcase expert craftsmanship and attention to quality. Guava Biscotti offers a balanced experience that cannabis enthusiasts will appreciate for its distinctive terpene profile and smooth smoke. Whether you&apos;re exploring new strains or seeking something memorable, this pre-packed flower provides convenience without compromising quality. Each 3.5g package preserves freshness and potency, making it perfect for those who value both flavor and effect in their cannabis selection.",
+       "name": "Breathe Free - Guava Biscotti - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "35",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/breath-free-breathe-free-guava-biscotti-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://images.prismic.io/sunny-dayz/Z5vMhZbqstJ9-Dzv_flowers-sativa.png?auto=format,compress"
+      },
+      "position": "1"
+     }
+    ]
+   }
+  ]
+ }
+}

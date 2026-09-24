@@ -1,0 +1,133 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/coast-coast-dark-chocolate-sea-salt-bar-100-mg-edible-100-milligrams",
+ "slug": "product-coast-coast-dark-chocolate-sea-salt-bar-100-mg-edible-100-milligrams",
+ "type": "product",
+ "title": "COAST - Coast - Dark Chocolate Sea Salt Bar - 100mg",
+ "seoTitle": "COAST - Coast - Dark Chocolate Sea Salt Bar - 100mg",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Coast - Dark Chocolate Sea Salt Bar - 100mg",
+    "href": null
+   }
+  ],
+  "h1": "Coast - Dark Chocolate Sea Salt Bar - 100mg",
+  "name": "Coast - Dark Chocolate Sea Salt Bar - 100mg",
+  "brand": {
+   "label": "COAST",
+   "href": "/brand/coast"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "CHOCOLATE",
+    "href": "/collection/edible/chocolate"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/eb942ac3-7ad2-4d24-af89-365b086a4b57?w=3840&q=100",
+   "alt": "Coast - Dark Chocolate Sea Salt Bar - 100mg"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/eb942ac3-7ad2-4d24-af89-365b086a4b57?w=3840&q=100",
+    "alt": "Coast - Dark Chocolate Sea Salt Bar - 100mg"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "100MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Coast Dark Chocolate Sea Salt Bar delivers 100mg of premium hybrid cannabis in a sophisticated edible that balances indulgence with intention. This artisan chocolate bar combines rich, velvety dark chocolate with a delicate touch of sea salt, creating a luxurious flavor experience that elevates your cannabis consumption. Each precisely dosed square offers a balanced hybrid effect, perfect for those seeking relaxation without sedation or gentle euphoria paired with mental clarity. The smooth, creamy texture melts effortlessly on your palate while delivering consistent, predictable effects that both novice and experienced consumers can enjoy. Whether you're unwinding after a long day or seeking creative inspiration, this Coast chocolate bar transforms your edible experience into something truly special. The 100mg potency allows for flexible dosing—break off a small piece for a mild, uplifting effect or enjoy more for deeper relaxation and bliss.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "COAST",
+    "href": "/brand/coast"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "100MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Coast Dark Chocolate Sea Salt Bar 100 Mg"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

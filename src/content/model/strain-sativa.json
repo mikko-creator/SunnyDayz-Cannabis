@@ -1,0 +1,847 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/strain/sativa",
+ "slug": "strain-sativa",
+ "type": "strain",
+ "title": "Discover Our Selection of High Quality Cannabis Sativa Products",
+ "seoTitle": "Discover Our Selection of High Quality Cannabis Sativa Products",
+ "model": {
+  "urlPath": "/strain/sativa",
+  "urlKey": "sativa",
+  "urlCaseVariant": false,
+  "urlLowercasePath": "/strain/sativa",
+  "h1": "Discover Our Selection of High Quality Cannabis Sativa Products",
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Sativa",
+    "href": null
+   }
+  ],
+  "banner": {
+   "lines": [
+    "Discover Our Selection",
+    "of High Quality Cannabis Sativa Products"
+   ],
+   "description": null,
+   "image": {
+    "desktop": {
+     "src": "https://images.prismic.io/sunny-dayz/Z5vMp5bqstJ9-D0S_CategoriesBanner-35.png?auto=format%2Ccompress&fit=max&w=3840",
+     "alt": "Banner"
+    },
+    "mobile": {
+     "src": "https://images.prismic.io/sunny-dayz/Z5vMqJbqstJ9-D0T_CategoriesBanner-34.png?auto=format%2Ccompress&fit=max&w=3840",
+     "alt": "Banner"
+    }
+   }
+  },
+  "seoBlocks": [],
+  "toolbar": {
+   "filterLabel": "FILTER",
+   "activeFilters": [],
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortOptions": []
+  },
+  "grid": {
+   "state": "empty",
+   "placeholderCount": 0,
+   "emptyState": {
+    "title": "No search results found",
+    "message": "No results match the filter criteria. Remove a filter or clear all filters to search again"
+   },
+   "cards": [],
+   "pagination": null
+  },
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/treeworks-treeworks-007up-5g-live-hash-rosin-0-5-g-cartridge-0-5-grams",
+    "name": "Treeworks - 007up - .5G - Live Hash Rosin",
+    "brand": "TREEWORKS",
+    "description": "Treeworks presents 007up in a premium 0.5g live hash rosin cartridge, delivering exceptional potency and purity for discerning cannabis enthusiasts. This solventless extract is crafted using ice water hash techniques, preserving the full spectrum of cannabinoids and cannabis-derived terpenes for an authentic, strain-specific experience. Live hash rosin represents the pinnacle of concentrate craftsmanship, capturing the plant's essence at peak freshness. Each draw delivers rich, complex flavors and powerful effects that showcase the true character of the source material. Compatible with standard 510 thread batteries, this cartridge offers convenient, discreet consumption without compromising quality. Perfect for those who appreciate premium concentrates and demand nothing but the finest solventless extracts in their rotation.",
+    "price": "$40",
+    "priceValue": 40,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0e4c738a-65ca-45f0-b6f4-62c303971c25",
+     "alt": "Treeworks - 007up - .5G - Live Hash Rosin"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/the-fresh-connection-the-fresh-connection-perfect-pair-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "The Fresh Connection - Perfect Pair - 1G Pre-roll",
+    "brand": "THE FRESH CONNECTION",
+    "description": "The Fresh Connection presents Perfect Pair, a convenient 1g pre-roll crafted for cannabis enthusiasts seeking quality and ease. This preroll delivers a smooth, ready-to-enjoy experience without the need for grinding or rolling. Perfect Pair combines carefully selected flower to create a balanced, flavorful smoke that's ideal for both seasoned consumers and those new to cannabis. Each pre-roll is expertly packed to ensure an even burn from start to finish, making it perfect for solo sessions or sharing with friends. Whether you're unwinding after a long day or elevating social gatherings, this 1g pre-roll from The Fresh Connection offers consistent quality and satisfaction in every puff. Portable, discreet, and hassle-free—simply light up and enjoy the premium cannabis experience that The Fresh Connection is known for delivering.",
+    "price": "$8",
+    "priceValue": 8,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f4f4bfbe-3437-4c0a-92a9-a125037ba955",
+     "alt": "The Fresh Connection - Perfect Pair - 1G Pre-roll"
+    }
+   },
+   {
+    "position": 3,
+    "url": "/product/mass-yield-mass-yield-inzane-in-the-membrane-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "Mass Yield - Inzane in the Membrane - 1G Pre-roll",
+    "brand": "MASS YIELD",
+    "description": "Mass Yield presents Inzane in the Membrane, a premium 1g sativa pre-roll designed to energize and inspire. This expertly crafted flower pre-roll delivers an uplifting cerebral experience perfect for daytime activities, creative pursuits, or social gatherings. As a sativa-dominant strain, Inzane in the Membrane offers focused, euphoric effects that enhance productivity while keeping your mind clear and engaged. The pre-roll format provides convenient, ready-to-enjoy consumption with no grinding or rolling required. Mass Yield's commitment to quality ensures a smooth, flavorful smoke with every session. Whether you're looking to boost creativity, stay motivated, or simply elevate your day, this 1g pre-roll delivers consistent sativa effects in a portable, discreet package. Perfect for on-the-go cannabis enthusiasts seeking energetic, uplifting experiences.",
+    "price": "$8",
+    "priceValue": 8,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/ba5c8300-eb79-41e6-b145-4f656099d779",
+     "alt": "Mass Yield - Inzane in the Membrane - 1G Pre-roll"
+    }
+   },
+   {
+    "position": 4,
+    "url": "/product/breathe-free-breathe-free-haley-s-comet-haze-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "Breathe Free - Haley's Comet Haze - 1G Pre-roll",
+    "brand": "BREATHE FREE",
+    "description": "Breathe Free presents Haley's Comet Haze, a premium 1g preroll crafted for cannabis enthusiasts seeking quality and convenience. This expertly rolled flower preroll delivers a smooth, consistent smoking experience from first light to final puff. Haley's Comet Haze offers an inviting aroma profile with herbal and earthy notes that hint at its rich terpene content. Whether you're looking to unwind after a long day or enhance a social gathering, this preroll provides reliable effects that cannabis lovers appreciate. The 1-gram format is perfect for solo sessions or sharing with friends, offering excellent value and portability. Breathe Free's commitment to quality ensures every preroll is carefully prepared using premium flower, delivering the authentic cannabis experience you deserve. Convenient, ready-to-enjoy, and crafted with care—Haley's Comet Haze makes it easy to elevate your moments.",
+    "price": "$8",
+    "priceValue": 8,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/bf152e4b-2697-4444-9ead-7044e047193b",
+     "alt": "Breathe Free - Haley's Comet Haze - 1G Pre-roll"
+    }
+   },
+   {
+    "position": 5,
+    "url": "/product/in-house-in-house-maui-wowie-1g-dispo-1-g-cartridge-1-grams",
+    "name": "In House - Maui Wowie- 1G Dispo - 1 g",
+    "brand": "IN HOUSE",
+    "description": "In House brings you the legendary Maui Wowie in a convenient 1g All-In-One disposable cartridge, capturing the essence of this iconic tropical sativa. Known for its uplifting and energetic effects, Maui Wowie delivers a blissful experience that sparks creativity and happiness while keeping you focused throughout the day. This strain's vibrant flavor profile features sweet pineapple, citrus, and tropical notes that transport you straight to the Hawaiian islands with every puff. The disposable vape format offers ultimate portability and ease of use—no charging, no refilling, just pure enjoyment. Perfect for daytime adventures, social gatherings, or creative pursuits, this 1g cartridge provides smooth, flavorful vapor from start to finish. Experience the island vibes and euphoric effects that have made Maui Wowie a timeless favorite among cannabis enthusiasts.",
+    "price": "$25",
+    "priceValue": 25,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5e72ff6-46f8-4deb-aeb7-13f1d5057367",
+     "alt": "In House - Maui Wowie- 1G Dispo - 1 g"
+    }
+   },
+   {
+    "position": 6,
+    "url": "/product/sugaree-sugaree-clementine-1g-cart-melted-diamonds-1-g-cartridge-1-grams",
+    "name": "Sugaree - Clementine - 1G Cart - Melted Diamonds",
+    "brand": "SUGAREE",
+    "description": "Sugaree's Clementine 1G Cartridge delivers an uplifting sativa experience perfect for daytime enjoyment. This premium distillate cartridge captures the bright, citrusy essence of Clementine with every draw, offering energizing effects that spark creativity and focus. The sweet, tangy clementine flavor profile shines through, complemented by subtle herbal notes that make each puff refreshing and smooth. Ideal for those seeking a clear-headed, euphoric high, this sativa cart helps elevate your mood while keeping you alert and productive. The convenient 1-gram cartridge fits standard 510 thread batteries, making it easy to enjoy on the go. Whether you're tackling creative projects, socializing with friends, or simply need a burst of positivity, Sugaree's Clementine cartridge brings vibrant citrus flavor and focused energy to your cannabis routine. Experience the zesty, uplifting power of this sativa-dominant distillate.",
+    "price": "$20",
+    "priceValue": 20,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/70539bde-9c67-4d7b-9767-4fa222ab2d17",
+     "alt": "Sugaree - Clementine - 1G Cart - Melted Diamonds"
+    }
+   },
+   {
+    "position": 7,
+    "url": "/product/ahh-moments-ahh-moments-strawberry-cream-party-rosin-chocolate-100-mg-edible-100-milligrams",
+    "name": "Ahh Moments | Strawberry Cream Party Rosin | Chocolate",
+    "brand": "AHH MOMENTS",
+    "description": "Indulge in Ahh Moments Strawberry Cream Party Rosin Chocolate, a 100mg sativa edible that blends decadent chocolate with luscious strawberry cream flavors. Crafted with premium rosin, this delicious treat delivers an uplifting, energetic experience perfect for social gatherings or creative pursuits. Each bite combines rich, creamy sweetness with the smooth essence of ripe strawberries, creating a party-ready confection that tastes as good as it feels. The sativa classification provides a euphoric, focused boost that keeps you happy and engaged. Whether you're celebrating with friends or treating yourself, this rosin-infused chocolate offers a flavorful escape with elevated effects. Experience the difference of quality rosin extraction in every creamy, strawberry-kissed square.",
+    "price": "$25",
+    "priceValue": 25,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://images.prismic.io/sunny-dayz/Z5vMk5bqstJ9-Dz9_edibles-others.png?auto=format,compress",
+     "alt": "Ahh Moments | Strawberry Cream Party Rosin | Chocolate"
+    }
+   },
+   {
+    "position": 8,
+    "url": "/product/treeworks-treeworks-superboof-5g-live-hash-rosin-0-5-g-cartridge-0-5-grams",
+    "name": "Treeworks - Superboof - .5G - Live Hash Rosin",
+    "brand": "TREEWORKS",
+    "description": "Treeworks brings you Superboof in a premium 0.5g live hash rosin cartridge that delivers uncompromising quality and potency. This cartridge features solventless live hash rosin extracted from fresh-frozen cannabis, preserving the full spectrum of cannabinoids and terpenes for an authentic, strain-specific experience. Superboof is known for its rich, complex flavor profile with earthy, fruity, and gassy notes that captivate the senses. Each draw offers smooth vapor and powerful effects that cannabis connoisseurs crave. The live hash rosin extraction process ensures you're getting the purest, most flavorful concentrate without any solvents or additives. Ideal for those seeking elevated potency and true-to-plant taste, this 0.5g cartridge fits standard 510 thread batteries for convenient, on-the-go enjoyment. Experience the Treeworks difference with Superboof—where craft meets quality in every puff.",
+    "price": "$40",
+    "priceValue": 40,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/74437705-a6f9-4b13-bc37-ec433752f923",
+     "alt": "Treeworks - Superboof - .5G - Live Hash Rosin"
+    }
+   },
+   {
+    "position": 9,
+    "url": "/product/harbor-house-harbor-house-orange-43-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "Harbor House - Orange 43 - 1G Pre-roll",
+    "brand": "HARBOR HOUSE",
+    "description": "Harbor House brings you Orange 43 in a convenient 1g pre-roll, ready to light up and enjoy. This expertly crafted preroll showcases the beloved Orange 43 strain, celebrated for its vibrant citrus aroma and well-balanced effects. Expect zesty orange and sweet tropical notes with each smooth draw, creating an inviting sensory experience. Whether you're seeking creative inspiration, social energy, or simply a moment of euphoric relaxation, this pre-roll delivers consistent quality in a grab-and-go format. Harbor House ensures premium flower is carefully ground and rolled for an even burn every time. Perfect for seasoned enthusiasts and newcomers alike, Orange 43 offers a flavorful journey that's as refreshing as it is satisfying. Enjoy the convenience of a perfectly portioned 1g pre-roll that fits seamlessly into any lifestyle.",
+    "price": "$10",
+    "priceValue": 10,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/01c636db-f747-4bcd-bd43-bb70a63a7b02",
+     "alt": "Harbor House - Orange 43 - 1G Pre-roll"
+    }
+   },
+   {
+    "position": 10,
+    "url": "/product/mass-yield-mass-yield-inzane-in-the-membrane-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Mass Yield - Inzane in the Membrane - 3.5G Flower",
+    "brand": "MASS YIELD",
+    "description": "Mass Yield's Inzane in the Membrane delivers premium sativa flower in a convenient 3.5g pre-pack format. This energizing strain is designed for those seeking creative inspiration and an uplifted, focused experience throughout the day. The flower showcases vibrant buds with a complex aroma profile featuring citrus, earthy, and pine notes that translate beautifully into its flavor. Perfect for daytime use, Inzane in the Membrane offers the classic sativa effects cannabis enthusiasts crave—expect euphoric sensations, enhanced focus, and a burst of creative energy. Whether you're tackling projects, socializing with friends, or simply looking to elevate your mood, this strain delivers consistent, quality results. Mass Yield's commitment to premium cultivation shines through in every bud, ensuring a satisfying experience from first spark to final exhale.",
+    "price": "$25",
+    "priceValue": 25,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a269b3b6-3bca-4af3-ba84-37f088dd0d6e",
+     "alt": "Mass Yield - Inzane in the Membrane - 3.5G Flower"
+    }
+   },
+   {
+    "position": 11,
+    "url": "/product/betty-s-eddies-betty-s-eddies-watermelon-go-betty-go-50-mg-10-pack-edible-50-milligrams",
+    "name": "Betty's Eddies | Watermelon | Go Betty Go",
+    "brand": "BETTY'S EDDIES",
+    "description": "Betty's Eddies brings you Go Betty Go Watermelon chews—a delicious hybrid edible crafted for balanced effects and refreshing flavor. Each package contains 50mg of THC, delivering a perfect blend of relaxation and uplift in every bite. These watermelon-flavored chews offer a sweet, juicy taste that makes dosing enjoyable and convenient. Hybrid strains are known for combining the best of both worlds, providing gentle euphoria alongside soothing calm. Ideal for those seeking relief without sedation or a creative boost without overstimulation. Betty's Eddies uses quality ingredients to ensure consistent potency and delightful flavor in every chew. Perfect for social occasions, creative pursuits, or unwinding after a long day. Experience the refreshing taste of watermelon paired with the balanced effects of a thoughtfully crafted hybrid edible. Go Betty Go delivers happiness and relaxation in one irresistible treat.",
+    "price": "$20",
+    "priceValue": 20,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/aac165c8-9370-4567-a962-41de2ca6ece2",
+     "alt": "Betty's Eddies | Watermelon | Go Betty Go"
+    }
+   },
+   {
+    "position": 12,
+    "url": "/product/bountiful-farms-bountiful-texas-shoreline-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Bountiful - Texas Shoreline - 3.5G Flower",
+    "brand": "BOUNTIFUL FARMS",
+    "description": "Bountiful Farms brings you Texas Shoreline, a vibrant Sativa flower designed to energize and uplift your day. This 3.5g pre-pack delivers the invigorating effects Sativa lovers crave—think focused, creative, and euphoric sensations perfect for daytime adventures or social gatherings. Texas Shoreline showcases a captivating flavor profile with bright citrus and tropical notes balanced by subtle earthy undertones, creating a smooth and refreshing experience with every session. Expertly cultivated and carefully cured, this premium flower offers consistent potency and exceptional quality you can trust. Whether you're seeking motivation for creative projects, a boost of energy for outdoor activities, or simply an uplifting mood enhancement, Texas Shoreline delivers. Bountiful Farms' commitment to craft cannabis shines through in every bud, ensuring you receive a top-tier Sativa experience that's both flavorful and effective. Elevate your cannabis journey with this standout strain today.",
+    "price": "$40",
+    "priceValue": 40,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/1f18995d-29f3-4706-8397-48a74cfa4379",
+     "alt": "Bountiful - Texas Shoreline - 3.5G Flower"
+    }
+   },
+   {
+    "position": 13,
+    "url": "/product/breathe-free-breathe-free-blueberry-n-strawberry-1g-pre-roll-3-pack-3-g-preroll-3-grams",
+    "name": "Breathe Free - Blueberry N' Strawberry - 3pk 1G Pre-rolls",
+    "brand": "BREATHE FREE",
+    "description": "Breathe Free brings you Blueberry N' Strawberry, a 3-pack of 1g pre-rolls delivering 3g total of premium cannabis flower. Each perfectly rolled joint combines sweet blueberry and fresh strawberry flavors for a deliciously fruity smoking experience that's convenient and ready to enjoy. These pre-rolls offer a smooth, flavorful smoke with notes of ripe berries that dance across your palate from first puff to last. Ideal for sharing with friends or savoring solo, this 3-pack ensures you're always prepared for any occasion. The convenient pre-roll format eliminates prep work—just light up and enjoy the natural berry fusion. Perfect for cannabis enthusiasts seeking quality flower in an easy-to-use format with mouthwatering flavor profiles.",
+    "price": "$20",
+    "priceValue": 20,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/8fd69d9f-d86b-4434-a443-ba2e27846f57",
+     "alt": "Breathe Free - Blueberry N' Strawberry - 3pk 1G Pre-rolls"
+    }
+   },
+   {
+    "position": 14,
+    "url": "/product/the-fresh-connection-the-fresh-connection-mucho-melon-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "The Fresh Connection - Mucho Melon - 3.5G Flower",
+    "brand": "THE FRESH CONNECTION",
+    "description": "The Fresh Connection brings you Mucho Melon, a premium 3.5g flower that captures the sweet, refreshing essence of ripe melon in every bud. This carefully cultivated cannabis flower delivers a delightfully fruity aroma with notes of melon, citrus, and tropical undertones that tantalize the senses. Each jar contains expertly trimmed, hand-selected nugs that showcase The Fresh Connection's commitment to quality and freshness. Perfect for those seeking a flavorful smoke with juicy melon flavors that linger on the palate, Mucho Melon offers a smooth, enjoyable experience from first inhale to last. Whether you're unwinding after a long day or enhancing social gatherings, this 3.5g flower provides consistent quality and potency. The Fresh Connection's dedication to craft cannabis shines through in every aspect of Mucho Melon, making it an excellent choice for both seasoned enthusiasts and newcomers looking to explore delicious, fruit-forward strains.",
+    "price": "$30",
+    "priceValue": 30,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/516c10e0-ca1c-4bfe-9dc8-bafa2b55e10d",
+     "alt": "The Fresh Connection - Mucho Melon - 3.5G Flower"
+    }
+   },
+   {
+    "position": 15,
+    "url": "/product/kanha-kanha-belts-cherry-limeade-live-rosin-100-mg-10-pack-edible-100-milligrams",
+    "name": "Kanha Belts - Cherry Limeade - Live Rosin",
+    "brand": "KANHA",
+    "description": "Kanha Belts - Cherry Limeade - Live Rosin - 100mg delivers a premium sativa edible experience with bold, tangy flavor and uplifting effects. These gummy belts from Kanha are crafted with live rosin, offering cannabis-derived terpenes and full spectrum benefits for enhanced potency and authenticity. Each 100mg package features vibrant cherry and lime notes that create a refreshing, tart taste sensation. As a sativa-dominant edible, expect energetic, creative, and uplifting effects perfect for daytime enjoyment or social activities. Kanha's expertise ensures consistent dosing and fast-acting results in every chewy, flavorful belt.",
+    "price": "$20",
+    "priceValue": 20,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/af67c416-7481-4da3-9880-a59c7b0172fa",
+     "alt": "Kanha Belts - Cherry Limeade - Live Rosin"
+    }
+   },
+   {
+    "position": 16,
+    "url": "/product/the-fresh-connection-the-fresh-connection-mucho-melon-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "The Fresh Connection - Mucho Melon - 1G Pre-roll",
+    "brand": "THE FRESH CONNECTION",
+    "description": "The Fresh Connection presents Mucho Melon, a 1g pre-roll that delivers a refreshingly fruity cannabis experience. This premium preroll showcases sweet melon flavors with tropical undertones, creating a smooth and enjoyable smoke from start to finish. The Fresh Connection is known for crafting high-quality, convenient pre-rolls using carefully selected flower, and Mucho Melon is no exception. Each 1g preroll is expertly rolled for an even burn, making it perfect for on-the-go enjoyment or sharing with friends. The mouthwatering melon profile offers a deliciously sweet aroma that transitions into a flavorful, satisfying smoke. Whether you're new to cannabis or a seasoned enthusiast, this pre-roll provides a hassle-free way to enjoy quality flower without the need for grinding or rolling. Grab Mucho Melon for a tasty, portable cannabis experience that captures the essence of fresh, ripe melon in every puff.",
+    "price": "$8",
+    "priceValue": 8,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7f62f3e6-f5a5-4764-8419-8107c73bd019",
+     "alt": "The Fresh Connection - Mucho Melon - 1G Pre-roll"
+    }
+   },
+   {
+    "position": 17,
+    "url": "/product/impressed-impressed-gelonade-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "Impressed - Gelonade - 1G Pre-roll",
+    "brand": "IMPRESSED",
+    "description": "Impressed brings you Gelonade, a premium 1g pre-roll that's ready to spark up whenever you need it. This expertly crafted preroll showcases the signature citrus-forward profile that Gelonade is known for, delivering bright lemon and lime notes with a sweet, refreshing finish. The Impressed brand focuses on quality flower and convenient formats, making this single-gram option perfect for solo sessions or on-the-go enjoyment. Expect uplifting and energetic effects that can enhance creativity and focus, ideal for daytime use or social gatherings. The vibrant flavor profile combines tropical and fruity aromas with hints of earthy undertones, creating a well-rounded smoking experience. Each pre-roll is carefully packed to ensure an even burn and consistent potency from start to finish. Whether you're new to cannabis or a seasoned enthusiast, this Gelonade pre-roll offers a flavorful and reliable way to enjoy premium flower without the hassle of grinding or rolling yourself.",
+    "price": "$8",
+    "priceValue": 8,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/23eaacfb-517b-4413-b9a3-9afff8e1f5d8",
+     "alt": "Impressed - Gelonade - 1G Pre-roll"
+    }
+   },
+   {
+    "position": 18,
+    "url": "/product/levia-levia-achieve-drops-tincture-500-mg-tincture-500-milligrams",
+    "name": "Levia | Achieve Drops | Tincture",
+    "brand": "LEVIA",
+    "description": "Levia Achieve Drops Tincture delivers 500mg of sativa-driven focus and energy in a convenient, fast-acting formula. This premium tincture is designed for those seeking mental clarity, creativity, and uplifted motivation throughout the day. Simply place a few drops under your tongue and experience the energizing effects that help you stay productive and engaged. The sativa classification makes this tincture ideal for daytime use, whether you're tackling projects, socializing, or pursuing creative endeavors. Levia's expertly crafted formula ensures consistent dosing and reliable results with every use. Perfect for cannabis consumers who value precision and performance, Achieve Drops offer a discreet, smoke-free way to enhance your daily routine with uplifting, focused effects.",
+    "price": "$40",
+    "priceValue": 40,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d861cdec-0238-4628-a3ab-27c5b691c033",
+     "alt": "Levia | Achieve Drops | Tincture"
+    }
+   },
+   {
+    "position": 19,
+    "url": "/product/coast-coast-strawberry-lemonade-gummy-10-5-5-100-mg-20-pack-edible-100-milligrams",
+    "name": "Coast - Strawberry Lemonade - Gummy - 10:5:5",
+    "brand": "COAST",
+    "description": "Coast Strawberry Lemonade Gummies deliver a refreshing twist on cannabis edibles with a unique CBG:CBC:THC 10:5:5 cannabinoid ratio and 100mg total potency. This sativa-inspired gummy combines the sweet taste of ripe strawberries with zesty lemonade for a bright, fruity flavor experience. Perfect for those seeking an uplifting, energetic effect, these gummies offer a balanced approach to cannabis consumption. The carefully crafted formula provides a happy, focused experience ideal for daytime use or social occasions. Each gummy features a tart, citrus profile that makes dosing both enjoyable and convenient. Coast blends quality ingredients with precision dosing to create edibles that taste as good as they perform. Whether you're looking for creative inspiration or simply want to elevate your mood, these Strawberry Lemonade Gummies from Coast offer a delicious, reliable way to enjoy sativa effects in a portable, discreet format.",
+    "price": "$25",
+    "priceValue": 25,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/66b70385-bdf1-4475-88d8-1ddfd4e49e79",
+     "alt": "Coast - Strawberry Lemonade - Gummy - 10:5:5"
+    }
+   },
+   {
+    "position": 20,
+    "url": "/product/ahh-moments-ahh-moments-raspberry-rosin-revive-chocolate-100-mg-edible-100-milligrams",
+    "name": "Ahh Moments | Raspberry Rosin Revive | Chocolate",
+    "brand": "AHH MOMENTS",
+    "description": "Ahh Moments Raspberry Rosin Revive Chocolate delivers an uplifting sativa experience wrapped in delicious raspberry-infused chocolate. This 100mg edible combines premium rosin extract with rich, creamy chocolate for a treat that energizes your day while satisfying your sweet tooth. Each piece features vibrant raspberry flavor notes that complement the smooth chocolate base, creating a luxurious taste experience. Perfect for those seeking creative focus and an energetic lift, this sativa chocolate offers a delicious way to elevate your mood and spark inspiration. The rosin extraction preserves natural terpenes and cannabinoids for enhanced effects and authentic flavor. Whether you're tackling creative projects or enjoying social gatherings, Raspberry Rosin Revive provides the perfect blend of taste and effect to help you find your ahh moment.",
+    "price": "$25",
+    "priceValue": 25,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f7f0d907-442e-45bf-92f6-88067d7f8622",
+     "alt": "Ahh Moments | Raspberry Rosin Revive | Chocolate"
+    }
+   }
+  ],
+  "productCount": 20,
+  "_ui": {
+   "filterDrawerId": "filters-treez-drawer",
+   "emptyStateIcon": "search"
+  },
+  "_jsonld": {
+   "breadcrumbList": {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/shop",
+       "name": "Menu"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "Sativa"
+      },
+      "position": 3
+     }
+    ]
+   },
+   "itemList": {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TREEWORKS",
+       "description": "Treeworks presents 007up in a premium 0.5g live hash rosin cartridge, delivering exceptional potency and purity for discerning cannabis enthusiasts. This solventless extract is crafted using ice water hash techniques, preserving the full spectrum of cannabinoids and cannabis-derived terpenes for an authentic, strain-specific experience. Live hash rosin represents the pinnacle of concentrate craftsmanship, capturing the plant&apos;s essence at peak freshness. Each draw delivers rich, complex flavors and powerful effects that showcase the true character of the source material. Compatible with standard 510 thread batteries, this cartridge offers convenient, discreet consumption without compromising quality. Perfect for those who appreciate premium concentrates and demand nothing but the finest solventless extracts in their rotation.",
+       "name": "Treeworks - 007up - .5G - Live Hash Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-007up-5g-live-hash-rosin-0-5-g-cartridge-0-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0e4c738a-65ca-45f0-b6f4-62c303971c25"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "THE FRESH CONNECTION",
+       "description": "The Fresh Connection presents Perfect Pair, a convenient 1g pre-roll crafted for cannabis enthusiasts seeking quality and ease. This preroll delivers a smooth, ready-to-enjoy experience without the need for grinding or rolling. Perfect Pair combines carefully selected flower to create a balanced, flavorful smoke that&apos;s ideal for both seasoned consumers and those new to cannabis. Each pre-roll is expertly packed to ensure an even burn from start to finish, making it perfect for solo sessions or sharing with friends. Whether you&apos;re unwinding after a long day or elevating social gatherings, this 1g pre-roll from The Fresh Connection offers consistent quality and satisfaction in every puff. Portable, discreet, and hassle-free—simply light up and enjoy the premium cannabis experience that The Fresh Connection is known for delivering.",
+       "name": "The Fresh Connection - Perfect Pair - 1G Pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "8",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-perfect-pair-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f4f4bfbe-3437-4c0a-92a9-a125037ba955"
+      },
+      "position": "2"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "MASS YIELD",
+       "description": "Mass Yield presents Inzane in the Membrane, a premium 1g sativa pre-roll designed to energize and inspire. This expertly crafted flower pre-roll delivers an uplifting cerebral experience perfect for daytime activities, creative pursuits, or social gatherings. As a sativa-dominant strain, Inzane in the Membrane offers focused, euphoric effects that enhance productivity while keeping your mind clear and engaged. The pre-roll format provides convenient, ready-to-enjoy consumption with no grinding or rolling required. Mass Yield&apos;s commitment to quality ensures a smooth, flavorful smoke with every session. Whether you&apos;re looking to boost creativity, stay motivated, or simply elevate your day, this 1g pre-roll delivers consistent sativa effects in a portable, discreet package. Perfect for on-the-go cannabis enthusiasts seeking energetic, uplifting experiences.",
+       "name": "Mass Yield - Inzane in the Membrane - 1G Pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "8",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-inzane-in-the-membrane-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/ba5c8300-eb79-41e6-b145-4f656099d779"
+      },
+      "position": "3"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BREATHE FREE",
+       "description": "Breathe Free presents Haley&apos;s Comet Haze, a premium 1g preroll crafted for cannabis enthusiasts seeking quality and convenience. This expertly rolled flower preroll delivers a smooth, consistent smoking experience from first light to final puff. Haley&apos;s Comet Haze offers an inviting aroma profile with herbal and earthy notes that hint at its rich terpene content. Whether you&apos;re looking to unwind after a long day or enhance a social gathering, this preroll provides reliable effects that cannabis lovers appreciate. The 1-gram format is perfect for solo sessions or sharing with friends, offering excellent value and portability. Breathe Free&apos;s commitment to quality ensures every preroll is carefully prepared using premium flower, delivering the authentic cannabis experience you deserve. Convenient, ready-to-enjoy, and crafted with care—Haley&apos;s Comet Haze makes it easy to elevate your moments.",
+       "name": "Breathe Free - Haley&apos;s Comet Haze - 1G Pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "8",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-haley-s-comet-haze-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/bf152e4b-2697-4444-9ead-7044e047193b"
+      },
+      "position": "4"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "IN HOUSE",
+       "description": "In House brings you the legendary Maui Wowie in a convenient 1g All-In-One disposable cartridge, capturing the essence of this iconic tropical sativa. Known for its uplifting and energetic effects, Maui Wowie delivers a blissful experience that sparks creativity and happiness while keeping you focused throughout the day. This strain&apos;s vibrant flavor profile features sweet pineapple, citrus, and tropical notes that transport you straight to the Hawaiian islands with every puff. The disposable vape format offers ultimate portability and ease of use—no charging, no refilling, just pure enjoyment. Perfect for daytime adventures, social gatherings, or creative pursuits, this 1g cartridge provides smooth, flavorful vapor from start to finish. Experience the island vibes and euphoric effects that have made Maui Wowie a timeless favorite among cannabis enthusiasts.",
+       "name": "In House - Maui Wowie- 1G Dispo - 1 g",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/in-house-in-house-maui-wowie-1g-dispo-1-g-cartridge-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5e72ff6-46f8-4deb-aeb7-13f1d5057367"
+      },
+      "position": "5"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SUGAREE",
+       "description": "Sugaree&apos;s Clementine 1G Cartridge delivers an uplifting sativa experience perfect for daytime enjoyment. This premium distillate cartridge captures the bright, citrusy essence of Clementine with every draw, offering energizing effects that spark creativity and focus. The sweet, tangy clementine flavor profile shines through, complemented by subtle herbal notes that make each puff refreshing and smooth. Ideal for those seeking a clear-headed, euphoric high, this sativa cart helps elevate your mood while keeping you alert and productive. The convenient 1-gram cartridge fits standard 510 thread batteries, making it easy to enjoy on the go. Whether you&apos;re tackling creative projects, socializing with friends, or simply need a burst of positivity, Sugaree&apos;s Clementine cartridge brings vibrant citrus flavor and focused energy to your cannabis routine. Experience the zesty, uplifting power of this sativa-dominant distillate.",
+       "name": "Sugaree - Clementine - 1G Cart - Melted Diamonds",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sugaree-sugaree-clementine-1g-cart-melted-diamonds-1-g-cartridge-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/70539bde-9c67-4d7b-9767-4fa222ab2d17"
+      },
+      "position": "6"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "AHH MOMENTS",
+       "description": "Indulge in Ahh Moments Strawberry Cream Party Rosin Chocolate, a 100mg sativa edible that blends decadent chocolate with luscious strawberry cream flavors. Crafted with premium rosin, this delicious treat delivers an uplifting, energetic experience perfect for social gatherings or creative pursuits. Each bite combines rich, creamy sweetness with the smooth essence of ripe strawberries, creating a party-ready confection that tastes as good as it feels. The sativa classification provides a euphoric, focused boost that keeps you happy and engaged. Whether you&apos;re celebrating with friends or treating yourself, this rosin-infused chocolate offers a flavorful escape with elevated effects. Experience the difference of quality rosin extraction in every creamy, strawberry-kissed square.",
+       "name": "Ahh Moments | Strawberry Cream Party Rosin | Chocolate",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-strawberry-cream-party-rosin-chocolate-100-mg-edible-100-milligrams"
+       },
+       "image": "https://images.prismic.io/sunny-dayz/Z5vMk5bqstJ9-Dz9_edibles-others.png?auto=format,compress"
+      },
+      "position": "7"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TREEWORKS",
+       "description": "Treeworks brings you Superboof in a premium 0.5g live hash rosin cartridge that delivers uncompromising quality and potency. This cartridge features solventless live hash rosin extracted from fresh-frozen cannabis, preserving the full spectrum of cannabinoids and terpenes for an authentic, strain-specific experience. Superboof is known for its rich, complex flavor profile with earthy, fruity, and gassy notes that captivate the senses. Each draw offers smooth vapor and powerful effects that cannabis connoisseurs crave. The live hash rosin extraction process ensures you&apos;re getting the purest, most flavorful concentrate without any solvents or additives. Ideal for those seeking elevated potency and true-to-plant taste, this 0.5g cartridge fits standard 510 thread batteries for convenient, on-the-go enjoyment. Experience the Treeworks difference with Superboof—where craft meets quality in every puff.",
+       "name": "Treeworks - Superboof - .5G - Live Hash Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-superboof-5g-live-hash-rosin-0-5-g-cartridge-0-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/74437705-a6f9-4b13-bc37-ec433752f923"
+      },
+      "position": "8"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "HARBOR HOUSE",
+       "description": "Harbor House brings you Orange 43 in a convenient 1g pre-roll, ready to light up and enjoy. This expertly crafted preroll showcases the beloved Orange 43 strain, celebrated for its vibrant citrus aroma and well-balanced effects. Expect zesty orange and sweet tropical notes with each smooth draw, creating an inviting sensory experience. Whether you&apos;re seeking creative inspiration, social energy, or simply a moment of euphoric relaxation, this pre-roll delivers consistent quality in a grab-and-go format. Harbor House ensures premium flower is carefully ground and rolled for an even burn every time. Perfect for seasoned enthusiasts and newcomers alike, Orange 43 offers a flavorful journey that&apos;s as refreshing as it is satisfying. Enjoy the convenience of a perfectly portioned 1g pre-roll that fits seamlessly into any lifestyle.",
+       "name": "Harbor House - Orange 43 - 1G Pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "10",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/harbor-house-harbor-house-orange-43-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/01c636db-f747-4bcd-bd43-bb70a63a7b02"
+      },
+      "position": "9"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "MASS YIELD",
+       "description": "Mass Yield&apos;s Inzane in the Membrane delivers premium sativa flower in a convenient 3.5g pre-pack format. This energizing strain is designed for those seeking creative inspiration and an uplifted, focused experience throughout the day. The flower showcases vibrant buds with a complex aroma profile featuring citrus, earthy, and pine notes that translate beautifully into its flavor. Perfect for daytime use, Inzane in the Membrane offers the classic sativa effects cannabis enthusiasts crave—expect euphoric sensations, enhanced focus, and a burst of creative energy. Whether you&apos;re tackling projects, socializing with friends, or simply looking to elevate your mood, this strain delivers consistent, quality results. Mass Yield&apos;s commitment to premium cultivation shines through in every bud, ensuring a satisfying experience from first spark to final exhale.",
+       "name": "Mass Yield - Inzane in the Membrane - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-inzane-in-the-membrane-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a269b3b6-3bca-4af3-ba84-37f088dd0d6e"
+      },
+      "position": "10"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BETTY&apos;S EDDIES",
+       "description": "Betty&apos;s Eddies brings you Go Betty Go Watermelon chews—a delicious hybrid edible crafted for balanced effects and refreshing flavor. Each package contains 50mg of THC, delivering a perfect blend of relaxation and uplift in every bite. These watermelon-flavored chews offer a sweet, juicy taste that makes dosing enjoyable and convenient. Hybrid strains are known for combining the best of both worlds, providing gentle euphoria alongside soothing calm. Ideal for those seeking relief without sedation or a creative boost without overstimulation. Betty&apos;s Eddies uses quality ingredients to ensure consistent potency and delightful flavor in every chew. Perfect for social occasions, creative pursuits, or unwinding after a long day. Experience the refreshing taste of watermelon paired with the balanced effects of a thoughtfully crafted hybrid edible. Go Betty Go delivers happiness and relaxation in one irresistible treat.",
+       "name": "Betty&apos;s Eddies | Watermelon | Go Betty Go",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-watermelon-go-betty-go-50-mg-10-pack-edible-50-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/aac165c8-9370-4567-a962-41de2ca6ece2"
+      },
+      "position": "11"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BOUNTIFUL FARMS",
+       "description": "Bountiful Farms brings you Texas Shoreline, a vibrant Sativa flower designed to energize and uplift your day. This 3.5g pre-pack delivers the invigorating effects Sativa lovers crave—think focused, creative, and euphoric sensations perfect for daytime adventures or social gatherings. Texas Shoreline showcases a captivating flavor profile with bright citrus and tropical notes balanced by subtle earthy undertones, creating a smooth and refreshing experience with every session. Expertly cultivated and carefully cured, this premium flower offers consistent potency and exceptional quality you can trust. Whether you&apos;re seeking motivation for creative projects, a boost of energy for outdoor activities, or simply an uplifting mood enhancement, Texas Shoreline delivers. Bountiful Farms&apos; commitment to craft cannabis shines through in every bud, ensuring you receive a top-tier Sativa experience that&apos;s both flavorful and effective. Elevate your cannabis journey with this standout strain today.",
+       "name": "Bountiful - Texas Shoreline - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/bountiful-farms-bountiful-texas-shoreline-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/1f18995d-29f3-4706-8397-48a74cfa4379"
+      },
+      "position": "12"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BREATHE FREE",
+       "description": "Breathe Free brings you Blueberry N&apos; Strawberry, a 3-pack of 1g pre-rolls delivering 3g total of premium cannabis flower. Each perfectly rolled joint combines sweet blueberry and fresh strawberry flavors for a deliciously fruity smoking experience that&apos;s convenient and ready to enjoy. These pre-rolls offer a smooth, flavorful smoke with notes of ripe berries that dance across your palate from first puff to last. Ideal for sharing with friends or savoring solo, this 3-pack ensures you&apos;re always prepared for any occasion. The convenient pre-roll format eliminates prep work—just light up and enjoy the natural berry fusion. Perfect for cannabis enthusiasts seeking quality flower in an easy-to-use format with mouthwatering flavor profiles.",
+       "name": "Breathe Free - Blueberry N&apos; Strawberry - 3pk 1G Pre-rolls",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-blueberry-n-strawberry-1g-pre-roll-3-pack-3-g-preroll-3-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/8fd69d9f-d86b-4434-a443-ba2e27846f57"
+      },
+      "position": "13"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "THE FRESH CONNECTION",
+       "description": "The Fresh Connection brings you Mucho Melon, a premium 3.5g flower that captures the sweet, refreshing essence of ripe melon in every bud. This carefully cultivated cannabis flower delivers a delightfully fruity aroma with notes of melon, citrus, and tropical undertones that tantalize the senses. Each jar contains expertly trimmed, hand-selected nugs that showcase The Fresh Connection&apos;s commitment to quality and freshness. Perfect for those seeking a flavorful smoke with juicy melon flavors that linger on the palate, Mucho Melon offers a smooth, enjoyable experience from first inhale to last. Whether you&apos;re unwinding after a long day or enhancing social gatherings, this 3.5g flower provides consistent quality and potency. The Fresh Connection&apos;s dedication to craft cannabis shines through in every aspect of Mucho Melon, making it an excellent choice for both seasoned enthusiasts and newcomers looking to explore delicious, fruit-forward strains.",
+       "name": "The Fresh Connection - Mucho Melon - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "30",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-mucho-melon-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/516c10e0-ca1c-4bfe-9dc8-bafa2b55e10d"
+      },
+      "position": "14"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "KANHA",
+       "description": "Kanha Belts - Cherry Limeade - Live Rosin - 100mg delivers a premium sativa edible experience with bold, tangy flavor and uplifting effects. These gummy belts from Kanha are crafted with live rosin, offering cannabis-derived terpenes and full spectrum benefits for enhanced potency and authenticity. Each 100mg package features vibrant cherry and lime notes that create a refreshing, tart taste sensation. As a sativa-dominant edible, expect energetic, creative, and uplifting effects perfect for daytime enjoyment or social activities. Kanha&apos;s expertise ensures consistent dosing and fast-acting results in every chewy, flavorful belt.",
+       "name": "Kanha Belts - Cherry Limeade - Live Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-cherry-limeade-live-rosin-100-mg-10-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/af67c416-7481-4da3-9880-a59c7b0172fa"
+      },
+      "position": "15"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "THE FRESH CONNECTION",
+       "description": "The Fresh Connection presents Mucho Melon, a 1g pre-roll that delivers a refreshingly fruity cannabis experience. This premium preroll showcases sweet melon flavors with tropical undertones, creating a smooth and enjoyable smoke from start to finish. The Fresh Connection is known for crafting high-quality, convenient pre-rolls using carefully selected flower, and Mucho Melon is no exception. Each 1g preroll is expertly rolled for an even burn, making it perfect for on-the-go enjoyment or sharing with friends. The mouthwatering melon profile offers a deliciously sweet aroma that transitions into a flavorful, satisfying smoke. Whether you&apos;re new to cannabis or a seasoned enthusiast, this pre-roll provides a hassle-free way to enjoy quality flower without the need for grinding or rolling. Grab Mucho Melon for a tasty, portable cannabis experience that captures the essence of fresh, ripe melon in every puff.",
+       "name": "The Fresh Connection - Mucho Melon - 1G Pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "8",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-mucho-melon-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7f62f3e6-f5a5-4764-8419-8107c73bd019"
+      },
+      "position": "16"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "IMPRESSED",
+       "description": "Impressed brings you Gelonade, a premium 1g pre-roll that&apos;s ready to spark up whenever you need it. This expertly crafted preroll showcases the signature citrus-forward profile that Gelonade is known for, delivering bright lemon and lime notes with a sweet, refreshing finish. The Impressed brand focuses on quality flower and convenient formats, making this single-gram option perfect for solo sessions or on-the-go enjoyment. Expect uplifting and energetic effects that can enhance creativity and focus, ideal for daytime use or social gatherings. The vibrant flavor profile combines tropical and fruity aromas with hints of earthy undertones, creating a well-rounded smoking experience. Each pre-roll is carefully packed to ensure an even burn and consistent potency from start to finish. Whether you&apos;re new to cannabis or a seasoned enthusiast, this Gelonade pre-roll offers a flavorful and reliable way to enjoy premium flower without the hassle of grinding or rolling yourself.",
+       "name": "Impressed - Gelonade - 1G Pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "8",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/impressed-impressed-gelonade-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/23eaacfb-517b-4413-b9a3-9afff8e1f5d8"
+      },
+      "position": "17"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "LEVIA",
+       "description": "Levia Achieve Drops Tincture delivers 500mg of sativa-driven focus and energy in a convenient, fast-acting formula. This premium tincture is designed for those seeking mental clarity, creativity, and uplifted motivation throughout the day. Simply place a few drops under your tongue and experience the energizing effects that help you stay productive and engaged. The sativa classification makes this tincture ideal for daytime use, whether you&apos;re tackling projects, socializing, or pursuing creative endeavors. Levia&apos;s expertly crafted formula ensures consistent dosing and reliable results with every use. Perfect for cannabis consumers who value precision and performance, Achieve Drops offer a discreet, smoke-free way to enhance your daily routine with uplifting, focused effects.",
+       "name": "Levia | Achieve Drops | Tincture",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/levia-levia-achieve-drops-tincture-500-mg-tincture-500-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d861cdec-0238-4628-a3ab-27c5b691c033"
+      },
+      "position": "18"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "COAST",
+       "description": "Coast Strawberry Lemonade Gummies deliver a refreshing twist on cannabis edibles with a unique CBG:CBC:THC 10:5:5 cannabinoid ratio and 100mg total potency. This sativa-inspired gummy combines the sweet taste of ripe strawberries with zesty lemonade for a bright, fruity flavor experience. Perfect for those seeking an uplifting, energetic effect, these gummies offer a balanced approach to cannabis consumption. The carefully crafted formula provides a happy, focused experience ideal for daytime use or social occasions. Each gummy features a tart, citrus profile that makes dosing both enjoyable and convenient. Coast blends quality ingredients with precision dosing to create edibles that taste as good as they perform. Whether you&apos;re looking for creative inspiration or simply want to elevate your mood, these Strawberry Lemonade Gummies from Coast offer a delicious, reliable way to enjoy sativa effects in a portable, discreet format.",
+       "name": "Coast - Strawberry Lemonade - Gummy - 10:5:5",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/coast-coast-strawberry-lemonade-gummy-10-5-5-100-mg-20-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/66b70385-bdf1-4475-88d8-1ddfd4e49e79"
+      },
+      "position": "19"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "AHH MOMENTS",
+       "description": "Ahh Moments Raspberry Rosin Revive Chocolate delivers an uplifting sativa experience wrapped in delicious raspberry-infused chocolate. This 100mg edible combines premium rosin extract with rich, creamy chocolate for a treat that energizes your day while satisfying your sweet tooth. Each piece features vibrant raspberry flavor notes that complement the smooth chocolate base, creating a luxurious taste experience. Perfect for those seeking creative focus and an energetic lift, this sativa chocolate offers a delicious way to elevate your mood and spark inspiration. The rosin extraction preserves natural terpenes and cannabinoids for enhanced effects and authentic flavor. Whether you&apos;re tackling creative projects or enjoying social gatherings, Raspberry Rosin Revive provides the perfect blend of taste and effect to help you find your ahh moment.",
+       "name": "Ahh Moments | Raspberry Rosin Revive | Chocolate",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-raspberry-rosin-revive-chocolate-100-mg-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f7f0d907-442e-45bf-92f6-88067d7f8622"
+      },
+      "position": "20"
+     }
+    ]
+   }
+  }
+ }
+}

@@ -1,0 +1,57 @@
+{
+ "schema": "sunnydayz/model-report@1",
+ "generated": "2026-09-23T05:50:58.794Z",
+ "min": 0.98,
+ "byType": {
+  "page": {
+   "pages": 6,
+   "errors": 0,
+   "below": 0,
+   "minCoverage": 1
+  }
+ },
+ "pages": [
+  {
+   "url": "https://www.sunnydayzcannabis.com/about-us",
+   "type": "page",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/contact-us",
+   "type": "page",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/dispensary/sunny-dayz",
+   "type": "page",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/weed-delivery/dispensary-in-glendale",
+   "type": "page",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/privacy-policy",
+   "type": "page",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/terms-and-conditions",
+   "type": "page",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  }
+ ]
+}

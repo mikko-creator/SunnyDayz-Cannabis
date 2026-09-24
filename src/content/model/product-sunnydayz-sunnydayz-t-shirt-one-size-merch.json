@@ -1,0 +1,147 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/sunnydayz-sunnydayz-t-shirt-one-size-merch",
+ "slug": "product-sunnydayz-sunnydayz-t-shirt-one-size-merch",
+ "type": "product",
+ "title": "SUNNYDAYZ - SunnyDayz - T Shirt",
+ "seoTitle": "SUNNYDAYZ - SunnyDayz - T Shirt",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Merch",
+    "href": "/collection/merch"
+   },
+   {
+    "label": "SunnyDayz - T Shirt",
+    "href": null
+   }
+  ],
+  "h1": "SunnyDayz - T Shirt",
+  "name": "SunnyDayz - T Shirt",
+  "brand": {
+   "label": "SUNNYDAYZ",
+   "href": "/brand/sunnydayz"
+  },
+  "badges": [],
+  "strainType": null,
+  "category": {
+   "label": "Merch",
+   "href": "/collection/merch"
+  },
+  "subcategories": [
+   {
+    "label": "T SHIRT",
+    "href": "/collection/merch/t-shirt"
+   }
+  ],
+  "image": {
+   "src": "",
+   "alt": "SunnyDayz - T Shirt",
+   "placeholder": true
+  },
+  "images": [
+   {
+    "src": "",
+    "alt": "SunnyDayz - T Shirt",
+    "placeholder": true
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": true,
+  "stockPhotoLabel": "Stock photo",
+  "sectionTitles": {
+   "details": null,
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [],
+  "disclaimer": null,
+  "description": "Rep your love for sunny vibes and cannabis culture with the SunnyDayz T-Shirt from Unknown Brand. This one-size merch essential brings laid-back style to your everyday wardrobe, perfect for festivals, hangouts, or just keeping it chill. Crafted for comfort and designed to make a statement, this tee combines quality fabric with a relaxed fit that works for almost anyone. Whether you're celebrating good times or just showing off your favorite lifestyle brand, the SunnyDayz T-Shirt delivers effortless cool. Add this versatile piece to your collection and wear your passion proudly—because every day's better when it feels like a sunny day.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "",
+    "price": "$25",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$25",
+   "original": null,
+   "ariaLabel": "Product price: $25"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add SunnyDayz - T Shirt to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add SunnyDayz - T Shirt to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "SUNNYDAYZ",
+    "href": "/brand/sunnydayz"
+   },
+   {
+    "label": "Package Info",
+    "value": "Sunnydayz T Shirt One Size"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

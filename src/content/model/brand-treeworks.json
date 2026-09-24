@@ -1,0 +1,390 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/brand/treeworks",
+ "slug": "brand-treeworks",
+ "type": "brand",
+ "title": "TREEWORKS",
+ "seoTitle": "TREEWORKS",
+ "model": {
+  "kind": "brand",
+  "path": "/brand/treeworks",
+  "slug": "treeworks",
+  "name": "TREEWORKS",
+  "h1": "TREEWORKS",
+  "logo": null,
+  "banner": {
+   "title": "TREEWORKS",
+   "description": "Shop cannabis products from TREEWORKS at a dispensary near you",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Brands",
+    "href": "/brands"
+   },
+   {
+    "label": "TREEWORKS",
+    "href": null
+   }
+  ],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "loading",
+  "emptyState": null,
+  "cards": [],
+  "productCount": 8,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/treeworks-treeworks-007up-5g-live-hash-rosin-0-5-g-cartridge-0-5-grams",
+    "name": "Treeworks - 007up - .5G - Live Hash Rosin",
+    "brand": "TREEWORKS",
+    "description": "Treeworks presents 007up in a premium 0.5g live hash rosin cartridge, delivering exceptional potency and purity for discerning cannabis enthusiasts. This solventless extract is crafted using ice water hash techniques, preserving the full spectrum of cannabinoids and cannabis-derived terpenes for an authentic, strain-specific experience. Live hash rosin represents the pinnacle of concentrate craftsmanship, capturing the plant's essence at peak freshness. Each draw delivers rich, complex flavors and powerful effects that showcase the true character of the source material. Compatible with standard 510 thread batteries, this cartridge offers convenient, discreet consumption without compromising quality. Perfect for those who appreciate premium concentrates and demand nothing but the finest solventless extracts in their rotation.",
+    "price": "$40",
+    "priceAmount": 40,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0e4c738a-65ca-45f0-b6f4-62c303971c25",
+     "alt": "Treeworks - 007up - .5G - Live Hash Rosin"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/treeworks-treeworks-gentle-drops-990mg-990-mg-tincture-990-milligrams",
+    "name": "Treeworks- Gentle Drops - 990MG",
+    "brand": "TREEWORKS",
+    "description": "Treeworks Gentle Drops delivers 990mg of premium cannabis extract in a versatile tincture format designed for precise dosing and customizable experiences. This potent liquid formula offers fast-acting relief that can be taken sublingually for rapid absorption or mixed into your favorite beverages and foods. Each dropper provides controlled dosing flexibility, making it easy to find your ideal serving size whether you're seeking relaxation, relief, or gentle euphoria. The discreet tincture format fits seamlessly into any wellness routine, offering a smoke-free alternative for experienced cannabis consumers. Treeworks focuses on quality extraction methods to preserve beneficial compounds while delivering consistent potency in every drop. Perfect for those who value precision and convenience in their cannabis consumption.",
+    "price": "$50",
+    "priceAmount": 50,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2dbc9786-277b-4778-bc3c-6c16c5c7aea1",
+     "alt": "Treeworks- Gentle Drops - 990MG"
+    }
+   },
+   {
+    "position": 3,
+    "url": "/product/treeworks-treeworks-party-rosin-gummies-100mg-100-mg-edible-100-milligrams",
+    "name": "Treeworks - Party - Rosin Gummies - 100MG",
+    "brand": "TREEWORKS",
+    "description": "Treeworks Party Rosin Gummies deliver 100mg of premium cannabis in convenient, delicious edible form. Each gummy is crafted with high-quality rosin, preserving the natural compounds and full-spectrum benefits that cannabis enthusiasts appreciate. Perfect for social gatherings or unwinding after a long day, these gummies offer a reliable, enjoyable experience with consistent dosing. The Party edition brings vibrant flavor and smooth effects, making it easy to elevate any occasion. Whether you're seeking relaxation, euphoria, or simply a good time with friends, Treeworks combines quality extraction methods with tasty, approachable edibles. Ideal for both newcomers and experienced users looking for a flavorful, potent option.",
+    "price": "$30",
+    "priceAmount": 30,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/3b2b60d3-ab59-4639-bccf-4400212b4be5",
+     "alt": "Treeworks - Party - Rosin Gummies - 100MG"
+    }
+   },
+   {
+    "position": 4,
+    "url": "/product/treeworks-treeworks-superboof-5g-live-hash-rosin-0-5-g-cartridge-0-5-grams",
+    "name": "Treeworks - Superboof - .5G - Live Hash Rosin",
+    "brand": "TREEWORKS",
+    "description": "Treeworks brings you Superboof in a premium 0.5g live hash rosin cartridge that delivers uncompromising quality and potency. This cartridge features solventless live hash rosin extracted from fresh-frozen cannabis, preserving the full spectrum of cannabinoids and terpenes for an authentic, strain-specific experience. Superboof is known for its rich, complex flavor profile with earthy, fruity, and gassy notes that captivate the senses. Each draw offers smooth vapor and powerful effects that cannabis connoisseurs crave. The live hash rosin extraction process ensures you're getting the purest, most flavorful concentrate without any solvents or additives. Ideal for those seeking elevated potency and true-to-plant taste, this 0.5g cartridge fits standard 510 thread batteries for convenient, on-the-go enjoyment. Experience the Treeworks difference with Superboof—where craft meets quality in every puff.",
+    "price": "$40",
+    "priceAmount": 40,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/74437705-a6f9-4b13-bc37-ec433752f923",
+     "alt": "Treeworks - Superboof - .5G - Live Hash Rosin"
+    }
+   },
+   {
+    "position": 5,
+    "url": "/product/treeworks-treeworks-purist-drops-2000mg-2000-mg-tincture-2000-milligrams",
+    "name": "Treeworks - Purist Drops - 2000MG",
+    "brand": "TREEWORKS",
+    "description": "Treeworks Purist Drops deliver a potent 2000mg tincture designed for those seeking precise, versatile dosing. This premium cannabis tincture offers a clean, straightforward experience without unnecessary additives, staying true to its \"purist\" name. Perfect for both newcomers and experienced users, the generous 2000mg strength allows for flexible micro-dosing or stronger servings based on your individual needs. Sublingual drops provide fast-acting effects, making it easy to customize your wellness routine. Whether you're seeking relaxation after a long day, relief from discomfort, or simply enhanced well-being, Treeworks Purist Drops offer a discreet, convenient solution. The unflavored formula integrates seamlessly into beverages or can be taken directly under the tongue. With its high potency and pure formulation, this tincture represents exceptional value and versatility for daily cannabis wellness.",
+    "price": "$70",
+    "priceAmount": 70,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5c1fc3d2-27d8-4629-93ea-ed03c50e9120",
+     "alt": "Treeworks - Purist Drops - 2000MG"
+    }
+   },
+   {
+    "position": 6,
+    "url": "/product/treeworks-treeworks-sleep-relief-live-hash-rosin-gummies-700mg-700-mg-10-pack-edible-700-milligrams",
+    "name": "Treeworks - Sleep & Relief - Live Hash Rosin Gummies - 700MG",
+    "brand": "TREEWORKS",
+    "description": "Treeworks Sleep & Relief Live Hash Rosin Gummies deliver 700mg of premium cannabis in a delicious edible format designed to help you unwind and find comfort. Crafted with live hash rosin—one of the purest, most flavorful concentrates available—these gummies offer a full-spectrum experience that preserves the plant's natural terpenes and cannabinoids. Perfect for evening relaxation, each gummy promotes deep relief and restful sleep, making them ideal for those seeking calm after a long day. The rich, fruity flavor profile ensures a pleasant taste with every bite, while the potent effects work to soothe both body and mind. Whether you're managing discomfort or simply looking to enhance your nightly routine, Treeworks combines quality craftsmanship with thoughtful dosing to deliver consistent, reliable results. Experience the difference of solventless extraction and discover why live hash rosin gummies are the choice for discerning cannabis enthusiasts.",
+    "price": "$30",
+    "priceAmount": 30,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7a6b40ca-5204-4def-8160-df998f88e9ee",
+     "alt": "Treeworks - Sleep & Relief - Live Hash Rosin Gummies - 700MG"
+    }
+   },
+   {
+    "position": 7,
+    "url": "/product/treeworks-treeworks-canna-cream-rso-1000mg-1000-mg-topical-1000-milligrams",
+    "name": "Treeworks - Canna Cream RSO - 1000MG",
+    "brand": "TREEWORKS",
+    "description": "Treeworks Canna Cream RSO delivers 1000mg of potent cannabis relief in a topical cream designed for targeted comfort. This full-spectrum RSO-infused formula absorbs quickly into the skin, making it ideal for localized relief and anti-inflammatory support. The rich, creamy texture glides on smoothly, providing a discreet and mess-free application perfect for sore muscles, joint discomfort, or everyday wellness routines. Treeworks crafts this topical with quality cannabis extract to deliver consistent potency in every use. Whether you're seeking relief after a workout or managing daily tension, this 1000mg cream offers a powerful, non-intoxicating option that works where you need it most. Easy to apply and fast-acting, it's an essential addition to any cannabis wellness regimen.",
+    "price": "$50",
+    "priceAmount": 50,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a19c9ab4-a0f0-475d-b67f-e47350f084ed",
+     "alt": "Treeworks - Canna Cream RSO - 1000MG"
+    }
+   },
+   {
+    "position": 8,
+    "url": "/product/treeworks-treeworks-chill-rosin-gummies-100mg-100-mg-edible-100-milligrams",
+    "name": "Treeworks - Chill - Rosin Gummies - 100MG",
+    "brand": "TREEWORKS",
+    "description": "Treeworks Chill Rosin Gummies deliver 100mg of cannabis-infused relaxation in a delicious edible format. These rosin-based gummies offer a clean, solventless experience that showcases the natural essence of the plant. Each gummy is crafted to help you unwind and melt away stress, making them perfect for evening relaxation or whenever you need to take the edge off. The rosin extraction process preserves beneficial compounds for a full-bodied effect that edible enthusiasts appreciate. With a balanced formulation and smooth onset, Chill gummies provide a reliable way to enjoy cannabis without smoking or vaping. Simply pop a gummy and let the calming sensations wash over you. Treeworks combines quality ingredients with expert extraction techniques to create edibles that taste great and deliver consistent results every time.",
+    "price": "$30",
+    "priceAmount": 30,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/c1424a6f-b561-4a21-a619-518422cebe8c",
+     "alt": "Treeworks - Chill - Rosin Gummies - 100MG"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/brands",
+       "name": "Brands"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "TREEWORKS"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TREEWORKS",
+       "description": "Treeworks presents 007up in a premium 0.5g live hash rosin cartridge, delivering exceptional potency and purity for discerning cannabis enthusiasts. This solventless extract is crafted using ice water hash techniques, preserving the full spectrum of cannabinoids and cannabis-derived terpenes for an authentic, strain-specific experience. Live hash rosin represents the pinnacle of concentrate craftsmanship, capturing the plant&apos;s essence at peak freshness. Each draw delivers rich, complex flavors and powerful effects that showcase the true character of the source material. Compatible with standard 510 thread batteries, this cartridge offers convenient, discreet consumption without compromising quality. Perfect for those who appreciate premium concentrates and demand nothing but the finest solventless extracts in their rotation.",
+       "name": "Treeworks - 007up - .5G - Live Hash Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-007up-5g-live-hash-rosin-0-5-g-cartridge-0-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0e4c738a-65ca-45f0-b6f4-62c303971c25"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TREEWORKS",
+       "description": "Treeworks Gentle Drops delivers 990mg of premium cannabis extract in a versatile tincture format designed for precise dosing and customizable experiences. This potent liquid formula offers fast-acting relief that can be taken sublingually for rapid absorption or mixed into your favorite beverages and foods. Each dropper provides controlled dosing flexibility, making it easy to find your ideal serving size whether you&apos;re seeking relaxation, relief, or gentle euphoria. The discreet tincture format fits seamlessly into any wellness routine, offering a smoke-free alternative for experienced cannabis consumers. Treeworks focuses on quality extraction methods to preserve beneficial compounds while delivering consistent potency in every drop. Perfect for those who value precision and convenience in their cannabis consumption.",
+       "name": "Treeworks- Gentle Drops - 990MG",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "50",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-gentle-drops-990mg-990-mg-tincture-990-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2dbc9786-277b-4778-bc3c-6c16c5c7aea1"
+      },
+      "position": "2"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TREEWORKS",
+       "description": "Treeworks Party Rosin Gummies deliver 100mg of premium cannabis in convenient, delicious edible form. Each gummy is crafted with high-quality rosin, preserving the natural compounds and full-spectrum benefits that cannabis enthusiasts appreciate. Perfect for social gatherings or unwinding after a long day, these gummies offer a reliable, enjoyable experience with consistent dosing. The Party edition brings vibrant flavor and smooth effects, making it easy to elevate any occasion. Whether you&apos;re seeking relaxation, euphoria, or simply a good time with friends, Treeworks combines quality extraction methods with tasty, approachable edibles. Ideal for both newcomers and experienced users looking for a flavorful, potent option.",
+       "name": "Treeworks - Party - Rosin Gummies - 100MG",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "30",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-party-rosin-gummies-100mg-100-mg-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/3b2b60d3-ab59-4639-bccf-4400212b4be5"
+      },
+      "position": "3"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TREEWORKS",
+       "description": "Treeworks brings you Superboof in a premium 0.5g live hash rosin cartridge that delivers uncompromising quality and potency. This cartridge features solventless live hash rosin extracted from fresh-frozen cannabis, preserving the full spectrum of cannabinoids and terpenes for an authentic, strain-specific experience. Superboof is known for its rich, complex flavor profile with earthy, fruity, and gassy notes that captivate the senses. Each draw offers smooth vapor and powerful effects that cannabis connoisseurs crave. The live hash rosin extraction process ensures you&apos;re getting the purest, most flavorful concentrate without any solvents or additives. Ideal for those seeking elevated potency and true-to-plant taste, this 0.5g cartridge fits standard 510 thread batteries for convenient, on-the-go enjoyment. Experience the Treeworks difference with Superboof—where craft meets quality in every puff.",
+       "name": "Treeworks - Superboof - .5G - Live Hash Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-superboof-5g-live-hash-rosin-0-5-g-cartridge-0-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/74437705-a6f9-4b13-bc37-ec433752f923"
+      },
+      "position": "4"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TREEWORKS",
+       "description": "Treeworks Purist Drops deliver a potent 2000mg tincture designed for those seeking precise, versatile dosing. This premium cannabis tincture offers a clean, straightforward experience without unnecessary additives, staying true to its &quot;purist&quot; name. Perfect for both newcomers and experienced users, the generous 2000mg strength allows for flexible micro-dosing or stronger servings based on your individual needs. Sublingual drops provide fast-acting effects, making it easy to customize your wellness routine. Whether you&apos;re seeking relaxation after a long day, relief from discomfort, or simply enhanced well-being, Treeworks Purist Drops offer a discreet, convenient solution. The unflavored formula integrates seamlessly into beverages or can be taken directly under the tongue. With its high potency and pure formulation, this tincture represents exceptional value and versatility for daily cannabis wellness.",
+       "name": "Treeworks - Purist Drops - 2000MG",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "70",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-purist-drops-2000mg-2000-mg-tincture-2000-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5c1fc3d2-27d8-4629-93ea-ed03c50e9120"
+      },
+      "position": "5"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TREEWORKS",
+       "description": "Treeworks Sleep &amp; Relief Live Hash Rosin Gummies deliver 700mg of premium cannabis in a delicious edible format designed to help you unwind and find comfort. Crafted with live hash rosin—one of the purest, most flavorful concentrates available—these gummies offer a full-spectrum experience that preserves the plant&apos;s natural terpenes and cannabinoids. Perfect for evening relaxation, each gummy promotes deep relief and restful sleep, making them ideal for those seeking calm after a long day. The rich, fruity flavor profile ensures a pleasant taste with every bite, while the potent effects work to soothe both body and mind. Whether you&apos;re managing discomfort or simply looking to enhance your nightly routine, Treeworks combines quality craftsmanship with thoughtful dosing to deliver consistent, reliable results. Experience the difference of solventless extraction and discover why live hash rosin gummies are the choice for discerning cannabis enthusiasts.",
+       "name": "Treeworks - Sleep &amp; Relief - Live Hash Rosin Gummies - 700MG",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "30",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-sleep-relief-live-hash-rosin-gummies-700mg-700-mg-10-pack-edible-700-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7a6b40ca-5204-4def-8160-df998f88e9ee"
+      },
+      "position": "6"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TREEWORKS",
+       "description": "Treeworks Canna Cream RSO delivers 1000mg of potent cannabis relief in a topical cream designed for targeted comfort. This full-spectrum RSO-infused formula absorbs quickly into the skin, making it ideal for localized relief and anti-inflammatory support. The rich, creamy texture glides on smoothly, providing a discreet and mess-free application perfect for sore muscles, joint discomfort, or everyday wellness routines. Treeworks crafts this topical with quality cannabis extract to deliver consistent potency in every use. Whether you&apos;re seeking relief after a workout or managing daily tension, this 1000mg cream offers a powerful, non-intoxicating option that works where you need it most. Easy to apply and fast-acting, it&apos;s an essential addition to any cannabis wellness regimen.",
+       "name": "Treeworks - Canna Cream RSO - 1000MG",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "50",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-canna-cream-rso-1000mg-1000-mg-topical-1000-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a19c9ab4-a0f0-475d-b67f-e47350f084ed"
+      },
+      "position": "7"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TREEWORKS",
+       "description": "Treeworks Chill Rosin Gummies deliver 100mg of cannabis-infused relaxation in a delicious edible format. These rosin-based gummies offer a clean, solventless experience that showcases the natural essence of the plant. Each gummy is crafted to help you unwind and melt away stress, making them perfect for evening relaxation or whenever you need to take the edge off. The rosin extraction process preserves beneficial compounds for a full-bodied effect that edible enthusiasts appreciate. With a balanced formulation and smooth onset, Chill gummies provide a reliable way to enjoy cannabis without smoking or vaping. Simply pop a gummy and let the calming sensations wash over you. Treeworks combines quality ingredients with expert extraction techniques to create edibles that taste great and deliver consistent results every time.",
+       "name": "Treeworks - Chill - Rosin Gummies - 100MG",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "30",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-chill-rosin-gummies-100mg-100-mg-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/c1424a6f-b561-4a21-a619-518422cebe8c"
+      },
+      "position": "8"
+     }
+    ]
+   }
+  ]
+ }
+}

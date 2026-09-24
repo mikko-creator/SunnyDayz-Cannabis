@@ -1,0 +1,179 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/collection/edible/baked-good",
+ "slug": "collection-edible-baked-good",
+ "type": "collection",
+ "title": "BAKED GOOD",
+ "seoTitle": "BAKED GOOD",
+ "model": {
+  "kind": "collection",
+  "level": "subcategory",
+  "path": "/collection/edible/baked-good",
+  "category": "edible",
+  "subcategory": "baked-good",
+  "parentPath": "/collection/edible",
+  "sortParam": null,
+  "capture": {
+   "matchesUrl": true,
+   "signal": null,
+   "observed": null
+  },
+  "h1": "BAKED GOOD",
+  "banner": {
+   "title": "BAKED GOOD",
+   "description": "Best BAKED GOOD",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMq5bqstJ9-D0W_CategoriesBanner-29.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMrJbqstJ9-D0X_CategoriesBanner-28.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "BAKED GOOD",
+    "href": null
+   }
+  ],
+  "categoryLinks": [],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "empty",
+  "emptyState": {
+   "heading": "No search results found",
+   "text": "No results match the filter criteria. Remove a filter or clear all filters to search again"
+  },
+  "cards": [],
+  "productCount": 2,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/bubby-s-bubby-s-chocolate-chip-baked-goods-5mg-5-mg-edible-5-milligrams",
+    "name": "Bubby's - Chocolate Chip Baked Goods - 5mg",
+    "brand": "BUBBY'S",
+    "description": "Bubby's Chocolate Chip Baked Goods bring the classic comfort of fresh-baked cookies to your cannabis experience with a precisely dosed 5mg THC edible that's perfect for both new and experienced users. Each delicious baked good delivers a low dose option that allows for easy control and customization of your experience, making it ideal for microdosing or enjoying throughout the day. The rich chocolate chip flavor satisfies your sweet tooth while providing a discreet and convenient consumption method. These baked treats offer a relaxed and uplifted experience that can enhance your mood without overwhelming effects. Whether you're unwinding after a long day or seeking gentle relief, Bubby's combines artisanal quality with consistent dosing. The familiar taste of chocolate chip cookies makes this edible approachable and enjoyable for anyone looking to explore cannabis-infused baked goods in a delicious, accessible format.",
+    "price": "$10",
+    "priceAmount": 10,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f6337bcc-aa71-4a7e-8e5a-b88630899152",
+     "alt": "Bubby's - Chocolate Chip Baked Goods - 5mg"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/bubby-s-bubby-s-pumpkin-bites-baked-goods-5mg-5-mg-edible-5-milligrams",
+    "name": "Bubby's - Pumpkin Bites Baked Goods - 5mg",
+    "brand": "BUBBY'S",
+    "description": "Bubby's Pumpkin Bites Baked Goods bring seasonal sweetness to your cannabis experience with perfectly portioned 5mg THC edibles. This delicious baked good combines the warm, comforting flavors of pumpkin spice with the convenience of consistent dosing, making it ideal for both new and experienced consumers seeking a low-dose option. Each bite delivers a sweet, cinnamon-kissed flavor profile with subtle nutty undertones that capture the essence of fall in every morsel. Perfect for those looking to feel relaxed and happy without overwhelming effects, these pumpkin-infused treats offer a discreet and enjoyable way to incorporate cannabis into your routine. Whether you're unwinding after a long day or simply craving a flavorful edible experience, Bubby's crafts these bites with quality ingredients for a satisfying, predictable effect every time.",
+    "price": "$10",
+    "priceAmount": 10,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7f25a50e-f9ae-43b5-879d-86b141af3772",
+     "alt": "Bubby's - Pumpkin Bites Baked Goods - 5mg"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/shop",
+       "name": "Menu"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "BAKED GOOD"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BUBBY&apos;S",
+       "description": "Bubby&apos;s Chocolate Chip Baked Goods bring the classic comfort of fresh-baked cookies to your cannabis experience with a precisely dosed 5mg THC edible that&apos;s perfect for both new and experienced users. Each delicious baked good delivers a low dose option that allows for easy control and customization of your experience, making it ideal for microdosing or enjoying throughout the day. The rich chocolate chip flavor satisfies your sweet tooth while providing a discreet and convenient consumption method. These baked treats offer a relaxed and uplifted experience that can enhance your mood without overwhelming effects. Whether you&apos;re unwinding after a long day or seeking gentle relief, Bubby&apos;s combines artisanal quality with consistent dosing. The familiar taste of chocolate chip cookies makes this edible approachable and enjoyable for anyone looking to explore cannabis-infused baked goods in a delicious, accessible format.",
+       "name": "Bubby&apos;s - Chocolate Chip Baked Goods - 5mg",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "10",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/bubby-s-bubby-s-chocolate-chip-baked-goods-5mg-5-mg-edible-5-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f6337bcc-aa71-4a7e-8e5a-b88630899152"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BUBBY&apos;S",
+       "description": "Bubby&apos;s Pumpkin Bites Baked Goods bring seasonal sweetness to your cannabis experience with perfectly portioned 5mg THC edibles. This delicious baked good combines the warm, comforting flavors of pumpkin spice with the convenience of consistent dosing, making it ideal for both new and experienced consumers seeking a low-dose option. Each bite delivers a sweet, cinnamon-kissed flavor profile with subtle nutty undertones that capture the essence of fall in every morsel. Perfect for those looking to feel relaxed and happy without overwhelming effects, these pumpkin-infused treats offer a discreet and enjoyable way to incorporate cannabis into your routine. Whether you&apos;re unwinding after a long day or simply craving a flavorful edible experience, Bubby&apos;s crafts these bites with quality ingredients for a satisfying, predictable effect every time.",
+       "name": " Bubby&apos;s - Pumpkin Bites Baked Goods - 5mg",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "10",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/bubby-s-bubby-s-pumpkin-bites-baked-goods-5mg-5-mg-edible-5-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7f25a50e-f9ae-43b5-879d-86b141af3772"
+      },
+      "position": "2"
+     }
+    ]
+   }
+  ]
+ }
+}

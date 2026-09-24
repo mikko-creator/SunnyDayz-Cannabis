@@ -1,0 +1,253 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/contact-us",
+ "slug": "contact-us",
+ "type": "page",
+ "title": "Contact us",
+ "seoTitle": "Contact us",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Contact us",
+    "href": null
+   }
+  ],
+  "h1": "AT EVERY STEP OF THE WAY WE'RE JUST A CLICK AWAY!",
+  "bannerImage": {
+   "src": "https://images.prismic.io/sunny-dayz/ITYHauH23rhJSyW9_BannerSliceDispensary.jpg?auto=format%2Ccompress&w=3840&fit=max",
+   "alt": "Banner"
+  },
+  "blocks": [
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/ITYHauH23rhJSyW9_BannerSliceDispensary.jpg?auto=format%2Ccompress&w=3840&fit=max",
+    "alt": "Banner"
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/ITYHauH23rhJSyW9_BannerSliceDispensary.jpg?auto=format%2Ccompress&rect=2%2C0%2C2013%2C780&w=3840&fit=max",
+    "alt": "Banner"
+   },
+   {
+    "t": "h1",
+    "text": "AT EVERY STEP OF THE WAY WE'RE JUST A CLICK AWAY!"
+   },
+   {
+    "t": "p",
+    "text": "Contact us for any inquiries; we're here to help.",
+    "html": "Contact us for any inquiries; we're here to help."
+   },
+   {
+    "t": "p",
+    "text": "High Standards, Maximum Satisfaction",
+    "html": "High Standards, Maximum Satisfaction"
+   },
+   {
+    "t": "p",
+    "text": "At our company, we adhere to the highest standards to ensure you receive top-quality products and services. Our commitment to excellence guarantees your complete satisfaction with every purchase. Experience the difference of premium quality and exceptional service with us.",
+    "html": "At our company, we adhere to the highest standards to ensure you receive top-quality products and services. Our commitment to excellence guarantees your complete satisfaction with every purchase. Experience the difference of premium quality and exceptional service with us."
+   },
+   {
+    "t": "p",
+    "text": "Address",
+    "html": "Address"
+   },
+   {
+    "t": "p",
+    "text": "105 Greenfield Rd. South Deerfield, MA 01373",
+    "html": "105 Greenfield Rd. South Deerfield, MA 01373"
+   },
+   {
+    "t": "p",
+    "text": "Email",
+    "html": "Email"
+   },
+   {
+    "t": "p",
+    "text": "info@sunnydayzcannabis.com",
+    "html": "info@sunnydayzcannabis.com"
+   },
+   {
+    "t": "p",
+    "text": "Phone number",
+    "html": "Phone number"
+   },
+   {
+    "t": "p",
+    "text": "+1 (413) 350-5034",
+    "html": "+1 (413) 350-5034"
+   },
+   {
+    "t": "quote",
+    "text": "Having worked with the team for several months, I can unequivocally say their professionalism and creativity are top-notch. They've helped us redefine our branding and significantly improved our market presence. Alex Johnson"
+   },
+   {
+    "t": "quote",
+    "text": "This team's attention to detail and innovative approach has greatly enhanced our project's visibility and engagement. They exceeded our expectations at every turn, making the entire process seamless and enjoyable Samantha Brooks"
+   },
+   {
+    "t": "quote",
+    "text": "The dedication and expertise shown by this team have been instrumental in our project's success. Their creative solutions and proactive approach have set a new benchmark for excellence in our industry. Marcus Chen"
+   },
+   {
+    "t": "h2",
+    "text": "Frequently asked questions"
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/VQ6rzInWrIbdSBQI_ChatGPTImageOct17%2C2025at07_13_37PM.png?auto=format%2Ccompress&rect=150%2C0%2C1237%2C1024&w=3840&fit=max",
+    "alt": "Image"
+   }
+  ],
+  "faqs": [
+   {
+    "q": "What are store hours & location",
+    "a": [
+     {
+      "t": "p",
+      "text": "SunnyDayz is open 7-days a week from 10:00am to 9:00am. Store hours may vary during certain Holidays.",
+      "html": "SunnyDayz is open 7-days a week from 10:00am to 9:00am. Store hours may vary during certain Holidays."
+     },
+     {
+      "t": "p",
+      "text": "SunnyDayz is located at 105 Greenfield Road, South Deerfield, MA , directly on Routes 5 & 10 and just minutes from I-91.",
+      "html": "SunnyDayz is located at <strong>105 Greenfield Road, South Deerfield, MA</strong>, directly on <strong>Routes 5 &amp; 10</strong> and just minutes from I-91."
+     }
+    ]
+   },
+   {
+    "q": "Where can I find SunnyDayz's latest menu & product availabiltiy",
+    "a": [
+     {
+      "t": "p",
+      "text": "Our online menu is updated regularly to reflect our latest products and availability. Visit the Shop section of our website to browse what’s currently available, including flower, pre-rolls, concentrates, vapes, edibles, beverages, and more.",
+      "html": "Our online menu is updated regularly to reflect our latest products and availability. Visit the <strong>Shop</strong> section of our website to browse what’s currently available, including flower, pre-rolls, concentrates, vapes, edibles, beverages, and more."
+     },
+     {
+      "t": "p",
+      "text": "Want to stay ahead of the latest drops? Join Sun Club for exclusive offers, SunnyDayz news, new product drops, and other member perks.",
+      "html": "Want to stay ahead of the latest drops? Join <strong>Sun Club</strong> for exclusive offers, SunnyDayz news, new product drops, and other member perks."
+     },
+     {
+      "t": "p",
+      "text": "Product availability can change throughout the day, so check our online menu for the most up-to-date selection.",
+      "html": "Product availability can change throughout the day, so check our online menu for the most up-to-date selection."
+     }
+    ]
+   },
+   {
+    "q": "What forms of identification does SunnyDayz accept",
+    "a": [
+     {
+      "t": "p",
+      "text": "SunnyDayz accepts Valid state-issued driver’s license, U.S. passport/passport card, military ID, permanent resident card, or foreign passport.",
+      "html": "SunnyDayz accepts Valid state-issued driver’s license, U.S. passport/passport card, military ID, permanent resident card, or foreign passport."
+     },
+     {
+      "t": "p",
+      "text": "SunnyDayz does not accept the following forms of Identification: Expired Drivers License, photocopies or photos of Driver’s License, temporary paper licenses without required supporting documentation, student IDs, employer IDs, library cards, or similar IDs.",
+      "html": "SunnyDayz does not accept the following forms of Identification: Expired Drivers License, photocopies or photos of Driver’s License, temporary paper licenses without required supporting documentation, student IDs, employer IDs, library cards, or similar IDs."
+     }
+    ]
+   },
+   {
+    "q": "Have a business inquiry or question",
+    "a": [
+     {
+      "t": "p",
+      "text": "For general business inquiries, partnerships, wholesale opportunities, vendor questions, or other requests, we’d love to hear from you.",
+      "html": "For general business inquiries, partnerships, wholesale opportunities, vendor questions, or other requests, we’d love to hear from you."
+     },
+     {
+      "t": "p",
+      "text": "Please contact us at info@sunnydayzcannabis.com , and a member of the SunnyDayz team will get back to you as soon as possible.",
+      "html": "Please contact us at <a href=\"mailto:info@sunnydayzcannabis.com\" rel=\"noopener\"><strong>info@sunnydayzcannabis.com</strong></a>, and a member of the SunnyDayz team will get back to you as soon as possible."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "iframes": [],
+  "buttons": [
+   "GET IN TOUCH"
+  ],
+  "links": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "+1 (413) 350-5034",
+    "href": "tel:+1 (413) 350-5034"
+   },
+   {
+    "label": "info@sunnydayzcannabis.com",
+    "href": "mailto:info@sunnydayzcannabis.com"
+   }
+  ],
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "Contact us"
+      },
+      "position": 2
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "SunnyDayz is open 7-days a week from 10:00am to 9:00am. Store hours may vary during certain Holidays.  SunnyDayz is located at 105 Greenfield Road, South Deerfield, MA, directly on Routes 5 &amp; 10 and just minutes from I-91."
+      },
+      "name": "What are store hours &amp; location"
+     },
+     {
+      "@type": "Question",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Our online menu is updated regularly to reflect our latest products and availability. Visit the Shop section of our website to browse what’s currently available, including flower, pre-rolls, concentrates, vapes, edibles, beverages, and more. Want to stay ahead of the latest drops? Join Sun Club for exclusive offers, SunnyDayz news, new product drops, and other member perks. Product availability can change throughout the day, so check our online menu for the most up-to-date selection."
+      },
+      "name": "Where can I find SunnyDayz&apos;s latest menu &amp; product availabiltiy"
+     },
+     {
+      "@type": "Question",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "SunnyDayz accepts Valid state-issued driver’s license, U.S. passport/passport card, military ID, permanent resident card, or foreign passport. SunnyDayz does not accept the following forms of Identification: Expired Drivers License, photocopies or photos of Driver’s License, temporary paper licenses without required supporting documentation, student IDs, employer IDs, library cards, or similar IDs."
+      },
+      "name": "What forms of identification does SunnyDayz accept"
+     },
+     {
+      "@type": "Question",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "For general business inquiries, partnerships, wholesale opportunities, vendor questions, or other requests, we’d love to hear from you. Please contact us at info@sunnydayzcannabis.com, and a member of the SunnyDayz team will get back to you as soon as possible."
+      },
+      "name": "Have a business inquiry or question"
+     }
+    ]
+   }
+  ]
+ }
+}

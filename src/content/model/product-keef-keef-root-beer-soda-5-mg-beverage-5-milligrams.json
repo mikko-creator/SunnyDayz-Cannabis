@@ -1,0 +1,164 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/keef-keef-root-beer-soda-5-mg-beverage-5-milligrams",
+ "slug": "product-keef-keef-root-beer-soda-5-mg-beverage-5-milligrams",
+ "type": "product",
+ "title": "KEEF - Keef | Root Beer Soda",
+ "seoTitle": "KEEF - Keef | Root Beer Soda",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Beverage",
+    "href": "/collection/beverage"
+   },
+   {
+    "label": "Keef | Root Beer Soda",
+    "href": null
+   }
+  ],
+  "h1": "Keef | Root Beer Soda",
+  "name": "Keef | Root Beer Soda",
+  "brand": {
+   "label": "KEEF",
+   "href": "/brand/keef"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Beverage",
+   "href": "/collection/beverage"
+  },
+  "subcategories": [
+   {
+    "label": "OTHER",
+    "href": "/collection/beverage/other"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/bbcd5e91-a68b-437b-a021-09905685240a?w=3840&q=100",
+   "alt": "Keef | Root Beer Soda"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/bbcd5e91-a68b-437b-a021-09905685240a?w=3840&q=100",
+    "alt": "Keef | Root Beer Soda"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "5MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Keef Root Beer Soda delivers a nostalgic twist on cannabis-infused beverages with authentic root beer flavor in every sip. This hybrid soda from Keef combines the classic taste of creamy, sweet root beer with a balanced cannabis experience that's perfect for any time of day. Fast-acting and refreshing, this cannabis beverage offers an uplifting and relaxed effect that brings the best of both worlds. Whether you're looking to unwind after work or add a creative spark to your afternoon, Keef Root Beer Soda provides a smooth, enjoyable alternative to traditional edibles. The familiar vanilla and herbal notes make it easy to enjoy, while the convenient single-serving format ensures consistent dosing every time. Perfect for cannabis consumers seeking a discreet, delicious, and refreshing way to elevate their day with a beloved soda flavor.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "each",
+    "price": "$7",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$7",
+   "original": null,
+   "ariaLabel": "Product price: $7"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Keef | Root Beer Soda to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Keef | Root Beer Soda to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "KEEF",
+    "href": "/brand/keef"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "5MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Keef Root Beer Soda 5 Mg"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

@@ -1,0 +1,164 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-sour-melon-rush-live-rosin-100-mg-10-pack-edible-100-milligrams",
+ "slug": "product-kanha-kanha-belts-sour-melon-rush-live-rosin-100-mg-10-pack-edible-100-milligrams",
+ "type": "product",
+ "title": "KANHA - Kanha Belts | Sour Melon Rush | Live Rosin",
+ "seoTitle": "KANHA - Kanha Belts | Sour Melon Rush | Live Rosin",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Kanha Belts | Sour Melon Rush | Live Rosin",
+    "href": null
+   }
+  ],
+  "h1": "Kanha Belts | Sour Melon Rush | Live Rosin",
+  "name": "Kanha Belts | Sour Melon Rush | Live Rosin",
+  "brand": {
+   "label": "KANHA",
+   "href": "/brand/kanha"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "GUMMY",
+    "href": "/collection/edible/gummy"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5604fdf9-9d8c-42dd-916d-9156dcaede7b?w=3840&q=100",
+   "alt": "Kanha Belts | Sour Melon Rush | Live Rosin"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5604fdf9-9d8c-42dd-916d-9156dcaede7b?w=3840&q=100",
+    "alt": "Kanha Belts | Sour Melon Rush | Live Rosin"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "100MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Kanha Belts - Sour Melon Rush brings live rosin edibles to a whole new level with 100mg of hybrid cannabis goodness packed into delicious gummy belts. Known for premium quality and precise dosing, Kanha delivers a mouthwatering sour melon flavor that tantalizes your taste buds while providing balanced effects. These live rosin-infused gummies offer a full spectrum experience, combining the uplifting and relaxing qualities of a hybrid. Perfect for those seeking euphoric, happy, and relaxed vibes, each belt is crafted with cannabis-derived terpenes for an authentic, strain-specific experience. Whether you're looking to unwind after a long day or enhance social moments, Sour Melon Rush delivers consistent, fast-acting relief with bold fruity flavor. Kanha's commitment to quality ensures every bite is vegan-friendly and precisely dosed for your peace of mind.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "each",
+    "price": "$25",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$25",
+   "original": null,
+   "ariaLabel": "Product price: $25"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Kanha Belts | Sour Melon Rush | Live Rosin to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Kanha Belts | Sour Melon Rush | Live Rosin to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "KANHA",
+    "href": "/brand/kanha"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "100MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Kanha Belts Sour Melon Rush Live Rosin 100 Mg 10 Pack"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

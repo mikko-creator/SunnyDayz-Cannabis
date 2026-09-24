@@ -1,0 +1,216 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-cherry-whip-1g-dry-sift-1-g-extract-1-grams",
+ "slug": "product-sweetgrass-botanicals-sweetgrass-botanicals-cherry-whip-1g-dry-sift-1-g-extract-1-grams",
+ "type": "product",
+ "title": "SWEETGRASS BOTANICALS - Sweetgrass Botanicals - Cherry Whip - 1G Dry Sift",
+ "seoTitle": "SWEETGRASS BOTANICALS - Sweetgrass Botanicals - Cherry Whip - 1G Dry Sift",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Extract",
+    "href": "/collection/extract"
+   },
+   {
+    "label": "Sweetgrass Botanicals - Cherry Whip - 1G Dry Sift",
+    "href": null
+   }
+  ],
+  "h1": "Sweetgrass Botanicals - Cherry Whip - 1G Dry Sift",
+  "name": "Sweetgrass Botanicals - Cherry Whip - 1G Dry Sift",
+  "brand": {
+   "label": "SWEETGRASS BOTANICALS",
+   "href": "/brand/sweetgrass-botanicals"
+  },
+  "badges": [],
+  "strainType": null,
+  "category": {
+   "label": "Extract",
+   "href": "/collection/extract"
+  },
+  "subcategories": [
+   {
+    "label": "KIEF",
+    "href": "/collection/extract/kief"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5587bbdc-941d-4b48-a30b-e8de0a193131?w=3840&q=100",
+   "alt": "Sweetgrass Botanicals - Cherry Whip - 1G Dry Sift"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5587bbdc-941d-4b48-a30b-e8de0a193131?w=3840&q=100",
+    "alt": "Sweetgrass Botanicals - Cherry Whip - 1G Dry Sift"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": "Warning",
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": "Cannabinoids"
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "57.5%",
+    "icon": "vector"
+   },
+   {
+    "label": "CBD",
+    "value": "0.179%",
+    "icon": "water_drop_black"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Sweetgrass Botanicals presents Cherry Whip, a premium 1g dry sift kief extract that delivers concentrated cannabis goodness in its purest form. This finely-sifted kief captures the essence of the Cherry Whip strain, offering sweet cherry flavors with creamy, fruity undertones that delight the palate. As a potent extract, this dry sift provides elevated effects perfect for experienced consumers seeking enhanced relaxation and euphoria. The crystalline texture and rich terpene profile make it ideal for topping bowls, rolling into joints, or pressing into rosin. Each gram showcases Sweetgrass Botanicals' commitment to quality extraction methods that preserve the plant's natural compounds. Whether you're looking to elevate your flower or enjoy kief on its own, Cherry Whip delivers a flavorful, potent experience that captures the full character of this delicious strain in convenient 1g packaging.",
+  "warnings": [
+   {
+    "title": "Proposition 65 Warning for California Consumers",
+    "collapsed": true,
+    "toggleIcon": "angle-down",
+    "toggleAriaLabel": "Expand content",
+    "label": "WARNING:",
+    "lines": [
+     "This product can expose you to chemicals including β-myrcene and cannabis smoke, which are known to the State of California to cause cancer, and chemicals including cannabis smoke and 9-tetrahydrocannabinol, which are known to the State of California to cause birth defects or other reproductive harm."
+    ],
+    "moreInfo": {
+     "text": "For more information go to",
+     "label": "www.P65Warnings.ca.gov",
+     "href": "https://www.P65Warnings.ca.gov"
+    },
+    "links": []
+   }
+  ],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "1g",
+    "price": "$40",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$40",
+   "original": null,
+   "ariaLabel": "Product price: $40"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Sweetgrass Botanicals - Cherry Whip - 1G Dry Sift to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Sweetgrass Botanicals - Cherry Whip - 1G Dry Sift to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "SWEETGRASS BOTANICALS",
+    "href": "/brand/sweetgrass-botanicals"
+   },
+   {
+    "label": "THC",
+    "value": "57.5%"
+   },
+   {
+    "label": "CBD",
+    "value": "0.179%"
+   },
+   {
+    "label": "Package Info",
+    "value": "Sweetgrass Botanicals Cherry Whip 1 G Dry Sift 1 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "1g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [
+   {
+    "group": "THC",
+    "items": [
+     {
+      "name": "THCA",
+      "value": "64.5%"
+     },
+     {
+      "name": "THC",
+      "value": "57.5%"
+     }
+    ]
+   },
+   {
+    "group": "CBD",
+    "items": [
+     {
+      "name": "CBG",
+      "value": "0.291%"
+     },
+     {
+      "name": "CBDA",
+      "value": "0.204%"
+     },
+     {
+      "name": "CBD",
+      "value": "0.179%"
+     }
+    ]
+   }
+  ],
+  "jsonld": null
+ }
+}

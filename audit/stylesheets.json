@@ -1,0 +1,32 @@
+{
+  "schema": "site-reforge/stylesheets@1",
+  "generated": "2026-09-23T04:52:50.416Z",
+  "discovered": [
+    "https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+    "https://www.sunnydayzcannabis.com/_next/static/css/a62eb8395deb71b7.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+    "https://www.sunnydayzcannabis.com/_next/static/css/f29130d1c6a4cbf2.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+    "https://www.sunnydayzcannabis.com/_next/static/css/3f08ff5830d7eca4.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+    "https://www.sunnydayzcannabis.com/_next/static/css/68ac9f9eba89ce44.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+    "https://www.sunnydayzcannabis.com/_next/static/css/727973242bb33abd.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+    "https://www.sunnydayzcannabis.com/_next/static/css/33904fd63320745e.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+    "https://www.sunnydayzcannabis.com/_next/static/css/1705374b2c0bf9d7.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+    "https://www.sunnydayzcannabis.com/_next/static/css/2ffa5e7c6ab39fc4.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+    "https://www.sunnydayzcannabis.com/_next/static/css/fc5c0ed95d98e202.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+    "https://www.sunnydayzcannabis.com/_next/static/css/3b02276460fd69ef.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+    "https://www.sunnydayzcannabis.com/_next/static/css/f6cbcaff28b7c8a2.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+    "https://www.sunnydayzcannabis.com/_next/static/css/5a3246621068806f.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+    "https://www.sunnydayzcannabis.com/_next/static/css/b5d719edb9418b4a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+    "https://www.sunnydayzcannabis.com/_next/static/css/9b445beb897f5abb.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+    "https://www.sunnydayzcannabis.com/_next/static/css/6bc1fa4dfc6990ff.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+    "https://www.sunnydayzcannabis.com/_next/static/css/5eb9a79cc067b107.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+    "https://www.sunnydayzcannabis.com/_next/static/css/9de3b66d852d4055.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+    "https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap"
+  ],
+  "saved": [
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap",
+      "savedAs": "css2-family-Poppins-wght-100-200-300-400-500-600-700-800-display-swap.css",
+      "bytes": 1635
+    }
+  ]
+}

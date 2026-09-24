@@ -1,0 +1,131 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/brand/claravita",
+ "slug": "brand-claravita",
+ "type": "brand",
+ "title": "CLARAVITA",
+ "seoTitle": "CLARAVITA",
+ "model": {
+  "kind": "brand",
+  "path": "/brand/claravita",
+  "slug": "claravita",
+  "name": "CLARAVITA",
+  "h1": "CLARAVITA",
+  "logo": null,
+  "banner": {
+   "title": "CLARAVITA",
+   "description": "Shop cannabis products from CLARAVITA at a dispensary near you",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Brands",
+    "href": "/brands"
+   },
+   {
+    "label": "CLARAVITA",
+    "href": null
+   }
+  ],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "loading",
+  "emptyState": null,
+  "cards": [],
+  "productCount": 1,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/claravita-claravita-apple-cider-gummies-live-rosin-1-1-100-mg-20-pack-edible-100-milligrams",
+    "name": "Claravita - Apple Cider Gummies - Live Rosin - 1:1",
+    "brand": "CLARAVITA",
+    "description": "Claravita's Apple Cider Live Rosin Gummies deliver a perfectly balanced 1:1 ratio of THC to CBD in a delicious 100mg edible. Crafted with premium live rosin extract, these hybrid gummies offer a harmonious blend of relaxation and gentle uplift, making them ideal for both experienced users and those seeking balanced effects. Each gummy features authentic apple cider flavor with crisp, tart notes that evoke autumn orchard freshness. The live rosin extraction preserves the full spectrum of cannabinoids and terpenes for enhanced entourage effects. Perfect for unwinding after a long day while maintaining mental clarity, or for easing into social situations with calm confidence. Experience the elevated quality of live rosin in a convenient, precisely dosed gummy format that combines therapeutic benefits with exceptional taste.",
+    "price": "$16",
+    "priceAmount": 16,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/fd372c27-1b6c-40b1-8b31-4197e17cf919",
+     "alt": "Claravita - Apple Cider Gummies - Live Rosin - 1:1"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/brands",
+       "name": "Brands"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "CLARAVITA"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "CLARAVITA",
+       "description": "Claravita&apos;s Apple Cider Live Rosin Gummies deliver a perfectly balanced 1:1 ratio of THC to CBD in a delicious 100mg edible. Crafted with premium live rosin extract, these hybrid gummies offer a harmonious blend of relaxation and gentle uplift, making them ideal for both experienced users and those seeking balanced effects. Each gummy features authentic apple cider flavor with crisp, tart notes that evoke autumn orchard freshness. The live rosin extraction preserves the full spectrum of cannabinoids and terpenes for enhanced entourage effects. Perfect for unwinding after a long day while maintaining mental clarity, or for easing into social situations with calm confidence. Experience the elevated quality of live rosin in a convenient, precisely dosed gummy format that combines therapeutic benefits with exceptional taste.",
+       "name": "Claravita - Apple Cider Gummies - Live Rosin - 1:1",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "16",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/claravita-claravita-apple-cider-gummies-live-rosin-1-1-100-mg-20-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/fd372c27-1b6c-40b1-8b31-4197e17cf919"
+      },
+      "position": "1"
+     }
+    ]
+   }
+  ]
+ }
+}

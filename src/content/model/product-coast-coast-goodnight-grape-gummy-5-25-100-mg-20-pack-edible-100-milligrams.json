@@ -1,0 +1,164 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/coast-coast-goodnight-grape-gummy-5-25-100-mg-20-pack-edible-100-milligrams",
+ "slug": "product-coast-coast-goodnight-grape-gummy-5-25-100-mg-20-pack-edible-100-milligrams",
+ "type": "product",
+ "title": "COAST - Coast - Goodnight Grape - Gummy - 5:25",
+ "seoTitle": "COAST - Coast - Goodnight Grape - Gummy - 5:25",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Coast - Goodnight Grape - Gummy - 5:25",
+    "href": null
+   }
+  ],
+  "h1": "Coast - Goodnight Grape - Gummy - 5:25",
+  "name": "Coast - Goodnight Grape - Gummy - 5:25",
+  "brand": {
+   "label": "COAST",
+   "href": "/brand/coast"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Indica",
+   "key": "indica",
+   "ariaLabel": "Flower type: Indica"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "GUMMY",
+    "href": "/collection/edible/gummy"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/03771bd2-1034-4ddf-a2db-af733a6584f4?w=3840&q=100",
+   "alt": "Coast - Goodnight Grape - Gummy - 5:25"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/03771bd2-1034-4ddf-a2db-af733a6584f4?w=3840&q=100",
+    "alt": "Coast - Goodnight Grape - Gummy - 5:25"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "100MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Coast Goodnight Grape Gummies deliver a deliciously relaxing experience perfect for winding down after a long day. This Indica edible features 100mg total THC in a 5:25 THC:CBN ratio, offering balanced relaxation with added wellness benefits. Each grape-flavored gummy provides soothing effects ideal for evening use, helping you ease tension and prepare for restful sleep. Coast crafts these gummies with quality ingredients and consistent dosing, making them a reliable choice for those seeking deep relaxation and tranquility. The sweet grape flavor masks any cannabis taste, while the Indica classification ensures calming, full-body effects that melt away stress. Perfect for experienced users looking to unwind, relax, and enjoy a peaceful night's rest.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "each",
+    "price": "$25",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$25",
+   "original": null,
+   "ariaLabel": "Product price: $25"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Coast - Goodnight Grape - Gummy - 5:25 to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Coast - Goodnight Grape - Gummy - 5:25 to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "COAST",
+    "href": "/brand/coast"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Indica",
+    "href": "/strain/Indica"
+   },
+   {
+    "label": "THC",
+    "value": "100MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Coast Goodnight Grape Gummy 5 25 100 Mg 20 Pack"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

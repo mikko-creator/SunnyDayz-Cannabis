@@ -1,0 +1,142 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/collection/topical/lubricant",
+ "slug": "collection-topical-lubricant",
+ "type": "collection",
+ "title": "LUBRICANT",
+ "seoTitle": "LUBRICANT",
+ "model": {
+  "kind": "collection",
+  "level": "subcategory",
+  "path": "/collection/topical/lubricant",
+  "category": "topical",
+  "subcategory": "lubricant",
+  "parentPath": "/collection/topical",
+  "sortParam": null,
+  "capture": {
+   "matchesUrl": true,
+   "signal": null,
+   "observed": null
+  },
+  "h1": "LUBRICANT",
+  "banner": {
+   "title": "LUBRICANT",
+   "description": "Best LUBRICANT",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMq5bqstJ9-D0W_CategoriesBanner-29.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMrJbqstJ9-D0X_CategoriesBanner-28.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "LUBRICANT",
+    "href": null
+   }
+  ],
+  "categoryLinks": [],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "empty",
+  "emptyState": {
+   "heading": "No search results found",
+   "text": "No results match the filter criteria. Remove a filter or clear all filters to search again"
+  },
+  "cards": [],
+  "productCount": 1,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-personal-lubricant-500mg-500-mg-topical-500-milligrams",
+    "name": "Sweetgrass Botanicals - Personal Lubricant - 500mg",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals Personal Lubricant delivers 500mg of cannabis-infused comfort in a premium topical formula designed to enhance intimacy and relaxation. This specialized lubricant combines the natural benefits of cannabis with a smooth, skin-friendly base that absorbs gently without residue. Perfect for those seeking a more connected, relaxed experience, this topical product offers soothing relief and enhanced sensation. The 500mg concentration provides noticeable effects while maintaining a balanced, comfortable application. Ideal for personal wellness routines, this lubricant from Sweetgrass Botanicals reflects their commitment to quality and discretion in cannabis topicals. Experience a new dimension of comfort and pleasure with this thoughtfully crafted intimate product.",
+    "price": "$50",
+    "priceAmount": 50,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/211b8fd5-8e5d-492f-bc8d-b78268d602fb",
+     "alt": "Sweetgrass Botanicals - Personal Lubricant - 500mg"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/shop",
+       "name": "Menu"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "LUBRICANT"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals Personal Lubricant delivers 500mg of cannabis-infused comfort in a premium topical formula designed to enhance intimacy and relaxation. This specialized lubricant combines the natural benefits of cannabis with a smooth, skin-friendly base that absorbs gently without residue. Perfect for those seeking a more connected, relaxed experience, this topical product offers soothing relief and enhanced sensation. The 500mg concentration provides noticeable effects while maintaining a balanced, comfortable application. Ideal for personal wellness routines, this lubricant from Sweetgrass Botanicals reflects their commitment to quality and discretion in cannabis topicals. Experience a new dimension of comfort and pleasure with this thoughtfully crafted intimate product.",
+       "name": "Sweetgrass Botanicals - Personal Lubricant - 500mg",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "50",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-personal-lubricant-500mg-500-mg-topical-500-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/211b8fd5-8e5d-492f-bc8d-b78268d602fb"
+      },
+      "position": "1"
+     }
+    ]
+   }
+  ]
+ }
+}

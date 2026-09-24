@@ -1,0 +1,364 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/collection/topical",
+ "slug": "collection-topical",
+ "type": "collection",
+ "title": "The best topicals | TOPICAL",
+ "seoTitle": "The best topicals | TOPICAL",
+ "model": {
+  "kind": "collection",
+  "level": "category",
+  "path": "/collection/topical",
+  "category": "topical",
+  "subcategory": null,
+  "parentPath": null,
+  "sortParam": null,
+  "capture": {
+   "matchesUrl": true,
+   "signal": null,
+   "observed": null
+  },
+  "h1": "TOPICALS",
+  "banner": {
+   "title": "TOPICALS",
+   "description": null,
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMT5bqstJ9-Dy3_CategoriesBanner-26.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMUJbqstJ9-Dy5_CategoriesBanner-12.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Topical",
+    "href": null
+   }
+  ],
+  "categoryLinks": [
+   {
+    "label": "Deals",
+    "href": "/deals",
+    "ariaLabel": "Go to Deals",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs_KYofJOwHRt1_deals.svg?fit=max&w=128",
+     "alt": "Deals icon"
+    }
+   },
+   {
+    "label": "Flower",
+    "href": "/collection/flower?sort=brandAsc",
+    "ariaLabel": "Go to Flower",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs6aYofJOwHRti_flowers.svg?fit=max&w=128",
+     "alt": "Flower icon"
+    }
+   },
+   {
+    "label": "Vapes",
+    "href": "/collection/cartridge?sort=brandAsc",
+    "ariaLabel": "Go to Vapes",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs9KYofJOwHRtt_vapes.svg?fit=max&w=128",
+     "alt": "Vapes icon"
+    }
+   },
+   {
+    "label": "Pre-Roll",
+    "href": "/collection/preroll?sort=brandAsc",
+    "ariaLabel": "Go to Pre-Roll",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs76YofJOwHRto_rolls.svg?fit=max&w=128",
+     "alt": "Pre-Roll icon"
+    }
+   },
+   {
+    "label": "Edibles",
+    "href": "/collection/edible?sort=priceDesc",
+    "ariaLabel": "Go to Edibles",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs5aYofJOwHRte_edibles.svg?fit=max&w=128",
+     "alt": "Edibles icon"
+    }
+   },
+   {
+    "label": "Extracts",
+    "href": "/collection/extract?sort=brandAsc",
+    "ariaLabel": "Go to Extracts",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs6KYofJOwHRth_extracts.svg?fit=max&w=128",
+     "alt": "Extracts icon"
+    }
+   },
+   {
+    "label": "Drinks",
+    "href": "/collection/beverage?sort=brandAsc",
+    "ariaLabel": "Go to Drinks",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs5KYofJOwHRtd_drinks-3.svg?fit=max&w=128",
+     "alt": "Drinks icon"
+    }
+   },
+   {
+    "label": "Tinctures",
+    "href": "/collection/tincture?sort=brandAsc",
+    "ariaLabel": "Go to Tinctures",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs8qYofJOwHRtr_tinctures.svg?fit=max&w=128",
+     "alt": "Tinctures icon"
+    }
+   },
+   {
+    "label": "Capsules",
+    "href": "/collection/pill?sort=brandAsc",
+    "ariaLabel": "Go to Capsules",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs-aYofJOwHRty_capsules.svg?fit=max&w=128",
+     "alt": "Capsules icon"
+    }
+   },
+   {
+    "label": "Topicals",
+    "href": "/collection/topical?sort=brandAsc",
+    "ariaLabel": "Topicals, current page",
+    "current": true,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs86YofJOwHRts_topicals.svg?fit=max&w=128",
+     "alt": "Topicals icon"
+    }
+   },
+   {
+    "label": "Accessories",
+    "href": "/collection/merch?sort=brandAsc",
+    "ariaLabel": "Go to Accessories",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs9aYofJOwHRtu_accesories.svg?fit=max&w=128",
+     "alt": "Accessories icon"
+    }
+   }
+  ],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "empty",
+  "emptyState": {
+   "heading": "No search results found",
+   "text": "No results match the filter criteria. Remove a filter or clear all filters to search again"
+  },
+  "cards": [],
+  "productCount": 4,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/treeworks-treeworks-canna-cream-rso-1000mg-1000-mg-topical-1000-milligrams",
+    "name": "Treeworks - Canna Cream RSO - 1000MG",
+    "brand": "TREEWORKS",
+    "description": "Treeworks Canna Cream RSO delivers 1000mg of potent cannabis relief in a topical cream designed for targeted comfort. This full-spectrum RSO-infused formula absorbs quickly into the skin, making it ideal for localized relief and anti-inflammatory support. The rich, creamy texture glides on smoothly, providing a discreet and mess-free application perfect for sore muscles, joint discomfort, or everyday wellness routines. Treeworks crafts this topical with quality cannabis extract to deliver consistent potency in every use. Whether you're seeking relief after a workout or managing daily tension, this 1000mg cream offers a powerful, non-intoxicating option that works where you need it most. Easy to apply and fast-acting, it's an essential addition to any cannabis wellness regimen.",
+    "price": "$50",
+    "priceAmount": 50,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a19c9ab4-a0f0-475d-b67f-e47350f084ed",
+     "alt": "Treeworks - Canna Cream RSO - 1000MG"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-personal-lubricant-500mg-500-mg-topical-500-milligrams",
+    "name": "Sweetgrass Botanicals - Personal Lubricant - 500mg",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals Personal Lubricant delivers 500mg of cannabis-infused comfort in a premium topical formula designed to enhance intimacy and relaxation. This specialized lubricant combines the natural benefits of cannabis with a smooth, skin-friendly base that absorbs gently without residue. Perfect for those seeking a more connected, relaxed experience, this topical product offers soothing relief and enhanced sensation. The 500mg concentration provides noticeable effects while maintaining a balanced, comfortable application. Ideal for personal wellness routines, this lubricant from Sweetgrass Botanicals reflects their commitment to quality and discretion in cannabis topicals. Experience a new dimension of comfort and pleasure with this thoughtfully crafted intimate product.",
+    "price": "$50",
+    "priceAmount": 50,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/211b8fd5-8e5d-492f-bc8d-b78268d602fb",
+     "alt": "Sweetgrass Botanicals - Personal Lubricant - 500mg"
+    }
+   },
+   {
+    "position": 3,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-massage-oil-500mg-500-mg-topical-500-milligrams",
+    "name": "Sweetgrass Botanicals - Massage Oil - 500mg",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals Massage Oil delivers 500mg of premium cannabis extract designed to soothe tired muscles and melt away tension. This luxurious topical oil blends seamlessly into skin, providing targeted relief exactly where you need it most. Perfect for post-workout recovery or unwinding after a long day, this massage oil offers relaxing, anti-inflammatory benefits without any psychoactive effects. The silky formula absorbs quickly while nourishing your skin, making it ideal for full-body massage or spot treatment of sore areas. Whether you're seeking relief from everyday aches or simply want to elevate your self-care routine, this 500mg massage oil combines therapeutic cannabis with skin-loving botanicals for a truly restorative experience.",
+    "price": "$70",
+    "priceAmount": 70,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a2017c68-19e3-42f0-8a85-41a45633c25c",
+     "alt": "Sweetgrass Botanicals - Massage Oil - 500mg"
+    }
+   },
+   {
+    "position": 4,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-muscle-salve-300mg-300-mg-topical-300-milligrams",
+    "name": "Sweetgrass Botanicals - Muscle Salve - 300mg",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals Muscle Salve delivers targeted relief in a convenient 300mg topical formula designed for active lifestyles. This soothing salve combines premium cannabis extract with nourishing botanicals to provide localized comfort exactly where you need it most. Simply massage into tired, sore muscles after workouts, long days, or whenever tension strikes. The rich, non-greasy texture absorbs quickly, making it ideal for on-the-go relief without residue. Whether you're an athlete seeking post-exercise recovery or simply need everyday muscle support, this 300mg salve offers a natural approach to wellness. Perfect for addressing discomfort in backs, shoulders, knees, and joints, it delivers fast-acting comfort without psychoactive effects. Experience the power of plant-based relief with Sweetgrass Botanicals' carefully crafted topical solution.",
+    "price": "$60",
+    "priceAmount": 60,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/508ed1a8-d0f9-43f5-a238-a6aa1243c1ee",
+     "alt": "Sweetgrass Botanicals - Muscle Salve - 300mg"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/shop",
+       "name": "Menu"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "Topical"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TREEWORKS",
+       "description": "Treeworks Canna Cream RSO delivers 1000mg of potent cannabis relief in a topical cream designed for targeted comfort. This full-spectrum RSO-infused formula absorbs quickly into the skin, making it ideal for localized relief and anti-inflammatory support. The rich, creamy texture glides on smoothly, providing a discreet and mess-free application perfect for sore muscles, joint discomfort, or everyday wellness routines. Treeworks crafts this topical with quality cannabis extract to deliver consistent potency in every use. Whether you&apos;re seeking relief after a workout or managing daily tension, this 1000mg cream offers a powerful, non-intoxicating option that works where you need it most. Easy to apply and fast-acting, it&apos;s an essential addition to any cannabis wellness regimen.",
+       "name": "Treeworks - Canna Cream RSO - 1000MG",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "50",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-canna-cream-rso-1000mg-1000-mg-topical-1000-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a19c9ab4-a0f0-475d-b67f-e47350f084ed"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals Personal Lubricant delivers 500mg of cannabis-infused comfort in a premium topical formula designed to enhance intimacy and relaxation. This specialized lubricant combines the natural benefits of cannabis with a smooth, skin-friendly base that absorbs gently without residue. Perfect for those seeking a more connected, relaxed experience, this topical product offers soothing relief and enhanced sensation. The 500mg concentration provides noticeable effects while maintaining a balanced, comfortable application. Ideal for personal wellness routines, this lubricant from Sweetgrass Botanicals reflects their commitment to quality and discretion in cannabis topicals. Experience a new dimension of comfort and pleasure with this thoughtfully crafted intimate product.",
+       "name": "Sweetgrass Botanicals - Personal Lubricant - 500mg",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "50",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-personal-lubricant-500mg-500-mg-topical-500-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/211b8fd5-8e5d-492f-bc8d-b78268d602fb"
+      },
+      "position": "2"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals Massage Oil delivers 500mg of premium cannabis extract designed to soothe tired muscles and melt away tension. This luxurious topical oil blends seamlessly into skin, providing targeted relief exactly where you need it most. Perfect for post-workout recovery or unwinding after a long day, this massage oil offers relaxing, anti-inflammatory benefits without any psychoactive effects. The silky formula absorbs quickly while nourishing your skin, making it ideal for full-body massage or spot treatment of sore areas. Whether you&apos;re seeking relief from everyday aches or simply want to elevate your self-care routine, this 500mg massage oil combines therapeutic cannabis with skin-loving botanicals for a truly restorative experience.",
+       "name": "Sweetgrass Botanicals - Massage Oil - 500mg",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "70",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-massage-oil-500mg-500-mg-topical-500-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a2017c68-19e3-42f0-8a85-41a45633c25c"
+      },
+      "position": "3"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals Muscle Salve delivers targeted relief in a convenient 300mg topical formula designed for active lifestyles. This soothing salve combines premium cannabis extract with nourishing botanicals to provide localized comfort exactly where you need it most. Simply massage into tired, sore muscles after workouts, long days, or whenever tension strikes. The rich, non-greasy texture absorbs quickly, making it ideal for on-the-go relief without residue. Whether you&apos;re an athlete seeking post-exercise recovery or simply need everyday muscle support, this 300mg salve offers a natural approach to wellness. Perfect for addressing discomfort in backs, shoulders, knees, and joints, it delivers fast-acting comfort without psychoactive effects. Experience the power of plant-based relief with Sweetgrass Botanicals&apos; carefully crafted topical solution.",
+       "name": "Sweetgrass Botanicals - Muscle Salve - 300mg ",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "60",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-muscle-salve-300mg-300-mg-topical-300-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/508ed1a8-d0f9-43f5-a238-a6aa1243c1ee"
+      },
+      "position": "4"
+     }
+    ]
+   }
+  ]
+ }
+}

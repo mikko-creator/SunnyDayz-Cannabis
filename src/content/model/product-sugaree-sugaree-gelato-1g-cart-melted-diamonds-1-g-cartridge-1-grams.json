@@ -1,0 +1,158 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/sugaree-sugaree-gelato-1g-cart-melted-diamonds-1-g-cartridge-1-grams",
+ "slug": "product-sugaree-sugaree-gelato-1g-cart-melted-diamonds-1-g-cartridge-1-grams",
+ "type": "product",
+ "title": "SUGAREE - Sugaree - Gelato - 1G Cart - Melted Diamonds",
+ "seoTitle": "SUGAREE - Sugaree - Gelato - 1G Cart - Melted Diamonds",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Cartridge",
+    "href": "/collection/cartridge"
+   },
+   {
+    "label": "Sugaree - Gelato - 1G Cart - Melted Diamonds",
+    "href": null
+   }
+  ],
+  "h1": "Sugaree - Gelato - 1G Cart - Melted Diamonds",
+  "name": "Sugaree - Gelato - 1G Cart - Melted Diamonds",
+  "brand": {
+   "label": "SUGAREE",
+   "href": "/brand/sugaree"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Indica",
+   "key": "indica",
+   "ariaLabel": "Flower type: Indica"
+  },
+  "category": {
+   "label": "Cartridge",
+   "href": "/collection/cartridge"
+  },
+  "subcategories": [
+   {
+    "label": "510 THREAD",
+    "href": "/collection/cartridge/510-thread"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/8f8524e8-c612-41e0-8a5c-2b05c1db146b?w=3840&q=100",
+   "alt": "Sugaree - Gelato - 1G Cart - Melted Diamonds"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/8f8524e8-c612-41e0-8a5c-2b05c1db146b?w=3840&q=100",
+    "alt": "Sugaree - Gelato - 1G Cart - Melted Diamonds"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": null,
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [],
+  "disclaimer": null,
+  "description": "Sugaree's Gelato 1g cartridge delivers a premium indica experience in a convenient distillate format. This smooth-hitting cart captures Gelato's signature dessert-like profile with sweet, creamy notes complemented by hints of citrus and berry. As an indica-dominant option, it promotes deep relaxation and tranquility, making it ideal for unwinding after a long day or easing into restful sleep. The distillate formulation ensures consistent potency and clean vapor with every draw, while the 510 thread compatibility fits most standard batteries for on-the-go convenience. Gelato's balanced effects may also spark euphoria and happiness alongside its calming properties. Perfect for evening use or anytime you need to melt away stress and tension. Sugaree brings quality craftsmanship to this beloved strain, offering a flavorful and reliable cartridge experience.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "1g",
+    "price": "$20",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$20",
+   "original": null,
+   "ariaLabel": "Product price: $20"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Sugaree - Gelato - 1G Cart - Melted Diamonds to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Sugaree - Gelato - 1G Cart - Melted Diamonds to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "SUGAREE",
+    "href": "/brand/sugaree"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Indica",
+    "href": "/strain/Indica"
+   },
+   {
+    "label": "Package Info",
+    "value": "Sugaree Gelato 1 G Cart Melted Diamonds 1 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "1g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

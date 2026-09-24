@@ -1,0 +1,67 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/daily-deals",
+ "slug": "daily-deals",
+ "type": "listing",
+ "title": "Daily deals",
+ "seoTitle": "Daily deals",
+ "model": {
+  "kind": "daily-deals",
+  "path": "/daily-deals",
+  "theme": null,
+  "capture": {
+   "matchesUrl": null,
+   "signal": null,
+   "observed": null
+  },
+  "h1": null,
+  "banner": null,
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Daily deals",
+    "href": null
+   }
+  ],
+  "promoCarousel": null,
+  "filters": null,
+  "gridState": null,
+  "emptyState": null,
+  "cards": [],
+  "productCount": 0,
+  "products": [],
+  "search": [],
+  "notice": null,
+  "galleries": [],
+  "stores": [],
+  "storeListToggleAriaLabel": null,
+  "map": null,
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "Daily deals"
+      },
+      "position": 2
+     }
+    ]
+   }
+  ]
+ }
+}

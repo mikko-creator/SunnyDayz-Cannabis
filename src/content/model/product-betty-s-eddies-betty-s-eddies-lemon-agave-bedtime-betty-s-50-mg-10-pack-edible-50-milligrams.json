@@ -1,0 +1,133 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-lemon-agave-bedtime-betty-s-50-mg-10-pack-edible-50-milligrams",
+ "slug": "product-betty-s-eddies-betty-s-eddies-lemon-agave-bedtime-betty-s-50-mg-10-pack-edible-50-milligrams",
+ "type": "product",
+ "title": "BETTY'S EDDIES - Betty's Eddies | Lemon Agave | Bedtime Betty's",
+ "seoTitle": "BETTY'S EDDIES - Betty's Eddies | Lemon Agave | Bedtime Betty's",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Betty's Eddies | Lemon Agave | Bedtime Betty's",
+    "href": null
+   }
+  ],
+  "h1": "Betty's Eddies | Lemon Agave | Bedtime Betty's",
+  "name": "Betty's Eddies | Lemon Agave | Bedtime Betty's",
+  "brand": {
+   "label": "BETTY'S EDDIES",
+   "href": "/brand/bettys-eddies"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "CHEW",
+    "href": "/collection/edible/chew"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/8d454e86-c583-4335-a344-130100a1943b?w=3840&q=100",
+   "alt": "Betty's Eddies | Lemon Agave | Bedtime Betty's"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/8d454e86-c583-4335-a344-130100a1943b?w=3840&q=100",
+    "alt": "Betty's Eddies | Lemon Agave | Bedtime Betty's"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "50MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Betty's Eddies Lemon Agave Bedtime Betty's chews deliver 50mg of hybrid cannabis in a delicious, sleep-focused edible. Crafted by Betty's Eddies, these thoughtfully formulated chews combine the bright, zesty flavor of lemon with the smooth sweetness of agave for a perfectly balanced taste experience. As a hybrid product, Bedtime Betty's offers the best of both worlds—gentle relaxation to ease you into restful sleep while maintaining mental clarity. Each chew is designed to help you unwind after a long day, promoting calm and tranquility without overwhelming sedation. The 50mg potency makes these ideal for experienced consumers seeking reliable nighttime relief. Whether you're looking to quiet a busy mind or simply enhance your evening routine, Betty's Eddies Lemon Agave Bedtime Betty's provides a delicious, effective way to support better sleep naturally.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "BETTYS EDDIES",
+    "href": "/brand/bettys-eddies"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "50MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Bettys Eddies Lemon Agave Bedtime Bettys 50 Mg 10 Pack"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

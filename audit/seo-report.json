@@ -1,0 +1,4265 @@
+{
+  "schema": "site-reforge/seo-report@1",
+  "generated": "2026-09-24T01:40:48.368Z",
+  "origin": "https://www.sunnydayzcannabis.com",
+  "buildDir": "dist",
+  "siteUrl": "https://www.sunnydayzcannabis.com",
+  "mode": "standing (clone served elsewhere)",
+  "limits": {
+    "titleMax": 60,
+    "titleMin": 15,
+    "descMax": 160,
+    "descMin": 50
+  },
+  "pages": 264,
+  "emitted": {
+    "wrote": [
+      {
+        "file": "robots.txt",
+        "from": "source robots.txt, Sitemap: lines dropped",
+        "droppedRules": [
+          "Disallow: /404",
+          "Disallow: /account",
+          "Disallow: /orders/",
+          "Disallow: /checkout",
+          "Disallow: /thank-you",
+          "Disallow: /preferences",
+          "Disallow: /checkin",
+          "Disallow: /forgot",
+          "Disallow: /reset",
+          "Disallow: /signin",
+          "Disallow: /signup",
+          "Disallow: /wishlist",
+          "Disallow: /age-gate",
+          "Disallow: /_next/*"
+        ]
+      },
+      {
+        "file": "robots.txt",
+        "from": "rule dropped, path not served here: Disallow: /404 · Disallow: /account · Disallow: /orders/ · Disallow: /checkout · Disallow: /thank-you · Disallow: /preferences · Disallow: /checkin · Disallow: /forgot · Disallow: /reset · Disallow: /signin · Disallow: /signup · Disallow: /wishlist · Disallow: /age-gate · Disallow: /_next/*"
+      },
+      {
+        "file": "sitemap.xml",
+        "from": "250 pages the build actually serves"
+      },
+      {
+        "file": "llms.txt",
+        "from": "250 pages"
+      }
+    ],
+    "skipped": [],
+    "pages": 250
+  },
+  "externalLinks": null,
+  "repaired": {
+    "pagesTouched": 250,
+    "fieldsWritten": 2620
+  },
+  "counts": {
+    "source": {
+      "minor": 515,
+      "blocker": 13,
+      "major": 67
+    },
+    "migration": {
+      "major": 1
+    },
+    "byCode": {
+      "description-too-short": 123,
+      "h1-missing": 13,
+      "schema-missing": 11,
+      "og-title-missing": 118,
+      "og-image-missing": 118,
+      "title-too-short": 84,
+      "canonical-missing": 10,
+      "description-missing": 41,
+      "h1-multiple": 3,
+      "title-too-long": 52,
+      "description-too-long": 1,
+      "title-duplicate": 4,
+      "description-duplicate": 2,
+      "noindex-present": 10,
+      "canonical-points-elsewhere": 5,
+      "url-shape-changed": 1
+    }
+  },
+  "findings": {
+    "source": [
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/",
+        "field": "description",
+        "detail": "27 chars"
+      },
+      {
+        "severity": "blocker",
+        "code": "h1-missing",
+        "page": "https://www.sunnydayzcannabis.com/",
+        "field": "h1",
+        "detail": "no H1 on the page"
+      },
+      {
+        "severity": "minor",
+        "code": "schema-missing",
+        "page": "https://www.sunnydayzcannabis.com/",
+        "field": "jsonLd",
+        "detail": "no structured data"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/Small%20Batch,%20Real%20Farmers,%20Real%20Flavor.",
+        "field": "title",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/Small%20Batch,%20Real%20Farmers,%20Real%20Flavor.",
+        "field": "description",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.sunnydayzcannabis.com/Small%20Batch,%20Real%20Farmers,%20Real%20Flavor.",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "blocker",
+        "code": "h1-missing",
+        "page": "https://www.sunnydayzcannabis.com/Small%20Batch,%20Real%20Farmers,%20Real%20Flavor.",
+        "field": "h1",
+        "detail": "no H1 on the page"
+      },
+      {
+        "severity": "minor",
+        "code": "schema-missing",
+        "page": "https://www.sunnydayzcannabis.com/Small%20Batch,%20Real%20Farmers,%20Real%20Flavor.",
+        "field": "jsonLd",
+        "detail": "no structured data"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/Small%20Batch,%20Real%20Farmers,%20Real%20Flavor.",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/Small%20Batch,%20Real%20Farmers,%20Real%20Flavor.",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/about-us",
+        "field": "title",
+        "detail": "8 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/about-us",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "h1-multiple",
+        "page": "https://www.sunnydayzcannabis.com/about-us",
+        "field": "h1",
+        "detail": "5 H1 elements"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/about-us",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/about-us",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/all-products",
+        "field": "title",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/all-products",
+        "field": "description",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.sunnydayzcannabis.com/all-products",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "blocker",
+        "code": "h1-missing",
+        "page": "https://www.sunnydayzcannabis.com/all-products",
+        "field": "h1",
+        "detail": "no H1 on the page"
+      },
+      {
+        "severity": "minor",
+        "code": "schema-missing",
+        "page": "https://www.sunnydayzcannabis.com/all-products",
+        "field": "jsonLd",
+        "detail": "no structured data"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/all-products",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/all-products",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/blog",
+        "field": "title",
+        "detail": "5 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/blog",
+        "field": "description",
+        "detail": "5 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/blog",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/blog",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/blog/camino-gummies-ranked-by-customer-reviews",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/blog/camino-gummies-ranked-by-customer-reviews",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/blog/camino-gummies-ranked-by-customer-reviews",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/blog/cannabinoids-and-the-body--all-new-products",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/blog/cannabinoids-and-the-body--all-new-products",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/blog/cannabinoids-and-the-body--all-new-products",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/blog/purple-wookie-strain",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/blog/purple-wookie-strain",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/blog/purple-wookie-strain",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/blog/quiz-toasties-classic-and-toasties-bold--which-toa",
+        "field": "title",
+        "detail": "75 chars (limit 60)"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/blog/quiz-toasties-classic-and-toasties-bold--which-toa",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/blog/quiz-toasties-classic-and-toasties-bold--which-toa",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/blog/quiz-toasties-classic-and-toasties-bold--which-toa",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/blog/the-best-strains-for-the-summer",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/blog/the-best-strains-for-the-summer",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/blog/the-best-strains-for-the-summer",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/blog/whats-the-best-vape-pen-for-you",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/blog/whats-the-best-vape-pen-for-you",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/blog/whats-the-best-vape-pen-for-you",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/ahh-moments",
+        "field": "title",
+        "detail": "11 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/ahh-moments",
+        "field": "description",
+        "detail": "11 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/ahh-moments",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/ahh-moments",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/bettys-eddies",
+        "field": "title",
+        "detail": "14 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/bettys-eddies",
+        "field": "description",
+        "detail": "14 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/bettys-eddies",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/bettys-eddies",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/bic",
+        "field": "title",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/bic",
+        "field": "description",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/bic",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/bic",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/blazy-susan",
+        "field": "title",
+        "detail": "11 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/blazy-susan",
+        "field": "description",
+        "detail": "11 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/blazy-susan",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/blazy-susan",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/bountiful-farms",
+        "field": "description",
+        "detail": "15 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/bountiful-farms",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/bountiful-farms",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/breath-free",
+        "field": "title",
+        "detail": "11 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/breath-free",
+        "field": "description",
+        "detail": "11 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/breath-free",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/breath-free",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/breathe-free",
+        "field": "title",
+        "detail": "12 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/breathe-free",
+        "field": "description",
+        "detail": "12 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/breathe-free",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/breathe-free",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/bubbys",
+        "field": "title",
+        "detail": "7 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/bubbys",
+        "field": "description",
+        "detail": "7 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/bubbys",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/bubbys",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/claravita",
+        "field": "title",
+        "detail": "9 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/claravita",
+        "field": "description",
+        "detail": "9 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/claravita",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/claravita",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/coast",
+        "field": "title",
+        "detail": "5 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/coast",
+        "field": "description",
+        "detail": "5 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/coast",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/coast",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/doja",
+        "field": "title",
+        "detail": "4 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/doja",
+        "field": "description",
+        "detail": "4 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/doja",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/doja",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/elements",
+        "field": "title",
+        "detail": "8 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/elements",
+        "field": "description",
+        "detail": "8 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/elements",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/elements",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/grav",
+        "field": "title",
+        "detail": "4 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/grav",
+        "field": "description",
+        "detail": "4 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/grav",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/grav",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/harbor-house",
+        "field": "title",
+        "detail": "12 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/harbor-house",
+        "field": "description",
+        "detail": "12 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/harbor-house",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/harbor-house",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/impressed",
+        "field": "title",
+        "detail": "9 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/impressed",
+        "field": "description",
+        "detail": "9 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/impressed",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/impressed",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/in-house",
+        "field": "title",
+        "detail": "8 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/in-house",
+        "field": "description",
+        "detail": "8 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/in-house",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/in-house",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/kanha",
+        "field": "title",
+        "detail": "5 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/kanha",
+        "field": "description",
+        "detail": "5 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/kanha",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/kanha",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/keef",
+        "field": "title",
+        "detail": "4 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/keef",
+        "field": "description",
+        "detail": "4 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/keef",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/keef",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/levia",
+        "field": "title",
+        "detail": "5 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/levia",
+        "field": "description",
+        "detail": "5 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/levia",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/levia",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/mass-yield",
+        "field": "title",
+        "detail": "10 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/mass-yield",
+        "field": "description",
+        "detail": "10 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/mass-yield",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/mass-yield",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/natures-heritage",
+        "field": "description",
+        "detail": "17 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/natures-heritage",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/natures-heritage",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/omg",
+        "field": "title",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/omg",
+        "field": "description",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/omg",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/omg",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/raw",
+        "field": "title",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/raw",
+        "field": "description",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/raw",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/raw",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/sugaree",
+        "field": "title",
+        "detail": "7 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/sugaree",
+        "field": "description",
+        "detail": "7 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/sugaree",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/sugaree",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/sunnydayz",
+        "field": "title",
+        "detail": "9 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/sunnydayz",
+        "field": "description",
+        "detail": "9 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/sunnydayz",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/sunnydayz",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/sweetgrass-botanicals",
+        "field": "description",
+        "detail": "21 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/sweetgrass-botanicals",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/sweetgrass-botanicals",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/the-fresh-connection",
+        "field": "description",
+        "detail": "20 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/the-fresh-connection",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/the-fresh-connection",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/the-healing-rose",
+        "field": "description",
+        "detail": "16 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/the-healing-rose",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/the-healing-rose",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/tower-three",
+        "field": "title",
+        "detail": "11 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/tower-three",
+        "field": "description",
+        "detail": "11 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/tower-three",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/tower-three",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/treeworks",
+        "field": "title",
+        "detail": "9 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brand/treeworks",
+        "field": "description",
+        "detail": "9 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/treeworks",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brand/treeworks",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brands",
+        "field": "title",
+        "detail": "10 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/brands",
+        "field": "description",
+        "detail": "30 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/brands",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/brands",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/beverage",
+        "field": "description",
+        "detail": "26 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/beverage",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/beverage",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/beverage/other",
+        "field": "title",
+        "detail": "5 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/beverage/other",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/beverage/other",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/beverage/other",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/beverage?sort=brandAsc",
+        "field": "description",
+        "detail": "26 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/beverage?sort=brandAsc",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/beverage?sort=brandAsc",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/cartridge",
+        "field": "description",
+        "detail": "26 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/cartridge",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/cartridge",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/cartridge/510-thread",
+        "field": "title",
+        "detail": "10 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/cartridge/510-thread",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/cartridge/510-thread",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/cartridge/510-thread",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/cartridge/all-in-one",
+        "field": "title",
+        "detail": "10 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/cartridge/all-in-one",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/cartridge/all-in-one",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/cartridge/all-in-one",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/cartridge?sort=brandAsc",
+        "field": "description",
+        "detail": "26 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/cartridge?sort=brandAsc",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/cartridge?sort=brandAsc",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/cbd",
+        "field": "title",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/cbd",
+        "field": "description",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/cbd",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/cbd",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/cbd/topical",
+        "field": "title",
+        "detail": "7 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/cbd/topical",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/cbd/topical",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/cbd/topical",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible",
+        "field": "description",
+        "detail": "25 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/baked-good",
+        "field": "title",
+        "detail": "10 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/baked-good",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/baked-good",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/baked-good",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/chew",
+        "field": "title",
+        "detail": "4 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/chew",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/chew",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/chew",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/chocolate",
+        "field": "title",
+        "detail": "9 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/chocolate",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/chocolate",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/chocolate",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/gummy",
+        "field": "title",
+        "detail": "5 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/gummy",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/gummy",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/gummy",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/oil",
+        "field": "title",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/oil",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/oil",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/oil",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/other",
+        "field": "title",
+        "detail": "5 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/other",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/other",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/other",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible?sort=priceDesc",
+        "field": "description",
+        "detail": "25 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible?sort=priceDesc",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible?sort=priceDesc",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract",
+        "field": "description",
+        "detail": "27 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract/badder",
+        "field": "title",
+        "detail": "6 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract/badder",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract/badder",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract/badder",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract/kief",
+        "field": "title",
+        "detail": "4 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract/kief",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract/kief",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract/kief",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract/live-rosin",
+        "field": "title",
+        "detail": "10 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract/live-rosin",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract/live-rosin",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract/live-rosin",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract/sugar",
+        "field": "title",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract/sugar",
+        "field": "description",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract/sugar",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "blocker",
+        "code": "h1-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract/sugar",
+        "field": "h1",
+        "detail": "no H1 on the page"
+      },
+      {
+        "severity": "minor",
+        "code": "schema-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract/sugar",
+        "field": "jsonLd",
+        "detail": "no structured data"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract/sugar",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract/sugar",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract?sort=brandAsc",
+        "field": "description",
+        "detail": "27 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract?sort=brandAsc",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract?sort=brandAsc",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/flower",
+        "field": "description",
+        "detail": "24 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/flower",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/flower",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/flower/bulk-flower",
+        "field": "title",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/flower/bulk-flower",
+        "field": "description",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/flower/bulk-flower",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "blocker",
+        "code": "h1-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/flower/bulk-flower",
+        "field": "h1",
+        "detail": "no H1 on the page"
+      },
+      {
+        "severity": "minor",
+        "code": "schema-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/flower/bulk-flower",
+        "field": "jsonLd",
+        "detail": "no structured data"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/flower/bulk-flower",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/flower/bulk-flower",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/flower/pre-pack",
+        "field": "title",
+        "detail": "8 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/flower/pre-pack",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/flower/pre-pack",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/flower/pre-pack",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/flower?sort=brandAsc",
+        "field": "description",
+        "detail": "24 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/flower?sort=brandAsc",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/flower?sort=brandAsc",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch",
+        "field": "description",
+        "detail": "28 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/battery",
+        "field": "title",
+        "detail": "7 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/battery",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/battery",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/battery",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/grinder",
+        "field": "title",
+        "detail": "7 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/grinder",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/grinder",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/grinder",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/hat",
+        "field": "title",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/hat",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/hat",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/hat",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/hoodie",
+        "field": "title",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/hoodie",
+        "field": "description",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/hoodie",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "blocker",
+        "code": "h1-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/hoodie",
+        "field": "h1",
+        "detail": "no H1 on the page"
+      },
+      {
+        "severity": "minor",
+        "code": "schema-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/hoodie",
+        "field": "jsonLd",
+        "detail": "no structured data"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/hoodie",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/hoodie",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/lighter",
+        "field": "title",
+        "detail": "7 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/lighter",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/lighter",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/lighter",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/other",
+        "field": "title",
+        "detail": "5 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/other",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/other",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/other",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/pipe",
+        "field": "title",
+        "detail": "4 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/pipe",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/pipe",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/pipe",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/rolling-papers",
+        "field": "title",
+        "detail": "14 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/rolling-papers",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/rolling-papers",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/rolling-papers",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/t-shirt",
+        "field": "title",
+        "detail": "7 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/t-shirt",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/t-shirt",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/t-shirt",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch?sort=brandAsc",
+        "field": "description",
+        "detail": "28 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch?sort=brandAsc",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch?sort=brandAsc",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/pill",
+        "field": "title",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/pill",
+        "field": "description",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/pill",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "blocker",
+        "code": "h1-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/pill",
+        "field": "h1",
+        "detail": "no H1 on the page"
+      },
+      {
+        "severity": "minor",
+        "code": "schema-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/pill",
+        "field": "jsonLd",
+        "detail": "no structured data"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/pill",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/pill",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/pill?sort=brandAsc",
+        "field": "title",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/pill?sort=brandAsc",
+        "field": "description",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/pill?sort=brandAsc",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "blocker",
+        "code": "h1-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/pill?sort=brandAsc",
+        "field": "h1",
+        "detail": "no H1 on the page"
+      },
+      {
+        "severity": "minor",
+        "code": "schema-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/pill?sort=brandAsc",
+        "field": "jsonLd",
+        "detail": "no structured data"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/pill?sort=brandAsc",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/pill?sort=brandAsc",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/preroll",
+        "field": "description",
+        "detail": "28 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/preroll",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/preroll",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/preroll/flower",
+        "field": "title",
+        "detail": "6 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/preroll/flower",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/preroll/flower",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/preroll/flower",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/preroll/infused",
+        "field": "title",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/preroll/infused",
+        "field": "description",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/preroll/infused",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "blocker",
+        "code": "h1-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/preroll/infused",
+        "field": "h1",
+        "detail": "no H1 on the page"
+      },
+      {
+        "severity": "minor",
+        "code": "schema-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/preroll/infused",
+        "field": "jsonLd",
+        "detail": "no structured data"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/preroll/infused",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/preroll/infused",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/preroll?sort=brandAsc",
+        "field": "description",
+        "detail": "28 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/preroll?sort=brandAsc",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/preroll?sort=brandAsc",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/tincture",
+        "field": "description",
+        "detail": "29 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/tincture",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/tincture",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/tincture/other",
+        "field": "title",
+        "detail": "5 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/tincture/other",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/tincture/other",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/tincture/other",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/tincture?sort=brandAsc",
+        "field": "description",
+        "detail": "29 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/tincture?sort=brandAsc",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/tincture?sort=brandAsc",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/topical",
+        "field": "description",
+        "detail": "27 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/topical",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/topical",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/topical/cream",
+        "field": "title",
+        "detail": "5 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/topical/cream",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/topical/cream",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/topical/cream",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/topical/lubricant",
+        "field": "title",
+        "detail": "9 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/topical/lubricant",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/topical/lubricant",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/topical/lubricant",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/topical/oil",
+        "field": "title",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/topical/oil",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/topical/oil",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/topical/oil",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/topical/other",
+        "field": "title",
+        "detail": "5 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/topical/other",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/topical/other",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/topical/other",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/collection/topical?sort=brandAsc",
+        "field": "description",
+        "detail": "27 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/topical?sort=brandAsc",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/collection/topical?sort=brandAsc",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/contact-us",
+        "field": "title",
+        "detail": "10 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/contact-us",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/contact-us",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/contact-us",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/daily-deals",
+        "field": "title",
+        "detail": "11 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/daily-deals",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "blocker",
+        "code": "h1-missing",
+        "page": "https://www.sunnydayzcannabis.com/daily-deals",
+        "field": "h1",
+        "detail": "no H1 on the page"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/daily-deals",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/daily-deals",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/daily-specials",
+        "field": "title",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/daily-specials",
+        "field": "description",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.sunnydayzcannabis.com/daily-specials",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "blocker",
+        "code": "h1-missing",
+        "page": "https://www.sunnydayzcannabis.com/daily-specials",
+        "field": "h1",
+        "detail": "no H1 on the page"
+      },
+      {
+        "severity": "minor",
+        "code": "schema-missing",
+        "page": "https://www.sunnydayzcannabis.com/daily-specials",
+        "field": "jsonLd",
+        "detail": "no structured data"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/daily-specials",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/daily-specials",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/deals",
+        "field": "title",
+        "detail": "10 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/deals",
+        "field": "description",
+        "detail": "17 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/deals",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/deals",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/dispensary/sunny-dayz",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/dispensary/sunny-dayz",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/dispensary/sunny-dayz",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/our-strains",
+        "field": "title",
+        "detail": "11 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/our-strains",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "h1-multiple",
+        "page": "https://www.sunnydayzcannabis.com/our-strains",
+        "field": "h1",
+        "detail": "2 H1 elements"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/our-strains",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/our-strains",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/privacy-policy",
+        "field": "title",
+        "detail": "14 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/privacy-policy",
+        "field": "description",
+        "detail": "14 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/privacy-policy",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/privacy-policy",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product-group/our-products",
+        "field": "title",
+        "detail": "12 chars"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/product-group/our-products",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/product-group/our-products",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/product-group/our-products",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-blueberry-vanilla-dream-rso-chocolate-100-mg-edible-100-milligrams",
+        "field": "title",
+        "detail": "67 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-caramel-crush-calm-rosin-chocolate-100-mg-edible-100-milligrams",
+        "field": "title",
+        "detail": "64 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-raspberry-rosin-revive-chocolate-100-mg-edible-100-milligrams",
+        "field": "title",
+        "detail": "62 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-strawberry-cream-party-rosin-chocolate-100-mg-edible-100-milligrams",
+        "field": "title",
+        "detail": "68 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-cherry-ache-away-eddies-1-4-1-50-mg-10-pack-edible-50-milligrams",
+        "field": "title",
+        "detail": "67 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-lemon-agave-bedtime-betty-s-50-mg-10-pack-edible-50-milligrams",
+        "field": "title",
+        "detail": "63 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-orange-creme-ache-away-pm-1-1-1-50-mg-10-pack-edible-50-milligrams",
+        "field": "title",
+        "detail": "69 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-raspberry-creme-bedtime-betty-s-1-2-1-50-mg-10-pack-edible-50-milligrams",
+        "field": "title",
+        "detail": "75 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-strawberry-lemonade-swirl-beachtime-betty-s-1-1-50-mg-10-pack-edible-50-milligrams",
+        "field": "title",
+        "detail": "85 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-tropical-smoothie-chews-1-6-50-mg-10-pack-edible-50-milligrams",
+        "field": "title",
+        "detail": "65 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/bic-bic-lighter-black-one-size-merch",
+        "field": "description",
+        "detail": "25 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/bic-bic-lighter-color-one-size-merch",
+        "field": "description",
+        "detail": "25 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-filter-tips-book-pink-ultra-wide-one-size-merch",
+        "field": "title",
+        "detail": "64 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-filter-tips-book-purple-ultra-wide-one-size-merch",
+        "field": "title",
+        "detail": "66 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-pink-cones-shorty-53mm-one-size-merch",
+        "field": "description",
+        "detail": "48 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-purple-rolling-papers-king-slim-one-size-merch",
+        "field": "title",
+        "detail": "63 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-blueberry-n-strawberry-1g-pre-roll-3-pack-3-g-preroll-3-grams",
+        "field": "title",
+        "detail": "72 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-haley-s-comet-haze-1g-pre-roll-1-g-preroll-1-grams",
+        "field": "title",
+        "detail": "62 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-lemongrass-gas-1g-pre-roll-3-pack-3-g-preroll-3-grams",
+        "field": "title",
+        "detail": "63 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-mango-smoothie-1g-pre-roll-1-g-3-pack-preroll-1-grams",
+        "field": "title",
+        "detail": "62 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/claravita-claravita-apple-cider-gummies-live-rosin-1-1-100-mg-20-pack-edible-100-milligrams",
+        "field": "title",
+        "detail": "62 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/coast-coast-goodnight-grape-gummy-5-25-100-mg-20-pack-edible-100-milligrams",
+        "field": "description",
+        "detail": "46 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/coast-coast-milk-chocolate-bar-100-mg-edible-100-milligrams",
+        "field": "description",
+        "detail": "42 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/coast-coast-raspberry-lime-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+        "field": "description",
+        "detail": "46 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/coast-coast-s-mores-chocolate-bar-100-mg-edible-100-milligrams",
+        "field": "description",
+        "detail": "45 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/coast-coast-tangerine-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+        "field": "description",
+        "detail": "41 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/doja-doja-confetti-3-5g-flower-3-5-g-flower-3-5-grams",
+        "field": "description",
+        "detail": "36 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/e-z-wider-organic-hemp-cones-1-1-4-one-size-merch",
+        "field": "description",
+        "detail": "41 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/elements-elements-rolling-papers-1-1-4-one-size-merch",
+        "field": "description",
+        "detail": "44 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/grav-classic-spoon-amber-hand-pipe-one-size-merch",
+        "field": "description",
+        "detail": "40 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/grav-classic-spoon-black-hand-pipe-one-size-merch",
+        "field": "description",
+        "detail": "40 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/grav-classic-spoon-blue-hand-pipe-one-size-merch",
+        "field": "description",
+        "detail": "39 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/grav-classic-spoon-green-hand-pipe-one-size-merch",
+        "field": "description",
+        "detail": "40 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/grav-classic-spoon-pink-hand-pipe-one-size-merch",
+        "field": "description",
+        "detail": "39 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/harbor-house-harbor-house-bajah-blast-5g-cartridge-distillate-0-5-g-cartridge-0-5-grams",
+        "field": "title",
+        "detail": "70 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/harbor-house-harbor-house-gmo-1g-pre-roll-1-g-preroll-1-grams",
+        "field": "description",
+        "detail": "47 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/harbor-house-harbor-house-lemon-cherry-sherbert-1g-badder-1-g-extract-1-grams",
+        "field": "title",
+        "detail": "63 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/harbor-house-harbor-house-super-silver-haze-x-albarino-1g-badder-1-g-extract-1-grams",
+        "field": "title",
+        "detail": "70 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/hg-aluminum-grinder-black-2-5-inch-one-size-merch",
+        "field": "description",
+        "detail": "43 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/impressed-impressed-gelonade-1g-pre-roll-1-g-preroll-1-grams",
+        "field": "description",
+        "detail": "46 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/impressed-impressed-zangria-1g-pre-roll-1-g-preroll-1-grams",
+        "field": "description",
+        "detail": "46 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/in-house-in-house-biscotti-1g-dispo-1-g-cartridge-1-grams",
+        "field": "description",
+        "detail": "41 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/in-house-in-house-maui-wowie-1g-dispo-1-g-cartridge-1-grams",
+        "field": "description",
+        "detail": "48 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-cherry-limeade-live-rosin-100-mg-10-pack-edible-100-milligrams",
+        "field": "description",
+        "detail": "49 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/kanha-kanha-strawberry-classic-gummy-100-mg-10-pack-edible-100-milligrams",
+        "field": "description",
+        "detail": "42 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/kanha-kanha-watermelon-classic-gummy-100-mg-10-pack-edible-100-milligrams",
+        "field": "description",
+        "detail": "35 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/keef-keef-orange-soda-5-mg-beverage-5-milligrams",
+        "field": "description",
+        "detail": "25 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/keef-keef-original-cola-5-mg-beverage-5-milligrams",
+        "field": "description",
+        "detail": "27 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/keef-keef-root-beer-soda-5-mg-beverage-5-milligrams",
+        "field": "description",
+        "detail": "28 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/levia-levia-achieve-drops-tincture-500-mg-tincture-500-milligrams",
+        "field": "description",
+        "detail": "40 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/levia-levia-celebrate-drops-tincture-500-mg-tincture-500-milligrams",
+        "field": "description",
+        "detail": "42 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/levia-levia-dream-drops-tincture-500-mg-tincture-500-milligrams",
+        "field": "description",
+        "detail": "38 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-el-jefe-1g-pre-roll-1-g-preroll-1-grams",
+        "field": "description",
+        "detail": "47 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-inzane-in-the-membrane-1g-pre-roll-1-g-preroll-1-grams",
+        "field": "title",
+        "detail": "62 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-inzane-in-the-membrane-3-5g-flower-3-5-g-flower-3-5-grams",
+        "field": "title",
+        "detail": "62 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-rasta-pie-1g-pre-roll-1-g-preroll-1-grams",
+        "field": "description",
+        "detail": "49 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-rasta-pie-3-5g-flower-3-5-g-flower-3-5-grams",
+        "field": "description",
+        "detail": "49 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/nature-s-heritage-nature-s-heritage-grape-diamonds-5g-live-sauce-dispo-0-5-g-cartridge-0-5-grams",
+        "field": "title",
+        "detail": "79 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/nature-s-heritage-nature-s-heritage-tropical-citrus-x-early-lemon-berry-5g-2pk-pre-roll-1-g-preroll-1-grams",
+        "field": "title",
+        "detail": "105 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/omg-omg-chocolate-og-3-5g-flower-3-5-g-flower-3-5-grams",
+        "field": "description",
+        "detail": "38 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/omg-omg-honey-berriez-3-5g-flower-3-5-g-flower-3-5-grams",
+        "field": "description",
+        "detail": "39 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/omg-omg-mac-1-3-5g-flower-3-5-g-flower-3-5-grams",
+        "field": "description",
+        "detail": "31 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/omg-omg-pink-runtz-3-5g-flower-3-5-g-flower-3-5-grams",
+        "field": "description",
+        "detail": "36 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/omg-omg-shady-icee-3-5g-flower-3-5-g-flower-3-5-grams",
+        "field": "description",
+        "detail": "36 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/sunnydayz-sunnydayz-battery-one-size-merch",
+        "field": "description",
+        "detail": "30 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/sunnydayz-sunnydayz-hat-one-size-merch",
+        "field": "description",
+        "detail": "38 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/sunnydayz-sunnydayz-t-shirt-one-size-merch",
+        "field": "description",
+        "detail": "31 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-amplify-1350mg-cbd-cbg-thc-tincture-1350-mg-tincture-1350-milligrams",
+        "field": "title",
+        "detail": "83 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-cereal-milk-1g-live-rosin-1-g-extract-1-grams",
+        "field": "title",
+        "detail": "77 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-cherry-whip-1g-dry-sift-1-g-extract-1-grams",
+        "field": "title",
+        "detail": "73 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-dante-s-lemons-1g-live-rosin-1-g-extract-1-grams",
+        "field": "title",
+        "detail": "80 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-dante-s-lemons-5g-live-rosin-cart-0-5-g-cartridge-0-5-grams",
+        "field": "title",
+        "detail": "84 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-gary-payton-x-apple-mints-1g-live-rosin-1-g-extract-1-grams",
+        "field": "title",
+        "detail": "91 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-goodnight-hash-caps-thc-cbn-100-mg-20-pack-edible-100-milligrams",
+        "field": "title",
+        "detail": "79 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-honeydew-1g-live-rosin-1-g-extract-1-grams",
+        "field": "title",
+        "detail": "74 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-honeydew-5g-live-rosin-cart-0-5-g-cartridge-0-5-grams",
+        "field": "title",
+        "detail": "78 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-infused-olive-oil-250mg-250-mg-edible-250-milligrams",
+        "field": "title",
+        "detail": "73 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-infused-olive-oil-500mg-500-mg-edible-500-milligrams",
+        "field": "title",
+        "detail": "73 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-massage-oil-500mg-500-mg-topical-500-milligrams",
+        "field": "title",
+        "detail": "67 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-muscle-salve-300mg-300-mg-topical-300-milligrams",
+        "field": "title",
+        "detail": "68 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-personal-lubricant-500mg-500-mg-topical-500-milligrams",
+        "field": "title",
+        "detail": "74 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-slurricane-1g-live-rosin-1-g-extract-1-grams",
+        "field": "title",
+        "detail": "76 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-solventless-hash-caps-100-mg-20-pack-edible-100-milligrams",
+        "field": "title",
+        "detail": "69 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-sour-gary-5g-live-rosin-cart-0-5-g-cartridge-0-5-grams",
+        "field": "title",
+        "detail": "79 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-superboof-1g-live-rosin-1-g-extract-1-grams",
+        "field": "title",
+        "detail": "75 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-dante-s-inferno-1g-pre-roll-1-g-preroll-1-grams",
+        "field": "title",
+        "detail": "75 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-dante-s-inferno-3-5g-flower-3-5-g-flower-3-5-grams",
+        "field": "title",
+        "detail": "75 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-mac-31-1g-pre-roll-1-g-preroll-1-grams",
+        "field": "title",
+        "detail": "66 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-mucho-melon-1g-pre-roll-1-g-preroll-1-grams",
+        "field": "title",
+        "detail": "71 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-mucho-melon-3-5g-flower-3-5-g-flower-3-5-grams",
+        "field": "title",
+        "detail": "71 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-perfect-pair-1g-pre-roll-1-g-preroll-1-grams",
+        "field": "title",
+        "detail": "72 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/the-healing-rose-healing-rose-lemon-ginger-200mg-cbd-cbg-8x-200-mg-cbd-200-milligrams",
+        "field": "title",
+        "detail": "69 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-dosido-3-5g-flower-3-5-g-flower-3-5-grams",
+        "field": "description",
+        "detail": "48 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-og-kush-1g-pre-roll-1-g-preroll-1-grams",
+        "field": "description",
+        "detail": "49 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-canna-cream-rso-1000mg-1000-mg-topical-1000-milligrams",
+        "field": "description",
+        "detail": "48 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-gentle-drops-990mg-990-mg-tincture-990-milligrams",
+        "field": "description",
+        "detail": "43 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-purist-drops-2000mg-2000-mg-tincture-2000-milligrams",
+        "field": "description",
+        "detail": "45 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-long",
+        "page": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-sleep-relief-live-hash-rosin-gummies-700mg-700-mg-10-pack-edible-700-milligrams",
+        "field": "title",
+        "detail": "72 chars (limit 60)"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/promotions",
+        "field": "description",
+        "detail": "17 chars"
+      },
+      {
+        "severity": "blocker",
+        "code": "h1-missing",
+        "page": "https://www.sunnydayzcannabis.com/promotions",
+        "field": "h1",
+        "detail": "no H1 on the page"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/promotions",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/promotions",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/shop",
+        "field": "title",
+        "detail": "9 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/shop",
+        "field": "description",
+        "detail": "9 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/shop",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/shop",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/store-locator",
+        "field": "title",
+        "detail": "13 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/store-locator",
+        "field": "description",
+        "detail": "13 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/store-locator",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/store-locator",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/strain/Cbd",
+        "field": "title",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/strain/Cbd",
+        "field": "description",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/strain/Cbd",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/strain/Cbd",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/strain/Hybrid",
+        "field": "title",
+        "detail": "6 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/strain/Hybrid",
+        "field": "description",
+        "detail": "6 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/strain/Hybrid",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/strain/Hybrid",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/strain/Indica",
+        "field": "title",
+        "detail": "6 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/strain/Indica",
+        "field": "description",
+        "detail": "6 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/strain/Indica",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/strain/Indica",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/strain/S%20I",
+        "field": "title",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/strain/S%20I",
+        "field": "description",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "major",
+        "code": "canonical-missing",
+        "page": "https://www.sunnydayzcannabis.com/strain/S%20I",
+        "field": "canonical",
+        "detail": "no rel=canonical"
+      },
+      {
+        "severity": "blocker",
+        "code": "h1-missing",
+        "page": "https://www.sunnydayzcannabis.com/strain/S%20I",
+        "field": "h1",
+        "detail": "no H1 on the page"
+      },
+      {
+        "severity": "minor",
+        "code": "schema-missing",
+        "page": "https://www.sunnydayzcannabis.com/strain/S%20I",
+        "field": "jsonLd",
+        "detail": "no structured data"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/strain/S%20I",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/strain/S%20I",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/strain/Sativa",
+        "field": "title",
+        "detail": "6 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/strain/Sativa",
+        "field": "description",
+        "detail": "6 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/strain/Sativa",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/strain/Sativa",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/strain/cbd",
+        "field": "title",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/strain/cbd",
+        "field": "description",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/strain/cbd",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/strain/cbd",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/strain/hybrid",
+        "field": "title",
+        "detail": "6 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/strain/hybrid",
+        "field": "description",
+        "detail": "6 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/strain/hybrid",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/strain/hybrid",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/strain/indica",
+        "field": "title",
+        "detail": "6 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/strain/indica",
+        "field": "description",
+        "detail": "6 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/strain/indica",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/strain/indica",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/strain/sativa",
+        "field": "title",
+        "detail": "6 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/strain/sativa",
+        "field": "description",
+        "detail": "6 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/strain/sativa",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/strain/sativa",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "title-too-short",
+        "page": "https://www.sunnydayzcannabis.com/strain/si",
+        "field": "title",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-short",
+        "page": "https://www.sunnydayzcannabis.com/strain/si",
+        "field": "description",
+        "detail": "3 chars"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/strain/si",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/strain/si",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "minor",
+        "code": "description-too-long",
+        "page": "https://www.sunnydayzcannabis.com/terms-and-conditions",
+        "field": "description",
+        "detail": "266 chars (limit 160)"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/terms-and-conditions",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/terms-and-conditions",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "major",
+        "code": "description-missing",
+        "page": "https://www.sunnydayzcannabis.com/weed-delivery/dispensary-in-glendale",
+        "field": "description",
+        "detail": "no meta description"
+      },
+      {
+        "severity": "minor",
+        "code": "h1-multiple",
+        "page": "https://www.sunnydayzcannabis.com/weed-delivery/dispensary-in-glendale",
+        "field": "h1",
+        "detail": "2 H1 elements"
+      },
+      {
+        "severity": "minor",
+        "code": "og-title-missing",
+        "page": "https://www.sunnydayzcannabis.com/weed-delivery/dispensary-in-glendale",
+        "field": "og:title",
+        "detail": "no og:title"
+      },
+      {
+        "severity": "minor",
+        "code": "og-image-missing",
+        "page": "https://www.sunnydayzcannabis.com/weed-delivery/dispensary-in-glendale",
+        "field": "og:image",
+        "detail": "no social preview image"
+      },
+      {
+        "severity": "major",
+        "code": "title-duplicate",
+        "page": "https://www.sunnydayzcannabis.com/Small%20Batch,%20Real%20Farmers,%20Real%20Flavor.",
+        "field": "title",
+        "detail": "10 pages share \"404\" and do NOT share one canonical — e.g. https://www.sunnydayzcannabis.com/Small%20Batch,%20Real%20Farmers,%20Real%20Flavor. , https://www.sunnydayzcannabis.com/all-products , https://www.sunnydayzcannabis.com/collection/extract/sugar"
+      },
+      {
+        "severity": "major",
+        "code": "title-duplicate",
+        "page": "https://www.sunnydayzcannabis.com/collection/beverage/other",
+        "field": "title",
+        "detail": "5 pages share \"OTHER\" and do NOT share one canonical — e.g. https://www.sunnydayzcannabis.com/collection/beverage/other , https://www.sunnydayzcannabis.com/collection/edible/other , https://www.sunnydayzcannabis.com/collection/merch/other"
+      },
+      {
+        "severity": "major",
+        "code": "title-duplicate",
+        "page": "https://www.sunnydayzcannabis.com/collection/cbd",
+        "field": "title",
+        "detail": "3 pages share \"CBD\" and do NOT share one canonical — e.g. https://www.sunnydayzcannabis.com/collection/cbd , https://www.sunnydayzcannabis.com/strain/Cbd , https://www.sunnydayzcannabis.com/strain/cbd"
+      },
+      {
+        "severity": "major",
+        "code": "title-duplicate",
+        "page": "https://www.sunnydayzcannabis.com/collection/edible/oil",
+        "field": "title",
+        "detail": "2 pages share \"OIL\" and do NOT share one canonical — e.g. https://www.sunnydayzcannabis.com/collection/edible/oil , https://www.sunnydayzcannabis.com/collection/topical/oil"
+      },
+      {
+        "severity": "major",
+        "code": "description-duplicate",
+        "page": "https://www.sunnydayzcannabis.com/Small%20Batch,%20Real%20Farmers,%20Real%20Flavor.",
+        "field": "description",
+        "detail": "10 pages share a description and do NOT share one canonical — e.g. https://www.sunnydayzcannabis.com/Small%20Batch,%20Real%20Farmers,%20Real%20Flavor. , https://www.sunnydayzcannabis.com/all-products , https://www.sunnydayzcannabis.com/collection/extract/sugar"
+      },
+      {
+        "severity": "major",
+        "code": "description-duplicate",
+        "page": "https://www.sunnydayzcannabis.com/collection/cbd",
+        "field": "description",
+        "detail": "3 pages share a description and do NOT share one canonical — e.g. https://www.sunnydayzcannabis.com/collection/cbd , https://www.sunnydayzcannabis.com/strain/Cbd , https://www.sunnydayzcannabis.com/strain/cbd"
+      },
+      {
+        "severity": "major",
+        "code": "noindex-present",
+        "page": "https://www.sunnydayzcannabis.com/Small%20Batch,%20Real%20Farmers,%20Real%20Flavor.",
+        "field": "robots",
+        "detail": "page asks not to be indexed: \"noindex\""
+      },
+      {
+        "severity": "major",
+        "code": "noindex-present",
+        "page": "https://www.sunnydayzcannabis.com/all-products",
+        "field": "robots",
+        "detail": "page asks not to be indexed: \"noindex\""
+      },
+      {
+        "severity": "major",
+        "code": "noindex-present",
+        "page": "https://www.sunnydayzcannabis.com/collection/extract/sugar",
+        "field": "robots",
+        "detail": "page asks not to be indexed: \"noindex\""
+      },
+      {
+        "severity": "major",
+        "code": "noindex-present",
+        "page": "https://www.sunnydayzcannabis.com/collection/flower/bulk-flower",
+        "field": "robots",
+        "detail": "page asks not to be indexed: \"noindex\""
+      },
+      {
+        "severity": "major",
+        "code": "noindex-present",
+        "page": "https://www.sunnydayzcannabis.com/collection/merch/hoodie",
+        "field": "robots",
+        "detail": "page asks not to be indexed: \"noindex\""
+      },
+      {
+        "severity": "major",
+        "code": "noindex-present",
+        "page": "https://www.sunnydayzcannabis.com/collection/pill",
+        "field": "robots",
+        "detail": "page asks not to be indexed: \"noindex\""
+      },
+      {
+        "severity": "major",
+        "code": "noindex-present",
+        "page": "https://www.sunnydayzcannabis.com/collection/pill?sort=brandAsc",
+        "field": "robots",
+        "detail": "page asks not to be indexed: \"noindex\""
+      },
+      {
+        "severity": "major",
+        "code": "noindex-present",
+        "page": "https://www.sunnydayzcannabis.com/collection/preroll/infused",
+        "field": "robots",
+        "detail": "page asks not to be indexed: \"noindex\""
+      },
+      {
+        "severity": "major",
+        "code": "noindex-present",
+        "page": "https://www.sunnydayzcannabis.com/daily-specials",
+        "field": "robots",
+        "detail": "page asks not to be indexed: \"noindex\""
+      },
+      {
+        "severity": "minor",
+        "code": "canonical-points-elsewhere",
+        "page": "https://www.sunnydayzcannabis.com/strain/Cbd",
+        "field": "canonical",
+        "detail": "canonicalises to /strain/cbd — that page is indexed, this one is not"
+      },
+      {
+        "severity": "minor",
+        "code": "canonical-points-elsewhere",
+        "page": "https://www.sunnydayzcannabis.com/strain/Hybrid",
+        "field": "canonical",
+        "detail": "canonicalises to /strain/hybrid — that page is indexed, this one is not"
+      },
+      {
+        "severity": "minor",
+        "code": "canonical-points-elsewhere",
+        "page": "https://www.sunnydayzcannabis.com/strain/Indica",
+        "field": "canonical",
+        "detail": "canonicalises to /strain/indica — that page is indexed, this one is not"
+      },
+      {
+        "severity": "major",
+        "code": "noindex-present",
+        "page": "https://www.sunnydayzcannabis.com/strain/S%20I",
+        "field": "robots",
+        "detail": "page asks not to be indexed: \"noindex\""
+      },
+      {
+        "severity": "minor",
+        "code": "canonical-points-elsewhere",
+        "page": "https://www.sunnydayzcannabis.com/strain/Sativa",
+        "field": "canonical",
+        "detail": "canonicalises to /strain/sativa — that page is indexed, this one is not"
+      },
+      {
+        "severity": "minor",
+        "code": "canonical-points-elsewhere",
+        "page": "https://www.sunnydayzcannabis.com/strain/si",
+        "field": "canonical",
+        "detail": "canonicalises to /strain/s/i — that page is indexed, this one is not"
+      }
+    ],
+    "migration": [
+      {
+        "severity": "major",
+        "code": "url-shape-changed",
+        "page": "-",
+        "field": "url",
+        "detail": "241 of 242 URLs changed shape (e.g. /about -> /about.html) — not blocking: this build stands beside the original, it does not replace it"
+      }
+    ]
+  },
+  "note": "APPLIED. This run wrote into the build: 2620 field(s) on 250 page(s), each recorded in audit/seo-changes.json with its source. SOURCE findings are the live site's own defects and repairing them is an improvement, not a preservation. MIGRATION findings are damage the rebuild created and did not exist on the source."
+}

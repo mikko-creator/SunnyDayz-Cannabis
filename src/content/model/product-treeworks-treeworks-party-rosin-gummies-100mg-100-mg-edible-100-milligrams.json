@@ -1,0 +1,155 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-party-rosin-gummies-100mg-100-mg-edible-100-milligrams",
+ "slug": "product-treeworks-treeworks-party-rosin-gummies-100mg-100-mg-edible-100-milligrams",
+ "type": "product",
+ "title": "TREEWORKS - Treeworks - Party - Rosin Gummies - 100MG",
+ "seoTitle": "TREEWORKS - Treeworks - Party - Rosin Gummies - 100MG",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Treeworks - Party - Rosin Gummies - 100MG",
+    "href": null
+   }
+  ],
+  "h1": "Treeworks - Party - Rosin Gummies - 100MG",
+  "name": "Treeworks - Party - Rosin Gummies - 100MG",
+  "brand": {
+   "label": "TREEWORKS",
+   "href": "/brand/treeworks"
+  },
+  "badges": [],
+  "strainType": null,
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "OTHER",
+    "href": "/collection/edible/other"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/3b2b60d3-ab59-4639-bccf-4400212b4be5?w=3840&q=100",
+   "alt": "Treeworks - Party - Rosin Gummies - 100MG"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/3b2b60d3-ab59-4639-bccf-4400212b4be5?w=3840&q=100",
+    "alt": "Treeworks - Party - Rosin Gummies - 100MG"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "100MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Treeworks Party Rosin Gummies deliver 100mg of premium cannabis in convenient, delicious edible form. Each gummy is crafted with high-quality rosin, preserving the natural compounds and full-spectrum benefits that cannabis enthusiasts appreciate. Perfect for social gatherings or unwinding after a long day, these gummies offer a reliable, enjoyable experience with consistent dosing. The Party edition brings vibrant flavor and smooth effects, making it easy to elevate any occasion. Whether you're seeking relaxation, euphoria, or simply a good time with friends, Treeworks combines quality extraction methods with tasty, approachable edibles. Ideal for both newcomers and experienced users looking for a flavorful, potent option.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "each",
+    "price": "$30",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$30",
+   "original": null,
+   "ariaLabel": "Product price: $30"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Treeworks - Party - Rosin Gummies - 100MG to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Treeworks - Party - Rosin Gummies - 100MG to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "TREEWORKS",
+    "href": "/brand/treeworks"
+   },
+   {
+    "label": "THC",
+    "value": "100MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Treeworks Party Rosin Gummies 100 Mg 100 Mg"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

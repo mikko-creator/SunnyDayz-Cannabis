@@ -1,0 +1,127 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-superboof-5g-live-hash-rosin-0-5-g-cartridge-0-5-grams",
+ "slug": "product-treeworks-treeworks-superboof-5g-live-hash-rosin-0-5-g-cartridge-0-5-grams",
+ "type": "product",
+ "title": "TREEWORKS - Treeworks - Superboof - .5G - Live Hash Rosin",
+ "seoTitle": "TREEWORKS - Treeworks - Superboof - .5G - Live Hash Rosin",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Cartridge",
+    "href": "/collection/cartridge"
+   },
+   {
+    "label": "Treeworks - Superboof - .5G - Live Hash Rosin",
+    "href": null
+   }
+  ],
+  "h1": "Treeworks - Superboof - .5G - Live Hash Rosin",
+  "name": "Treeworks - Superboof - .5G - Live Hash Rosin",
+  "brand": {
+   "label": "TREEWORKS",
+   "href": "/brand/treeworks"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Sativa",
+   "key": "sativa",
+   "ariaLabel": "Flower type: Sativa"
+  },
+  "category": {
+   "label": "Cartridge",
+   "href": "/collection/cartridge"
+  },
+  "subcategories": [
+   {
+    "label": "510 THREAD",
+    "href": "/collection/cartridge/510-thread"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/74437705-a6f9-4b13-bc37-ec433752f923?w=3840&q=100",
+   "alt": "Treeworks - Superboof - .5G - Live Hash Rosin"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/74437705-a6f9-4b13-bc37-ec433752f923?w=3840&q=100",
+    "alt": "Treeworks - Superboof - .5G - Live Hash Rosin"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": null,
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [],
+  "disclaimer": null,
+  "description": "Treeworks brings you Superboof in a premium 0.5g live hash rosin cartridge that delivers uncompromising quality and potency. This cartridge features solventless live hash rosin extracted from fresh-frozen cannabis, preserving the full spectrum of cannabinoids and terpenes for an authentic, strain-specific experience. Superboof is known for its rich, complex flavor profile with earthy, fruity, and gassy notes that captivate the senses. Each draw offers smooth vapor and powerful effects that cannabis connoisseurs crave. The live hash rosin extraction process ensures you're getting the purest, most flavorful concentrate without any solvents or additives. Ideal for those seeking elevated potency and true-to-plant taste, this 0.5g cartridge fits standard 510 thread batteries for convenient, on-the-go enjoyment. Experience the Treeworks difference with Superboof—where craft meets quality in every puff.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "TREEWORKS",
+    "href": "/brand/treeworks"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Sativa",
+    "href": "/strain/Sativa"
+   },
+   {
+    "label": "Package Info",
+    "value": "Treeworks Superboof 5 G Live Hash Rosin 0 5 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "0.5g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

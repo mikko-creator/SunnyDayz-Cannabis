@@ -1,0 +1,114 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/elements-elements-rolling-papers-1-1-4-one-size-merch",
+ "slug": "product-elements-elements-rolling-papers-1-1-4-one-size-merch",
+ "type": "product",
+ "title": "ELEMENTS - Elements - Rolling Papers - 1 1/4",
+ "seoTitle": "ELEMENTS - Elements - Rolling Papers - 1 1/4",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Merch",
+    "href": "/collection/merch"
+   },
+   {
+    "label": "Elements - Rolling Papers - 1 1/4",
+    "href": null
+   }
+  ],
+  "h1": "Elements - Rolling Papers - 1 1/4",
+  "name": "Elements - Rolling Papers - 1 1/4",
+  "brand": {
+   "label": "ELEMENTS",
+   "href": "/brand/elements"
+  },
+  "badges": [],
+  "strainType": null,
+  "category": {
+   "label": "Merch",
+   "href": "/collection/merch"
+  },
+  "subcategories": [
+   {
+    "label": "ROLLING PAPERS",
+    "href": "/collection/merch/rolling-papers"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/6b5e4964-23d7-4275-b06c-e66d28afd770?w=3840&q=100",
+   "alt": "Elements - Rolling Papers - 1 1/4"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/6b5e4964-23d7-4275-b06c-e66d28afd770?w=3840&q=100",
+    "alt": "Elements - Rolling Papers - 1 1/4"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": null,
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [],
+  "disclaimer": null,
+  "description": "Elements Rolling Papers in the classic 1 1/4 size deliver a premium rolling experience for discerning smokers. Crafted by Elements, these ultra-thin papers are made from rice and natural sugar gum, burning slowly and evenly with minimal ash. The transparent design showcases your roll while the watermark crisscross pattern ensures a consistent, smooth burn every time. Free from chemicals and additives, Elements rolling papers complement your flower's natural flavors without interference. Each booklet features the brand's signature magnetic closure for freshness and portability. Whether you're rolling at home or on the go, these papers provide a clean, pure smoking experience that lets the true characteristics of your cannabis shine through.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "ELEMENTS",
+    "href": "/brand/elements"
+   },
+   {
+    "label": "Package Info",
+    "value": "Elements Rolling Papers 1 1 4 One Size"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

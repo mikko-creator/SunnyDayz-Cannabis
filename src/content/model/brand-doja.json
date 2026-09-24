@@ -1,0 +1,134 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/brand/doja",
+ "slug": "brand-doja",
+ "type": "brand",
+ "title": "DOJA",
+ "seoTitle": "DOJA",
+ "model": {
+  "kind": "brand",
+  "path": "/brand/doja",
+  "slug": "doja",
+  "name": "DOJA",
+  "h1": "DOJA",
+  "logo": null,
+  "banner": {
+   "title": "DOJA",
+   "description": "Shop cannabis products from DOJA at a dispensary near you",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Brands",
+    "href": "/brands"
+   },
+   {
+    "label": "DOJA",
+    "href": null
+   }
+  ],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "empty",
+  "emptyState": {
+   "heading": "No search results found",
+   "text": "No results match the filter criteria. Remove a filter or clear all filters to search again"
+  },
+  "cards": [],
+  "productCount": 1,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/doja-doja-confetti-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Doja Confetti - 3.5G Flower",
+    "brand": "DOJA",
+    "description": "Doja Confetti brings a celebration of premium cannabis flower to your collection. This 3.5g pre-pack showcases Doja's commitment to quality and craft, delivering a flower experience designed for discerning consumers. Each bud is carefully cultivated and hand-selected to ensure optimal freshness, potency, and visual appeal. The Confetti strain offers a dynamic profile that cannabis enthusiasts will appreciate, combining rich aromatic qualities with satisfying effects. Whether you're unwinding after a long day or seeking creative inspiration, this pre-packed flower provides consistent quality in a convenient format. Doja's attention to detail shines through in every aspect, from cultivation to packaging, ensuring you receive a product that meets the highest standards. Perfect for those who value reliability and excellence in their cannabis flower selections.",
+    "price": "$40",
+    "priceAmount": 40,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5a028ed-a685-492e-9b17-4c95178cc3af",
+     "alt": "Doja Confetti - 3.5G Flower"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/brands",
+       "name": "Brands"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "DOJA"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "DOJA",
+       "description": "Doja Confetti brings a celebration of premium cannabis flower to your collection. This 3.5g pre-pack showcases Doja&apos;s commitment to quality and craft, delivering a flower experience designed for discerning consumers. Each bud is carefully cultivated and hand-selected to ensure optimal freshness, potency, and visual appeal. The Confetti strain offers a dynamic profile that cannabis enthusiasts will appreciate, combining rich aromatic qualities with satisfying effects. Whether you&apos;re unwinding after a long day or seeking creative inspiration, this pre-packed flower provides consistent quality in a convenient format. Doja&apos;s attention to detail shines through in every aspect, from cultivation to packaging, ensuring you receive a product that meets the highest standards. Perfect for those who value reliability and excellence in their cannabis flower selections.",
+       "name": "Doja Confetti - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/doja-doja-confetti-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5a028ed-a685-492e-9b17-4c95178cc3af"
+      },
+      "position": "1"
+     }
+    ]
+   }
+  ]
+ }
+}

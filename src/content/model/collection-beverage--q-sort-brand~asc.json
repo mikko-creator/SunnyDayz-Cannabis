@@ -1,0 +1,324 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/collection/beverage?sort=brandAsc",
+ "slug": "collection-beverage--q-sort-brand~asc",
+ "type": "collection",
+ "title": "The best drinks | BEVERAGE",
+ "seoTitle": "The best drinks | BEVERAGE",
+ "model": {
+  "kind": "collection",
+  "level": "category",
+  "path": "/collection/beverage",
+  "category": "beverage",
+  "subcategory": null,
+  "parentPath": null,
+  "sortParam": "brandAsc",
+  "capture": {
+   "matchesUrl": true,
+   "signal": null,
+   "observed": null
+  },
+  "h1": "DRINKS",
+  "banner": {
+   "title": "DRINKS",
+   "description": null,
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMTZbqstJ9-Dy1_CategoriesBanner-15.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMTpbqstJ9-Dy2_CategoriesBanner-1.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Drinks",
+    "href": null
+   }
+  ],
+  "categoryLinks": [
+   {
+    "label": "Deals",
+    "href": "/deals",
+    "ariaLabel": "Go to Deals",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs_KYofJOwHRt1_deals.svg?fit=max&w=128",
+     "alt": "Deals icon"
+    }
+   },
+   {
+    "label": "Flower",
+    "href": "/collection/flower?sort=brandAsc",
+    "ariaLabel": "Go to Flower",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs6aYofJOwHRti_flowers.svg?fit=max&w=128",
+     "alt": "Flower icon"
+    }
+   },
+   {
+    "label": "Vapes",
+    "href": "/collection/cartridge?sort=brandAsc",
+    "ariaLabel": "Go to Vapes",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs9KYofJOwHRtt_vapes.svg?fit=max&w=128",
+     "alt": "Vapes icon"
+    }
+   },
+   {
+    "label": "Pre-Roll",
+    "href": "/collection/preroll?sort=brandAsc",
+    "ariaLabel": "Go to Pre-Roll",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs76YofJOwHRto_rolls.svg?fit=max&w=128",
+     "alt": "Pre-Roll icon"
+    }
+   },
+   {
+    "label": "Edibles",
+    "href": "/collection/edible?sort=priceDesc",
+    "ariaLabel": "Go to Edibles",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs5aYofJOwHRte_edibles.svg?fit=max&w=128",
+     "alt": "Edibles icon"
+    }
+   },
+   {
+    "label": "Extracts",
+    "href": "/collection/extract?sort=brandAsc",
+    "ariaLabel": "Go to Extracts",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs6KYofJOwHRth_extracts.svg?fit=max&w=128",
+     "alt": "Extracts icon"
+    }
+   },
+   {
+    "label": "Drinks",
+    "href": "/collection/beverage?sort=brandAsc",
+    "ariaLabel": "Drinks, current page",
+    "current": true,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs5KYofJOwHRtd_drinks-3.svg?fit=max&w=128",
+     "alt": "Drinks icon"
+    }
+   },
+   {
+    "label": "Tinctures",
+    "href": "/collection/tincture?sort=brandAsc",
+    "ariaLabel": "Go to Tinctures",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs8qYofJOwHRtr_tinctures.svg?fit=max&w=128",
+     "alt": "Tinctures icon"
+    }
+   },
+   {
+    "label": "Capsules",
+    "href": "/collection/pill?sort=brandAsc",
+    "ariaLabel": "Go to Capsules",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs-aYofJOwHRty_capsules.svg?fit=max&w=128",
+     "alt": "Capsules icon"
+    }
+   },
+   {
+    "label": "Topicals",
+    "href": "/collection/topical?sort=brandAsc",
+    "ariaLabel": "Go to Topicals",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs86YofJOwHRts_topicals.svg?fit=max&w=128",
+     "alt": "Topicals icon"
+    }
+   },
+   {
+    "label": "Accessories",
+    "href": "/collection/merch?sort=brandAsc",
+    "ariaLabel": "Go to Accessories",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs9aYofJOwHRtu_accesories.svg?fit=max&w=128",
+     "alt": "Accessories icon"
+    }
+   }
+  ],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": "Brand A to Z",
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "loading",
+  "emptyState": null,
+  "cards": [],
+  "productCount": 3,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/keef-keef-orange-soda-5-mg-beverage-5-milligrams",
+    "name": "Keef | Orange Soda",
+    "brand": "KEEF",
+    "description": "Keef Orange Soda delivers a refreshing cannabis-infused beverage experience with 5 mg of hybrid THC per bottle. This delicious soda combines the classic taste of bright, citrusy orange with the balanced effects of a hybrid strain, making it perfect for any time of day. Each sip offers uplifting and relaxing sensations that can help you feel happy, focused, and social without overwhelming intensity. The low 5 mg dose makes this an ideal choice for both new consumers and experienced users seeking a controlled, enjoyable experience. Keef's Orange Soda is fast-acting, allowing you to feel effects within minutes, and provides a discreet, smoke-free way to enjoy cannabis. Whether you're unwinding after work, enhancing a social gathering, or simply craving a flavorful refreshment, this hybrid-infused orange soda offers a smooth, consistent experience in every bottle.",
+    "price": "$7",
+    "priceAmount": 7,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2e428208-7faf-4db3-bf39-0d60224c96f3",
+     "alt": "Keef | Orange Soda"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/keef-keef-original-cola-5-mg-beverage-5-milligrams",
+    "name": "Keef | Original Cola",
+    "brand": "KEEF",
+    "description": "Keef Original Cola brings the classic soda experience to the cannabis beverage space with a perfectly balanced hybrid twist. This 5 mg THC-infused refreshment delivers the iconic cola flavor you know and love—sweet, crisp, and effervescent—while offering a gentle, approachable dose ideal for both newcomers and seasoned enthusiasts. As a hybrid beverage, it promotes a harmonious blend of uplifting and relaxing effects, making it perfect for social gatherings, creative pursuits, or simply unwinding after a long day. Keef has crafted a fast-acting formula that lets you feel the effects quickly, so you can enjoy your experience without the wait. Whether you're looking to stay social and happy or find a moment of calm relaxation, this cannabis-infused soda offers a delicious, discreet, and convenient way to elevate your day.",
+    "price": "$7",
+    "priceAmount": 7,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/13af6a26-e337-425d-9aea-c2dca2ba5bf1",
+     "alt": "Keef | Original Cola"
+    }
+   },
+   {
+    "position": 3,
+    "url": "/product/keef-keef-root-beer-soda-5-mg-beverage-5-milligrams",
+    "name": "Keef | Root Beer Soda",
+    "brand": "KEEF",
+    "description": "Keef Root Beer Soda delivers a nostalgic twist on cannabis-infused beverages with authentic root beer flavor in every sip. This hybrid soda from Keef combines the classic taste of creamy, sweet root beer with a balanced cannabis experience that's perfect for any time of day. Fast-acting and refreshing, this cannabis beverage offers an uplifting and relaxed effect that brings the best of both worlds. Whether you're looking to unwind after work or add a creative spark to your afternoon, Keef Root Beer Soda provides a smooth, enjoyable alternative to traditional edibles. The familiar vanilla and herbal notes make it easy to enjoy, while the convenient single-serving format ensures consistent dosing every time. Perfect for cannabis consumers seeking a discreet, delicious, and refreshing way to elevate their day with a beloved soda flavor.",
+    "price": "$7",
+    "priceAmount": 7,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/bbcd5e91-a68b-437b-a021-09905685240a",
+     "alt": "Keef | Root Beer Soda"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/shop",
+       "name": "Menu"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "Drinks"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "KEEF",
+       "description": "Keef Orange Soda delivers a refreshing cannabis-infused beverage experience with 5 mg of hybrid THC per bottle. This delicious soda combines the classic taste of bright, citrusy orange with the balanced effects of a hybrid strain, making it perfect for any time of day. Each sip offers uplifting and relaxing sensations that can help you feel happy, focused, and social without overwhelming intensity. The low 5 mg dose makes this an ideal choice for both new consumers and experienced users seeking a controlled, enjoyable experience. Keef&apos;s Orange Soda is fast-acting, allowing you to feel effects within minutes, and provides a discreet, smoke-free way to enjoy cannabis. Whether you&apos;re unwinding after work, enhancing a social gathering, or simply craving a flavorful refreshment, this hybrid-infused orange soda offers a smooth, consistent experience in every bottle.",
+       "name": "Keef | Orange Soda",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "7",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/keef-keef-orange-soda-5-mg-beverage-5-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2e428208-7faf-4db3-bf39-0d60224c96f3"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "KEEF",
+       "description": "Keef Original Cola brings the classic soda experience to the cannabis beverage space with a perfectly balanced hybrid twist. This 5 mg THC-infused refreshment delivers the iconic cola flavor you know and love—sweet, crisp, and effervescent—while offering a gentle, approachable dose ideal for both newcomers and seasoned enthusiasts. As a hybrid beverage, it promotes a harmonious blend of uplifting and relaxing effects, making it perfect for social gatherings, creative pursuits, or simply unwinding after a long day. Keef has crafted a fast-acting formula that lets you feel the effects quickly, so you can enjoy your experience without the wait. Whether you&apos;re looking to stay social and happy or find a moment of calm relaxation, this cannabis-infused soda offers a delicious, discreet, and convenient way to elevate your day.",
+       "name": "Keef | Original Cola",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "7",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/keef-keef-original-cola-5-mg-beverage-5-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/13af6a26-e337-425d-9aea-c2dca2ba5bf1"
+      },
+      "position": "2"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "KEEF",
+       "description": "Keef Root Beer Soda delivers a nostalgic twist on cannabis-infused beverages with authentic root beer flavor in every sip. This hybrid soda from Keef combines the classic taste of creamy, sweet root beer with a balanced cannabis experience that&apos;s perfect for any time of day. Fast-acting and refreshing, this cannabis beverage offers an uplifting and relaxed effect that brings the best of both worlds. Whether you&apos;re looking to unwind after work or add a creative spark to your afternoon, Keef Root Beer Soda provides a smooth, enjoyable alternative to traditional edibles. The familiar vanilla and herbal notes make it easy to enjoy, while the convenient single-serving format ensures consistent dosing every time. Perfect for cannabis consumers seeking a discreet, delicious, and refreshing way to elevate their day with a beloved soda flavor.",
+       "name": "Keef | Root Beer Soda",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "7",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/keef-keef-root-beer-soda-5-mg-beverage-5-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/bbcd5e91-a68b-437b-a021-09905685240a"
+      },
+      "position": "3"
+     }
+    ]
+   }
+  ]
+ }
+}

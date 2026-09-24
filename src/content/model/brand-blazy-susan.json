@@ -1,0 +1,356 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/brand/blazy-susan",
+ "slug": "brand-blazy-susan",
+ "type": "brand",
+ "title": "BLAZY SUSAN",
+ "seoTitle": "BLAZY SUSAN",
+ "model": {
+  "kind": "brand",
+  "path": "/brand/blazy-susan",
+  "slug": "blazy-susan",
+  "name": "BLAZY SUSAN",
+  "h1": "BLAZY SUSAN",
+  "logo": null,
+  "banner": {
+   "title": "BLAZY SUSAN",
+   "description": "Shop cannabis products from BLAZY SUSAN at a dispensary near you",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Brands",
+    "href": "/brands"
+   },
+   {
+    "label": "BLAZY SUSAN",
+    "href": null
+   }
+  ],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "empty",
+  "emptyState": {
+   "heading": "No search results found",
+   "text": "No results match the filter criteria. Remove a filter or clear all filters to search again"
+  },
+  "cards": [],
+  "productCount": 7,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/blazy-susan-blazy-susan-purple-cones-1-1-4-one-size-merch",
+    "name": "Blazy Susan - Purple - Cones - 1 1/4",
+    "brand": "BLAZY SUSAN",
+    "description": "Elevate your rolling experience with Blazy Susan Purple Cones in the classic 1 1/4 size. These eye-catching purple pre-rolled cones from Blazy Susan combine style with functionality, making every session a statement. Crafted for smokers who appreciate quality rolling papers, these ready-to-fill cones eliminate the hassle of manual rolling while delivering a smooth, even burn. The vibrant purple hue adds a fun, distinctive touch to your smoke sessions. Perfect for on-the-go convenience or leisurely enjoyment, each cone is designed with precision to ensure consistent performance. Whether you're a seasoned enthusiast or new to pre-rolled cones, Blazy Susan delivers reliable quality in every pack. Stock up on these premium purple cones and enjoy effortless, flavorful sessions every time.",
+    "price": "$8",
+    "priceAmount": 8,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/172ecc7f-e63b-4f9b-b35a-e0d574717dd5",
+     "alt": "Blazy Susan - Purple - Cones - 1 1/4"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/blazy-susan-blazy-susan-pink-cones-shorty-53mm-one-size-merch",
+    "name": " Blazy Susan - Cones - Shorty 53mm",
+    "brand": "BLAZY SUSAN",
+    "description": "Blazy Susan Cones in Shorty 53mm size deliver a smooth, convenient smoking experience for cannabis enthusiasts who appreciate quality rolling papers. These pre-rolled cones make packing your favorite flower quick and effortless—no rolling skills required. Crafted for consistency and even burn, each cone features premium materials designed to enhance the natural flavors and aromas of your cannabis without interference. Perfect for on-the-go sessions or sharing with friends, these shorty cones offer a compact, portable solution that fits easily in your pocket or bag. Whether you're enjoying earthy, fruity, or pine-forward strains, Blazy Susan ensures a clean, reliable smoke every time. Ideal for both seasoned smokers and newcomers seeking hassle-free enjoyment.",
+    "price": "$8",
+    "priceAmount": 8,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/944d7468-b62a-4179-b39f-e761d840a085",
+     "alt": " Blazy Susan - Cones - Shorty 53mm"
+    }
+   },
+   {
+    "position": 3,
+    "url": "/product/blazy-susan-blazy-susan-filter-tips-tin-100ct-one-size-merch",
+    "name": " Blazy Susan - Filter Tips - Tin 100ct",
+    "brand": "BLAZY SUSAN",
+    "description": "Blazy Susan Filter Tips in a convenient 100-count tin deliver smooth, consistent rolling sessions every time. This premium merch essential from Blazy Susan combines quality construction with practical design, perfect for cannabis enthusiasts who value clean, flavorful smoke. Each filter tip is crafted to enhance your rolling experience, ensuring even airflow and preventing unwanted plant material from reaching your lips. The durable tin keeps your tips fresh and organized, making it ideal for on-the-go use or home storage. Whether you're rolling joints or blunts, these filter tips provide reliable performance and help you maximize every session. Elevate your rolling game with Blazy Susan's trusted quality and enjoy smoother, more enjoyable sessions from start to finish.",
+    "price": "$10",
+    "priceAmount": 10,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/4ac10327-d838-4396-a365-4f40eb84aa37",
+     "alt": " Blazy Susan - Filter Tips - Tin 100ct"
+    }
+   },
+   {
+    "position": 4,
+    "url": "/product/blazy-susan-blazy-susan-filter-tips-book-purple-ultra-wide-one-size-merch",
+    "name": "Blazy Susan - Filter Tips - Book - Purple Ultra Wide",
+    "brand": "BLAZY SUSAN",
+    "description": "Elevate your rolling experience with Blazy Susan Filter Tips in Purple Ultra Wide. This premium book of filter tips from trusted brand Blazy Susan delivers the perfect foundation for smooth, even sessions. Designed for rolling papers enthusiasts who demand quality and style, these ultra-wide tips provide superior airflow and filtration while adding a vibrant pop of purple to your setup. Each perforated tip is easy to tear and roll, creating a sturdy, reliable filter that enhances every session. Whether you're rolling solo or sharing with friends, these filter tips offer the perfect blend of function and flair. The ultra-wide design accommodates larger rolls, making them ideal for group sessions or those who prefer a more substantial smoke. Stock up on this essential rolling accessory and enjoy consistently smooth draws every time.",
+    "price": "$2",
+    "priceAmount": 2,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e1b9ebf7-6381-4eb9-82f4-94f5de6faffd",
+     "alt": "Blazy Susan - Filter Tips - Book - Purple Ultra Wide"
+    }
+   },
+   {
+    "position": 5,
+    "url": "/product/blazy-susan-blazy-susan-purple-rolling-papers-1-1-4-one-size-merch",
+    "name": "Blazy Susan - Purple - Rolling Papers - 1 1/4",
+    "brand": "BLAZY SUSAN",
+    "description": "Blazy Susan Purple Rolling Papers in 1 1/4 size bring vibrant style and smooth performance to every session. These rolling papers from Blazy Susan stand out with their eye-catching purple hue, making them a favorite among cannabis enthusiasts who appreciate both functionality and flair. Crafted for an even, slow burn, these papers deliver a clean smoking experience without overpowering your flower's natural flavors. The 1 1/4 size offers versatility for personal sessions or sharing with friends. Blazy Susan has built a reputation for quality rolling papers that combine unique aesthetics with reliable performance, and these purple papers are no exception. Whether you're rolling up your favorite Indica, Sativa, or Hybrid strain, these papers provide the perfect foundation for enjoying rich, aromatic flower. Ideal for smokers seeking a splash of color in their collection while maintaining the clean, pure taste they demand.",
+    "price": "$2",
+    "priceAmount": 2,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://images.prismic.io/sunny-dayz/Z5vMl5bqstJ9-D0B_gear-paraphernalia.png?auto=format,compress",
+     "alt": "Blazy Susan - Purple - Rolling Papers - 1 1/4"
+    }
+   },
+   {
+    "position": 6,
+    "url": "/product/blazy-susan-blazy-susan-purple-rolling-papers-king-slim-one-size-merch",
+    "name": "Blazy Susan - Purple - Rolling Papers - King Slim",
+    "brand": "BLAZY SUSAN",
+    "description": "Blazy Susan Purple King Slim Rolling Papers bring a vibrant twist to your rolling experience. These premium rolling papers from Blazy Susan feature a striking purple hue that stands out in any collection. Designed in the popular king slim size, they offer the perfect balance of length and width for smooth, even burns every time. Crafted from high-quality materials, these rolling papers deliver a clean, slow burn that lets you savor every moment. Whether you're rolling for yourself or sharing with friends, Blazy Susan's signature purple papers combine style with functionality. The ultra-thin construction ensures minimal interference with your blend's natural flavors, while the precise cut and consistent texture make rolling effortless. Perfect for those who appreciate quality rolling accessories with a pop of personality. Each paper is carefully manufactured to provide reliable performance session after session.",
+    "price": "$2",
+    "priceAmount": 2,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f090e88e-ca0e-4a91-8d22-d24cf397f7d6",
+     "alt": "Blazy Susan - Purple - Rolling Papers - King Slim"
+    }
+   },
+   {
+    "position": 7,
+    "url": "/product/blazy-susan-blazy-susan-filter-tips-book-pink-ultra-wide-one-size-merch",
+    "name": "Blazy Susan - Filter Tips - Book - Pink Ultra Wide",
+    "brand": "BLAZY SUSAN",
+    "description": "Blazy Susan Filter Tips Book in Ultra Wide brings effortless rolling to your sessions with premium, unbleached perforated tips that deliver smooth, clean draws every time. This book of filter tips from Blazy Susan features an ultra-wide format perfect for larger rolls, ensuring even airflow and optimal filtration without restricting your experience. Crafted from natural materials, these rolling papers accessories provide a pure, unaltered taste while keeping unwanted debris at bay. The convenient book format keeps your tips organized and ready whenever inspiration strikes. Whether you're a seasoned roller or just starting out, these ultra-wide filter tips offer the perfect balance of structure and flexibility for a superior smoke. Elevate your rolling game with Blazy Susan's commitment to quality and functionality in every tear.",
+    "price": "$2",
+    "priceAmount": 2,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/20c02e3c-995c-495b-9606-8a9cdf23e189",
+     "alt": "Blazy Susan - Filter Tips - Book - Pink Ultra Wide"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/brands",
+       "name": "Brands"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "BLAZY SUSAN"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BLAZY SUSAN",
+       "description": "Elevate your rolling experience with Blazy Susan Purple Cones in the classic 1 1/4 size. These eye-catching purple pre-rolled cones from Blazy Susan combine style with functionality, making every session a statement. Crafted for smokers who appreciate quality rolling papers, these ready-to-fill cones eliminate the hassle of manual rolling while delivering a smooth, even burn. The vibrant purple hue adds a fun, distinctive touch to your smoke sessions. Perfect for on-the-go convenience or leisurely enjoyment, each cone is designed with precision to ensure consistent performance. Whether you&apos;re a seasoned enthusiast or new to pre-rolled cones, Blazy Susan delivers reliable quality in every pack. Stock up on these premium purple cones and enjoy effortless, flavorful sessions every time.",
+       "name": "Blazy Susan - Purple - Cones - 1 1/4",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "8",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-purple-cones-1-1-4-one-size-merch"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/172ecc7f-e63b-4f9b-b35a-e0d574717dd5"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BLAZY SUSAN",
+       "description": "Blazy Susan Cones in Shorty 53mm size deliver a smooth, convenient smoking experience for cannabis enthusiasts who appreciate quality rolling papers. These pre-rolled cones make packing your favorite flower quick and effortless—no rolling skills required. Crafted for consistency and even burn, each cone features premium materials designed to enhance the natural flavors and aromas of your cannabis without interference. Perfect for on-the-go sessions or sharing with friends, these shorty cones offer a compact, portable solution that fits easily in your pocket or bag. Whether you&apos;re enjoying earthy, fruity, or pine-forward strains, Blazy Susan ensures a clean, reliable smoke every time. Ideal for both seasoned smokers and newcomers seeking hassle-free enjoyment.",
+       "name": " Blazy Susan - Cones - Shorty 53mm",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "8",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-pink-cones-shorty-53mm-one-size-merch"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/944d7468-b62a-4179-b39f-e761d840a085"
+      },
+      "position": "2"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BLAZY SUSAN",
+       "description": "Blazy Susan Filter Tips in a convenient 100-count tin deliver smooth, consistent rolling sessions every time. This premium merch essential from Blazy Susan combines quality construction with practical design, perfect for cannabis enthusiasts who value clean, flavorful smoke. Each filter tip is crafted to enhance your rolling experience, ensuring even airflow and preventing unwanted plant material from reaching your lips. The durable tin keeps your tips fresh and organized, making it ideal for on-the-go use or home storage. Whether you&apos;re rolling joints or blunts, these filter tips provide reliable performance and help you maximize every session. Elevate your rolling game with Blazy Susan&apos;s trusted quality and enjoy smoother, more enjoyable sessions from start to finish.",
+       "name": " Blazy Susan - Filter Tips - Tin 100ct",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "10",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-filter-tips-tin-100ct-one-size-merch"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/4ac10327-d838-4396-a365-4f40eb84aa37"
+      },
+      "position": "3"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BLAZY SUSAN",
+       "description": "Elevate your rolling experience with Blazy Susan Filter Tips in Purple Ultra Wide. This premium book of filter tips from trusted brand Blazy Susan delivers the perfect foundation for smooth, even sessions. Designed for rolling papers enthusiasts who demand quality and style, these ultra-wide tips provide superior airflow and filtration while adding a vibrant pop of purple to your setup. Each perforated tip is easy to tear and roll, creating a sturdy, reliable filter that enhances every session. Whether you&apos;re rolling solo or sharing with friends, these filter tips offer the perfect blend of function and flair. The ultra-wide design accommodates larger rolls, making them ideal for group sessions or those who prefer a more substantial smoke. Stock up on this essential rolling accessory and enjoy consistently smooth draws every time.",
+       "name": "Blazy Susan - Filter Tips - Book - Purple Ultra Wide",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "2",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-filter-tips-book-purple-ultra-wide-one-size-merch"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e1b9ebf7-6381-4eb9-82f4-94f5de6faffd"
+      },
+      "position": "4"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BLAZY SUSAN",
+       "description": "Blazy Susan Purple Rolling Papers in 1 1/4 size bring vibrant style and smooth performance to every session. These rolling papers from Blazy Susan stand out with their eye-catching purple hue, making them a favorite among cannabis enthusiasts who appreciate both functionality and flair. Crafted for an even, slow burn, these papers deliver a clean smoking experience without overpowering your flower&apos;s natural flavors. The 1 1/4 size offers versatility for personal sessions or sharing with friends. Blazy Susan has built a reputation for quality rolling papers that combine unique aesthetics with reliable performance, and these purple papers are no exception. Whether you&apos;re rolling up your favorite Indica, Sativa, or Hybrid strain, these papers provide the perfect foundation for enjoying rich, aromatic flower. Ideal for smokers seeking a splash of color in their collection while maintaining the clean, pure taste they demand.",
+       "name": "Blazy Susan - Purple - Rolling Papers - 1 1/4",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "2",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-purple-rolling-papers-1-1-4-one-size-merch"
+       },
+       "image": "https://images.prismic.io/sunny-dayz/Z5vMl5bqstJ9-D0B_gear-paraphernalia.png?auto=format,compress"
+      },
+      "position": "5"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BLAZY SUSAN",
+       "description": "Blazy Susan Purple King Slim Rolling Papers bring a vibrant twist to your rolling experience. These premium rolling papers from Blazy Susan feature a striking purple hue that stands out in any collection. Designed in the popular king slim size, they offer the perfect balance of length and width for smooth, even burns every time. Crafted from high-quality materials, these rolling papers deliver a clean, slow burn that lets you savor every moment. Whether you&apos;re rolling for yourself or sharing with friends, Blazy Susan&apos;s signature purple papers combine style with functionality. The ultra-thin construction ensures minimal interference with your blend&apos;s natural flavors, while the precise cut and consistent texture make rolling effortless. Perfect for those who appreciate quality rolling accessories with a pop of personality. Each paper is carefully manufactured to provide reliable performance session after session.",
+       "name": "Blazy Susan - Purple - Rolling Papers - King Slim",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "2",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-purple-rolling-papers-king-slim-one-size-merch"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f090e88e-ca0e-4a91-8d22-d24cf397f7d6"
+      },
+      "position": "6"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BLAZY SUSAN",
+       "description": "Blazy Susan Filter Tips Book in Ultra Wide brings effortless rolling to your sessions with premium, unbleached perforated tips that deliver smooth, clean draws every time. This book of filter tips from Blazy Susan features an ultra-wide format perfect for larger rolls, ensuring even airflow and optimal filtration without restricting your experience. Crafted from natural materials, these rolling papers accessories provide a pure, unaltered taste while keeping unwanted debris at bay. The convenient book format keeps your tips organized and ready whenever inspiration strikes. Whether you&apos;re a seasoned roller or just starting out, these ultra-wide filter tips offer the perfect balance of structure and flexibility for a superior smoke. Elevate your rolling game with Blazy Susan&apos;s commitment to quality and functionality in every tear.",
+       "name": "Blazy Susan - Filter Tips - Book - Pink Ultra Wide",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "2",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-filter-tips-book-pink-ultra-wide-one-size-merch"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/20c02e3c-995c-495b-9606-8a9cdf23e189"
+      },
+      "position": "7"
+     }
+    ]
+   }
+  ]
+ }
+}

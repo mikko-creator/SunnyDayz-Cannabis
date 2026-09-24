@@ -1,0 +1,173 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-sleep-relief-live-hash-rosin-gummies-700mg-700-mg-10-pack-edible-700-milligrams",
+ "slug": "product-treeworks-treeworks-sleep-relief-live-hash-rosin-gummies-700mg-700-mg-10-pack-edible-700-milligrams",
+ "type": "product",
+ "title": "TREEWORKS - Treeworks - Sleep & Relief - Live Hash Rosin Gummies - 700MG",
+ "seoTitle": "TREEWORKS - Treeworks - Sleep & Relief - Live Hash Rosin Gummies - 700MG",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Treeworks - Sleep & Relief - Live Hash Rosin Gummies - 700MG",
+    "href": null
+   }
+  ],
+  "h1": "Treeworks - Sleep & Relief - Live Hash Rosin Gummies - 700MG",
+  "name": "Treeworks - Sleep & Relief - Live Hash Rosin Gummies - 700MG",
+  "brand": {
+   "label": "TREEWORKS",
+   "href": "/brand/treeworks"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Indica",
+   "key": "indica",
+   "ariaLabel": "Flower type: Indica"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "OTHER",
+    "href": "/collection/edible/other"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7a6b40ca-5204-4def-8160-df998f88e9ee?w=3840&q=100",
+   "alt": "Treeworks - Sleep & Relief - Live Hash Rosin Gummies - 700MG"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7a6b40ca-5204-4def-8160-df998f88e9ee?w=3840&q=100",
+    "alt": "Treeworks - Sleep & Relief - Live Hash Rosin Gummies - 700MG"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "700MG",
+    "icon": "vector"
+   },
+   {
+    "label": "CBD",
+    "value": "300MG",
+    "icon": "water_drop_black"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Treeworks Sleep & Relief Live Hash Rosin Gummies deliver 700mg of premium cannabis in a delicious edible format designed to help you unwind and find comfort. Crafted with live hash rosin—one of the purest, most flavorful concentrates available—these gummies offer a full-spectrum experience that preserves the plant's natural terpenes and cannabinoids. Perfect for evening relaxation, each gummy promotes deep relief and restful sleep, making them ideal for those seeking calm after a long day. The rich, fruity flavor profile ensures a pleasant taste with every bite, while the potent effects work to soothe both body and mind. Whether you're managing discomfort or simply looking to enhance your nightly routine, Treeworks combines quality craftsmanship with thoughtful dosing to deliver consistent, reliable results. Experience the difference of solventless extraction and discover why live hash rosin gummies are the choice for discerning cannabis enthusiasts.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "each",
+    "price": "$30",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$30",
+   "original": null,
+   "ariaLabel": "Product price: $30"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Treeworks - Sleep & Relief - Live Hash Rosin Gummies - 700MG to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Treeworks - Sleep & Relief - Live Hash Rosin Gummies - 700MG to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "TREEWORKS",
+    "href": "/brand/treeworks"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Indica",
+    "href": "/strain/Indica"
+   },
+   {
+    "label": "THC",
+    "value": "700MG"
+   },
+   {
+    "label": "CBD",
+    "value": "300MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Treeworks Sleep Relief Live Hash Rosin Gummies 700 Mg 700 Mg 10 Pack"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

@@ -1,0 +1,164 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-goodnight-hash-caps-thc-cbn-100-mg-20-pack-edible-100-milligrams",
+ "slug": "product-sweetgrass-botanicals-sweetgrass-botanicals-goodnight-hash-caps-thc-cbn-100-mg-20-pack-edible-100-milligrams",
+ "type": "product",
+ "title": "SWEETGRASS BOTANICALS - Sweetgrass Botanicals - GoodNight - Hash Caps - THC/CBN",
+ "seoTitle": "SWEETGRASS BOTANICALS - Sweetgrass Botanicals - GoodNight - Hash Caps - THC/CBN",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Sweetgrass Botanicals - GoodNight - Hash Caps - THC/CBN",
+    "href": null
+   }
+  ],
+  "h1": "Sweetgrass Botanicals - GoodNight - Hash Caps - THC/CBN",
+  "name": "Sweetgrass Botanicals - GoodNight - Hash Caps - THC/CBN",
+  "brand": {
+   "label": "SWEETGRASS BOTANICALS",
+   "href": "/brand/sweetgrass-botanicals"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Indica",
+   "key": "indica",
+   "ariaLabel": "Flower type: Indica"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "OTHER",
+    "href": "/collection/edible/other"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a9b8cb79-2d40-4058-9629-c365ea1b1db4?w=3840&q=100",
+   "alt": "Sweetgrass Botanicals - GoodNight - Hash Caps - THC/CBN"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a9b8cb79-2d40-4058-9629-c365ea1b1db4?w=3840&q=100",
+    "alt": "Sweetgrass Botanicals - GoodNight - Hash Caps - THC/CBN"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "100MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Sweetgrass Botanicals GoodNight Hash Caps combine 100mg of THC and CBN in convenient capsule form for those seeking deep relaxation and restful sleep. This edible features hash-infused capsules designed to deliver calming, sedative effects that help you unwind after a long day. CBN, known for its sleep-promoting properties, works synergistically with THC to create a powerful nighttime formula. Each capsule offers precise dosing and discreet consumption without any taste or smell. Ideal for users looking for relief from restlessness and stress, GoodNight Hash Caps provide long-lasting effects that promote tranquility and sleepiness. Simply take as directed before bedtime and let Sweetgrass Botanicals guide you into a peaceful night's rest. Perfect for experienced cannabis users seeking a potent, reliable sleep aid in easy-to-swallow capsule format.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "each",
+    "price": "$25",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$25",
+   "original": null,
+   "ariaLabel": "Product price: $25"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Sweetgrass Botanicals - GoodNight - Hash Caps - THC/CBN to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Sweetgrass Botanicals - GoodNight - Hash Caps - THC/CBN to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "SWEETGRASS BOTANICALS",
+    "href": "/brand/sweetgrass-botanicals"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Indica",
+    "href": "/strain/Indica"
+   },
+   {
+    "label": "THC",
+    "value": "100MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Sweetgrass Botanicals Goodnight Hash Caps Thc Cbn 100 Mg 20 Pack"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

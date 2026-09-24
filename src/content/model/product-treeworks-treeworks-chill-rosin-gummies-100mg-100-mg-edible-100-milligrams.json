@@ -1,0 +1,155 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-chill-rosin-gummies-100mg-100-mg-edible-100-milligrams",
+ "slug": "product-treeworks-treeworks-chill-rosin-gummies-100mg-100-mg-edible-100-milligrams",
+ "type": "product",
+ "title": "TREEWORKS - Treeworks - Chill - Rosin Gummies - 100MG",
+ "seoTitle": "TREEWORKS - Treeworks - Chill - Rosin Gummies - 100MG",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Treeworks - Chill - Rosin Gummies - 100MG",
+    "href": null
+   }
+  ],
+  "h1": "Treeworks - Chill - Rosin Gummies - 100MG",
+  "name": "Treeworks - Chill - Rosin Gummies - 100MG",
+  "brand": {
+   "label": "TREEWORKS",
+   "href": "/brand/treeworks"
+  },
+  "badges": [],
+  "strainType": null,
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "OTHER",
+    "href": "/collection/edible/other"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/c1424a6f-b561-4a21-a619-518422cebe8c?w=3840&q=100",
+   "alt": "Treeworks - Chill - Rosin Gummies - 100MG"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/c1424a6f-b561-4a21-a619-518422cebe8c?w=3840&q=100",
+    "alt": "Treeworks - Chill - Rosin Gummies - 100MG"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "100MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Treeworks Chill Rosin Gummies deliver 100mg of cannabis-infused relaxation in a delicious edible format. These rosin-based gummies offer a clean, solventless experience that showcases the natural essence of the plant. Each gummy is crafted to help you unwind and melt away stress, making them perfect for evening relaxation or whenever you need to take the edge off. The rosin extraction process preserves beneficial compounds for a full-bodied effect that edible enthusiasts appreciate. With a balanced formulation and smooth onset, Chill gummies provide a reliable way to enjoy cannabis without smoking or vaping. Simply pop a gummy and let the calming sensations wash over you. Treeworks combines quality ingredients with expert extraction techniques to create edibles that taste great and deliver consistent results every time.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "each",
+    "price": "$30",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$30",
+   "original": null,
+   "ariaLabel": "Product price: $30"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Treeworks - Chill - Rosin Gummies - 100MG to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Treeworks - Chill - Rosin Gummies - 100MG to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "TREEWORKS",
+    "href": "/brand/treeworks"
+   },
+   {
+    "label": "THC",
+    "value": "100MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Treeworks Chill Rosin Gummies 100 Mg 100 Mg"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

@@ -1,0 +1,319 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/brand/the-fresh-connection",
+ "slug": "brand-the-fresh-connection",
+ "type": "brand",
+ "title": "THE FRESH CONNECTION",
+ "seoTitle": "THE FRESH CONNECTION",
+ "model": {
+  "kind": "brand",
+  "path": "/brand/the-fresh-connection",
+  "slug": "the-fresh-connection",
+  "name": "THE FRESH CONNECTION",
+  "h1": "THE FRESH CONNECTION",
+  "logo": null,
+  "banner": {
+   "title": "THE FRESH CONNECTION",
+   "description": "Shop cannabis products from THE FRESH CONNECTION at a dispensary near you",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Brands",
+    "href": "/brands"
+   },
+   {
+    "label": "THE FRESH CONNECTION",
+    "href": null
+   }
+  ],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "empty",
+  "emptyState": {
+   "heading": "No search results found",
+   "text": "No results match the filter criteria. Remove a filter or clear all filters to search again"
+  },
+  "cards": [],
+  "productCount": 6,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/the-fresh-connection-the-fresh-connection-perfect-pair-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "The Fresh Connection - Perfect Pair - 1G Pre-roll",
+    "brand": "THE FRESH CONNECTION",
+    "description": "The Fresh Connection presents Perfect Pair, a convenient 1g pre-roll crafted for cannabis enthusiasts seeking quality and ease. This preroll delivers a smooth, ready-to-enjoy experience without the need for grinding or rolling. Perfect Pair combines carefully selected flower to create a balanced, flavorful smoke that's ideal for both seasoned consumers and those new to cannabis. Each pre-roll is expertly packed to ensure an even burn from start to finish, making it perfect for solo sessions or sharing with friends. Whether you're unwinding after a long day or elevating social gatherings, this 1g pre-roll from The Fresh Connection offers consistent quality and satisfaction in every puff. Portable, discreet, and hassle-free—simply light up and enjoy the premium cannabis experience that The Fresh Connection is known for delivering.",
+    "price": "$8",
+    "priceAmount": 8,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f4f4bfbe-3437-4c0a-92a9-a125037ba955",
+     "alt": "The Fresh Connection - Perfect Pair - 1G Pre-roll"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/the-fresh-connection-the-fresh-connection-dante-s-inferno-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "The Fresh Connection - Dante's Inferno - 1G Pre-roll",
+    "brand": "THE FRESH CONNECTION",
+    "description": "The Fresh Connection presents Dante's Inferno, a 1g preroll that delivers an unforgettable smoking experience. This expertly crafted preroll showcases premium cannabis rolled to perfection, offering convenience and quality in every puff. Named after the epic journey through the underworld, Dante's Inferno promises a bold and memorable session. The Fresh Connection is known for their meticulous attention to detail and commitment to excellence, ensuring each preroll burns evenly and smoothly. Whether you're seeking relaxation after a long day or looking to elevate your social gatherings, this preroll provides a reliable and enjoyable experience. Ready to light and go, Dante's Inferno is perfect for both newcomers and seasoned enthusiasts who appreciate convenient, high-quality cannabis products.",
+    "price": "$8",
+    "priceAmount": 8,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/50f55e7b-c9fb-4ed9-9b40-04397f20c2d7",
+     "alt": "The Fresh Connection - Dante's Inferno - 1G Pre-roll"
+    }
+   },
+   {
+    "position": 3,
+    "url": "/product/the-fresh-connection-the-fresh-connection-mucho-melon-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "The Fresh Connection - Mucho Melon - 3.5G Flower",
+    "brand": "THE FRESH CONNECTION",
+    "description": "The Fresh Connection brings you Mucho Melon, a premium 3.5g flower that captures the sweet, refreshing essence of ripe melon in every bud. This carefully cultivated cannabis flower delivers a delightfully fruity aroma with notes of melon, citrus, and tropical undertones that tantalize the senses. Each jar contains expertly trimmed, hand-selected nugs that showcase The Fresh Connection's commitment to quality and freshness. Perfect for those seeking a flavorful smoke with juicy melon flavors that linger on the palate, Mucho Melon offers a smooth, enjoyable experience from first inhale to last. Whether you're unwinding after a long day or enhancing social gatherings, this 3.5g flower provides consistent quality and potency. The Fresh Connection's dedication to craft cannabis shines through in every aspect of Mucho Melon, making it an excellent choice for both seasoned enthusiasts and newcomers looking to explore delicious, fruit-forward strains.",
+    "price": "$30",
+    "priceAmount": 30,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/516c10e0-ca1c-4bfe-9dc8-bafa2b55e10d",
+     "alt": "The Fresh Connection - Mucho Melon - 3.5G Flower"
+    }
+   },
+   {
+    "position": 4,
+    "url": "/product/the-fresh-connection-the-fresh-connection-mucho-melon-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "The Fresh Connection - Mucho Melon - 1G Pre-roll",
+    "brand": "THE FRESH CONNECTION",
+    "description": "The Fresh Connection presents Mucho Melon, a 1g pre-roll that delivers a refreshingly fruity cannabis experience. This premium preroll showcases sweet melon flavors with tropical undertones, creating a smooth and enjoyable smoke from start to finish. The Fresh Connection is known for crafting high-quality, convenient pre-rolls using carefully selected flower, and Mucho Melon is no exception. Each 1g preroll is expertly rolled for an even burn, making it perfect for on-the-go enjoyment or sharing with friends. The mouthwatering melon profile offers a deliciously sweet aroma that transitions into a flavorful, satisfying smoke. Whether you're new to cannabis or a seasoned enthusiast, this pre-roll provides a hassle-free way to enjoy quality flower without the need for grinding or rolling. Grab Mucho Melon for a tasty, portable cannabis experience that captures the essence of fresh, ripe melon in every puff.",
+    "price": "$8",
+    "priceAmount": 8,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7f62f3e6-f5a5-4764-8419-8107c73bd019",
+     "alt": "The Fresh Connection - Mucho Melon - 1G Pre-roll"
+    }
+   },
+   {
+    "position": 5,
+    "url": "/product/the-fresh-connection-the-fresh-connection-mac-31-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "The Fresh Connection - MAC 31 - 1G Pre-roll",
+    "brand": "THE FRESH CONNECTION",
+    "description": "The Fresh Connection presents MAC 31, a premium 1g pre-roll crafted for cannabis enthusiasts seeking convenient, ready-to-enjoy experiences. This expertly rolled preroll showcases the celebrated MAC (Miracle Alien Cookies) genetics, known for delivering a balanced, euphoric high that uplifts the mind while relaxing the body. Expect a rich, creamy flavor profile with hints of earthy spice and sweet citrus that dance across the palate with each smooth draw. The MAC 31 strain is cherished for promoting happy, focused, and creative effects—perfect for social gatherings, artistic endeavors, or simply unwinding after a long day. The Fresh Connection ensures quality and consistency in every roll, using carefully selected flower to deliver a satisfying burn and full-bodied experience from start to finish. Whether you're a seasoned connoisseur or exploring new strains, this 1g pre-roll offers the perfect introduction to MAC's legendary appeal without the hassle of grinding or rolling yourself.",
+    "price": "$8",
+    "priceAmount": 8,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/1985e8df-9bc5-4a6f-a020-e79561ba8f4e",
+     "alt": "The Fresh Connection - MAC 31 - 1G Pre-roll"
+    }
+   },
+   {
+    "position": 6,
+    "url": "/product/the-fresh-connection-the-fresh-connection-dante-s-inferno-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "The Fresh Connection - Dante's Inferno - 3.5G Flower",
+    "brand": "THE FRESH CONNECTION",
+    "description": "The Fresh Connection presents Dante's Inferno, a premium 3.5g flower offering that brings the heat to your cannabis experience. This carefully cultivated bud delivers a bold, memorable experience that lives up to its fiery name. Dante's Inferno showcases dense, resinous flower with a complex aroma profile featuring earthy, spicy, and pungent notes that ignite the senses. Each nug is hand-selected and expertly cured to preserve potency and flavor. Whether you're seeking relaxation after a long day or looking to unwind with friends, this strain delivers consistent quality in every session. The Fresh Connection's commitment to craft cultivation shines through in every aspect of this flower, from its rich terpene profile to its smooth, flavorful smoke. Perfect for experienced enthusiasts who appreciate premium cannabis flower with character and depth.",
+    "price": "$30",
+    "priceAmount": 30,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f4b3082f-ce31-484c-a9a8-9d1afaaf6064",
+     "alt": "The Fresh Connection - Dante's Inferno - 3.5G Flower"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/brands",
+       "name": "Brands"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "THE FRESH CONNECTION"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "THE FRESH CONNECTION",
+       "description": "The Fresh Connection presents Perfect Pair, a convenient 1g pre-roll crafted for cannabis enthusiasts seeking quality and ease. This preroll delivers a smooth, ready-to-enjoy experience without the need for grinding or rolling. Perfect Pair combines carefully selected flower to create a balanced, flavorful smoke that&apos;s ideal for both seasoned consumers and those new to cannabis. Each pre-roll is expertly packed to ensure an even burn from start to finish, making it perfect for solo sessions or sharing with friends. Whether you&apos;re unwinding after a long day or elevating social gatherings, this 1g pre-roll from The Fresh Connection offers consistent quality and satisfaction in every puff. Portable, discreet, and hassle-free—simply light up and enjoy the premium cannabis experience that The Fresh Connection is known for delivering.",
+       "name": "The Fresh Connection - Perfect Pair - 1G Pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "8",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-perfect-pair-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f4f4bfbe-3437-4c0a-92a9-a125037ba955"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "THE FRESH CONNECTION",
+       "description": "The Fresh Connection presents Dante&apos;s Inferno, a 1g preroll that delivers an unforgettable smoking experience. This expertly crafted preroll showcases premium cannabis rolled to perfection, offering convenience and quality in every puff. Named after the epic journey through the underworld, Dante&apos;s Inferno promises a bold and memorable session. The Fresh Connection is known for their meticulous attention to detail and commitment to excellence, ensuring each preroll burns evenly and smoothly. Whether you&apos;re seeking relaxation after a long day or looking to elevate your social gatherings, this preroll provides a reliable and enjoyable experience. Ready to light and go, Dante&apos;s Inferno is perfect for both newcomers and seasoned enthusiasts who appreciate convenient, high-quality cannabis products.",
+       "name": "The Fresh Connection - Dante&apos;s Inferno - 1G Pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "8",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-dante-s-inferno-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/50f55e7b-c9fb-4ed9-9b40-04397f20c2d7"
+      },
+      "position": "2"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "THE FRESH CONNECTION",
+       "description": "The Fresh Connection brings you Mucho Melon, a premium 3.5g flower that captures the sweet, refreshing essence of ripe melon in every bud. This carefully cultivated cannabis flower delivers a delightfully fruity aroma with notes of melon, citrus, and tropical undertones that tantalize the senses. Each jar contains expertly trimmed, hand-selected nugs that showcase The Fresh Connection&apos;s commitment to quality and freshness. Perfect for those seeking a flavorful smoke with juicy melon flavors that linger on the palate, Mucho Melon offers a smooth, enjoyable experience from first inhale to last. Whether you&apos;re unwinding after a long day or enhancing social gatherings, this 3.5g flower provides consistent quality and potency. The Fresh Connection&apos;s dedication to craft cannabis shines through in every aspect of Mucho Melon, making it an excellent choice for both seasoned enthusiasts and newcomers looking to explore delicious, fruit-forward strains.",
+       "name": "The Fresh Connection - Mucho Melon - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "30",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-mucho-melon-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/516c10e0-ca1c-4bfe-9dc8-bafa2b55e10d"
+      },
+      "position": "3"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "THE FRESH CONNECTION",
+       "description": "The Fresh Connection presents Mucho Melon, a 1g pre-roll that delivers a refreshingly fruity cannabis experience. This premium preroll showcases sweet melon flavors with tropical undertones, creating a smooth and enjoyable smoke from start to finish. The Fresh Connection is known for crafting high-quality, convenient pre-rolls using carefully selected flower, and Mucho Melon is no exception. Each 1g preroll is expertly rolled for an even burn, making it perfect for on-the-go enjoyment or sharing with friends. The mouthwatering melon profile offers a deliciously sweet aroma that transitions into a flavorful, satisfying smoke. Whether you&apos;re new to cannabis or a seasoned enthusiast, this pre-roll provides a hassle-free way to enjoy quality flower without the need for grinding or rolling. Grab Mucho Melon for a tasty, portable cannabis experience that captures the essence of fresh, ripe melon in every puff.",
+       "name": "The Fresh Connection - Mucho Melon - 1G Pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "8",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-mucho-melon-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7f62f3e6-f5a5-4764-8419-8107c73bd019"
+      },
+      "position": "4"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "THE FRESH CONNECTION",
+       "description": "The Fresh Connection presents MAC 31, a premium 1g pre-roll crafted for cannabis enthusiasts seeking convenient, ready-to-enjoy experiences. This expertly rolled preroll showcases the celebrated MAC (Miracle Alien Cookies) genetics, known for delivering a balanced, euphoric high that uplifts the mind while relaxing the body. Expect a rich, creamy flavor profile with hints of earthy spice and sweet citrus that dance across the palate with each smooth draw. The MAC 31 strain is cherished for promoting happy, focused, and creative effects—perfect for social gatherings, artistic endeavors, or simply unwinding after a long day. The Fresh Connection ensures quality and consistency in every roll, using carefully selected flower to deliver a satisfying burn and full-bodied experience from start to finish. Whether you&apos;re a seasoned connoisseur or exploring new strains, this 1g pre-roll offers the perfect introduction to MAC&apos;s legendary appeal without the hassle of grinding or rolling yourself.",
+       "name": "The Fresh Connection - MAC 31 - 1G Pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "8",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-mac-31-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/1985e8df-9bc5-4a6f-a020-e79561ba8f4e"
+      },
+      "position": "5"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "THE FRESH CONNECTION",
+       "description": "The Fresh Connection presents Dante&apos;s Inferno, a premium 3.5g flower offering that brings the heat to your cannabis experience. This carefully cultivated bud delivers a bold, memorable experience that lives up to its fiery name. Dante&apos;s Inferno showcases dense, resinous flower with a complex aroma profile featuring earthy, spicy, and pungent notes that ignite the senses. Each nug is hand-selected and expertly cured to preserve potency and flavor. Whether you&apos;re seeking relaxation after a long day or looking to unwind with friends, this strain delivers consistent quality in every session. The Fresh Connection&apos;s commitment to craft cultivation shines through in every aspect of this flower, from its rich terpene profile to its smooth, flavorful smoke. Perfect for experienced enthusiasts who appreciate premium cannabis flower with character and depth.",
+       "name": "The Fresh Connection - Dante&apos;s Inferno - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "30",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-dante-s-inferno-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f4b3082f-ce31-484c-a9a8-9d1afaaf6064"
+      },
+      "position": "6"
+     }
+    ]
+   }
+  ]
+ }
+}

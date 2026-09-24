@@ -1,0 +1,164 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/coast-coast-tangerine-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+ "slug": "product-coast-coast-tangerine-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+ "type": "product",
+ "title": "COAST - Coast - Tangerine - Gummy - 5:5:5",
+ "seoTitle": "COAST - Coast - Tangerine - Gummy - 5:5:5",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Coast - Tangerine - Gummy - 5:5:5",
+    "href": null
+   }
+  ],
+  "h1": "Coast - Tangerine - Gummy - 5:5:5",
+  "name": "Coast - Tangerine - Gummy - 5:5:5",
+  "brand": {
+   "label": "COAST",
+   "href": "/brand/coast"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Sativa",
+   "key": "sativa",
+   "ariaLabel": "Flower type: Sativa"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "GUMMY",
+    "href": "/collection/edible/gummy"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/271adb92-8229-448f-a8d0-4c716c46ef5a?w=3840&q=100",
+   "alt": "Coast - Tangerine - Gummy - 5:5:5"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/271adb92-8229-448f-a8d0-4c716c46ef5a?w=3840&q=100",
+    "alt": "Coast - Tangerine - Gummy - 5:5:5"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "100MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Coast Tangerine Gummy delivers a perfectly balanced 5:5:5 ratio of THC:CBD:CBG, in every delicious bite. This edible combines the bright, citrusy sweetness of tangerine with a carefully crafted cannabinoid profile designed to offer versatile benefits throughout your day. The 5mg THC provides gentle euphoria and uplifted mood, while 5mg CBD supports relaxation and relief. The addition of 5mg CBG rounds out the experience, making this gummy ideal for those seeking a well-rounded effect. Coast crafts each gummy with quality ingredients and consistent dosing, ensuring a reliable experience every time. The tangerine flavor bursts with zesty citrus notes that make wellness enjoyable. Perfect for both newcomers exploring cannabinoid ratios and experienced users seeking balanced relief, this gummy offers a flavorful, approachable way to enjoy the entourage effect of multiple cannabinoids working in harmony.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "each",
+    "price": "$25",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$25",
+   "original": null,
+   "ariaLabel": "Product price: $25"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Coast - Tangerine - Gummy - 5:5:5 to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Coast - Tangerine - Gummy - 5:5:5 to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "COAST",
+    "href": "/brand/coast"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Sativa",
+    "href": "/strain/Sativa"
+   },
+   {
+    "label": "THC",
+    "value": "100MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Coast Tangerine Gummy 5 5 5 100 Mg 20 Pack"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

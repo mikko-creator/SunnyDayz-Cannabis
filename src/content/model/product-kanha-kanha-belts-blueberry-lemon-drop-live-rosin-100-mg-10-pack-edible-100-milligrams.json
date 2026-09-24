@@ -1,0 +1,133 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-blueberry-lemon-drop-live-rosin-100-mg-10-pack-edible-100-milligrams",
+ "slug": "product-kanha-kanha-belts-blueberry-lemon-drop-live-rosin-100-mg-10-pack-edible-100-milligrams",
+ "type": "product",
+ "title": "KANHA - Kanha Belts - Blueberry Lemon Drop - Live Rosin",
+ "seoTitle": "KANHA - Kanha Belts - Blueberry Lemon Drop - Live Rosin",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Kanha Belts - Blueberry Lemon Drop - Live Rosin",
+    "href": null
+   }
+  ],
+  "h1": "Kanha Belts - Blueberry Lemon Drop - Live Rosin",
+  "name": "Kanha Belts - Blueberry Lemon Drop - Live Rosin",
+  "brand": {
+   "label": "KANHA",
+   "href": "/brand/kanha"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "GUMMY",
+    "href": "/collection/edible/gummy"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/cbf3db4b-ead0-4750-add6-038746177439?w=3840&q=100",
+   "alt": "Kanha Belts - Blueberry Lemon Drop - Live Rosin"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/cbf3db4b-ead0-4750-add6-038746177439?w=3840&q=100",
+    "alt": "Kanha Belts - Blueberry Lemon Drop - Live Rosin"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "100MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Kanha Belts - Blueberry Lemon Drop - Live Rosin - 100 mg delivers a premium hybrid edible experience crafted by Kanha, a trusted leader in cannabis gummies. These delicious belts combine the sweet, tangy flavors of ripe blueberry and bright lemon drop, creating a mouthwatering taste that makes dosing enjoyable. Infused with 100 mg of high-quality live rosin, these gummies offer the full spectrum benefits of cannabis-derived terpenes for enhanced effects and authenticity. The hybrid classification provides a balanced experience that can promote relaxation, creativity, and uplifted mood without being too sedating or stimulating. Perfect for both recreational enjoyment and therapeutic relief, Kanha Belts are precisely dosed for consistent, reliable results every time. Whether you're unwinding after a long day or seeking creative inspiration, these strain-specific gummies deliver potent effects with exceptional flavor in every bite.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "KANHA",
+    "href": "/brand/kanha"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "100MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Kanha Belts Blueberry Lemon Drop Live Rosin 100 Mg 10 Pack"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

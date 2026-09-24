@@ -1,0 +1,393 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/brand/kanha",
+ "slug": "brand-kanha",
+ "type": "brand",
+ "title": "KANHA",
+ "seoTitle": "KANHA",
+ "model": {
+  "kind": "brand",
+  "path": "/brand/kanha",
+  "slug": "kanha",
+  "name": "KANHA",
+  "h1": "KANHA",
+  "logo": null,
+  "banner": {
+   "title": "KANHA",
+   "description": "Shop cannabis products from KANHA at a dispensary near you",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Brands",
+    "href": "/brands"
+   },
+   {
+    "label": "KANHA",
+    "href": null
+   }
+  ],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "empty",
+  "emptyState": {
+   "heading": "No search results found",
+   "text": "No results match the filter criteria. Remove a filter or clear all filters to search again"
+  },
+  "cards": [],
+  "productCount": 8,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/kanha-kanha-sleep-marionberry-plum-nano-gummy-100-mg-10-pack-edible-100-milligrams",
+    "name": "Kanha - Sleep Marionberry Plum - Nano Gummy",
+    "brand": "KANHA",
+    "description": "Kanha Sleep Marionberry Plum Nano Gummy delivers 100mg of indica-powered relaxation in a delicious edible form designed to help you unwind. This fast-acting nano gummy combines the sweet-tart flavor of ripe marionberries with smooth plum notes for a satisfying nighttime treat. Formulated specifically for sleep support, each gummy offers calming, relaxing effects ideal for those seeking relief from restlessness and stress. Kanha's nano technology ensures quicker onset, so you can drift off faster. The indica classification provides the soothing, full-body relaxation you need after a long day. Perfect for evening use, this gummy blends fruity berry and plum flavors with sleepy, calming benefits to support restful nights and deep relaxation.",
+    "price": "$15",
+    "priceAmount": 15,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/faec4038-67b3-4a0b-9906-514719414e10",
+     "alt": "Kanha - Sleep Marionberry Plum - Nano Gummy"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/kanha-kanha-strawberry-classic-gummy-100-mg-10-pack-edible-100-milligrams",
+    "name": "Kanha - Strawberry - Classic Gummy",
+    "brand": "KANHA",
+    "description": "Kanha Strawberry Classic Gummy delivers 100mg of indica-infused relaxation in delicious, fruit-forward bites. Each gummy from this trusted edible brand combines authentic strawberry flavor with calming effects perfect for unwinding after a long day. Kanha's precise dosing and consistent quality make these indica gummies ideal for experienced users seeking deep relaxation, restful sleep, and full-body relief. The sweet, berry-kissed taste masks any cannabis flavor while the indica classification provides the soothing, tranquil experience you crave. Whether you're looking to melt away stress, ease into evening relaxation, or enjoy a peaceful night's rest, these strawberry gummies offer a delicious pathway to calm. Kanha's commitment to quality ensures every bite delivers the reliable, relaxing effects that make this classic edible a go-to choice for indica enthusiasts.",
+    "price": "$15",
+    "priceAmount": 15,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/6911d2c3-df30-4d63-9f77-afeac40dd6a3",
+     "alt": "Kanha - Strawberry - Classic Gummy"
+    }
+   },
+   {
+    "position": 3,
+    "url": "/product/kanha-kanha-belts-blueberry-lemon-drop-live-rosin-100-mg-10-pack-edible-100-milligrams",
+    "name": "Kanha Belts - Blueberry Lemon Drop - Live Rosin",
+    "brand": "KANHA",
+    "description": "Kanha Belts - Blueberry Lemon Drop - Live Rosin - 100 mg delivers a premium hybrid edible experience crafted by Kanha, a trusted leader in cannabis gummies. These delicious belts combine the sweet, tangy flavors of ripe blueberry and bright lemon drop, creating a mouthwatering taste that makes dosing enjoyable. Infused with 100 mg of high-quality live rosin, these gummies offer the full spectrum benefits of cannabis-derived terpenes for enhanced effects and authenticity. The hybrid classification provides a balanced experience that can promote relaxation, creativity, and uplifted mood without being too sedating or stimulating. Perfect for both recreational enjoyment and therapeutic relief, Kanha Belts are precisely dosed for consistent, reliable results every time. Whether you're unwinding after a long day or seeking creative inspiration, these strain-specific gummies deliver potent effects with exceptional flavor in every bite.",
+    "price": "$20",
+    "priceAmount": 20,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/cbf3db4b-ead0-4750-add6-038746177439",
+     "alt": "Kanha Belts - Blueberry Lemon Drop - Live Rosin"
+    }
+   },
+   {
+    "position": 4,
+    "url": "/product/kanha-kanha-belts-cherry-limeade-live-rosin-100-mg-10-pack-edible-100-milligrams",
+    "name": "Kanha Belts - Cherry Limeade - Live Rosin",
+    "brand": "KANHA",
+    "description": "Kanha Belts - Cherry Limeade - Live Rosin - 100mg delivers a premium sativa edible experience with bold, tangy flavor and uplifting effects. These gummy belts from Kanha are crafted with live rosin, offering cannabis-derived terpenes and full spectrum benefits for enhanced potency and authenticity. Each 100mg package features vibrant cherry and lime notes that create a refreshing, tart taste sensation. As a sativa-dominant edible, expect energetic, creative, and uplifting effects perfect for daytime enjoyment or social activities. Kanha's expertise ensures consistent dosing and fast-acting results in every chewy, flavorful belt.",
+    "price": "$20",
+    "priceAmount": 20,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/af67c416-7481-4da3-9880-a59c7b0172fa",
+     "alt": "Kanha Belts - Cherry Limeade - Live Rosin"
+    }
+   },
+   {
+    "position": 5,
+    "url": "/product/kanha-kanha-belts-sour-berry-bliss-live-rosin-100-mg-10-pack-edible-100-milligrams",
+    "name": "Kanha Belts - Sour Berry Bliss - Live Rosin",
+    "brand": "KANHA",
+    "description": "Kanha Belts - Sour Berry Bliss - Live Rosin - 100 mg delivers a premium indica edible experience crafted with live rosin for maximum potency and flavor. These gummy belts capture the essence of ripe, tangy berries with a sour kick that tingles the taste buds. Each belt provides relaxing effects perfect for unwinding after a long day, easing tension, and promoting restful sleep. Made with cannabis-derived terpenes, this strain-specific formula preserves the plant's natural profile for an authentic entourage effect. The 100mg package offers convenient dosing flexibility for both new and experienced consumers. Kanha's commitment to quality ensures consistent, lab-tested results in every bite. Enjoy the sweet-tart berry flavor while embracing the calming, full-body relaxation that indica edibles are known for. Perfect for evening use or whenever you need to melt away stress and find your bliss.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/b3340253-34f8-4563-a55d-20bcf5428016",
+     "alt": "Kanha Belts - Sour Berry Bliss - Live Rosin"
+    }
+   },
+   {
+    "position": 6,
+    "url": "/product/kanha-kanha-belts-sour-melon-rush-live-rosin-100-mg-10-pack-edible-100-milligrams",
+    "name": "Kanha Belts | Sour Melon Rush | Live Rosin",
+    "brand": "KANHA",
+    "description": "Kanha Belts - Sour Melon Rush brings live rosin edibles to a whole new level with 100mg of hybrid cannabis goodness packed into delicious gummy belts. Known for premium quality and precise dosing, Kanha delivers a mouthwatering sour melon flavor that tantalizes your taste buds while providing balanced effects. These live rosin-infused gummies offer a full spectrum experience, combining the uplifting and relaxing qualities of a hybrid. Perfect for those seeking euphoric, happy, and relaxed vibes, each belt is crafted with cannabis-derived terpenes for an authentic, strain-specific experience. Whether you're looking to unwind after a long day or enhance social moments, Sour Melon Rush delivers consistent, fast-acting relief with bold fruity flavor. Kanha's commitment to quality ensures every bite is vegan-friendly and precisely dosed for your peace of mind.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5604fdf9-9d8c-42dd-916d-9156dcaede7b",
+     "alt": "Kanha Belts | Sour Melon Rush | Live Rosin"
+    }
+   },
+   {
+    "position": 7,
+    "url": "/product/kanha-kanha-belts-acai-blueberry-harmony-100-mg-10-pack-edible-100-milligrams",
+    "name": "Kanha Belts - Acai Blueberry - Harmony Gummy",
+    "brand": "KANHA",
+    "description": "Kanha Belts - Acai Blueberry - Harmony Gummy delivers 100mg of premium indica cannabis in a delicious edible format that's perfect for unwinding. Each gummy belt features rich acai and sweet blueberry flavors that create a delightful taste experience while delivering reliable relaxation. As an indica-dominant edible, these gummies are ideal for evening use when you're seeking deep relaxation and restful sleep. The convenient belt format makes dosing easy and enjoyable, whether you're new to cannabis edibles or an experienced user. Kanha is known for their consistent quality and precise dosing, ensuring you get the same great experience every time. These gummies offer calming, relaxed effects that help melt away stress and tension. The fruity, berry-forward flavor profile masks any cannabis taste, making them a treat to consume. Perfect for those seeking relief and relaxation in a tasty, discreet package.",
+    "price": "$15",
+    "priceAmount": 15,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e76e0df5-5d44-4236-bba8-96da2722eed1",
+     "alt": "Kanha Belts - Acai Blueberry - Harmony Gummy"
+    }
+   },
+   {
+    "position": 8,
+    "url": "/product/kanha-kanha-watermelon-classic-gummy-100-mg-10-pack-edible-100-milligrams",
+    "name": "Kanha - Watermelon - 100 mg",
+    "brand": "KANHA",
+    "description": "Kanha Watermelon gummies deliver a perfectly balanced hybrid experience in a delicious 100mg edible format. Each gummy bursts with juicy watermelon flavor, offering a refreshing and enjoyable way to elevate your day or unwind in the evening. Kanha is renowned for crafting premium cannabis-infused gummies with consistent dosing and exceptional taste. This hybrid blend provides a harmonious combination of uplifting and relaxing effects, making it ideal for social gatherings, creative pursuits, or simply enjoying a peaceful moment. The sweet, fruity watermelon profile masks any cannabis taste, delivering pure enjoyment with every bite. Perfect for both experienced users and those seeking a flavorful, reliable edible experience. Kanha's commitment to quality ensures you receive a product that's both potent and delicious, packaged for freshness and convenience.",
+    "price": "$15",
+    "priceAmount": 15,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d4824e29-6eec-407e-8c0a-3af7f3f4c3c1",
+     "alt": "Kanha - Watermelon - 100 mg"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/brands",
+       "name": "Brands"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "KANHA"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "KANHA",
+       "description": "Kanha Sleep Marionberry Plum Nano Gummy delivers 100mg of indica-powered relaxation in a delicious edible form designed to help you unwind. This fast-acting nano gummy combines the sweet-tart flavor of ripe marionberries with smooth plum notes for a satisfying nighttime treat. Formulated specifically for sleep support, each gummy offers calming, relaxing effects ideal for those seeking relief from restlessness and stress. Kanha&apos;s nano technology ensures quicker onset, so you can drift off faster. The indica classification provides the soothing, full-body relaxation you need after a long day. Perfect for evening use, this gummy blends fruity berry and plum flavors with sleepy, calming benefits to support restful nights and deep relaxation.",
+       "name": "Kanha - Sleep Marionberry Plum - Nano Gummy",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "15",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-sleep-marionberry-plum-nano-gummy-100-mg-10-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/faec4038-67b3-4a0b-9906-514719414e10"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "KANHA",
+       "description": "Kanha Strawberry Classic Gummy delivers 100mg of indica-infused relaxation in delicious, fruit-forward bites. Each gummy from this trusted edible brand combines authentic strawberry flavor with calming effects perfect for unwinding after a long day. Kanha&apos;s precise dosing and consistent quality make these indica gummies ideal for experienced users seeking deep relaxation, restful sleep, and full-body relief. The sweet, berry-kissed taste masks any cannabis flavor while the indica classification provides the soothing, tranquil experience you crave. Whether you&apos;re looking to melt away stress, ease into evening relaxation, or enjoy a peaceful night&apos;s rest, these strawberry gummies offer a delicious pathway to calm. Kanha&apos;s commitment to quality ensures every bite delivers the reliable, relaxing effects that make this classic edible a go-to choice for indica enthusiasts.",
+       "name": "Kanha - Strawberry - Classic Gummy",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "15",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-strawberry-classic-gummy-100-mg-10-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/6911d2c3-df30-4d63-9f77-afeac40dd6a3"
+      },
+      "position": "2"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "KANHA",
+       "description": "Kanha Belts - Blueberry Lemon Drop - Live Rosin - 100 mg delivers a premium hybrid edible experience crafted by Kanha, a trusted leader in cannabis gummies. These delicious belts combine the sweet, tangy flavors of ripe blueberry and bright lemon drop, creating a mouthwatering taste that makes dosing enjoyable. Infused with 100 mg of high-quality live rosin, these gummies offer the full spectrum benefits of cannabis-derived terpenes for enhanced effects and authenticity. The hybrid classification provides a balanced experience that can promote relaxation, creativity, and uplifted mood without being too sedating or stimulating. Perfect for both recreational enjoyment and therapeutic relief, Kanha Belts are precisely dosed for consistent, reliable results every time. Whether you&apos;re unwinding after a long day or seeking creative inspiration, these strain-specific gummies deliver potent effects with exceptional flavor in every bite.",
+       "name": "Kanha Belts - Blueberry Lemon Drop - Live Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-blueberry-lemon-drop-live-rosin-100-mg-10-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/cbf3db4b-ead0-4750-add6-038746177439"
+      },
+      "position": "3"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "KANHA",
+       "description": "Kanha Belts - Cherry Limeade - Live Rosin - 100mg delivers a premium sativa edible experience with bold, tangy flavor and uplifting effects. These gummy belts from Kanha are crafted with live rosin, offering cannabis-derived terpenes and full spectrum benefits for enhanced potency and authenticity. Each 100mg package features vibrant cherry and lime notes that create a refreshing, tart taste sensation. As a sativa-dominant edible, expect energetic, creative, and uplifting effects perfect for daytime enjoyment or social activities. Kanha&apos;s expertise ensures consistent dosing and fast-acting results in every chewy, flavorful belt.",
+       "name": "Kanha Belts - Cherry Limeade - Live Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-cherry-limeade-live-rosin-100-mg-10-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/af67c416-7481-4da3-9880-a59c7b0172fa"
+      },
+      "position": "4"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "KANHA",
+       "description": "Kanha Belts - Sour Berry Bliss - Live Rosin - 100 mg delivers a premium indica edible experience crafted with live rosin for maximum potency and flavor. These gummy belts capture the essence of ripe, tangy berries with a sour kick that tingles the taste buds. Each belt provides relaxing effects perfect for unwinding after a long day, easing tension, and promoting restful sleep. Made with cannabis-derived terpenes, this strain-specific formula preserves the plant&apos;s natural profile for an authentic entourage effect. The 100mg package offers convenient dosing flexibility for both new and experienced consumers. Kanha&apos;s commitment to quality ensures consistent, lab-tested results in every bite. Enjoy the sweet-tart berry flavor while embracing the calming, full-body relaxation that indica edibles are known for. Perfect for evening use or whenever you need to melt away stress and find your bliss.",
+       "name": "Kanha Belts - Sour Berry Bliss - Live Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-sour-berry-bliss-live-rosin-100-mg-10-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/b3340253-34f8-4563-a55d-20bcf5428016"
+      },
+      "position": "5"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "KANHA",
+       "description": "Kanha Belts - Sour Melon Rush brings live rosin edibles to a whole new level with 100mg of hybrid cannabis goodness packed into delicious gummy belts. Known for premium quality and precise dosing, Kanha delivers a mouthwatering sour melon flavor that tantalizes your taste buds while providing balanced effects. These live rosin-infused gummies offer a full spectrum experience, combining the uplifting and relaxing qualities of a hybrid. Perfect for those seeking euphoric, happy, and relaxed vibes, each belt is crafted with cannabis-derived terpenes for an authentic, strain-specific experience. Whether you&apos;re looking to unwind after a long day or enhance social moments, Sour Melon Rush delivers consistent, fast-acting relief with bold fruity flavor. Kanha&apos;s commitment to quality ensures every bite is vegan-friendly and precisely dosed for your peace of mind.",
+       "name": "Kanha Belts | Sour Melon Rush | Live Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-sour-melon-rush-live-rosin-100-mg-10-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5604fdf9-9d8c-42dd-916d-9156dcaede7b"
+      },
+      "position": "6"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "KANHA",
+       "description": "Kanha Belts - Acai Blueberry - Harmony Gummy delivers 100mg of premium indica cannabis in a delicious edible format that&apos;s perfect for unwinding. Each gummy belt features rich acai and sweet blueberry flavors that create a delightful taste experience while delivering reliable relaxation. As an indica-dominant edible, these gummies are ideal for evening use when you&apos;re seeking deep relaxation and restful sleep. The convenient belt format makes dosing easy and enjoyable, whether you&apos;re new to cannabis edibles or an experienced user. Kanha is known for their consistent quality and precise dosing, ensuring you get the same great experience every time. These gummies offer calming, relaxed effects that help melt away stress and tension. The fruity, berry-forward flavor profile masks any cannabis taste, making them a treat to consume. Perfect for those seeking relief and relaxation in a tasty, discreet package.",
+       "name": "Kanha Belts - Acai Blueberry - Harmony Gummy",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "15",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-acai-blueberry-harmony-100-mg-10-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e76e0df5-5d44-4236-bba8-96da2722eed1"
+      },
+      "position": "7"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "KANHA",
+       "description": "Kanha Watermelon gummies deliver a perfectly balanced hybrid experience in a delicious 100mg edible format. Each gummy bursts with juicy watermelon flavor, offering a refreshing and enjoyable way to elevate your day or unwind in the evening. Kanha is renowned for crafting premium cannabis-infused gummies with consistent dosing and exceptional taste. This hybrid blend provides a harmonious combination of uplifting and relaxing effects, making it ideal for social gatherings, creative pursuits, or simply enjoying a peaceful moment. The sweet, fruity watermelon profile masks any cannabis taste, delivering pure enjoyment with every bite. Perfect for both experienced users and those seeking a flavorful, reliable edible experience. Kanha&apos;s commitment to quality ensures you receive a product that&apos;s both potent and delicious, packaged for freshness and convenience.",
+       "name": "Kanha - Watermelon - 100 mg",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "15",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-watermelon-classic-gummy-100-mg-10-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d4824e29-6eec-407e-8c0a-3af7f3f4c3c1"
+      },
+      "position": "8"
+     }
+    ]
+   }
+  ]
+ }
+}

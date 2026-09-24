@@ -1,0 +1,1037 @@
+{
+ "schema": "sunnydayz/model-report@1",
+ "generated": "2026-09-23T06:00:55.438Z",
+ "min": 0.98,
+ "byType": {
+  "product": {
+   "pages": 146,
+   "errors": 0,
+   "below": 0,
+   "minCoverage": 1
+  }
+ },
+ "pages": [
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sunnydayz-sunnydayz-t-shirt-one-size-merch",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sunnydayz-sunnydayz-battery-one-size-merch",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/bic-bic-lighter-color-one-size-merch",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sunnydayz-sunnydayz-hat-one-size-merch",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/elements-elements-rolling-papers-1-1-4-one-size-merch",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/bic-bic-lighter-black-one-size-merch",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-purple-cones-1-1-4-one-size-merch",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/grav-classic-spoon-green-hand-pipe-one-size-merch",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/grav-classic-spoon-blue-hand-pipe-one-size-merch",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-filter-tips-tin-100ct-one-size-merch",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-filter-tips-book-pink-ultra-wide-one-size-merch",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/raw-raw-organic-rolling-papers-black-1-1-4-one-size-merch",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-cherry-limeade-live-rosin-100-mg-10-pack-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-sour-gary-5g-live-rosin-cart-0-5-g-cartridge-0-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-filter-tips-book-purple-ultra-wide-one-size-merch",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/grav-classic-spoon-black-hand-pipe-one-size-merch",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sugaree-sugaree-strawana-1g-cart-melted-diamonds-1-g-cartridge-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/grav-classic-spoon-amber-hand-pipe-one-size-merch",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-personal-lubricant-500mg-500-mg-topical-500-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-purple-rolling-papers-king-slim-one-size-merch",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-pink-cones-shorty-53mm-one-size-merch",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/grav-classic-spoon-pink-hand-pipe-one-size-merch",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/raw-raw-classic-cones-dog-walker-single-70-24-one-size-merch",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-honeydew-5g-live-rosin-cart-0-5-g-cartridge-0-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-purple-rolling-papers-1-1-4-one-size-merch",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/e-z-wider-organic-hemp-cones-1-1-4-one-size-merch",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-superboof-5g-live-hash-rosin-0-5-g-cartridge-0-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-strawberry-cream-party-rosin-chocolate-100-mg-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-raspberry-rosin-revive-chocolate-100-mg-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/harbor-house-harbor-house-lemon-cherry-sherbert-1g-badder-1-g-extract-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-sleep-marionberry-plum-nano-gummy-100-mg-10-pack-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sugaree-sugaree-clementine-1g-cart-melted-diamonds-1-g-cartridge-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-party-rosin-gummies-100mg-100-mg-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/the-healing-rose-healing-rose-lemon-ginger-200mg-cbd-cbg-8x-200-mg-cbd-200-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/coast-coast-milk-chocolate-bar-100-mg-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/coast-coast-s-mores-chocolate-bar-100-mg-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-massage-oil-500mg-500-mg-topical-500-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sugaree-sugaree-gelato-1g-cart-melted-diamonds-1-g-cartridge-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/claravita-claravita-apple-cider-gummies-live-rosin-1-1-100-mg-20-pack-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-chill-rosin-gummies-100mg-100-mg-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-blueberry-vanilla-dream-rso-chocolate-100-mg-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/hg-aluminum-grinder-black-2-5-inch-one-size-merch",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/keef-keef-root-beer-soda-5-mg-beverage-5-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/coast-coast-tangerine-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/coast-coast-goodnight-grape-gummy-5-25-100-mg-20-pack-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/keef-keef-orange-soda-5-mg-beverage-5-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/keef-keef-original-cola-5-mg-beverage-5-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-caramel-crush-calm-rosin-chocolate-100-mg-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-watermelon-go-betty-go-50-mg-10-pack-edible-50-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-cherry-ache-away-eddies-1-4-1-50-mg-10-pack-edible-50-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/coast-coast-raspberry-lime-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-watermelon-classic-gummy-100-mg-10-pack-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-canna-cream-rso-1000mg-1000-mg-topical-1000-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-orange-creme-ache-away-pm-1-1-1-50-mg-10-pack-edible-50-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-infused-olive-oil-500mg-500-mg-edible-500-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-muscle-salve-300mg-300-mg-topical-300-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-strawberry-lemonade-swirl-beachtime-betty-s-1-1-50-mg-10-pack-edible-50-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/levia-levia-achieve-drops-tincture-500-mg-tincture-500-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/levia-levia-celebrate-drops-tincture-500-mg-tincture-500-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-atlantic-bliss-rso-chocolate-100-mg-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-strawberry-classic-gummy-100-mg-10-pack-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-lemon-agave-bedtime-betty-s-50-mg-10-pack-edible-50-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/coast-coast-dark-chocolate-sea-salt-bar-100-mg-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-goodnight-hash-caps-thc-cbn-100-mg-20-pack-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-infused-olive-oil-250mg-250-mg-edible-250-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/bubby-s-bubby-s-chocolate-chip-baked-goods-5mg-5-mg-edible-5-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-solventless-hash-caps-100-mg-20-pack-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/coast-coast-cookies-cream-white-chocolate-bar-100-mg-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-blueberry-lemon-drop-live-rosin-100-mg-10-pack-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-gentle-drops-990mg-990-mg-tincture-990-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/bubby-s-bubby-s-pumpkin-bites-baked-goods-5mg-5-mg-edible-5-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-sour-melon-rush-live-rosin-100-mg-10-pack-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-amplify-1350mg-cbd-cbg-thc-tincture-1350-mg-tincture-1350-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-raspberry-creme-bedtime-betty-s-1-2-1-50-mg-10-pack-edible-50-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-acai-blueberry-harmony-100-mg-10-pack-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/coast-coast-strawberry-lemonade-gummy-10-5-5-100-mg-20-pack-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-purist-drops-2000mg-2000-mg-tincture-2000-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-tropical-smoothie-chews-1-6-50-mg-10-pack-edible-50-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/coast-coast-blissful-blueberry-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-sour-berry-bliss-live-rosin-100-mg-10-pack-edible-100-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/levia-levia-dream-drops-tincture-500-mg-tincture-500-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-sleep-relief-live-hash-rosin-gummies-700mg-700-mg-10-pack-edible-700-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-cherry-berry-shot-sleepy-1-1-20-mg-tincture-20-milligrams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-superboof-1g-live-rosin-1-g-extract-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-cherry-whip-1g-dry-sift-1-g-extract-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/omg-omg-pink-runtz-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/harbor-house-harbor-house-super-silver-haze-x-albarino-1g-badder-1-g-extract-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-gary-payton-x-apple-mints-1g-live-rosin-1-g-extract-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-florida-freeze-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/omg-omg-chocolate-og-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/impressed-impressed-rainbow-belts-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/impressed-impressed-zangria-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-honeydew-1g-live-rosin-1-g-extract-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-deadhead-og-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/in-house-in-house-maui-wowie-1g-dispo-1-g-cartridge-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-007up-5g-live-hash-rosin-0-5-g-cartridge-0-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-cereal-milk-1g-live-rosin-1-g-extract-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-florida-freeze-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-half-pint-4-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-last-dance-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-moonbutter-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-fruity-pebbles-og-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/in-house-in-house-biscotti-1g-dispo-1-g-cartridge-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/omg-omg-shady-icee-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-butterstuff-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-slurricane-1g-live-rosin-1-g-extract-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/impressed-impressed-apples-and-banana-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/nature-s-heritage-nature-s-heritage-grape-diamonds-5g-live-sauce-dispo-0-5-g-cartridge-0-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/omg-omg-honey-berriez-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-dosido-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-maple-butter-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-dante-s-lemons-5g-live-rosin-cart-0-5-g-cartridge-0-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/impressed-impressed-gelonade-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/omg-omg-mac-1-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-dante-s-lemons-1g-live-rosin-1-g-extract-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/harbor-house-harbor-house-bajah-blast-5g-cartridge-distillate-0-5-g-cartridge-0-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/bountiful-farms-bountiful-watermellos-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/doja-doja-confetti-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-mango-smoothie-1g-pre-roll-1-g-3-pack-preroll-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/breath-free-breathe-free-guava-biscotti-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-confetti-1g-pre-roll-1-g-3-pack-preroll-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-blueberry-n-strawberry-1g-pre-roll-3-pack-3-g-preroll-3-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-dante-s-inferno-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/nature-s-heritage-nature-s-heritage-tropical-citrus-x-early-lemon-berry-5g-2pk-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-perfect-pair-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-haley-s-comet-haze-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-peanut-butter-gelato-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/bountiful-farms-bountiful-texas-shoreline-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-rasta-pie-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-pineapple-cake-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-inzane-in-the-membrane-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/harbor-house-harbor-house-gmo-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-mango-smoothie-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/bountiful-farms-bountiful-candy-fumez-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-inzane-in-the-membrane-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-mango-smoothie-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/harbor-house-harbor-house-orange-43-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-dante-s-inferno-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-og-kush-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-mucho-melon-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-lemongrass-gas-1g-pre-roll-3-pack-3-g-preroll-3-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-el-jefe-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-peanut-butter-gelato-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-mucho-melon-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-rasta-pie-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-mac-31-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  }
+ ]
+}

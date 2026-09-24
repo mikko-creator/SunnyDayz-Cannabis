@@ -1,0 +1,205 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-mango-smoothie-1g-pre-roll-1-g-preroll-1-grams",
+ "slug": "product-breathe-free-breathe-free-mango-smoothie-1g-pre-roll-1-g-preroll-1-grams",
+ "type": "product",
+ "title": "BREATHE FREE - Breathe Free - Mango Smoothie - 1G Pre-roll",
+ "seoTitle": "BREATHE FREE - Breathe Free - Mango Smoothie - 1G Pre-roll",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Preroll",
+    "href": "/collection/preroll"
+   },
+   {
+    "label": "Breathe Free - Mango Smoothie - 1G Pre-roll",
+    "href": null
+   }
+  ],
+  "h1": "Breathe Free - Mango Smoothie - 1G Pre-roll",
+  "name": "Breathe Free - Mango Smoothie - 1G Pre-roll",
+  "brand": {
+   "label": "BREATHE FREE",
+   "href": "/brand/breathe-free"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Indica",
+   "key": "indica",
+   "ariaLabel": "Flower type: Indica"
+  },
+  "category": {
+   "label": "Preroll",
+   "href": "/collection/preroll"
+  },
+  "subcategories": [
+   {
+    "label": "FLOWER",
+    "href": "/collection/preroll/flower"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/faa4c2d8-fc3a-492f-ace0-5a496123ed07?w=3840&q=100",
+   "alt": "Breathe Free - Mango Smoothie - 1G Pre-roll"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/faa4c2d8-fc3a-492f-ace0-5a496123ed07?w=3840&q=100",
+    "alt": "Breathe Free - Mango Smoothie - 1G Pre-roll"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": "Warning",
+   "about": "About this product",
+   "terpenes": "Terpenes",
+   "cannabinoids": "Cannabinoids"
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "23.094%",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Breath Free presents Mango Smoothie, a delicious 1g preroll that delivers a tropical escape with every puff. This expertly crafted preroll features smooth, sweet mango flavors blended with creamy, fruity notes that transport your taste buds straight to paradise. Perfect for those seeking a flavorful cannabis experience, this single gram preroll offers convenient, ready-to-enjoy consumption without any preparation needed. The Mango Smoothie strain delivers a delightful combination of tropical aromas and satisfying effects that enhance relaxation and uplift your mood. Each preroll is carefully packed with quality flower to ensure an even burn and consistent experience from start to finish. Whether you're unwinding after a long day or enjoying time with friends, this mango-forward preroll provides the perfect balance of flavor and potency. Breath Free's commitment to quality shines through in every draw, making Mango Smoothie an ideal choice for both seasoned enthusiasts and newcomers exploring premium prerolls.",
+  "warnings": [
+   {
+    "title": "Proposition 65 Warning for California Consumers",
+    "collapsed": true,
+    "toggleIcon": "angle-down",
+    "toggleAriaLabel": "Expand content",
+    "label": "WARNING:",
+    "lines": [
+     "This product can expose you to chemicals including β-myrcene and cannabis smoke, which are known to the State of California to cause cancer, and chemicals including cannabis smoke and 9-tetrahydrocannabinol, which are known to the State of California to cause birth defects or other reproductive harm."
+    ],
+    "moreInfo": {
+     "text": "For more information go to",
+     "label": "www.P65Warnings.ca.gov",
+     "href": "https://www.P65Warnings.ca.gov"
+    },
+    "links": []
+   }
+  ],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "BREATHE FREE",
+    "href": "/brand/breathe-free"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Indica",
+    "href": "/strain/Indica"
+   },
+   {
+    "label": "THC",
+    "value": "23.094%"
+   },
+   {
+    "label": "Package Info",
+    "value": "Breathe Free Mango Smoothie 1 G Pre Roll 1 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "1g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [
+   {
+    "name": "Alpha Pinene",
+    "value": "0.814 %",
+    "aroma": "Pine",
+    "effects": "Focus, Relief, Alert, Balanced"
+   },
+   {
+    "name": "Beta Myrcene",
+    "value": "0.348 %",
+    "aroma": "Herbal",
+    "effects": "Relaxing, Sedation, Heaviness, Couch Lock"
+   },
+   {
+    "name": "Beta Pinene",
+    "value": "0.332 %",
+    "aroma": "Pine",
+    "effects": "Focus, Relief, Alert, Balanced"
+   },
+   {
+    "name": "Limonene",
+    "value": "0.15 %",
+    "aroma": "Citrus",
+    "effects": "Elevated mood, anti-anxiety"
+   },
+   {
+    "name": "Beta Caryophyllene",
+    "value": "0.125 %",
+    "aroma": "Peppery",
+    "effects": "Anti-inflammatory, analgesic, calming"
+   },
+   {
+    "name": "Alpha Humulene",
+    "value": "0.038 %",
+    "aroma": "Hoppy",
+    "effects": "Pain relief, appetite suppression"
+   }
+  ],
+  "cannabinoids": [
+   {
+    "group": "THC",
+    "items": [
+     {
+      "name": "THCA",
+      "value": "25.83%"
+     },
+     {
+      "name": "THC",
+      "value": "23.0936%"
+     }
+    ]
+   }
+  ],
+  "jsonld": null
+ }
+}

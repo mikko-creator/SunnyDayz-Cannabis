@@ -1,0 +1,164 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-muscle-salve-300mg-300-mg-topical-300-milligrams",
+ "slug": "product-sweetgrass-botanicals-sweetgrass-botanicals-muscle-salve-300mg-300-mg-topical-300-milligrams",
+ "type": "product",
+ "title": "SWEETGRASS BOTANICALS - Sweetgrass Botanicals - Muscle Salve - 300mg",
+ "seoTitle": "SWEETGRASS BOTANICALS - Sweetgrass Botanicals - Muscle Salve - 300mg",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Topical",
+    "href": "/collection/topical"
+   },
+   {
+    "label": "Sweetgrass Botanicals - Muscle Salve - 300mg",
+    "href": null
+   }
+  ],
+  "h1": "Sweetgrass Botanicals - Muscle Salve - 300mg",
+  "name": "Sweetgrass Botanicals - Muscle Salve - 300mg",
+  "brand": {
+   "label": "SWEETGRASS BOTANICALS",
+   "href": "/brand/sweetgrass-botanicals"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Topical",
+   "href": "/collection/topical"
+  },
+  "subcategories": [
+   {
+    "label": "OTHER",
+    "href": "/collection/topical/other"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/508ed1a8-d0f9-43f5-a238-a6aa1243c1ee?w=3840&q=100",
+   "alt": "Sweetgrass Botanicals - Muscle Salve - 300mg"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/508ed1a8-d0f9-43f5-a238-a6aa1243c1ee?w=3840&q=100",
+    "alt": "Sweetgrass Botanicals - Muscle Salve - 300mg"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "300MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Sweetgrass Botanicals Muscle Salve delivers targeted relief in a convenient 300mg topical formula designed for active lifestyles. This soothing salve combines premium cannabis extract with nourishing botanicals to provide localized comfort exactly where you need it most. Simply massage into tired, sore muscles after workouts, long days, or whenever tension strikes. The rich, non-greasy texture absorbs quickly, making it ideal for on-the-go relief without residue. Whether you're an athlete seeking post-exercise recovery or simply need everyday muscle support, this 300mg salve offers a natural approach to wellness. Perfect for addressing discomfort in backs, shoulders, knees, and joints, it delivers fast-acting comfort without psychoactive effects. Experience the power of plant-based relief with Sweetgrass Botanicals' carefully crafted topical solution.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "each",
+    "price": "$60",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$60",
+   "original": null,
+   "ariaLabel": "Product price: $60"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Sweetgrass Botanicals - Muscle Salve - 300mg  to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Sweetgrass Botanicals - Muscle Salve - 300mg  to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "SWEETGRASS BOTANICALS",
+    "href": "/brand/sweetgrass-botanicals"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "300MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Sweetgrass Botanicals Muscle Salve 300 Mg 300 Mg"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

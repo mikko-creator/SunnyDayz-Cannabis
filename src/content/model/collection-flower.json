@@ -1,0 +1,953 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/collection/flower",
+ "slug": "collection-flower",
+ "type": "collection",
+ "title": "The best flower | FLOWER",
+ "seoTitle": "The best flower | FLOWER",
+ "model": {
+  "kind": "collection",
+  "level": "category",
+  "path": "/collection/flower",
+  "category": "flower",
+  "subcategory": null,
+  "parentPath": null,
+  "sortParam": null,
+  "capture": {
+   "matchesUrl": true,
+   "signal": null,
+   "observed": null
+  },
+  "h1": "FLOWER",
+  "banner": {
+   "title": "FLOWER",
+   "description": null,
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMZ5bqstJ9-DzR_CategoriesBanner-22.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMaJbqstJ9-DzS_CategoriesBanner-8.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "All Flower",
+    "href": null
+   }
+  ],
+  "categoryLinks": [
+   {
+    "label": "Deals",
+    "href": "/deals",
+    "ariaLabel": "Go to Deals",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs_KYofJOwHRt1_deals.svg?fit=max&w=128",
+     "alt": "Deals icon"
+    }
+   },
+   {
+    "label": "Flower",
+    "href": "/collection/flower?sort=brandAsc",
+    "ariaLabel": "Flower, current page",
+    "current": true,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs6aYofJOwHRti_flowers.svg?fit=max&w=128",
+     "alt": "Flower icon"
+    }
+   },
+   {
+    "label": "Vapes",
+    "href": "/collection/cartridge?sort=brandAsc",
+    "ariaLabel": "Go to Vapes",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs9KYofJOwHRtt_vapes.svg?fit=max&w=128",
+     "alt": "Vapes icon"
+    }
+   },
+   {
+    "label": "Pre-Roll",
+    "href": "/collection/preroll?sort=brandAsc",
+    "ariaLabel": "Go to Pre-Roll",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs76YofJOwHRto_rolls.svg?fit=max&w=128",
+     "alt": "Pre-Roll icon"
+    }
+   },
+   {
+    "label": "Edibles",
+    "href": "/collection/edible?sort=priceDesc",
+    "ariaLabel": "Go to Edibles",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs5aYofJOwHRte_edibles.svg?fit=max&w=128",
+     "alt": "Edibles icon"
+    }
+   },
+   {
+    "label": "Extracts",
+    "href": "/collection/extract?sort=brandAsc",
+    "ariaLabel": "Go to Extracts",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs6KYofJOwHRth_extracts.svg?fit=max&w=128",
+     "alt": "Extracts icon"
+    }
+   },
+   {
+    "label": "Drinks",
+    "href": "/collection/beverage?sort=brandAsc",
+    "ariaLabel": "Go to Drinks",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs5KYofJOwHRtd_drinks-3.svg?fit=max&w=128",
+     "alt": "Drinks icon"
+    }
+   },
+   {
+    "label": "Tinctures",
+    "href": "/collection/tincture?sort=brandAsc",
+    "ariaLabel": "Go to Tinctures",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs8qYofJOwHRtr_tinctures.svg?fit=max&w=128",
+     "alt": "Tinctures icon"
+    }
+   },
+   {
+    "label": "Capsules",
+    "href": "/collection/pill?sort=brandAsc",
+    "ariaLabel": "Go to Capsules",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs-aYofJOwHRty_capsules.svg?fit=max&w=128",
+     "alt": "Capsules icon"
+    }
+   },
+   {
+    "label": "Topicals",
+    "href": "/collection/topical?sort=brandAsc",
+    "ariaLabel": "Go to Topicals",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs86YofJOwHRts_topicals.svg?fit=max&w=128",
+     "alt": "Topicals icon"
+    }
+   },
+   {
+    "label": "Accessories",
+    "href": "/collection/merch?sort=brandAsc",
+    "ariaLabel": "Go to Accessories",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs9aYofJOwHRtu_accesories.svg?fit=max&w=128",
+     "alt": "Accessories icon"
+    }
+   }
+  ],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "loading",
+  "emptyState": null,
+  "cards": [],
+  "productCount": 20,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/omg-omg-shady-icee-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "OMG - Shady Icee - 3.5G Flower",
+    "brand": "OMG",
+    "description": "OMG brings you Shady Icee, a premium hybrid flower that delivers the perfect balance of relaxation and uplift in a convenient 3.5g pre-pack. This carefully cultivated strain combines the best of both worlds, offering effects that ease tension while keeping your mind clear and focused. Shady Icee delights the senses with frosty, resinous buds that showcase vibrant colors and exceptional quality. The flavor profile features refreshing notes of citrus and sweet tropical fruit with subtle earthy undertones, creating a smooth and enjoyable experience from first inhale to last. Ideal for any time of day, this hybrid provides a euphoric, happy high that promotes creativity and social connection without overwhelming sedation. Whether you're unwinding after work or sparking inspiration for your next project, OMG's Shady Icee delivers consistent quality and potent effects. Perfect for both seasoned enthusiasts and those seeking a well-rounded cannabis experience.",
+    "price": "$40",
+    "priceAmount": 40,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/be5e7ed0-924d-4ee9-8c9b-62d1d57abcf9",
+     "alt": "OMG - Shady Icee - 3.5G Flower"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/tower-three-tower-three-florida-freeze-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Tower Three - Florida Freeze - 3.5G Flower",
+    "brand": "TOWER THREE",
+    "description": "Tower Three presents Florida Freeze, a premium 3.5g flower offering that delivers a refreshing cannabis experience. This carefully cultivated bud showcases frosty trichomes and a vibrant appearance that lives up to its chilly name. The aroma profile bursts with citrus and tropical notes, complemented by sweet undertones that entice the senses. Each nug is hand-selected to ensure quality and potency, making this flower ideal for discerning consumers seeking authentic cannabis enjoyment. Whether you're looking to unwind after a long day or enhance your creative pursuits, Florida Freeze provides a smooth, flavorful smoke that captures the essence of quality craftsmanship. This 3.5g jar offers the perfect amount for exploring this unique strain's characteristics and discovering your favorite consumption method.",
+    "price": "$45",
+    "priceAmount": 45,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/04379419-08d4-4139-866c-8383d3f53765",
+     "alt": "Tower Three - Florida Freeze - 3.5G Flower"
+    }
+   },
+   {
+    "position": 3,
+    "url": "/product/tower-three-tower-three-maple-butter-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Tower Three - Maple Butter - 3.5G Flower",
+    "brand": "TOWER THREE",
+    "description": "Tower Three presents Maple Butter, a premium 3.5g flower offering that brings together rich, indulgent flavor with quality cannabis. This expertly cultivated flower delivers smooth, sweet maple notes complemented by creamy, buttery undertones that create a uniquely satisfying aromatic experience. Each bud is carefully hand-trimmed and cured to preserve terpene integrity and cannabinoid potency. The flavor profile unfolds with warm maple sweetness on the inhale, followed by smooth, buttery richness that lingers pleasantly. Perfect for cannabis enthusiasts seeking distinctive flavor alongside quality effects. Tower Three's commitment to cultivation excellence shines through in every jar, delivering consistent potency and exceptional taste. Whether you're unwinding after a long day or exploring new flavor profiles, Maple Butter offers a memorable experience that stands out from typical flower options. This 3.5g size provides the perfect amount to enjoy and share.",
+    "price": "$45",
+    "priceAmount": 45,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7183191d-a596-44ee-a0bd-235387cd8cf0",
+     "alt": "Tower Three - Maple Butter - 3.5G Flower"
+    }
+   },
+   {
+    "position": 4,
+    "url": "/product/mass-yield-mass-yield-inzane-in-the-membrane-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Mass Yield - Inzane in the Membrane - 3.5G Flower",
+    "brand": "MASS YIELD",
+    "description": "Mass Yield's Inzane in the Membrane delivers premium sativa flower in a convenient 3.5g pre-pack format. This energizing strain is designed for those seeking creative inspiration and an uplifted, focused experience throughout the day. The flower showcases vibrant buds with a complex aroma profile featuring citrus, earthy, and pine notes that translate beautifully into its flavor. Perfect for daytime use, Inzane in the Membrane offers the classic sativa effects cannabis enthusiasts crave—expect euphoric sensations, enhanced focus, and a burst of creative energy. Whether you're tackling projects, socializing with friends, or simply looking to elevate your mood, this strain delivers consistent, quality results. Mass Yield's commitment to premium cultivation shines through in every bud, ensuring a satisfying experience from first spark to final exhale.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a269b3b6-3bca-4af3-ba84-37f088dd0d6e",
+     "alt": "Mass Yield - Inzane in the Membrane - 3.5G Flower"
+    }
+   },
+   {
+    "position": 5,
+    "url": "/product/omg-omg-mac-1-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "OMG - Mac 1 - 3.5G Flower",
+    "brand": "OMG",
+    "description": "OMG brings you Mac 1, a premium hybrid flower that's earned legendary status among cannabis connoisseurs. This 3.5g jar showcases dense, frosty buds with a captivating aroma profile blending citrus, earthy, and diesel notes. Mac 1 delivers a beautifully balanced hybrid experience—expect uplifted euphoria paired with deep relaxation that soothes both mind and body. Creative and focused energy makes it perfect for daytime inspiration or unwinding after work. The flavor profile is equally impressive, offering sweet citrus and herbal undertones with a smooth, satisfying finish. Whether you're seeking creative flow, social vibes, or simply relief from daily stress, Mac 1's well-rounded effects make it a versatile choice for any occasion. OMG's commitment to quality ensures each eighth delivers consistent potency and exceptional freshness in every bud.",
+    "price": "$40",
+    "priceAmount": 40,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5c618d1-a8e1-48f9-ae31-0d8afbd94f69",
+     "alt": "OMG - Mac 1 - 3.5G Flower"
+    }
+   },
+   {
+    "position": 6,
+    "url": "/product/bountiful-farms-bountiful-texas-shoreline-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Bountiful - Texas Shoreline - 3.5G Flower",
+    "brand": "BOUNTIFUL FARMS",
+    "description": "Bountiful Farms brings you Texas Shoreline, a vibrant Sativa flower designed to energize and uplift your day. This 3.5g pre-pack delivers the invigorating effects Sativa lovers crave—think focused, creative, and euphoric sensations perfect for daytime adventures or social gatherings. Texas Shoreline showcases a captivating flavor profile with bright citrus and tropical notes balanced by subtle earthy undertones, creating a smooth and refreshing experience with every session. Expertly cultivated and carefully cured, this premium flower offers consistent potency and exceptional quality you can trust. Whether you're seeking motivation for creative projects, a boost of energy for outdoor activities, or simply an uplifting mood enhancement, Texas Shoreline delivers. Bountiful Farms' commitment to craft cannabis shines through in every bud, ensuring you receive a top-tier Sativa experience that's both flavorful and effective. Elevate your cannabis journey with this standout strain today.",
+    "price": "$40",
+    "priceAmount": 40,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/1f18995d-29f3-4706-8397-48a74cfa4379",
+     "alt": "Bountiful - Texas Shoreline - 3.5G Flower"
+    }
+   },
+   {
+    "position": 7,
+    "url": "/product/breathe-free-breathe-free-mango-smoothie-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Breathe Free - Mango Smoothie - 3.5G Flower",
+    "brand": "BREATHE FREE",
+    "description": "Breath Free brings you Breathe Free - Mango Smoothie, a premium 3.5g flower that delivers tropical bliss in every bud. This carefully cultivated pre-pack offers dense, aromatic nugs bursting with vibrant mango and fruity notes that transport your senses to a sun-soaked paradise. The smooth, sweet flavor profile makes each session a refreshing escape, while the thoughtfully grown flower provides a well-rounded experience perfect for any time of day. Whether you're seeking creative inspiration, social energy, or simple relaxation, this mango-infused strain adapts beautifully to your needs. The convenient 3.5g size ensures freshness and potency in every jar, making it ideal for both seasoned enthusiasts and curious newcomers exploring quality cannabis flower. Breathe Free's commitment to excellence shines through in every carefully trimmed bud, delivering consistent quality and an unforgettable tropical taste that keeps you coming back for more.",
+    "price": "$35",
+    "priceAmount": 35,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/00e28b2b-daa2-4797-a7b9-3bbf36def824",
+     "alt": "Breathe Free - Mango Smoothie - 3.5G Flower"
+    }
+   },
+   {
+    "position": 8,
+    "url": "/product/the-fresh-connection-the-fresh-connection-mucho-melon-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "The Fresh Connection - Mucho Melon - 3.5G Flower",
+    "brand": "THE FRESH CONNECTION",
+    "description": "The Fresh Connection brings you Mucho Melon, a premium 3.5g flower that captures the sweet, refreshing essence of ripe melon in every bud. This carefully cultivated cannabis flower delivers a delightfully fruity aroma with notes of melon, citrus, and tropical undertones that tantalize the senses. Each jar contains expertly trimmed, hand-selected nugs that showcase The Fresh Connection's commitment to quality and freshness. Perfect for those seeking a flavorful smoke with juicy melon flavors that linger on the palate, Mucho Melon offers a smooth, enjoyable experience from first inhale to last. Whether you're unwinding after a long day or enhancing social gatherings, this 3.5g flower provides consistent quality and potency. The Fresh Connection's dedication to craft cannabis shines through in every aspect of Mucho Melon, making it an excellent choice for both seasoned enthusiasts and newcomers looking to explore delicious, fruit-forward strains.",
+    "price": "$30",
+    "priceAmount": 30,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/516c10e0-ca1c-4bfe-9dc8-bafa2b55e10d",
+     "alt": "The Fresh Connection - Mucho Melon - 3.5G Flower"
+    }
+   },
+   {
+    "position": 9,
+    "url": "/product/doja-doja-confetti-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Doja Confetti - 3.5G Flower",
+    "brand": "DOJA",
+    "description": "Doja Confetti brings a celebration of premium cannabis flower to your collection. This 3.5g pre-pack showcases Doja's commitment to quality and craft, delivering a flower experience designed for discerning consumers. Each bud is carefully cultivated and hand-selected to ensure optimal freshness, potency, and visual appeal. The Confetti strain offers a dynamic profile that cannabis enthusiasts will appreciate, combining rich aromatic qualities with satisfying effects. Whether you're unwinding after a long day or seeking creative inspiration, this pre-packed flower provides consistent quality in a convenient format. Doja's attention to detail shines through in every aspect, from cultivation to packaging, ensuring you receive a product that meets the highest standards. Perfect for those who value reliability and excellence in their cannabis flower selections.",
+    "price": "$40",
+    "priceAmount": 40,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5a028ed-a685-492e-9b17-4c95178cc3af",
+     "alt": "Doja Confetti - 3.5G Flower"
+    }
+   },
+   {
+    "position": 10,
+    "url": "/product/mass-yield-mass-yield-rasta-pie-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Mass Yield - Rasta Pie - 3.5G Flower",
+    "brand": "MASS YIELD",
+    "description": "Mass Yield presents Rasta Pie, a premium indica flower that delivers deep relaxation and tranquil vibes in every 3.5g jar. This hand-selected pre-pack showcases dense, resinous buds with a captivating aroma profile blending sweet tropical notes with earthy undertones and hints of spice. Rasta Pie's indica dominance makes it ideal for evening use, promoting full-body relaxation, relief from tension, and a peaceful sense of calm that melts away stress. Users can expect euphoric yet grounding effects that ease both mind and body into a state of pure contentment. The rich, complex flavor delivers smooth herbal notes with sweet, fruity accents on the exhale. Perfect for unwinding after a long day or enhancing quiet moments of reflection, this strain offers the quality and consistency Mass Yield is known for. Each 3.5g package preserves peak freshness and potency, ensuring an exceptional cannabis experience from first spark to last.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/bccc2791-9420-46b1-89c1-94e914c89f14",
+     "alt": "Mass Yield - Rasta Pie - 3.5G Flower"
+    }
+   },
+   {
+    "position": 11,
+    "url": "/product/mass-yield-mass-yield-peanut-butter-gelato-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Mass Yield - Peanut Butter Gelato - 3.5G Flower",
+    "brand": "MASS YIELD",
+    "description": "Mass Yield's Peanut Butter Gelato delivers premium indica flower in a convenient 3.5g pre-pack, perfect for evening relaxation and unwinding. This strain combines rich, nutty peanut butter notes with sweet, creamy gelato undertones, creating a dessert-like aroma and flavor profile that's truly indulgent. As an indica-dominant flower, Peanut Butter Gelato is known for promoting deep relaxation, stress relief, and a calm, euphoric body high that melts tension away. The dense, resinous buds showcase quality cultivation, making this pre-pack ideal for experienced consumers seeking potent effects or anyone looking to ease into a peaceful night. Whether you're managing discomfort or simply seeking restorative relaxation, this 3.5g jar from Mass Yield offers consistent quality and satisfying effects in every session.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/863e717b-7296-43f3-b97b-8cb1e918e9d7",
+     "alt": "Mass Yield - Peanut Butter Gelato - 3.5G Flower"
+    }
+   },
+   {
+    "position": 12,
+    "url": "/product/tower-three-tower-three-butterstuff-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Tower Three - Butterstuff - 3.5G Flower",
+    "brand": "TOWER THREE",
+    "description": "Tower Three presents Butterstuff, a premium 3.5g flower offering that delivers an indulgent cannabis experience. This carefully cultivated bud showcases dense, resinous flowers with a distinctively rich aroma profile. True to its name, Butterstuff enchants the senses with creamy, buttery notes complemented by sweet undertones and subtle earthy accents. Each nug is expertly trimmed and cured to preserve its natural terpenes and potency. Whether you're unwinding after a long day or exploring new strains, this flower provides a smooth, flavorful smoke that cannabis enthusiasts appreciate. The 3.5g jar ensures freshness while offering the perfect amount for personal enjoyment or sharing with friends. Tower Three's commitment to quality shines through in every aspect of Butterstuff, from cultivation to packaging, making it a standout choice for discerning consumers seeking exceptional flower.",
+    "price": "$45",
+    "priceAmount": 45,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/ff8e97ee-7df9-41fc-97d5-831f10b65e5a",
+     "alt": "Tower Three - Butterstuff - 3.5G Flower"
+    }
+   },
+   {
+    "position": 13,
+    "url": "/product/breath-free-breathe-free-guava-biscotti-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Breathe Free - Guava Biscotti - 3.5G Flower",
+    "brand": "BREATH FREE",
+    "description": "Breathe Free presents Guava Biscotti, a premium 3.5g flower that delivers an exotic sensory experience. This carefully cultivated cannabis flower combines sweet tropical guava notes with rich, nutty biscotti undertones, creating a uniquely indulgent aroma and flavor profile. The dense, resinous buds showcase expert craftsmanship and attention to quality. Guava Biscotti offers a balanced experience that cannabis enthusiasts will appreciate for its distinctive terpene profile and smooth smoke. Whether you're exploring new strains or seeking something memorable, this pre-packed flower provides convenience without compromising quality. Each 3.5g package preserves freshness and potency, making it perfect for those who value both flavor and effect in their cannabis selection.",
+    "price": "$35",
+    "priceAmount": 35,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://images.prismic.io/sunny-dayz/Z5vMhZbqstJ9-Dzv_flowers-sativa.png?auto=format,compress",
+     "alt": "Breathe Free - Guava Biscotti - 3.5G Flower"
+    }
+   },
+   {
+    "position": 14,
+    "url": "/product/tower-three-tower-three-dosido-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Tower Three - Dosido - 3.5G Flower",
+    "brand": "TOWER THREE",
+    "description": "Tower Three brings you Dosido, a premium cannabis flower known for its exceptional quality and distinctive characteristics. This 3.5g jar delivers a potent experience that cannabis enthusiasts appreciate. Dosido, a beloved strain crossing Girl Scout Cookies with Face Off OG, offers a complex flavor profile featuring sweet, earthy notes with hints of pine and spice. The aroma is equally captivating, blending pungent diesel undertones with a subtle sweetness that lingers. Users often report feeling relaxed and euphoric, making it an excellent choice for unwinding after a long day or easing into a peaceful evening. The dense, frosty buds showcase the careful cultivation behind this flower, promising both visual appeal and satisfying effects. Whether you're seeking relief or simply exploring quality cannabis, Tower Three's Dosido delivers a memorable experience that showcases why this strain has earned its reputation in the cannabis community.",
+    "price": "$45",
+    "priceAmount": 45,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0732cd8b-701c-4dce-9b40-163026f3cdb5",
+     "alt": "Tower Three - Dosido - 3.5G Flower"
+    }
+   },
+   {
+    "position": 15,
+    "url": "/product/tower-three-tower-three-deadhead-og-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Tower Three - Deadhead OG - 3.5G Flower",
+    "brand": "TOWER THREE",
+    "description": "Tower Three presents Deadhead OG, a premium 3.5g flower offering that delivers a potent, memorable experience. This legendary strain is renowned for its powerful effects that combine deep relaxation with euphoric uplift, making it a favorite among discerning cannabis enthusiasts. Deadhead OG's distinctive aroma profile features earthy, pine, and diesel notes with a pungent undertone that speaks to its quality and potency. The dense, resinous buds showcase careful cultivation and curing, ensuring optimal freshness and cannabinoid preservation. Whether you're unwinding after a long day or seeking relief, this classic strain provides a well-rounded experience that honors its celebrated lineage. Perfect for evening use, Deadhead OG from Tower Three brings craft-quality flower to your collection in a convenient eighth-ounce format.",
+    "price": "$45",
+    "priceAmount": 45,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/cb1cd7ef-0d5e-4b67-bc8d-42f388f06ea6",
+     "alt": "Tower Three - Deadhead OG - 3.5G Flower"
+    }
+   },
+   {
+    "position": 16,
+    "url": "/product/omg-omg-pink-runtz-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "OMG - Pink Runtz - 3.5G Flower",
+    "brand": "OMG",
+    "description": "OMG brings you Pink Runtz, a highly sought-after hybrid flower that delivers the perfect balance of uplifting euphoria and soothing relaxation. This 3.5g pre-pack showcases dense, colorful buds with a sweet, fruity aroma reminiscent of tropical candy with hints of berry and citrus. Known for its delicious flavor profile, Pink Runtz offers a smooth, creamy smoke with notes of sweet fruit and earthy undertones. Perfect for social gatherings or creative pursuits, this hybrid strain promotes a happy, focused mindset while easing tension throughout the body. Whether you're looking to elevate your mood or unwind after a long day, OMG Pink Runtz flower delivers a flavorful, well-rounded experience that's become a favorite among cannabis enthusiasts seeking quality and consistency in every session.",
+    "price": "$40",
+    "priceAmount": 40,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/639272a9-83fc-4480-b4e4-b0025def2089",
+     "alt": "OMG - Pink Runtz - 3.5G Flower"
+    }
+   },
+   {
+    "position": 17,
+    "url": "/product/impressed-impressed-apples-and-banana-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Impressed - Apples and Banana - 3.5G Flower",
+    "brand": "IMPRESSED",
+    "description": "Impressed brings you Apples and Banana, a premium 3.5g flower that delivers a uniquely fruity cannabis experience. This standout strain blends the sweet, crisp notes of fresh apples with the smooth, creamy essence of ripe banana, creating an aromatic profile that's both inviting and memorable. Each bud is carefully cultivated to preserve its natural terpenes and potency, ensuring a flavorful smoke or vape session. Whether you're seeking creative inspiration, social energy, or simply a delicious addition to your collection, Apples and Banana offers a distinctive flavor journey. The tropical and fruity aroma fills the air, while the smooth smoke provides balanced effects that appeal to both newcomers and seasoned enthusiasts. Impressed's commitment to quality shines through in every nug, making this 3.5g jar perfect for solo sessions or sharing with friends. Discover why Apples and Banana is quickly becoming a favorite among flower connoisseurs.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7ecbcb69-cc6d-4e24-9f4f-fa1ea71c2991",
+     "alt": "Impressed - Apples and Banana - 3.5G Flower"
+    }
+   },
+   {
+    "position": 18,
+    "url": "/product/bountiful-farms-bountiful-watermellos-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Bountiful - Watermellos - 3.5G Flower",
+    "brand": "BOUNTIFUL FARMS",
+    "description": "Bountiful Farms presents Watermellos, a refreshing 3.5g sativa flower that energizes and uplifts. This pre-packed flower delivers a burst of sweet watermelon and tropical fruit flavors with subtle herbal undertones, making each session a flavorful escape. As a sativa-dominant strain, Watermellos is perfect for daytime use, promoting creative focus, social energy, and an uplifted mood. The vibrant, frosty buds showcase quality cultivation, ready to spark inspiration during creative projects, outdoor adventures, or social gatherings. Whether you're seeking motivation for your day or a euphoric boost, this 3.5g jar offers premium flower that satisfies both recreational and mindful consumers. Experience the juicy essence of summer with every session of Watermellos.",
+    "price": "$40",
+    "priceAmount": 40,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/1f18995d-29f3-4706-8397-48a74cfa4379",
+     "alt": "Bountiful - Watermellos - 3.5G Flower"
+    }
+   },
+   {
+    "position": 19,
+    "url": "/product/tower-three-tower-three-half-pint-4-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Tower Three - Half Pint 4 - 3.5G Flower",
+    "brand": "TOWER THREE",
+    "description": "Tower Three presents Half Pint 4, a premium 3.5g flower offering that delivers quality cannabis in a convenient eighth-ounce format. This carefully cultivated flower showcases the brand's commitment to excellence, providing a versatile experience suitable for any time of day. Each bud is hand-selected and expertly cured to preserve natural terpenes and cannabinoids, ensuring optimal potency and flavor. The flower features a complex aroma profile with earthy, herbal notes complemented by subtle sweet undertones. Whether you're rolling your own or packing a bowl, this 3.5g jar provides the perfect amount for personal enjoyment or sharing with friends. Tower Three's dedication to quality cultivation practices shines through in every nug, delivering smooth smoke and satisfying effects. Ideal for both seasoned enthusiasts and newcomers exploring premium flower options.",
+    "price": "$45",
+    "priceAmount": 45,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5c3ca99f-1554-4910-b255-87d9b9352778",
+     "alt": "Tower Three - Half Pint 4 - 3.5G Flower"
+    }
+   },
+   {
+    "position": 20,
+    "url": "/product/bountiful-farms-bountiful-candy-fumez-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Bountiful - Candy Fumez - 3.5G Flower",
+    "brand": "BOUNTIFUL FARMS",
+    "description": "Bountiful Farms presents Candy Fumez, a premium hybrid flower delivering the best of balanced effects in a convenient 3.5g pre-pack. This carefully cultivated strain combines uplifting cerebral energy with soothing body relaxation, making it ideal for any time of day. Candy Fumez delights the senses with sweet, fruity aromas complemented by subtle earthy undertones that create a smooth, flavorful smoking experience. Perfect for both seasoned enthusiasts and newcomers exploring hybrid varieties, this flower offers a euphoric and creative boost while maintaining clarity and focus. The 3.5g size provides excellent value and freshness, sealed to preserve optimal potency and flavor. Whether you're unwinding after work or seeking creative inspiration, Candy Fumez delivers consistent quality and satisfaction. Experience the craftsmanship of Bountiful Farms with this exceptional hybrid that brings together sweet flavor and versatile effects in every session.",
+    "price": "$40",
+    "priceAmount": 40,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2e2209b1-f899-4b50-a806-fcb021932ecd",
+     "alt": "Bountiful - Candy Fumez - 3.5G Flower"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/shop",
+       "name": "Menu"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "All Flower"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "OMG",
+       "description": "OMG brings you Shady Icee, a premium hybrid flower that delivers the perfect balance of relaxation and uplift in a convenient 3.5g pre-pack. This carefully cultivated strain combines the best of both worlds, offering effects that ease tension while keeping your mind clear and focused. Shady Icee delights the senses with frosty, resinous buds that showcase vibrant colors and exceptional quality. The flavor profile features refreshing notes of citrus and sweet tropical fruit with subtle earthy undertones, creating a smooth and enjoyable experience from first inhale to last. Ideal for any time of day, this hybrid provides a euphoric, happy high that promotes creativity and social connection without overwhelming sedation. Whether you&apos;re unwinding after work or sparking inspiration for your next project, OMG&apos;s Shady Icee delivers consistent quality and potent effects. Perfect for both seasoned enthusiasts and those seeking a well-rounded cannabis experience.",
+       "name": "OMG - Shady Icee - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/omg-omg-shady-icee-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/be5e7ed0-924d-4ee9-8c9b-62d1d57abcf9"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TOWER THREE",
+       "description": "Tower Three presents Florida Freeze, a premium 3.5g flower offering that delivers a refreshing cannabis experience. This carefully cultivated bud showcases frosty trichomes and a vibrant appearance that lives up to its chilly name. The aroma profile bursts with citrus and tropical notes, complemented by sweet undertones that entice the senses. Each nug is hand-selected to ensure quality and potency, making this flower ideal for discerning consumers seeking authentic cannabis enjoyment. Whether you&apos;re looking to unwind after a long day or enhance your creative pursuits, Florida Freeze provides a smooth, flavorful smoke that captures the essence of quality craftsmanship. This 3.5g jar offers the perfect amount for exploring this unique strain&apos;s characteristics and discovering your favorite consumption method.",
+       "name": "Tower Three - Florida Freeze - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "45",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-florida-freeze-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/04379419-08d4-4139-866c-8383d3f53765"
+      },
+      "position": "2"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TOWER THREE",
+       "description": "Tower Three presents Maple Butter, a premium 3.5g flower offering that brings together rich, indulgent flavor with quality cannabis. This expertly cultivated flower delivers smooth, sweet maple notes complemented by creamy, buttery undertones that create a uniquely satisfying aromatic experience. Each bud is carefully hand-trimmed and cured to preserve terpene integrity and cannabinoid potency. The flavor profile unfolds with warm maple sweetness on the inhale, followed by smooth, buttery richness that lingers pleasantly. Perfect for cannabis enthusiasts seeking distinctive flavor alongside quality effects. Tower Three&apos;s commitment to cultivation excellence shines through in every jar, delivering consistent potency and exceptional taste. Whether you&apos;re unwinding after a long day or exploring new flavor profiles, Maple Butter offers a memorable experience that stands out from typical flower options. This 3.5g size provides the perfect amount to enjoy and share.",
+       "name": "Tower Three - Maple Butter - 3.5G Flower ",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "45",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-maple-butter-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7183191d-a596-44ee-a0bd-235387cd8cf0"
+      },
+      "position": "3"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "MASS YIELD",
+       "description": "Mass Yield&apos;s Inzane in the Membrane delivers premium sativa flower in a convenient 3.5g pre-pack format. This energizing strain is designed for those seeking creative inspiration and an uplifted, focused experience throughout the day. The flower showcases vibrant buds with a complex aroma profile featuring citrus, earthy, and pine notes that translate beautifully into its flavor. Perfect for daytime use, Inzane in the Membrane offers the classic sativa effects cannabis enthusiasts crave—expect euphoric sensations, enhanced focus, and a burst of creative energy. Whether you&apos;re tackling projects, socializing with friends, or simply looking to elevate your mood, this strain delivers consistent, quality results. Mass Yield&apos;s commitment to premium cultivation shines through in every bud, ensuring a satisfying experience from first spark to final exhale.",
+       "name": "Mass Yield - Inzane in the Membrane - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-inzane-in-the-membrane-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a269b3b6-3bca-4af3-ba84-37f088dd0d6e"
+      },
+      "position": "4"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "OMG",
+       "description": "OMG brings you Mac 1, a premium hybrid flower that&apos;s earned legendary status among cannabis connoisseurs. This 3.5g jar showcases dense, frosty buds with a captivating aroma profile blending citrus, earthy, and diesel notes. Mac 1 delivers a beautifully balanced hybrid experience—expect uplifted euphoria paired with deep relaxation that soothes both mind and body. Creative and focused energy makes it perfect for daytime inspiration or unwinding after work. The flavor profile is equally impressive, offering sweet citrus and herbal undertones with a smooth, satisfying finish. Whether you&apos;re seeking creative flow, social vibes, or simply relief from daily stress, Mac 1&apos;s well-rounded effects make it a versatile choice for any occasion. OMG&apos;s commitment to quality ensures each eighth delivers consistent potency and exceptional freshness in every bud.",
+       "name": "OMG - Mac 1 - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/omg-omg-mac-1-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5c618d1-a8e1-48f9-ae31-0d8afbd94f69"
+      },
+      "position": "5"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BOUNTIFUL FARMS",
+       "description": "Bountiful Farms brings you Texas Shoreline, a vibrant Sativa flower designed to energize and uplift your day. This 3.5g pre-pack delivers the invigorating effects Sativa lovers crave—think focused, creative, and euphoric sensations perfect for daytime adventures or social gatherings. Texas Shoreline showcases a captivating flavor profile with bright citrus and tropical notes balanced by subtle earthy undertones, creating a smooth and refreshing experience with every session. Expertly cultivated and carefully cured, this premium flower offers consistent potency and exceptional quality you can trust. Whether you&apos;re seeking motivation for creative projects, a boost of energy for outdoor activities, or simply an uplifting mood enhancement, Texas Shoreline delivers. Bountiful Farms&apos; commitment to craft cannabis shines through in every bud, ensuring you receive a top-tier Sativa experience that&apos;s both flavorful and effective. Elevate your cannabis journey with this standout strain today.",
+       "name": "Bountiful - Texas Shoreline - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/bountiful-farms-bountiful-texas-shoreline-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/1f18995d-29f3-4706-8397-48a74cfa4379"
+      },
+      "position": "6"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BREATHE FREE",
+       "description": "Breath Free brings you Breathe Free - Mango Smoothie, a premium 3.5g flower that delivers tropical bliss in every bud. This carefully cultivated pre-pack offers dense, aromatic nugs bursting with vibrant mango and fruity notes that transport your senses to a sun-soaked paradise. The smooth, sweet flavor profile makes each session a refreshing escape, while the thoughtfully grown flower provides a well-rounded experience perfect for any time of day. Whether you&apos;re seeking creative inspiration, social energy, or simple relaxation, this mango-infused strain adapts beautifully to your needs. The convenient 3.5g size ensures freshness and potency in every jar, making it ideal for both seasoned enthusiasts and curious newcomers exploring quality cannabis flower. Breathe Free&apos;s commitment to excellence shines through in every carefully trimmed bud, delivering consistent quality and an unforgettable tropical taste that keeps you coming back for more.",
+       "name": "Breathe Free - Mango Smoothie - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "35",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-mango-smoothie-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/00e28b2b-daa2-4797-a7b9-3bbf36def824"
+      },
+      "position": "7"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "THE FRESH CONNECTION",
+       "description": "The Fresh Connection brings you Mucho Melon, a premium 3.5g flower that captures the sweet, refreshing essence of ripe melon in every bud. This carefully cultivated cannabis flower delivers a delightfully fruity aroma with notes of melon, citrus, and tropical undertones that tantalize the senses. Each jar contains expertly trimmed, hand-selected nugs that showcase The Fresh Connection&apos;s commitment to quality and freshness. Perfect for those seeking a flavorful smoke with juicy melon flavors that linger on the palate, Mucho Melon offers a smooth, enjoyable experience from first inhale to last. Whether you&apos;re unwinding after a long day or enhancing social gatherings, this 3.5g flower provides consistent quality and potency. The Fresh Connection&apos;s dedication to craft cannabis shines through in every aspect of Mucho Melon, making it an excellent choice for both seasoned enthusiasts and newcomers looking to explore delicious, fruit-forward strains.",
+       "name": "The Fresh Connection - Mucho Melon - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "30",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-mucho-melon-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/516c10e0-ca1c-4bfe-9dc8-bafa2b55e10d"
+      },
+      "position": "8"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "DOJA",
+       "description": "Doja Confetti brings a celebration of premium cannabis flower to your collection. This 3.5g pre-pack showcases Doja&apos;s commitment to quality and craft, delivering a flower experience designed for discerning consumers. Each bud is carefully cultivated and hand-selected to ensure optimal freshness, potency, and visual appeal. The Confetti strain offers a dynamic profile that cannabis enthusiasts will appreciate, combining rich aromatic qualities with satisfying effects. Whether you&apos;re unwinding after a long day or seeking creative inspiration, this pre-packed flower provides consistent quality in a convenient format. Doja&apos;s attention to detail shines through in every aspect, from cultivation to packaging, ensuring you receive a product that meets the highest standards. Perfect for those who value reliability and excellence in their cannabis flower selections.",
+       "name": "Doja Confetti - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/doja-doja-confetti-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5a028ed-a685-492e-9b17-4c95178cc3af"
+      },
+      "position": "9"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "MASS YIELD",
+       "description": "Mass Yield presents Rasta Pie, a premium indica flower that delivers deep relaxation and tranquil vibes in every 3.5g jar. This hand-selected pre-pack showcases dense, resinous buds with a captivating aroma profile blending sweet tropical notes with earthy undertones and hints of spice. Rasta Pie&apos;s indica dominance makes it ideal for evening use, promoting full-body relaxation, relief from tension, and a peaceful sense of calm that melts away stress. Users can expect euphoric yet grounding effects that ease both mind and body into a state of pure contentment. The rich, complex flavor delivers smooth herbal notes with sweet, fruity accents on the exhale. Perfect for unwinding after a long day or enhancing quiet moments of reflection, this strain offers the quality and consistency Mass Yield is known for. Each 3.5g package preserves peak freshness and potency, ensuring an exceptional cannabis experience from first spark to last.",
+       "name": "Mass Yield - Rasta Pie - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-rasta-pie-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/bccc2791-9420-46b1-89c1-94e914c89f14"
+      },
+      "position": "10"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "MASS YIELD",
+       "description": "Mass Yield&apos;s Peanut Butter Gelato delivers premium indica flower in a convenient 3.5g pre-pack, perfect for evening relaxation and unwinding. This strain combines rich, nutty peanut butter notes with sweet, creamy gelato undertones, creating a dessert-like aroma and flavor profile that&apos;s truly indulgent. As an indica-dominant flower, Peanut Butter Gelato is known for promoting deep relaxation, stress relief, and a calm, euphoric body high that melts tension away. The dense, resinous buds showcase quality cultivation, making this pre-pack ideal for experienced consumers seeking potent effects or anyone looking to ease into a peaceful night. Whether you&apos;re managing discomfort or simply seeking restorative relaxation, this 3.5g jar from Mass Yield offers consistent quality and satisfying effects in every session.",
+       "name": "Mass Yield - Peanut Butter Gelato - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-peanut-butter-gelato-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/863e717b-7296-43f3-b97b-8cb1e918e9d7"
+      },
+      "position": "11"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TOWER THREE",
+       "description": "Tower Three presents Butterstuff, a premium 3.5g flower offering that delivers an indulgent cannabis experience. This carefully cultivated bud showcases dense, resinous flowers with a distinctively rich aroma profile. True to its name, Butterstuff enchants the senses with creamy, buttery notes complemented by sweet undertones and subtle earthy accents. Each nug is expertly trimmed and cured to preserve its natural terpenes and potency. Whether you&apos;re unwinding after a long day or exploring new strains, this flower provides a smooth, flavorful smoke that cannabis enthusiasts appreciate. The 3.5g jar ensures freshness while offering the perfect amount for personal enjoyment or sharing with friends. Tower Three&apos;s commitment to quality shines through in every aspect of Butterstuff, from cultivation to packaging, making it a standout choice for discerning consumers seeking exceptional flower.",
+       "name": "Tower Three - Butterstuff - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "45",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-butterstuff-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/ff8e97ee-7df9-41fc-97d5-831f10b65e5a"
+      },
+      "position": "12"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BREATH FREE",
+       "description": "Breathe Free presents Guava Biscotti, a premium 3.5g flower that delivers an exotic sensory experience. This carefully cultivated cannabis flower combines sweet tropical guava notes with rich, nutty biscotti undertones, creating a uniquely indulgent aroma and flavor profile. The dense, resinous buds showcase expert craftsmanship and attention to quality. Guava Biscotti offers a balanced experience that cannabis enthusiasts will appreciate for its distinctive terpene profile and smooth smoke. Whether you&apos;re exploring new strains or seeking something memorable, this pre-packed flower provides convenience without compromising quality. Each 3.5g package preserves freshness and potency, making it perfect for those who value both flavor and effect in their cannabis selection.",
+       "name": "Breathe Free - Guava Biscotti - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "35",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/breath-free-breathe-free-guava-biscotti-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://images.prismic.io/sunny-dayz/Z5vMhZbqstJ9-Dzv_flowers-sativa.png?auto=format,compress"
+      },
+      "position": "13"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TOWER THREE",
+       "description": "Tower Three brings you Dosido, a premium cannabis flower known for its exceptional quality and distinctive characteristics. This 3.5g jar delivers a potent experience that cannabis enthusiasts appreciate. Dosido, a beloved strain crossing Girl Scout Cookies with Face Off OG, offers a complex flavor profile featuring sweet, earthy notes with hints of pine and spice. The aroma is equally captivating, blending pungent diesel undertones with a subtle sweetness that lingers. Users often report feeling relaxed and euphoric, making it an excellent choice for unwinding after a long day or easing into a peaceful evening. The dense, frosty buds showcase the careful cultivation behind this flower, promising both visual appeal and satisfying effects. Whether you&apos;re seeking relief or simply exploring quality cannabis, Tower Three&apos;s Dosido delivers a memorable experience that showcases why this strain has earned its reputation in the cannabis community.",
+       "name": "Tower Three - Dosido - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "45",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-dosido-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0732cd8b-701c-4dce-9b40-163026f3cdb5"
+      },
+      "position": "14"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TOWER THREE",
+       "description": "Tower Three presents Deadhead OG, a premium 3.5g flower offering that delivers a potent, memorable experience. This legendary strain is renowned for its powerful effects that combine deep relaxation with euphoric uplift, making it a favorite among discerning cannabis enthusiasts. Deadhead OG&apos;s distinctive aroma profile features earthy, pine, and diesel notes with a pungent undertone that speaks to its quality and potency. The dense, resinous buds showcase careful cultivation and curing, ensuring optimal freshness and cannabinoid preservation. Whether you&apos;re unwinding after a long day or seeking relief, this classic strain provides a well-rounded experience that honors its celebrated lineage. Perfect for evening use, Deadhead OG from Tower Three brings craft-quality flower to your collection in a convenient eighth-ounce format.",
+       "name": "Tower Three - Deadhead OG - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "45",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-deadhead-og-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/cb1cd7ef-0d5e-4b67-bc8d-42f388f06ea6"
+      },
+      "position": "15"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "OMG",
+       "description": "OMG brings you Pink Runtz, a highly sought-after hybrid flower that delivers the perfect balance of uplifting euphoria and soothing relaxation. This 3.5g pre-pack showcases dense, colorful buds with a sweet, fruity aroma reminiscent of tropical candy with hints of berry and citrus. Known for its delicious flavor profile, Pink Runtz offers a smooth, creamy smoke with notes of sweet fruit and earthy undertones. Perfect for social gatherings or creative pursuits, this hybrid strain promotes a happy, focused mindset while easing tension throughout the body. Whether you&apos;re looking to elevate your mood or unwind after a long day, OMG Pink Runtz flower delivers a flavorful, well-rounded experience that&apos;s become a favorite among cannabis enthusiasts seeking quality and consistency in every session.",
+       "name": "OMG - Pink Runtz - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/omg-omg-pink-runtz-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/639272a9-83fc-4480-b4e4-b0025def2089"
+      },
+      "position": "16"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "IMPRESSED",
+       "description": "Impressed brings you Apples and Banana, a premium 3.5g flower that delivers a uniquely fruity cannabis experience. This standout strain blends the sweet, crisp notes of fresh apples with the smooth, creamy essence of ripe banana, creating an aromatic profile that&apos;s both inviting and memorable. Each bud is carefully cultivated to preserve its natural terpenes and potency, ensuring a flavorful smoke or vape session. Whether you&apos;re seeking creative inspiration, social energy, or simply a delicious addition to your collection, Apples and Banana offers a distinctive flavor journey. The tropical and fruity aroma fills the air, while the smooth smoke provides balanced effects that appeal to both newcomers and seasoned enthusiasts. Impressed&apos;s commitment to quality shines through in every nug, making this 3.5g jar perfect for solo sessions or sharing with friends. Discover why Apples and Banana is quickly becoming a favorite among flower connoisseurs.",
+       "name": "Impressed - Apples and Banana - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/impressed-impressed-apples-and-banana-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7ecbcb69-cc6d-4e24-9f4f-fa1ea71c2991"
+      },
+      "position": "17"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BOUNTIFUL FARMS",
+       "description": "Bountiful Farms presents Watermellos, a refreshing 3.5g sativa flower that energizes and uplifts. This pre-packed flower delivers a burst of sweet watermelon and tropical fruit flavors with subtle herbal undertones, making each session a flavorful escape. As a sativa-dominant strain, Watermellos is perfect for daytime use, promoting creative focus, social energy, and an uplifted mood. The vibrant, frosty buds showcase quality cultivation, ready to spark inspiration during creative projects, outdoor adventures, or social gatherings. Whether you&apos;re seeking motivation for your day or a euphoric boost, this 3.5g jar offers premium flower that satisfies both recreational and mindful consumers. Experience the juicy essence of summer with every session of Watermellos.",
+       "name": "Bountiful - Watermellos - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/bountiful-farms-bountiful-watermellos-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/1f18995d-29f3-4706-8397-48a74cfa4379"
+      },
+      "position": "18"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TOWER THREE",
+       "description": "Tower Three presents Half Pint 4, a premium 3.5g flower offering that delivers quality cannabis in a convenient eighth-ounce format. This carefully cultivated flower showcases the brand&apos;s commitment to excellence, providing a versatile experience suitable for any time of day. Each bud is hand-selected and expertly cured to preserve natural terpenes and cannabinoids, ensuring optimal potency and flavor. The flower features a complex aroma profile with earthy, herbal notes complemented by subtle sweet undertones. Whether you&apos;re rolling your own or packing a bowl, this 3.5g jar provides the perfect amount for personal enjoyment or sharing with friends. Tower Three&apos;s dedication to quality cultivation practices shines through in every nug, delivering smooth smoke and satisfying effects. Ideal for both seasoned enthusiasts and newcomers exploring premium flower options.",
+       "name": "Tower Three - Half Pint 4 - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "45",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-half-pint-4-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5c3ca99f-1554-4910-b255-87d9b9352778"
+      },
+      "position": "19"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BOUNTIFUL FARMS",
+       "description": "Bountiful Farms presents Candy Fumez, a premium hybrid flower delivering the best of balanced effects in a convenient 3.5g pre-pack. This carefully cultivated strain combines uplifting cerebral energy with soothing body relaxation, making it ideal for any time of day. Candy Fumez delights the senses with sweet, fruity aromas complemented by subtle earthy undertones that create a smooth, flavorful smoking experience. Perfect for both seasoned enthusiasts and newcomers exploring hybrid varieties, this flower offers a euphoric and creative boost while maintaining clarity and focus. The 3.5g size provides excellent value and freshness, sealed to preserve optimal potency and flavor. Whether you&apos;re unwinding after work or seeking creative inspiration, Candy Fumez delivers consistent quality and satisfaction. Experience the craftsmanship of Bountiful Farms with this exceptional hybrid that brings together sweet flavor and versatile effects in every session.",
+       "name": "Bountiful - Candy Fumez - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/bountiful-farms-bountiful-candy-fumez-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2e2209b1-f899-4b50-a806-fcb021932ecd"
+      },
+      "position": "20"
+     }
+    ]
+   }
+  ]
+ }
+}

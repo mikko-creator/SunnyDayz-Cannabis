@@ -1,0 +1,168 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/impressed-impressed-zangria-1g-pre-roll-1-g-preroll-1-grams",
+ "slug": "product-impressed-impressed-zangria-1g-pre-roll-1-g-preroll-1-grams",
+ "type": "product",
+ "title": "IMPRESSED - Impressed - Zangria - 1G Pre-roll",
+ "seoTitle": "IMPRESSED - Impressed - Zangria - 1G Pre-roll",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Preroll",
+    "href": "/collection/preroll"
+   },
+   {
+    "label": "Impressed - Zangria - 1G Pre-roll",
+    "href": null
+   }
+  ],
+  "h1": "Impressed - Zangria - 1G Pre-roll",
+  "name": "Impressed - Zangria - 1G Pre-roll",
+  "brand": {
+   "label": "IMPRESSED",
+   "href": "/brand/impressed"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Indica",
+   "key": "indica",
+   "ariaLabel": "Flower type: Indica"
+  },
+  "category": {
+   "label": "Preroll",
+   "href": "/collection/preroll"
+  },
+  "subcategories": [
+   {
+    "label": "FLOWER",
+    "href": "/collection/preroll/flower"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2297b398-38ae-42d5-88d0-b200915ba146?w=3840&q=100",
+   "alt": "Impressed - Zangria - 1G Pre-roll"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2297b398-38ae-42d5-88d0-b200915ba146?w=3840&q=100",
+    "alt": "Impressed - Zangria - 1G Pre-roll"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": "Warning",
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": "Cannabinoids"
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "24.437%",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Impressed brings you Zangria, a premium 1g pre-roll that's ready to light up your experience. This expertly crafted preroll showcases the brand's commitment to quality and convenience, delivering smooth, consistent draws from start to finish. Zangria offers a vibrant flavor profile with fruity, citrus notes balanced by subtle herbal undertones that dance across the palate. Each pre-roll is carefully packed with finely ground flower to ensure an even burn and optimal enjoyment. Perfect for on-the-go sessions or sharing with friends, this single gram pre-roll provides just the right amount for a satisfying smoke. Whether you're unwinding after a long day or enhancing social moments, Impressed Zangria delivers a memorable cannabis experience in a convenient, portable format. No grinding, no rolling—just pure enjoyment.",
+  "warnings": [
+   {
+    "title": "Proposition 65 Warning for California Consumers",
+    "collapsed": true,
+    "toggleIcon": "angle-down",
+    "toggleAriaLabel": "Expand content",
+    "label": "WARNING:",
+    "lines": [
+     "This product can expose you to chemicals including β-myrcene and cannabis smoke, which are known to the State of California to cause cancer, and chemicals including cannabis smoke and 9-tetrahydrocannabinol, which are known to the State of California to cause birth defects or other reproductive harm."
+    ],
+    "moreInfo": {
+     "text": "For more information go to",
+     "label": "www.P65Warnings.ca.gov",
+     "href": "https://www.P65Warnings.ca.gov"
+    },
+    "links": []
+   }
+  ],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "IMPRESSED",
+    "href": "/brand/impressed"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Indica",
+    "href": "/strain/Indica"
+   },
+   {
+    "label": "THC",
+    "value": "24.437%"
+   },
+   {
+    "label": "Package Info",
+    "value": "Impressed Zangria 1 G Pre Roll 1 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "1g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [
+   {
+    "group": "THC",
+    "items": [
+     {
+      "name": "THCA",
+      "value": "27.3838%"
+     },
+     {
+      "name": "THC",
+      "value": "24.4368%"
+     }
+    ]
+   }
+  ],
+  "jsonld": null
+ }
+}

@@ -1,0 +1,427 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/brand/coast",
+ "slug": "brand-coast",
+ "type": "brand",
+ "title": "COAST",
+ "seoTitle": "COAST",
+ "model": {
+  "kind": "brand",
+  "path": "/brand/coast",
+  "slug": "coast",
+  "name": "COAST",
+  "h1": "COAST",
+  "logo": null,
+  "banner": {
+   "title": "COAST",
+   "description": "Shop cannabis products from COAST at a dispensary near you",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Brands",
+    "href": "/brands"
+   },
+   {
+    "label": "COAST",
+    "href": null
+   }
+  ],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "loading",
+  "emptyState": null,
+  "cards": [],
+  "productCount": 9,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/coast-coast-milk-chocolate-bar-100-mg-edible-100-milligrams",
+    "name": "Coast - Milk Chocolate Bar - 100mg",
+    "brand": "COAST",
+    "description": "Coast Milk Chocolate Bar delivers 100mg of hybrid cannabis in a deliciously smooth, premium chocolate edible. This indulgent treat combines rich, creamy chocolate flavor with balanced hybrid effects that promote both relaxation and uplift. Perfect for those seeking a versatile experience, each bar offers precise dosing and convenient portability. The Coast brand is known for quality edibles that merge great taste with reliable potency. Whether you're unwinding after a long day or enhancing a social gathering, this milk chocolate bar provides a happy, euphoric experience with every bite. The 100mg total THC allows for customizable dosing—break off a piece for a milder effect or enjoy more for deeper relaxation. Ideal for chocolate lovers who appreciate the perfect balance of flavor and function in their cannabis edibles.",
+    "price": "$20",
+    "priceAmount": 20,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0d788732-7c76-4e4b-b0a8-cfcabe874fae",
+     "alt": "Coast - Milk Chocolate Bar - 100mg"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/coast-coast-goodnight-grape-gummy-5-25-100-mg-20-pack-edible-100-milligrams",
+    "name": "Coast - Goodnight Grape - Gummy - 5:25",
+    "brand": "COAST",
+    "description": "Coast Goodnight Grape Gummies deliver a deliciously relaxing experience perfect for winding down after a long day. This Indica edible features 100mg total THC in a 5:25 THC:CBN ratio, offering balanced relaxation with added wellness benefits. Each grape-flavored gummy provides soothing effects ideal for evening use, helping you ease tension and prepare for restful sleep. Coast crafts these gummies with quality ingredients and consistent dosing, making them a reliable choice for those seeking deep relaxation and tranquility. The sweet grape flavor masks any cannabis taste, while the Indica classification ensures calming, full-body effects that melt away stress. Perfect for experienced users looking to unwind, relax, and enjoy a peaceful night's rest.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/03771bd2-1034-4ddf-a2db-af733a6584f4",
+     "alt": "Coast - Goodnight Grape - Gummy - 5:25"
+    }
+   },
+   {
+    "position": 3,
+    "url": "/product/coast-coast-dark-chocolate-sea-salt-bar-100-mg-edible-100-milligrams",
+    "name": "Coast - Dark Chocolate Sea Salt Bar - 100mg",
+    "brand": "COAST",
+    "description": "Coast Dark Chocolate Sea Salt Bar delivers 100mg of premium hybrid cannabis in a sophisticated edible that balances indulgence with intention. This artisan chocolate bar combines rich, velvety dark chocolate with a delicate touch of sea salt, creating a luxurious flavor experience that elevates your cannabis consumption. Each precisely dosed square offers a balanced hybrid effect, perfect for those seeking relaxation without sedation or gentle euphoria paired with mental clarity. The smooth, creamy texture melts effortlessly on your palate while delivering consistent, predictable effects that both novice and experienced consumers can enjoy. Whether you're unwinding after a long day or seeking creative inspiration, this Coast chocolate bar transforms your edible experience into something truly special. The 100mg potency allows for flexible dosing—break off a small piece for a mild, uplifting effect or enjoy more for deeper relaxation and bliss.",
+    "price": "$20",
+    "priceAmount": 20,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/eb942ac3-7ad2-4d24-af89-365b086a4b57",
+     "alt": "Coast - Dark Chocolate Sea Salt Bar - 100mg"
+    }
+   },
+   {
+    "position": 4,
+    "url": "/product/coast-coast-blissful-blueberry-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+    "name": "Coast - Blissful Blueberry - Gummy - 5:5:5",
+    "brand": "COAST",
+    "description": "Coast Blissful Blueberry Gummies deliver a perfectly balanced 5:5:5 ratio of THC:CBN:CBC cannabinoids in a delicious 100mg edible. These indica-dominant gummies combine sweet blueberry flavor with calming effects designed to promote relaxation and ease. Each gummy offers a consistent dose, making it simple to find your ideal experience whether you're unwinding after a long day or seeking restful sleep. The natural blueberry taste creates a fruity, enjoyable consumption method without any harsh cannabis flavor. Coast crafts these gummies for those who appreciate quality edibles that deliver reliable results. Perfect for evening use, these treats may help you feel relaxed, happy, and ready to melt into your favorite spot. The convenient gummy format makes dosing straightforward and discreet, ideal for both new and experienced cannabis consumers seeking the therapeutic benefits of indica effects paired with delightful berry sweetness.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5f344554-b9a9-47b9-be81-c2b3615732b7",
+     "alt": "Coast - Blissful Blueberry - Gummy - 5:5:5"
+    }
+   },
+   {
+    "position": 5,
+    "url": "/product/coast-coast-s-mores-chocolate-bar-100-mg-edible-100-milligrams",
+    "name": "Coast - S'mores Chocolate Bar - 100mg",
+    "brand": "COAST",
+    "description": "Indulge in the nostalgic flavor of Coast S'mores Chocolate Bar, a delicious 100mg edible that perfectly captures the classic campfire treat. This chocolate bar delivers rich, sweet cocoa blended with toasted marshmallow and graham cracker notes for an authentic s'mores experience in every bite. Coast expertly infuses premium cannabis into smooth, melt-in-your-mouth chocolate, making it easy to enjoy a consistent dose. Whether you're unwinding after a long day or treating yourself to something special, this 100mg bar offers a delightful way to elevate your experience. Break off a piece and savor the familiar flavors while discovering the benefits of a thoughtfully crafted cannabis edible. Perfect for chocolate lovers seeking a tasty, discreet, and enjoyable consumption method.",
+    "price": "$20",
+    "priceAmount": 20,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/4b0fc992-e193-46e8-8f37-91a5cbf940f6",
+     "alt": "Coast - S'mores Chocolate Bar - 100mg"
+    }
+   },
+   {
+    "position": 6,
+    "url": "/product/coast-coast-strawberry-lemonade-gummy-10-5-5-100-mg-20-pack-edible-100-milligrams",
+    "name": "Coast - Strawberry Lemonade - Gummy - 10:5:5",
+    "brand": "COAST",
+    "description": "Coast Strawberry Lemonade Gummies deliver a refreshing twist on cannabis edibles with a unique CBG:CBC:THC 10:5:5 cannabinoid ratio and 100mg total potency. This sativa-inspired gummy combines the sweet taste of ripe strawberries with zesty lemonade for a bright, fruity flavor experience. Perfect for those seeking an uplifting, energetic effect, these gummies offer a balanced approach to cannabis consumption. The carefully crafted formula provides a happy, focused experience ideal for daytime use or social occasions. Each gummy features a tart, citrus profile that makes dosing both enjoyable and convenient. Coast blends quality ingredients with precision dosing to create edibles that taste as good as they perform. Whether you're looking for creative inspiration or simply want to elevate your mood, these Strawberry Lemonade Gummies from Coast offer a delicious, reliable way to enjoy sativa effects in a portable, discreet format.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/66b70385-bdf1-4475-88d8-1ddfd4e49e79",
+     "alt": "Coast - Strawberry Lemonade - Gummy - 10:5:5"
+    }
+   },
+   {
+    "position": 7,
+    "url": "/product/coast-coast-raspberry-lime-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+    "name": "Coast - Raspberry Lime - Gummy - 5:5:5",
+    "brand": "COAST",
+    "description": "Coast Raspberry Lime Gummy delivers a perfectly balanced 5:5:5 ratio of THC:CBD:THCV, in a 100mg package, offering a versatile cannabis experience in delicious gummy form. Each bite bursts with tangy raspberry and zesty lime flavors that make your wellness routine something to look forward to. This edible combines the uplifting effects of THC with the calming properties of CBD and the relaxing benefits of THCV, creating a well-rounded experience that can adapt to your needs throughout the day. Whether you're seeking creative focus, gentle relaxation, or restful sleep, this ratio-based gummy provides flexible support. The fruity, tart flavor profile makes dosing enjoyable while the precise cannabinoid blend ensures consistent results. Perfect for those who appreciate both flavor and function in their cannabis edibles.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/14708e26-5d93-48d6-9a60-eb5e2fbecaf2",
+     "alt": "Coast - Raspberry Lime - Gummy - 5:5:5"
+    }
+   },
+   {
+    "position": 8,
+    "url": "/product/coast-coast-cookies-cream-white-chocolate-bar-100-mg-edible-100-milligrams",
+    "name": "Coast - Cookies & Cream White Chocolate Bar - 100mg",
+    "brand": "COAST",
+    "description": "Coast Cookies & Cream White Chocolate Bar delivers 100mg of THC in a decadent edible experience that chocolate lovers crave. This premium chocolate bar blends smooth white chocolate with crunchy cookies and cream pieces, creating a sweet, creamy indulgence with every bite. Coast crafts each bar with precision dosing, making it easy to enjoy your preferred experience whether you're seeking relaxation after a long day or enhancing social moments with friends. The rich, velvety texture melts on your tongue while delivering consistent effects. Perfect for sharing or savoring solo, this 100mg bar offers versatile dosing options—break off a piece for a mild experience or enjoy more for deeper effects. The familiar cookies and cream flavor profile makes this edible approachable for both newcomers and seasoned consumers. Coast combines quality ingredients with reliable potency, ensuring each square provides the same delicious taste and predictable results every time.",
+    "price": "$20",
+    "priceAmount": 20,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5d281096-7ab7-4c81-95b8-a98d6473ce70",
+     "alt": "Coast - Cookies & Cream White Chocolate Bar - 100mg"
+    }
+   },
+   {
+    "position": 9,
+    "url": "/product/coast-coast-tangerine-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+    "name": "Coast - Tangerine - Gummy - 5:5:5",
+    "brand": "COAST",
+    "description": "Coast Tangerine Gummy delivers a perfectly balanced 5:5:5 ratio of THC:CBD:CBG, in every delicious bite. This edible combines the bright, citrusy sweetness of tangerine with a carefully crafted cannabinoid profile designed to offer versatile benefits throughout your day. The 5mg THC provides gentle euphoria and uplifted mood, while 5mg CBD supports relaxation and relief. The addition of 5mg CBG rounds out the experience, making this gummy ideal for those seeking a well-rounded effect. Coast crafts each gummy with quality ingredients and consistent dosing, ensuring a reliable experience every time. The tangerine flavor bursts with zesty citrus notes that make wellness enjoyable. Perfect for both newcomers exploring cannabinoid ratios and experienced users seeking balanced relief, this gummy offers a flavorful, approachable way to enjoy the entourage effect of multiple cannabinoids working in harmony.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/271adb92-8229-448f-a8d0-4c716c46ef5a",
+     "alt": "Coast - Tangerine - Gummy - 5:5:5"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/brands",
+       "name": "Brands"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "COAST"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "COAST",
+       "description": "Coast Milk Chocolate Bar delivers 100mg of hybrid cannabis in a deliciously smooth, premium chocolate edible. This indulgent treat combines rich, creamy chocolate flavor with balanced hybrid effects that promote both relaxation and uplift. Perfect for those seeking a versatile experience, each bar offers precise dosing and convenient portability. The Coast brand is known for quality edibles that merge great taste with reliable potency. Whether you&apos;re unwinding after a long day or enhancing a social gathering, this milk chocolate bar provides a happy, euphoric experience with every bite. The 100mg total THC allows for customizable dosing—break off a piece for a milder effect or enjoy more for deeper relaxation. Ideal for chocolate lovers who appreciate the perfect balance of flavor and function in their cannabis edibles.",
+       "name": "Coast - Milk Chocolate Bar - 100mg",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/coast-coast-milk-chocolate-bar-100-mg-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0d788732-7c76-4e4b-b0a8-cfcabe874fae"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "COAST",
+       "description": "Coast Goodnight Grape Gummies deliver a deliciously relaxing experience perfect for winding down after a long day. This Indica edible features 100mg total THC in a 5:25 THC:CBN ratio, offering balanced relaxation with added wellness benefits. Each grape-flavored gummy provides soothing effects ideal for evening use, helping you ease tension and prepare for restful sleep. Coast crafts these gummies with quality ingredients and consistent dosing, making them a reliable choice for those seeking deep relaxation and tranquility. The sweet grape flavor masks any cannabis taste, while the Indica classification ensures calming, full-body effects that melt away stress. Perfect for experienced users looking to unwind, relax, and enjoy a peaceful night&apos;s rest.",
+       "name": "Coast - Goodnight Grape - Gummy - 5:25",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/coast-coast-goodnight-grape-gummy-5-25-100-mg-20-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/03771bd2-1034-4ddf-a2db-af733a6584f4"
+      },
+      "position": "2"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "COAST",
+       "description": "Coast Dark Chocolate Sea Salt Bar delivers 100mg of premium hybrid cannabis in a sophisticated edible that balances indulgence with intention. This artisan chocolate bar combines rich, velvety dark chocolate with a delicate touch of sea salt, creating a luxurious flavor experience that elevates your cannabis consumption. Each precisely dosed square offers a balanced hybrid effect, perfect for those seeking relaxation without sedation or gentle euphoria paired with mental clarity. The smooth, creamy texture melts effortlessly on your palate while delivering consistent, predictable effects that both novice and experienced consumers can enjoy. Whether you&apos;re unwinding after a long day or seeking creative inspiration, this Coast chocolate bar transforms your edible experience into something truly special. The 100mg potency allows for flexible dosing—break off a small piece for a mild, uplifting effect or enjoy more for deeper relaxation and bliss.",
+       "name": "Coast - Dark Chocolate Sea Salt Bar - 100mg",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/coast-coast-dark-chocolate-sea-salt-bar-100-mg-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/eb942ac3-7ad2-4d24-af89-365b086a4b57"
+      },
+      "position": "3"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "COAST",
+       "description": "Coast Blissful Blueberry Gummies deliver a perfectly balanced 5:5:5 ratio of THC:CBN:CBC cannabinoids in a delicious 100mg edible. These indica-dominant gummies combine sweet blueberry flavor with calming effects designed to promote relaxation and ease. Each gummy offers a consistent dose, making it simple to find your ideal experience whether you&apos;re unwinding after a long day or seeking restful sleep. The natural blueberry taste creates a fruity, enjoyable consumption method without any harsh cannabis flavor. Coast crafts these gummies for those who appreciate quality edibles that deliver reliable results. Perfect for evening use, these treats may help you feel relaxed, happy, and ready to melt into your favorite spot. The convenient gummy format makes dosing straightforward and discreet, ideal for both new and experienced cannabis consumers seeking the therapeutic benefits of indica effects paired with delightful berry sweetness.",
+       "name": "Coast - Blissful Blueberry - Gummy - 5:5:5",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/coast-coast-blissful-blueberry-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5f344554-b9a9-47b9-be81-c2b3615732b7"
+      },
+      "position": "4"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "COAST",
+       "description": "Indulge in the nostalgic flavor of Coast S&apos;mores Chocolate Bar, a delicious 100mg edible that perfectly captures the classic campfire treat. This chocolate bar delivers rich, sweet cocoa blended with toasted marshmallow and graham cracker notes for an authentic s&apos;mores experience in every bite. Coast expertly infuses premium cannabis into smooth, melt-in-your-mouth chocolate, making it easy to enjoy a consistent dose. Whether you&apos;re unwinding after a long day or treating yourself to something special, this 100mg bar offers a delightful way to elevate your experience. Break off a piece and savor the familiar flavors while discovering the benefits of a thoughtfully crafted cannabis edible. Perfect for chocolate lovers seeking a tasty, discreet, and enjoyable consumption method.",
+       "name": "Coast - S&apos;mores Chocolate Bar - 100mg",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/coast-coast-s-mores-chocolate-bar-100-mg-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/4b0fc992-e193-46e8-8f37-91a5cbf940f6"
+      },
+      "position": "5"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "COAST",
+       "description": "Coast Strawberry Lemonade Gummies deliver a refreshing twist on cannabis edibles with a unique CBG:CBC:THC 10:5:5 cannabinoid ratio and 100mg total potency. This sativa-inspired gummy combines the sweet taste of ripe strawberries with zesty lemonade for a bright, fruity flavor experience. Perfect for those seeking an uplifting, energetic effect, these gummies offer a balanced approach to cannabis consumption. The carefully crafted formula provides a happy, focused experience ideal for daytime use or social occasions. Each gummy features a tart, citrus profile that makes dosing both enjoyable and convenient. Coast blends quality ingredients with precision dosing to create edibles that taste as good as they perform. Whether you&apos;re looking for creative inspiration or simply want to elevate your mood, these Strawberry Lemonade Gummies from Coast offer a delicious, reliable way to enjoy sativa effects in a portable, discreet format.",
+       "name": "Coast - Strawberry Lemonade - Gummy - 10:5:5",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/coast-coast-strawberry-lemonade-gummy-10-5-5-100-mg-20-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/66b70385-bdf1-4475-88d8-1ddfd4e49e79"
+      },
+      "position": "6"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "COAST",
+       "description": "Coast Raspberry Lime Gummy delivers a perfectly balanced 5:5:5 ratio of THC:CBD:THCV, in a 100mg package, offering a versatile cannabis experience in delicious gummy form. Each bite bursts with tangy raspberry and zesty lime flavors that make your wellness routine something to look forward to. This edible combines the uplifting effects of THC with the calming properties of CBD and the relaxing benefits of THCV, creating a well-rounded experience that can adapt to your needs throughout the day. Whether you&apos;re seeking creative focus, gentle relaxation, or restful sleep, this ratio-based gummy provides flexible support. The fruity, tart flavor profile makes dosing enjoyable while the precise cannabinoid blend ensures consistent results. Perfect for those who appreciate both flavor and function in their cannabis edibles.",
+       "name": "Coast - Raspberry Lime - Gummy - 5:5:5",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/coast-coast-raspberry-lime-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/14708e26-5d93-48d6-9a60-eb5e2fbecaf2"
+      },
+      "position": "7"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "COAST",
+       "description": "Coast Cookies &amp; Cream White Chocolate Bar delivers 100mg of THC in a decadent edible experience that chocolate lovers crave. This premium chocolate bar blends smooth white chocolate with crunchy cookies and cream pieces, creating a sweet, creamy indulgence with every bite. Coast crafts each bar with precision dosing, making it easy to enjoy your preferred experience whether you&apos;re seeking relaxation after a long day or enhancing social moments with friends. The rich, velvety texture melts on your tongue while delivering consistent effects. Perfect for sharing or savoring solo, this 100mg bar offers versatile dosing options—break off a piece for a mild experience or enjoy more for deeper effects. The familiar cookies and cream flavor profile makes this edible approachable for both newcomers and seasoned consumers. Coast combines quality ingredients with reliable potency, ensuring each square provides the same delicious taste and predictable results every time.",
+       "name": "Coast - Cookies &amp; Cream White Chocolate Bar - 100mg",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/coast-coast-cookies-cream-white-chocolate-bar-100-mg-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5d281096-7ab7-4c81-95b8-a98d6473ce70"
+      },
+      "position": "8"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "COAST",
+       "description": "Coast Tangerine Gummy delivers a perfectly balanced 5:5:5 ratio of THC:CBD:CBG, in every delicious bite. This edible combines the bright, citrusy sweetness of tangerine with a carefully crafted cannabinoid profile designed to offer versatile benefits throughout your day. The 5mg THC provides gentle euphoria and uplifted mood, while 5mg CBD supports relaxation and relief. The addition of 5mg CBG rounds out the experience, making this gummy ideal for those seeking a well-rounded effect. Coast crafts each gummy with quality ingredients and consistent dosing, ensuring a reliable experience every time. The tangerine flavor bursts with zesty citrus notes that make wellness enjoyable. Perfect for both newcomers exploring cannabinoid ratios and experienced users seeking balanced relief, this gummy offers a flavorful, approachable way to enjoy the entourage effect of multiple cannabinoids working in harmony.",
+       "name": "Coast - Tangerine - Gummy - 5:5:5",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/coast-coast-tangerine-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/271adb92-8229-448f-a8d0-4c716c46ef5a"
+      },
+      "position": "9"
+     }
+    ]
+   }
+  ]
+ }
+}

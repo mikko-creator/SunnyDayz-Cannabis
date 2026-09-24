@@ -1,0 +1,267 @@
+{
+  "schema": "site-reforge/pixeldiff-report@1",
+  "generated": "2026-09-24T01:55:07.300Z",
+  "threshold": 0.02,
+  "tolerance": 8,
+  "pairCount": 12,
+  "verdict": "DRIFT",
+  "worst": [
+    {
+      "file": "product.768.png",
+      "ratio": 0.986254,
+      "verdict": "SIZE-MISMATCH"
+    },
+    {
+      "file": "product.390.png",
+      "ratio": 0.983251,
+      "verdict": "SIZE-MISMATCH"
+    },
+    {
+      "file": "product.1440.png",
+      "ratio": 0.982605,
+      "verdict": "SIZE-MISMATCH"
+    },
+    {
+      "file": "collection-flower.390.png",
+      "ratio": 0.982241,
+      "verdict": "SIZE-MISMATCH"
+    },
+    {
+      "file": "product.1024.png",
+      "ratio": 0.981416,
+      "verdict": "SIZE-MISMATCH"
+    }
+  ],
+  "unpairedBaseline": [],
+  "unpairedRebuild": [],
+  "pairs": [
+    {
+      "file": "collection-flower.1024.png",
+      "slug": "collection-flower",
+      "width": 1024,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 1864796,
+      "compared": 1903616,
+      "ratio": 0.979607,
+      "baselineSize": [
+        1024,
+        1859
+      ],
+      "rebuildSize": [
+        1024,
+        6719
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/collection-flower.1024.png"
+    },
+    {
+      "file": "collection-flower.1440.png",
+      "slug": "collection-flower",
+      "width": 1440,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 2460490,
+      "compared": 2517120,
+      "ratio": 0.977502,
+      "baselineSize": [
+        1440,
+        1748
+      ],
+      "rebuildSize": [
+        1440,
+        5060
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/collection-flower.1440.png"
+    },
+    {
+      "file": "collection-flower.390.png",
+      "slug": "collection-flower",
+      "width": 390,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 756188,
+      "compared": 769860,
+      "ratio": 0.982241,
+      "baselineSize": [
+        390,
+        1974
+      ],
+      "rebuildSize": [
+        390,
+        15120
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/collection-flower.390.png"
+    },
+    {
+      "file": "collection-flower.768.png",
+      "slug": "collection-flower",
+      "width": 768,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 1336884,
+      "compared": 1365504,
+      "ratio": 0.979041,
+      "baselineSize": [
+        768,
+        1778
+      ],
+      "rebuildSize": [
+        768,
+        8921
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/collection-flower.768.png"
+    },
+    {
+      "file": "home.1024.png",
+      "slug": "home",
+      "width": 1024,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 3017130,
+      "compared": 3167232,
+      "ratio": 0.952608,
+      "baselineSize": [
+        1024,
+        3093
+      ],
+      "rebuildSize": [
+        1024,
+        13598
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/home.1024.png"
+    },
+    {
+      "file": "home.1440.png",
+      "slug": "home",
+      "width": 1440,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 4212776,
+      "compared": 4406400,
+      "ratio": 0.956058,
+      "baselineSize": [
+        1440,
+        3060
+      ],
+      "rebuildSize": [
+        1440,
+        13514
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/home.1440.png"
+    },
+    {
+      "file": "home.390.png",
+      "slug": "home",
+      "width": 390,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 1103673,
+      "compared": 1127100,
+      "ratio": 0.979215,
+      "baselineSize": [
+        390,
+        2890
+      ],
+      "rebuildSize": [
+        390,
+        16000
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/home.390.png"
+    },
+    {
+      "file": "home.768.png",
+      "slug": "home",
+      "width": 768,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 2305568,
+      "compared": 2383104,
+      "ratio": 0.967464,
+      "baselineSize": [
+        768,
+        3103
+      ],
+      "rebuildSize": [
+        768,
+        13345
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/home.768.png"
+    },
+    {
+      "file": "product.1024.png",
+      "slug": "product",
+      "width": 1024,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 2731508,
+      "compared": 2783232,
+      "ratio": 0.981416,
+      "baselineSize": [
+        1024,
+        2718
+      ],
+      "rebuildSize": [
+        1024,
+        4614
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/product.1024.png"
+    },
+    {
+      "file": "product.1440.png",
+      "slug": "product",
+      "width": 1440,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 3560016,
+      "compared": 3623040,
+      "ratio": 0.982605,
+      "baselineSize": [
+        1440,
+        2516
+      ],
+      "rebuildSize": [
+        1440,
+        4240
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/product.1440.png"
+    },
+    {
+      "file": "product.390.png",
+      "slug": "product",
+      "width": 390,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 1181081,
+      "compared": 1201200,
+      "ratio": 0.983251,
+      "baselineSize": [
+        390,
+        3080
+      ],
+      "rebuildSize": [
+        390,
+        5377
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/product.390.png"
+    },
+    {
+      "file": "product.768.png",
+      "slug": "product",
+      "width": 768,
+      "verdict": "SIZE-MISMATCH",
+      "differing": 2236730,
+      "compared": 2267904,
+      "ratio": 0.986254,
+      "baselineSize": [
+        768,
+        2953
+      ],
+      "rebuildSize": [
+        768,
+        4759
+      ],
+      "sizeMismatch": true,
+      "diffImage": "audit/screens/diff/product.768.png"
+    }
+  ]
+}

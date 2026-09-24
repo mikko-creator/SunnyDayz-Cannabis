@@ -1,0 +1,164 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-tropical-smoothie-chews-1-6-50-mg-10-pack-edible-50-milligrams",
+ "slug": "product-betty-s-eddies-betty-s-eddies-tropical-smoothie-chews-1-6-50-mg-10-pack-edible-50-milligrams",
+ "type": "product",
+ "title": "BETTY'S EDDIES - Betty's Eddies | Tropical Smoothie | Chews | 1:6",
+ "seoTitle": "BETTY'S EDDIES - Betty's Eddies | Tropical Smoothie | Chews | 1:6",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Betty's Eddies | Tropical Smoothie | Chews | 1:6",
+    "href": null
+   }
+  ],
+  "h1": "Betty's Eddies | Tropical Smoothie | Chews | 1:6",
+  "name": "Betty's Eddies | Tropical Smoothie | Chews | 1:6",
+  "brand": {
+   "label": "BETTY'S EDDIES",
+   "href": "/brand/bettys-eddies"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "CHEW",
+    "href": "/collection/edible/chew"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/6f6512fe-3a8e-4fd8-a025-e34049d647f9?w=3840&q=100",
+   "alt": "Betty's Eddies | Tropical Smoothie | Chews | 1:6"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/6f6512fe-3a8e-4fd8-a025-e34049d647f9?w=3840&q=100",
+    "alt": "Betty's Eddies | Tropical Smoothie | Chews | 1:6"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "50MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Betty's Eddies Tropical Smoothie Chews deliver a delicious, sun-soaked escape in every bite. This hybrid edible offers a balanced experience that combines uplifting energy with gentle relaxation, making it perfect for daytime adventures or unwinding after work. Each chew bursts with tropical fruit flavors—think juicy pineapple, ripe mango, and sweet citrus notes that transport your taste buds to a beachside paradise. The 1:6 ratio THC:CBD (50mg total) provides a mild, approachable dose ideal for both newcomers and experienced consumers seeking a mellow, functional high. Betty's Eddies crafts these chews with quality ingredients to ensure consistent effects and mouthwatering flavor in every piece. Whether you're looking to spark creativity, enhance social moments, or simply enjoy a happy, euphoric vibe, these Tropical Smoothie Chews offer a flavorful journey that's as enjoyable as it is effective.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "each",
+    "price": "$20",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$20",
+   "original": null,
+   "ariaLabel": "Product price: $20"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Betty's Eddies | Tropical Smoothie | Chews | 1:6 to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Betty's Eddies | Tropical Smoothie | Chews | 1:6 to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "BETTYS EDDIES",
+    "href": "/brand/bettys-eddies"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "50MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Bettys Eddies Tropical Smoothie Chews 1 6 50 Mg 10 Pack"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

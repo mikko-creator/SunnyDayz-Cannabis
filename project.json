@@ -1,0 +1,156 @@
+{
+  "schema": "site-reforge/project@1",
+  "name": "sunnydayzcannabis-com",
+  "targetUrl": "https://www.sunnydayzcannabis.com/",
+  "origin": "https://www.sunnydayzcannabis.com",
+  "createdAt": "2026-09-23T02:25:31.157Z",
+  "updatedAt": "2026-09-24T01:58:43.583Z",
+  "config": {
+    "maxPages": 300,
+    "concurrency": 2,
+    "includeSubdomains": false,
+    "breakpoints": [
+      390,
+      768,
+      1024,
+      1440
+    ],
+    "pixelDiffThreshold": 0.02,
+    "contentRecallFloor": 0.95,
+    "requestDelayMs": 400,
+    "requestHeaders": {}
+  },
+  "tooling": {
+    "browser": "unknown",
+    "imageGen": "unknown",
+    "detectedAt": null
+  },
+  "stages": {
+    "intake": {
+      "status": "done",
+      "at": "2026-09-23T02:25:31.159Z",
+      "note": "workspace created"
+    },
+    "crawl": {
+      "status": "done",
+      "at": "2026-09-23T04:25:07.440Z",
+      "note": "265 pages, 1 failed"
+    },
+    "extract": {
+      "status": "done",
+      "at": "2026-09-23T04:25:46.546Z",
+      "note": "264 pages extracted"
+    },
+    "assets": {
+      "status": "partial",
+      "at": "2026-09-23T04:52:50.418Z",
+      "note": "2966/2982 assets on disk"
+    },
+    "capture": {
+      "status": "done",
+      "at": "2026-09-23T04:49:07.565Z",
+      "note": "captures merged"
+    },
+    "tokens": {
+      "status": "done",
+      "at": "2026-09-23T04:49:26.170Z",
+      "note": "computed (browser capture)"
+    },
+    "motion": {
+      "status": "done",
+      "at": "2026-09-23T04:49:27.196Z",
+      "note": "52 keyframes, 7564 animated elements"
+    },
+    "presets": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "ux": {
+      "status": "partial",
+      "at": "2026-09-23T06:36:22.222Z",
+      "note": "1531 rows, 1531 UNSET"
+    },
+    "brand": {
+      "status": "partial",
+      "at": "2026-09-23T04:49:26.170Z",
+      "note": "tokens emitted; brand-system.md still owed"
+    },
+    "implement": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "clone": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "cloneVerify": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "responsive": {
+      "status": "done",
+      "at": "2026-09-24T01:47:56.303Z",
+      "note": "72 sweeps at 1024/1440/390/768"
+    },
+    "seo": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "performance": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "decontaminate": {
+      "status": "done",
+      "at": "2026-09-24T01:58:25.487Z",
+      "note": "CLEAN (0 traces)"
+    },
+    "parity": {
+      "status": "done",
+      "at": "2026-09-24T01:41:10.223Z",
+      "note": "PARITY — 288 findings"
+    },
+    "fabrication": {
+      "status": "fail",
+      "at": "2026-09-24T01:41:11.655Z",
+      "note": "FABRICATION — 12 findings"
+    },
+    "pixeldiff": {
+      "status": "fail",
+      "at": "2026-09-24T01:55:07.301Z",
+      "note": "DRIFT — 12/12 pairs over threshold"
+    },
+    "sweep": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "functional": {
+      "status": "pending",
+      "at": null,
+      "note": ""
+    },
+    "gate": {
+      "status": "fail",
+      "at": "2026-09-24T01:58:26.314Z",
+      "note": "NOT-READY — 26/29 passing"
+    },
+    "package": {
+      "status": "forced",
+      "at": "2026-09-24T01:58:43.583Z",
+      "note": "sunnydayzcannabis-com-handoff-v20260924.zip — 4671 entries, 743057374 bytes"
+    },
+    "presetMatch": {
+      "status": "partial",
+      "at": "2026-09-23T06:37:24.956Z",
+      "note": "80 matched, 1411 undecided, 40 unmeasurable"
+    }
+  },
+  "notes": []
+}

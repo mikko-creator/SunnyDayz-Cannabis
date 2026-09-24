@@ -1,0 +1,78 @@
+{
+ "schema": "sunnydayz/model-report@1",
+ "generated": "2026-09-23T06:29:55.820Z",
+ "min": 0.98,
+ "byType": {
+  "strain": {
+   "pages": 9,
+   "errors": 0,
+   "below": 0,
+   "minCoverage": 1
+  }
+ },
+ "pages": [
+  {
+   "url": "https://www.sunnydayzcannabis.com/strain/cbd",
+   "type": "strain",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/strain/indica",
+   "type": "strain",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/strain/Hybrid",
+   "type": "strain",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/strain/hybrid",
+   "type": "strain",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/strain/sativa",
+   "type": "strain",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/strain/Cbd",
+   "type": "strain",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/strain/si",
+   "type": "strain",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/strain/Indica",
+   "type": "strain",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/strain/Sativa",
+   "type": "strain",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  }
+ ]
+}

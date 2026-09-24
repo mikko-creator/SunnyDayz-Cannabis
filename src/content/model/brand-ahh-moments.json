@@ -1,0 +1,316 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/brand/ahh-moments",
+ "slug": "brand-ahh-moments",
+ "type": "brand",
+ "title": "AHH MOMENTS",
+ "seoTitle": "AHH MOMENTS",
+ "model": {
+  "kind": "brand",
+  "path": "/brand/ahh-moments",
+  "slug": "ahh-moments",
+  "name": "AHH MOMENTS",
+  "h1": "AHH MOMENTS",
+  "logo": null,
+  "banner": {
+   "title": "AHH MOMENTS",
+   "description": "Shop cannabis products from AHH MOMENTS at a dispensary near you",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Brands",
+    "href": "/brands"
+   },
+   {
+    "label": "AHH MOMENTS",
+    "href": null
+   }
+  ],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "loading",
+  "emptyState": null,
+  "cards": [],
+  "productCount": 6,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/ahh-moments-ahh-moments-cherry-berry-shot-sleepy-1-1-20-mg-tincture-20-milligrams",
+    "name": "Ahh Moments | Cherry Berry Shot | Sleepy | 1:1",
+    "brand": "AHH MOMENTS",
+    "description": "Ahh Moments Cherry Berry Shot Sleepy is a 1:1 THC:CBN indica tincture crafted to help you unwind and drift into restful slumber. This 20mg shot delivers a balanced blend of THC and CBN in a delicious cherry berry flavor profile that makes bedtime something to look forward to. The indica classification promotes deep relaxation and sleepy effects, ideal for those seeking relief from restlessness or simply wanting to enhance their nighttime routine. Each shot is perfectly portioned for convenient, fast-acting delivery, allowing you to find your sweet spot without the guesswork. The tart-sweet cherry and berry notes create a pleasant tasting experience that masks any herbal undertones. Whether you're dealing with occasional sleeplessness or just want to elevate your evening wind-down ritual, this tincture offers a discreet, easy-to-use solution that fits seamlessly into your lifestyle. Simply take your shot and let the calming effects wash over you as you drift into peaceful, restorative rest.",
+    "price": "$15",
+    "priceAmount": 15,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d2548cb5-e9e6-4ad1-8f61-258dbe31ba6f",
+     "alt": "Ahh Moments | Cherry Berry Shot | Sleepy | 1:1"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/ahh-moments-ahh-moments-strawberry-cream-party-rosin-chocolate-100-mg-edible-100-milligrams",
+    "name": "Ahh Moments | Strawberry Cream Party Rosin | Chocolate",
+    "brand": "AHH MOMENTS",
+    "description": "Indulge in Ahh Moments Strawberry Cream Party Rosin Chocolate, a 100mg sativa edible that blends decadent chocolate with luscious strawberry cream flavors. Crafted with premium rosin, this delicious treat delivers an uplifting, energetic experience perfect for social gatherings or creative pursuits. Each bite combines rich, creamy sweetness with the smooth essence of ripe strawberries, creating a party-ready confection that tastes as good as it feels. The sativa classification provides a euphoric, focused boost that keeps you happy and engaged. Whether you're celebrating with friends or treating yourself, this rosin-infused chocolate offers a flavorful escape with elevated effects. Experience the difference of quality rosin extraction in every creamy, strawberry-kissed square.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://images.prismic.io/sunny-dayz/Z5vMk5bqstJ9-Dz9_edibles-others.png?auto=format,compress",
+     "alt": "Ahh Moments | Strawberry Cream Party Rosin | Chocolate"
+    }
+   },
+   {
+    "position": 3,
+    "url": "/product/ahh-moments-ahh-moments-blueberry-vanilla-dream-rso-chocolate-100-mg-edible-100-milligrams",
+    "name": "Ahh Moments | Blueberry Vanilla Dream RSO | Chocolate",
+    "brand": "AHH MOMENTS",
+    "description": "Ahh Moments presents Blueberry Vanilla Dream RSO Chocolate, a delicious 100mg indica-infused edible crafted for ultimate relaxation. This decadent chocolate combines the rich sweetness of blueberry and smooth vanilla cream with full-spectrum RSO (Rick Simpson Oil) to deliver powerful, long-lasting effects. Each bite offers a luxurious flavor experience while promoting deep relaxation, relief, and restful sleep—perfect for unwinding after a long day or easing into a peaceful evening. The indica classification ensures calming, body-focused benefits that melt away tension and stress. Whether you're seeking relief from discomfort or simply craving a tranquil escape, this gourmet chocolate treat delivers both exceptional taste and therapeutic effects in one indulgent package.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/8ea0f8c2-9058-4747-b7f5-81ee5e4e683a",
+     "alt": "Ahh Moments | Blueberry Vanilla Dream RSO | Chocolate"
+    }
+   },
+   {
+    "position": 4,
+    "url": "/product/ahh-moments-ahh-moments-atlantic-bliss-rso-chocolate-100-mg-edible-100-milligrams",
+    "name": "Ahh Moments | Atlantic Bliss RSO | Chocolate",
+    "brand": "AHH MOMENTS",
+    "description": "Ahh Moments Atlantic Bliss RSO Chocolate delivers 100mg of hybrid cannabis in a delicious chocolate edible that balances the best of both worlds. This RSO-infused treat combines rich, velvety chocolate flavor with the full-spectrum benefits of Rick Simpson Oil, offering a potent and well-rounded experience. As a hybrid, Atlantic Bliss provides balanced effects that may leave you feeling relaxed yet uplifted, making it ideal for unwinding after a long day or enhancing creative moments. The smooth chocolate coating masks any cannabis taste while delivering precise, reliable dosing. Whether you're seeking relief, relaxation, or simply a euphoric escape, this 100mg chocolate bar offers a convenient and discreet way to enjoy cannabis. Perfect for experienced users who appreciate the therapeutic potential of RSO combined with the indulgent pleasure of premium chocolate.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/22ff79a0-23fa-4ad6-8cb1-3a81bb3844e7",
+     "alt": "Ahh Moments | Atlantic Bliss RSO | Chocolate"
+    }
+   },
+   {
+    "position": 5,
+    "url": "/product/ahh-moments-ahh-moments-raspberry-rosin-revive-chocolate-100-mg-edible-100-milligrams",
+    "name": "Ahh Moments | Raspberry Rosin Revive | Chocolate",
+    "brand": "AHH MOMENTS",
+    "description": "Ahh Moments Raspberry Rosin Revive Chocolate delivers an uplifting sativa experience wrapped in delicious raspberry-infused chocolate. This 100mg edible combines premium rosin extract with rich, creamy chocolate for a treat that energizes your day while satisfying your sweet tooth. Each piece features vibrant raspberry flavor notes that complement the smooth chocolate base, creating a luxurious taste experience. Perfect for those seeking creative focus and an energetic lift, this sativa chocolate offers a delicious way to elevate your mood and spark inspiration. The rosin extraction preserves natural terpenes and cannabinoids for enhanced effects and authentic flavor. Whether you're tackling creative projects or enjoying social gatherings, Raspberry Rosin Revive provides the perfect blend of taste and effect to help you find your ahh moment.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f7f0d907-442e-45bf-92f6-88067d7f8622",
+     "alt": "Ahh Moments | Raspberry Rosin Revive | Chocolate"
+    }
+   },
+   {
+    "position": 6,
+    "url": "/product/ahh-moments-ahh-moments-caramel-crush-calm-rosin-chocolate-100-mg-edible-100-milligrams",
+    "name": "Ahh Moments | Caramel Crush Calm Rosin | Chocolate",
+    "brand": "AHH MOMENTS",
+    "description": "Ahh Moments Caramel Crush Calm Rosin Chocolate delivers 100mg of pure relaxation in every indulgent bite. This indica-dominant edible combines rich, velvety chocolate with luxurious caramel notes, creating a decadent treat that melts stress away. Crafted with premium rosin extract, this chocolate offers a clean, full-spectrum experience that honors the plant's natural profile. Perfect for unwinding after a long day, Caramel Crush promotes calming, relaxed effects that soothe both body and mind. The smooth, sweet caramel flavor pairs beautifully with premium chocolate, making each dose a moment worth savoring. Whether you're seeking relief from tension or simply craving a peaceful evening, this 100mg chocolate edible transforms relaxation into an art form. Ahh Moments brings quality and consistency to every piece, ensuring your calm comes with incredible flavor.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d607993a-19f9-4fbe-8952-f32885425ca4",
+     "alt": "Ahh Moments | Caramel Crush Calm Rosin | Chocolate"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/brands",
+       "name": "Brands"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "AHH MOMENTS"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "AHH MOMENTS",
+       "description": "Ahh Moments Cherry Berry Shot Sleepy is a 1:1 THC:CBN indica tincture crafted to help you unwind and drift into restful slumber. This 20mg shot delivers a balanced blend of THC and CBN in a delicious cherry berry flavor profile that makes bedtime something to look forward to. The indica classification promotes deep relaxation and sleepy effects, ideal for those seeking relief from restlessness or simply wanting to enhance their nighttime routine. Each shot is perfectly portioned for convenient, fast-acting delivery, allowing you to find your sweet spot without the guesswork. The tart-sweet cherry and berry notes create a pleasant tasting experience that masks any herbal undertones. Whether you&apos;re dealing with occasional sleeplessness or just want to elevate your evening wind-down ritual, this tincture offers a discreet, easy-to-use solution that fits seamlessly into your lifestyle. Simply take your shot and let the calming effects wash over you as you drift into peaceful, restorative rest.",
+       "name": "Ahh Moments | Cherry Berry Shot | Sleepy | 1:1",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "15",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-cherry-berry-shot-sleepy-1-1-20-mg-tincture-20-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d2548cb5-e9e6-4ad1-8f61-258dbe31ba6f"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "AHH MOMENTS",
+       "description": "Indulge in Ahh Moments Strawberry Cream Party Rosin Chocolate, a 100mg sativa edible that blends decadent chocolate with luscious strawberry cream flavors. Crafted with premium rosin, this delicious treat delivers an uplifting, energetic experience perfect for social gatherings or creative pursuits. Each bite combines rich, creamy sweetness with the smooth essence of ripe strawberries, creating a party-ready confection that tastes as good as it feels. The sativa classification provides a euphoric, focused boost that keeps you happy and engaged. Whether you&apos;re celebrating with friends or treating yourself, this rosin-infused chocolate offers a flavorful escape with elevated effects. Experience the difference of quality rosin extraction in every creamy, strawberry-kissed square.",
+       "name": "Ahh Moments | Strawberry Cream Party Rosin | Chocolate",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-strawberry-cream-party-rosin-chocolate-100-mg-edible-100-milligrams"
+       },
+       "image": "https://images.prismic.io/sunny-dayz/Z5vMk5bqstJ9-Dz9_edibles-others.png?auto=format,compress"
+      },
+      "position": "2"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "AHH MOMENTS",
+       "description": "Ahh Moments presents Blueberry Vanilla Dream RSO Chocolate, a delicious 100mg indica-infused edible crafted for ultimate relaxation. This decadent chocolate combines the rich sweetness of blueberry and smooth vanilla cream with full-spectrum RSO (Rick Simpson Oil) to deliver powerful, long-lasting effects. Each bite offers a luxurious flavor experience while promoting deep relaxation, relief, and restful sleep—perfect for unwinding after a long day or easing into a peaceful evening. The indica classification ensures calming, body-focused benefits that melt away tension and stress. Whether you&apos;re seeking relief from discomfort or simply craving a tranquil escape, this gourmet chocolate treat delivers both exceptional taste and therapeutic effects in one indulgent package.",
+       "name": "Ahh Moments | Blueberry Vanilla Dream RSO | Chocolate",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-blueberry-vanilla-dream-rso-chocolate-100-mg-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/8ea0f8c2-9058-4747-b7f5-81ee5e4e683a"
+      },
+      "position": "3"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "AHH MOMENTS",
+       "description": "Ahh Moments Atlantic Bliss RSO Chocolate delivers 100mg of hybrid cannabis in a delicious chocolate edible that balances the best of both worlds. This RSO-infused treat combines rich, velvety chocolate flavor with the full-spectrum benefits of Rick Simpson Oil, offering a potent and well-rounded experience. As a hybrid, Atlantic Bliss provides balanced effects that may leave you feeling relaxed yet uplifted, making it ideal for unwinding after a long day or enhancing creative moments. The smooth chocolate coating masks any cannabis taste while delivering precise, reliable dosing. Whether you&apos;re seeking relief, relaxation, or simply a euphoric escape, this 100mg chocolate bar offers a convenient and discreet way to enjoy cannabis. Perfect for experienced users who appreciate the therapeutic potential of RSO combined with the indulgent pleasure of premium chocolate.",
+       "name": "Ahh Moments | Atlantic Bliss RSO | Chocolate",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-atlantic-bliss-rso-chocolate-100-mg-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/22ff79a0-23fa-4ad6-8cb1-3a81bb3844e7"
+      },
+      "position": "4"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "AHH MOMENTS",
+       "description": "Ahh Moments Raspberry Rosin Revive Chocolate delivers an uplifting sativa experience wrapped in delicious raspberry-infused chocolate. This 100mg edible combines premium rosin extract with rich, creamy chocolate for a treat that energizes your day while satisfying your sweet tooth. Each piece features vibrant raspberry flavor notes that complement the smooth chocolate base, creating a luxurious taste experience. Perfect for those seeking creative focus and an energetic lift, this sativa chocolate offers a delicious way to elevate your mood and spark inspiration. The rosin extraction preserves natural terpenes and cannabinoids for enhanced effects and authentic flavor. Whether you&apos;re tackling creative projects or enjoying social gatherings, Raspberry Rosin Revive provides the perfect blend of taste and effect to help you find your ahh moment.",
+       "name": "Ahh Moments | Raspberry Rosin Revive | Chocolate",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-raspberry-rosin-revive-chocolate-100-mg-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f7f0d907-442e-45bf-92f6-88067d7f8622"
+      },
+      "position": "5"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "AHH MOMENTS",
+       "description": "Ahh Moments Caramel Crush Calm Rosin Chocolate delivers 100mg of pure relaxation in every indulgent bite. This indica-dominant edible combines rich, velvety chocolate with luxurious caramel notes, creating a decadent treat that melts stress away. Crafted with premium rosin extract, this chocolate offers a clean, full-spectrum experience that honors the plant&apos;s natural profile. Perfect for unwinding after a long day, Caramel Crush promotes calming, relaxed effects that soothe both body and mind. The smooth, sweet caramel flavor pairs beautifully with premium chocolate, making each dose a moment worth savoring. Whether you&apos;re seeking relief from tension or simply craving a peaceful evening, this 100mg chocolate edible transforms relaxation into an art form. Ahh Moments brings quality and consistency to every piece, ensuring your calm comes with incredible flavor.",
+       "name": "Ahh Moments | Caramel Crush Calm Rosin | Chocolate",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-caramel-crush-calm-rosin-chocolate-100-mg-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d607993a-19f9-4fbe-8952-f32885425ca4"
+      },
+      "position": "6"
+     }
+    ]
+   }
+  ]
+ }
+}

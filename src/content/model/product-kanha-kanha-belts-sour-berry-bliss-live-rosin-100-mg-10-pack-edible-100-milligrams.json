@@ -1,0 +1,133 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-sour-berry-bliss-live-rosin-100-mg-10-pack-edible-100-milligrams",
+ "slug": "product-kanha-kanha-belts-sour-berry-bliss-live-rosin-100-mg-10-pack-edible-100-milligrams",
+ "type": "product",
+ "title": "KANHA - Kanha Belts - Sour Berry Bliss - Live Rosin",
+ "seoTitle": "KANHA - Kanha Belts - Sour Berry Bliss - Live Rosin",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Kanha Belts - Sour Berry Bliss - Live Rosin",
+    "href": null
+   }
+  ],
+  "h1": "Kanha Belts - Sour Berry Bliss - Live Rosin",
+  "name": "Kanha Belts - Sour Berry Bliss - Live Rosin",
+  "brand": {
+   "label": "KANHA",
+   "href": "/brand/kanha"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Indica",
+   "key": "indica",
+   "ariaLabel": "Flower type: Indica"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "GUMMY",
+    "href": "/collection/edible/gummy"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/b3340253-34f8-4563-a55d-20bcf5428016?w=3840&q=100",
+   "alt": "Kanha Belts - Sour Berry Bliss - Live Rosin"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/b3340253-34f8-4563-a55d-20bcf5428016?w=3840&q=100",
+    "alt": "Kanha Belts - Sour Berry Bliss - Live Rosin"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "100MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Kanha Belts - Sour Berry Bliss - Live Rosin - 100 mg delivers a premium indica edible experience crafted with live rosin for maximum potency and flavor. These gummy belts capture the essence of ripe, tangy berries with a sour kick that tingles the taste buds. Each belt provides relaxing effects perfect for unwinding after a long day, easing tension, and promoting restful sleep. Made with cannabis-derived terpenes, this strain-specific formula preserves the plant's natural profile for an authentic entourage effect. The 100mg package offers convenient dosing flexibility for both new and experienced consumers. Kanha's commitment to quality ensures consistent, lab-tested results in every bite. Enjoy the sweet-tart berry flavor while embracing the calming, full-body relaxation that indica edibles are known for. Perfect for evening use or whenever you need to melt away stress and find your bliss.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "KANHA",
+    "href": "/brand/kanha"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Indica",
+    "href": "/strain/Indica"
+   },
+   {
+    "label": "THC",
+    "value": "100MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Kanha Belts Sour Berry Bliss Live Rosin 100 Mg 10 Pack"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

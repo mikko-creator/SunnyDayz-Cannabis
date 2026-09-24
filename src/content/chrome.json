@@ -1,0 +1,382 @@
+{
+ "schema": "sunnydayz/chrome@1",
+ "source": "audit/rendered/_chrome.json",
+ "announcement": "Thanks for visiting our new website!",
+ "announcementLink": {
+  "href": "/shop",
+  "pages": 260,
+  "of": 260
+ },
+ "store": {
+  "mode": "Pickup",
+  "name": "Sunny Dayz",
+  "address": "105 Greenfield Rd, South Deerfield, MA 01373"
+ },
+ "logo": {
+  "src": "https://images.prismic.io/sunny-dayz/1g2QF2k5tZETN2b0_SDC-2025-logo-ai.png?auto=format%2Ccompress&rect=0%2C0%2C1693%2C722&w=640&fit=max&q=100",
+  "alt": "Brand logo",
+  "w": 0,
+  "h": 0
+ },
+ "nav": [
+  {
+   "label": "Home",
+   "href": "/"
+  },
+  {
+   "label": "Shop",
+   "mega": true
+  },
+  {
+   "label": "Brands",
+   "href": "/brands"
+  },
+  {
+   "label": "Deals",
+   "href": "/deals"
+  },
+  {
+   "label": "Our Products",
+   "href": "/product-group/our-products"
+  },
+  {
+   "label": "Strains",
+   "href": "/our-strains"
+  },
+  {
+   "label": "About Us",
+   "href": "/about-us"
+  },
+  {
+   "label": "Contact Us",
+   "href": "/contact-us"
+  }
+ ],
+ "mega": {
+  "category": {
+   "title": "Shop By Category",
+   "links": [
+    {
+     "label": "Cartridges",
+     "href": "/collection/cartridge"
+    },
+    {
+     "label": "Flower",
+     "href": "/collection/flower"
+    },
+    {
+     "label": "Pre-rolls",
+     "href": "/collection/preroll"
+    },
+    {
+     "label": "Edible",
+     "href": "/collection/edible"
+    },
+    {
+     "label": "Concentrates",
+     "href": "/collection/concentrates"
+    },
+    {
+     "label": "Tinctures",
+     "href": "/collection/tincture"
+    },
+    {
+     "label": "Capsules",
+     "href": "/collection/pill"
+    },
+    {
+     "label": "Topicals",
+     "href": "/collection/topical"
+    },
+    {
+     "label": "Accessories",
+     "href": "/collection/merch"
+    },
+    {
+     "label": "Drinks",
+     "href": "/collection/beverage"
+    },
+    {
+     "label": "All",
+     "href": "/shop"
+    }
+   ]
+  },
+  "classification": {
+   "title": "By Classification",
+   "links": [
+    {
+     "label": "Sativa",
+     "href": "/strain/sativa"
+    },
+    {
+     "label": "Hybrid",
+     "href": "/strain/hybrid"
+    },
+    {
+     "label": "Indica",
+     "href": "/strain/indica"
+    },
+    {
+     "label": "CBD Rich",
+     "href": "/strain/cbd"
+    }
+   ]
+  },
+  "brand": {
+   "title": "By Brand",
+   "links": [
+    {
+     "label": "Ahh Moments",
+     "href": "/brand/ahh-moments",
+     "logo": "https://images.prismic.io/sunny-dayz/u0b8do0_PesBEEMK_ahh-logo-1.jpg?auto=format%2Ccompress&rect=9%2C0%2C514%2C514&w=256&fit=max"
+    },
+    {
+     "label": "Betty's Eddies",
+     "href": "/brand/bettys-eddies",
+     "logo": "https://images.prismic.io/sunny-dayz/HiHZ4XNY-h3H9Plo_Betty_sEddies.png?auto=format%2Ccompress&rect=1%2C0%2C224%2C224&w=256&fit=max"
+    },
+    {
+     "label": "Breathe Free*",
+     "href": "/brand/breathe-free",
+     "logo": "https://images.prismic.io/sunny-dayz/7nWCilwO5jn52nRI_BreatheFree.png?auto=format%2Ccompress&rect=0%2C0%2C554%2C554&w=256&fit=max"
+    },
+    {
+     "label": "Bountiful Farms*",
+     "href": "/brand/bountiful-farms",
+     "logo": "https://images.prismic.io/sunny-dayz/Gg0XbKivtFt5-k60_BountifulFarms.jpeg?auto=format%2Ccompress&rect=75%2C0%2C378%2C378&w=256&fit=max"
+    },
+    {
+     "label": "Cap Cod Labs",
+     "href": "/brand/cap-cod-labs",
+     "logo": "https://images.prismic.io/sunny-dayz/IabIrHibeG55U-La_CapCodLabs.jpeg?auto=format%2Ccompress&rect=0%2C0%2C512%2C512&w=256&fit=max"
+    },
+    {
+     "label": "CNA Stores",
+     "href": "/brand/cna-stores",
+     "logo": "https://images.prismic.io/sunny-dayz/SJqWd9VTAd6h1gHr_CNAStores.png?auto=format%2Ccompress&rect=36%2C12%2C177%2C177&w=256&fit=max"
+    },
+    {
+     "label": "Coast Cannabis Co.",
+     "href": "/brand/coast-cannabis-co",
+     "logo": "https://images.prismic.io/sunny-dayz/UYu0JtSJgXrZU80P_CoastCannabisCo..jpeg?auto=format%2Ccompress&rect=0%2C0%2C200%2C200&w=256&fit=max"
+    },
+    {
+     "label": "The Fresh Connection",
+     "href": "/brand/the-fresh-connection",
+     "logo": "https://images.prismic.io/sunny-dayz/x5Q0M9zKC-8zRNYI_TheFreshConnection.jpeg?auto=format%2Ccompress&rect=0%2C0%2C447%2C447&w=256&fit=max"
+    },
+    {
+     "label": "Harbor House",
+     "href": "/brand/harbor-house",
+     "logo": "https://images.prismic.io/sunny-dayz/Fh-Ll0ArrkLFiNVa_HarborHouse.png?auto=format%2Ccompress&rect=0%2C0%2C512%2C512&w=256&fit=max"
+    },
+    {
+     "label": "Healing Rose",
+     "href": "/brand/healing-rose",
+     "logo": "https://images.prismic.io/sunny-dayz/vWaxKwzVnlbxx7-P_TheHealingRose.jpeg?auto=format%2Ccompress&rect=0%2C0%2C554%2C554&w=256&fit=max"
+    },
+    {
+     "label": "Impressed Cannabis",
+     "href": "/brand/impressed-cannabis",
+     "logo": "https://images.prismic.io/sunny-dayz/AgPK2_r6E8Zyp_Ot_Impressed_re.png?auto=format%2Ccompress&rect=0%2C0%2C738%2C738&w=256&fit=max"
+    },
+    {
+     "label": "Kanha",
+     "href": "/brand/kanha",
+     "logo": "https://images.prismic.io/sunny-dayz/GUq_o5oczB0eqaJ8_Kahna.jpeg?auto=format%2Ccompress&rect=0%2C0%2C225%2C225&w=256&fit=max"
+    },
+    {
+     "label": "Keef Beverages",
+     "href": "/brand/keef-beverages",
+     "logo": "https://images.prismic.io/sunny-dayz/BPWG9SlsWq7_OwTy_KeefBeverages.png?auto=format%2Ccompress&rect=0%2C0%2C554%2C554&w=256&fit=max"
+    },
+    {
+     "label": "Levia",
+     "href": "/brand/levia",
+     "logo": "https://images.prismic.io/sunny-dayz/ntC50GyNgsLh8dXR_Levia.jpeg?auto=format%2Ccompress&rect=65%2C0%2C169%2C169&w=256&fit=max"
+    },
+    {
+     "label": "Mass Yield",
+     "href": "/brand/mass-yield",
+     "logo": "https://images.prismic.io/sunny-dayz/kg2xQ5mYT88PhPH8_MassYield.png?auto=format%2Ccompress&rect=0%2C0%2C554%2C554&w=256&fit=max"
+    },
+    {
+     "label": "Natures Heritage",
+     "href": "/brand/natures-heritage",
+     "logo": "https://images.prismic.io/sunny-dayz/Yn6zveaeNRiZ6pLI_NaturesHeritage.jpg?auto=format%2Ccompress&rect=4%2C0%2C121%2C121&w=256&fit=max"
+    },
+    {
+     "label": "Sweet Grass Botanicals",
+     "href": "/brand/sweet-grass-botanicals",
+     "logo": "https://images.prismic.io/sunny-dayz/-InhjvsIinebuHp__SweetGrassBotanicals.jpeg?auto=format%2Ccompress&rect=0%2C0%2C554%2C554&w=256&fit=max"
+    },
+    {
+     "label": "Tower Three",
+     "href": "/brand/tower-three",
+     "logo": "https://images.prismic.io/sunny-dayz/zn2QUYajGAiMuUaB_TowerThree.jpeg?auto=format%2Ccompress&rect=0%2C0%2C554%2C554&w=256&fit=max"
+    },
+    {
+     "label": "TreeWorks",
+     "href": "/brand/treeworks",
+     "logo": "https://images.prismic.io/sunny-dayz/2XT7hq4DJw4nAWG7_TreeWorks.png?auto=format%2Ccompress&rect=0%2C1%2C552%2C552&w=256&fit=max"
+    }
+   ]
+  },
+  "topBrandsTitle": "Top Brands"
+ },
+ "chooser": {
+  "heading": {
+   "text": "How do you want to shop?",
+   "pages": 105
+  },
+  "chooseStore": {
+   "text": "Choose your Store",
+   "pages": 150
+  },
+  "expressLead": {
+   "text": "YOU ARE BUYING FROM OUR EXPRESS MENU:",
+   "pages": 105
+  }
+ },
+ "express": {
+  "text": "GET YOUR ORDER IN 60 MIN ETA: CLICK TO SEE THE EXPRESS DELIVERY MENU",
+  "lead": "GET YOUR ORDER IN 60 MIN ETA:",
+  "action": "CLICK TO SEE THE EXPRESS DELIVERY MENU",
+  "href": "/shop",
+  "decision": "IMPROVE — a dismissible top banner whose button switches Treez fulfilment mode becomes a permanent pre-footer band linking to the menu (/shop)."
+ },
+ "footer": [
+  {
+   "title": "CATEGORIES",
+   "links": [
+    {
+     "label": "Vapes",
+     "href": "/collection/cartridge"
+    },
+    {
+     "label": "Flower",
+     "href": "/collection/flower"
+    },
+    {
+     "label": "Pre-rolls",
+     "href": "/collection/preroll"
+    },
+    {
+     "label": "Edibles",
+     "href": "/collection/edible"
+    },
+    {
+     "label": "Extracts",
+     "href": "/collection/extract"
+    },
+    {
+     "label": "CBD",
+     "href": "/collection/cbd"
+    },
+    {
+     "label": "Drinks",
+     "href": "/collection/beverage"
+    },
+    {
+     "label": "Tincture",
+     "href": "/collection/tincture"
+    },
+    {
+     "label": "Capsules",
+     "href": "/collection/pill"
+    },
+    {
+     "label": "Topicals",
+     "href": "/collection/topical"
+    },
+    {
+     "label": "Accesories",
+     "href": "/collection/merch"
+    }
+   ]
+  },
+  {
+   "title": "SHOP BY",
+   "links": [
+    {
+     "label": "ALL",
+     "href": "/shop"
+    },
+    {
+     "label": "Brands",
+     "href": "/brands"
+    },
+    {
+     "label": "Deals",
+     "href": "/deals"
+    },
+    {
+     "label": "Daily Deals",
+     "href": "/daily-specials"
+    }
+   ]
+  },
+  {
+   "title": "ABOUT US",
+   "links": [
+    {
+     "label": "Our Story",
+     "href": "/about-us"
+    },
+    {
+     "label": "Contact Us",
+     "href": "/contact-us"
+    }
+   ]
+  },
+  {
+   "title": "LEGAL",
+   "links": [
+    {
+     "label": "Terms and Conditions",
+     "href": "/terms-and-conditions"
+    },
+    {
+     "label": "Privacy Policy",
+     "href": "/privacy-policy"
+    }
+   ]
+  }
+ ],
+ "compliance": [
+  "For use by individuals registered qualifying patients or individuals 21 years of age or older only. Keep out of reach of children. It is illegal to drive a motor vehicle while under the influence of marihuana. National Poison Control Center 1-413-350-5034",
+  "WARNING: Use by pregnant or breastfeeding women, or by women planning to become pregnant, may result in fetal injury, preterm birth, low birth weight, or developmental problems for the child."
+ ],
+ "licence": "MR284636",
+ "copyright": "Sunny Dayz. Copyright © 2026. All rights reserved.",
+ "removed": [
+  {
+   "text": "Powered with love by TREEZ",
+   "why": "Platform attribution for the storefront platform, which does not power the rebuild."
+  },
+  {
+   "text": "Instagram / Facebook",
+   "why": "Both captured links point to \"/\" and the store record carries instagram:null, facebook:null — there is no profile to link. Client to supply URLs."
+  },
+  {
+   "text": "wishlist icon (/wishlist)",
+   "why": "Account feature behind robots Disallow /wishlist; no account backend in a static build."
+  }
+ ],
+ "dock": [
+  "Home",
+  "Shop",
+  "Categories",
+  "Deals"
+ ],
+ "cart": {
+  "title": "Shopping cart",
+  "pickup": "Pickup at",
+  "empty": "Your bag is empty",
+  "emptyCta": "Let’s go shopping now!",
+  "weight": "Total Weight",
+  "subtotal": "Subtotal",
+  "checkout": "Proceed to checkout"
+ }
+}

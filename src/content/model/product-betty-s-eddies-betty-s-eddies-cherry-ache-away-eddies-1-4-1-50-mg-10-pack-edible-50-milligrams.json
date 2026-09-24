@@ -1,0 +1,164 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-cherry-ache-away-eddies-1-4-1-50-mg-10-pack-edible-50-milligrams",
+ "slug": "product-betty-s-eddies-betty-s-eddies-cherry-ache-away-eddies-1-4-1-50-mg-10-pack-edible-50-milligrams",
+ "type": "product",
+ "title": "BETTY'S EDDIES - Betty's Eddies | Cherry | Ache Away Eddies | 1:4:1",
+ "seoTitle": "BETTY'S EDDIES - Betty's Eddies | Cherry | Ache Away Eddies | 1:4:1",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Betty's Eddies | Cherry | Ache Away Eddies | 1:4:1",
+    "href": null
+   }
+  ],
+  "h1": "Betty's Eddies | Cherry | Ache Away Eddies | 1:4:1",
+  "name": "Betty's Eddies | Cherry | Ache Away Eddies | 1:4:1",
+  "brand": {
+   "label": "BETTY'S EDDIES",
+   "href": "/brand/bettys-eddies"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "CHEW",
+    "href": "/collection/edible/chew"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/69ba0d61-9fda-470f-91b9-14638a61c1f9?w=3840&q=100",
+   "alt": "Betty's Eddies | Cherry | Ache Away Eddies | 1:4:1"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/69ba0d61-9fda-470f-91b9-14638a61c1f9?w=3840&q=100",
+    "alt": "Betty's Eddies | Cherry | Ache Away Eddies | 1:4:1"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "50MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Betty's Eddies Cherry Ache Away Eddies deliver a carefully balanced 1:4:1 ratio of cannabinoids in a convenient 50mg chew, designed to provide targeted relief with a delicious cherry flavor. This hybrid edible combines the therapeutic benefits of multiple cannabinoids to help ease discomfort while maintaining balanced effects. Each chew offers a sweet-tart cherry taste that makes wellness enjoyable. The unique 1:4:1 formulation is crafted for those seeking relief without overwhelming psychoactive effects, making it ideal for daytime or evening use. Perfect for managing aches and pains while staying functional, these chews dissolve easily and deliver consistent results. Betty's Eddies brings quality ingredients and precise dosing together in a tasty, effective format that fits seamlessly into your wellness routine.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "each",
+    "price": "$20",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$20",
+   "original": null,
+   "ariaLabel": "Product price: $20"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Betty's Eddies | Cherry | Ache Away Eddies | 1:4:1 to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Betty's Eddies | Cherry | Ache Away Eddies | 1:4:1 to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "BETTYS EDDIES",
+    "href": "/brand/bettys-eddies"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "50MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Bettys Eddies Cherry Ache Away Eddies 1 4 1 50 Mg 10 Pack"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

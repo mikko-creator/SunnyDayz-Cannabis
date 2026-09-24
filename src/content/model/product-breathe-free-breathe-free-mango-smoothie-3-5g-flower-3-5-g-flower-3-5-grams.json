@@ -1,0 +1,236 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-mango-smoothie-3-5g-flower-3-5-g-flower-3-5-grams",
+ "slug": "product-breathe-free-breathe-free-mango-smoothie-3-5g-flower-3-5-g-flower-3-5-grams",
+ "type": "product",
+ "title": "BREATHE FREE - Breathe Free - Mango Smoothie - 3.5G Flower",
+ "seoTitle": "BREATHE FREE - Breathe Free - Mango Smoothie - 3.5G Flower",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Flower",
+    "href": "/collection/flower"
+   },
+   {
+    "label": "Breathe Free - Mango Smoothie - 3.5G Flower",
+    "href": null
+   }
+  ],
+  "h1": "Breathe Free - Mango Smoothie - 3.5G Flower",
+  "name": "Breathe Free - Mango Smoothie - 3.5G Flower",
+  "brand": {
+   "label": "BREATHE FREE",
+   "href": "/brand/breathe-free"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Indica",
+   "key": "indica",
+   "ariaLabel": "Flower type: Indica"
+  },
+  "category": {
+   "label": "Flower",
+   "href": "/collection/flower"
+  },
+  "subcategories": [
+   {
+    "label": "PRE-PACK",
+    "href": "/collection/flower/pre-pack"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/00e28b2b-daa2-4797-a7b9-3bbf36def824?w=3840&q=100",
+   "alt": "Breathe Free - Mango Smoothie - 3.5G Flower"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/00e28b2b-daa2-4797-a7b9-3bbf36def824?w=3840&q=100",
+    "alt": "Breathe Free - Mango Smoothie - 3.5G Flower"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": "Warning",
+   "about": "About this product",
+   "terpenes": "Terpenes",
+   "cannabinoids": "Cannabinoids"
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "23.094%",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Breath Free brings you Breathe Free - Mango Smoothie, a premium 3.5g flower that delivers tropical bliss in every bud. This carefully cultivated pre-pack offers dense, aromatic nugs bursting with vibrant mango and fruity notes that transport your senses to a sun-soaked paradise. The smooth, sweet flavor profile makes each session a refreshing escape, while the thoughtfully grown flower provides a well-rounded experience perfect for any time of day. Whether you're seeking creative inspiration, social energy, or simple relaxation, this mango-infused strain adapts beautifully to your needs. The convenient 3.5g size ensures freshness and potency in every jar, making it ideal for both seasoned enthusiasts and curious newcomers exploring quality cannabis flower. Breathe Free's commitment to excellence shines through in every carefully trimmed bud, delivering consistent quality and an unforgettable tropical taste that keeps you coming back for more.",
+  "warnings": [
+   {
+    "title": "Proposition 65 Warning for California Consumers",
+    "collapsed": true,
+    "toggleIcon": "angle-down",
+    "toggleAriaLabel": "Expand content",
+    "label": "WARNING:",
+    "lines": [
+     "This product can expose you to chemicals including β-myrcene and cannabis smoke, which are known to the State of California to cause cancer, and chemicals including cannabis smoke and 9-tetrahydrocannabinol, which are known to the State of California to cause birth defects or other reproductive harm."
+    ],
+    "moreInfo": {
+     "text": "For more information go to",
+     "label": "www.P65Warnings.ca.gov",
+     "href": "https://www.P65Warnings.ca.gov"
+    },
+    "links": []
+   }
+  ],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "3.5g",
+    "price": "$35",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$35",
+   "original": null,
+   "ariaLabel": "Product price: $35"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Breathe Free - Mango Smoothie - 3.5G Flower to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Breathe Free - Mango Smoothie - 3.5G Flower to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "BREATHE FREE",
+    "href": "/brand/breathe-free"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Indica",
+    "href": "/strain/Indica"
+   },
+   {
+    "label": "THC",
+    "value": "23.094%"
+   },
+   {
+    "label": "Package Info",
+    "value": "Breathe Free Mango Smoothie 3 5 G Flower 3 5 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "3.5g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [
+   {
+    "name": "Alpha Pinene",
+    "value": "0.814 %",
+    "aroma": "Pine",
+    "effects": "Focus, Relief, Alert, Balanced"
+   },
+   {
+    "name": "Beta Myrcene",
+    "value": "0.348 %",
+    "aroma": "Herbal",
+    "effects": "Relaxing, Sedation, Heaviness, Couch Lock"
+   },
+   {
+    "name": "Beta Pinene",
+    "value": "0.332 %",
+    "aroma": "Pine",
+    "effects": "Focus, Relief, Alert, Balanced"
+   },
+   {
+    "name": "Limonene",
+    "value": "0.15 %",
+    "aroma": "Citrus",
+    "effects": "Elevated mood, anti-anxiety"
+   },
+   {
+    "name": "Beta Caryophyllene",
+    "value": "0.125 %",
+    "aroma": "Peppery",
+    "effects": "Anti-inflammatory, analgesic, calming"
+   },
+   {
+    "name": "Alpha Humulene",
+    "value": "0.038 %",
+    "aroma": "Hoppy",
+    "effects": "Pain relief, appetite suppression"
+   }
+  ],
+  "cannabinoids": [
+   {
+    "group": "THC",
+    "items": [
+     {
+      "name": "THCA",
+      "value": "25.83%"
+     },
+     {
+      "name": "THC",
+      "value": "23.0936%"
+     }
+    ]
+   }
+  ],
+  "jsonld": null
+ }
+}

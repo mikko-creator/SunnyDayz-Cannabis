@@ -1,0 +1,85 @@
+{
+ "schema": "sunnydayz/model-report@1",
+ "generated": "2026-09-23T04:51:34.464Z",
+ "min": 0.98,
+ "byType": {
+  "notfound": {
+   "pages": 10,
+   "errors": 0,
+   "below": 0,
+   "minCoverage": 1
+  }
+ },
+ "pages": [
+  {
+   "url": "https://www.sunnydayzcannabis.com/Small%20Batch,%20Real%20Farmers,%20Real%20Flavor.",
+   "type": "notfound",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/all-products",
+   "type": "notfound",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/daily-specials",
+   "type": "notfound",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/extract/sugar",
+   "type": "notfound",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/flower/bulk-flower",
+   "type": "notfound",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/merch/hoodie",
+   "type": "notfound",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/pill",
+   "type": "notfound",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/pill?sort=brandAsc",
+   "type": "notfound",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/preroll/infused",
+   "type": "notfound",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/strain/S%20I",
+   "type": "notfound",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  }
+ ]
+}

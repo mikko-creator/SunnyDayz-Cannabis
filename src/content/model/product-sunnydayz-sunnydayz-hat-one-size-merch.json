@@ -1,0 +1,116 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/sunnydayz-sunnydayz-hat-one-size-merch",
+ "slug": "product-sunnydayz-sunnydayz-hat-one-size-merch",
+ "type": "product",
+ "title": "SUNNYDAYZ - SunnyDayz - Hat - One Size",
+ "seoTitle": "SUNNYDAYZ - SunnyDayz - Hat - One Size",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Merch",
+    "href": "/collection/merch"
+   },
+   {
+    "label": "SunnyDayz - Hat - One Size",
+    "href": null
+   }
+  ],
+  "h1": "SunnyDayz - Hat - One Size",
+  "name": "SunnyDayz - Hat - One Size",
+  "brand": {
+   "label": "SUNNYDAYZ",
+   "href": "/brand/sunnydayz"
+  },
+  "badges": [],
+  "strainType": null,
+  "category": {
+   "label": "Merch",
+   "href": "/collection/merch"
+  },
+  "subcategories": [
+   {
+    "label": "HAT",
+    "href": "/collection/merch/hat"
+   }
+  ],
+  "image": {
+   "src": "",
+   "alt": "SunnyDayz - Hat - One Size",
+   "placeholder": true
+  },
+  "images": [
+   {
+    "src": "",
+    "alt": "SunnyDayz - Hat - One Size",
+    "placeholder": true
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": true,
+  "stockPhotoLabel": "Stock photo",
+  "sectionTitles": {
+   "details": null,
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [],
+  "disclaimer": null,
+  "description": "Rep your favorite brand in style with the SunnyDayz Navy/White Hat featuring a bold mountain logo. This classic one-size-fits-all hat combines timeless design with comfortable everyday wear, making it the perfect cannabis lifestyle accessory for any adventure. The navy and white color scheme offers versatile styling that pairs effortlessly with any outfit, while the embroidered mountain graphic showcases your connection to quality and the outdoor spirit. Whether you're heading to a festival, exploring nature, or just running errands, this hat delivers both function and style. Adjustable fit ensures comfort for everyone. Show your SunnyDayz pride with this essential merch piece that celebrates the culture you love.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "SUNNYDAYZ",
+    "href": "/brand/sunnydayz"
+   },
+   {
+    "label": "Package Info",
+    "value": "Sunnydayz Hat One Size"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

@@ -1,0 +1,164 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-acai-blueberry-harmony-100-mg-10-pack-edible-100-milligrams",
+ "slug": "product-kanha-kanha-belts-acai-blueberry-harmony-100-mg-10-pack-edible-100-milligrams",
+ "type": "product",
+ "title": "KANHA - Kanha Belts - Acai Blueberry - Harmony Gummy",
+ "seoTitle": "KANHA - Kanha Belts - Acai Blueberry - Harmony Gummy",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Kanha Belts - Acai Blueberry - Harmony Gummy",
+    "href": null
+   }
+  ],
+  "h1": "Kanha Belts - Acai Blueberry - Harmony Gummy",
+  "name": "Kanha Belts - Acai Blueberry - Harmony Gummy",
+  "brand": {
+   "label": "KANHA",
+   "href": "/brand/kanha"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Indica",
+   "key": "indica",
+   "ariaLabel": "Flower type: Indica"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "GUMMY",
+    "href": "/collection/edible/gummy"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e76e0df5-5d44-4236-bba8-96da2722eed1?w=3840&q=100",
+   "alt": "Kanha Belts - Acai Blueberry - Harmony Gummy"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e76e0df5-5d44-4236-bba8-96da2722eed1?w=3840&q=100",
+    "alt": "Kanha Belts - Acai Blueberry - Harmony Gummy"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "100MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Kanha Belts - Acai Blueberry - Harmony Gummy delivers 100mg of premium indica cannabis in a delicious edible format that's perfect for unwinding. Each gummy belt features rich acai and sweet blueberry flavors that create a delightful taste experience while delivering reliable relaxation. As an indica-dominant edible, these gummies are ideal for evening use when you're seeking deep relaxation and restful sleep. The convenient belt format makes dosing easy and enjoyable, whether you're new to cannabis edibles or an experienced user. Kanha is known for their consistent quality and precise dosing, ensuring you get the same great experience every time. These gummies offer calming, relaxed effects that help melt away stress and tension. The fruity, berry-forward flavor profile masks any cannabis taste, making them a treat to consume. Perfect for those seeking relief and relaxation in a tasty, discreet package.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "each",
+    "price": "$15",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$15",
+   "original": null,
+   "ariaLabel": "Product price: $15"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Kanha Belts - Acai Blueberry - Harmony Gummy to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Kanha Belts - Acai Blueberry - Harmony Gummy to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "KANHA",
+    "href": "/brand/kanha"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Indica",
+    "href": "/strain/Indica"
+   },
+   {
+    "label": "THC",
+    "value": "100MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Kanha Belts Acai Blueberry Harmony 100 Mg 10 Pack"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

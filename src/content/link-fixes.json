@@ -1,0 +1,16 @@
+{
+  "schema": "sunnydayz/link-fixes@1",
+  "note": "Internal links that are dead on the live site (soft 404: HTTP 200, <title>404) and how the redesign treats them. Evidence: browser-proxy probe 2026-09-23 of each 'from' path (all returned title '404'); the 'to' pages exist in the crawl. to=null drops the link. content/chrome.json keeps the captured hrefs unchanged — the fix is applied at build time only.",
+  "fixes": [
+    { "from": "/collection/concentrates", "to": "/collection/extract", "why": "Header 'Concentrates' and home tile 'CONCENTRATES' point at a soft-404; /collection/extract is the concentrates collection (its own h1 reads 'Concentrates')." },
+    { "from": "/brand/coast-cannabis-co", "to": "/brand/coast", "why": "Mega-menu brand slug differs from the brand page slug (COAST)." },
+    { "from": "/brand/healing-rose", "to": "/brand/the-healing-rose", "why": "Mega-menu brand slug differs from the brand page slug (THE HEALING ROSE)." },
+    { "from": "/brand/impressed-cannabis", "to": "/brand/impressed", "why": "Mega-menu brand slug differs from the brand page slug (IMPRESSED)." },
+    { "from": "/brand/keef-beverages", "to": "/brand/keef", "why": "Mega-menu brand slug differs from the brand page slug (KEEF)." },
+    { "from": "/brand/sweet-grass-botanicals", "to": "/brand/sweetgrass-botanicals", "why": "Mega-menu brand slug differs from the brand page slug (SWEETGRASS BOTANICALS)." },
+    { "from": "/brand/cap-cod-labs", "to": null, "why": "No brand page exists for Cap Cod Labs; the live link is a soft-404. Dropped from the menu — client to confirm." },
+    { "from": "/brand/cna-stores", "to": null, "why": "No brand page exists for CNA Stores; the live link is a soft-404. Dropped from the menu — client to confirm." },
+    { "from": "/strain/S I", "to": "/strain/si", "why": "Products with Flower Type S/I link to /strain/S%20I, a soft-404; /strain/si is the S/I strain page." },
+    { "from": "/strain/s i", "to": "/strain/si", "why": "Lower-cased form of the same dead link." }
+  ]
+}

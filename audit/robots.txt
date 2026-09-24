@@ -1,0 +1,17 @@
+User-Agent: *
+Disallow: /404
+Disallow: /account
+Disallow: /orders/
+Disallow: /checkout
+Disallow: /thank-you
+Disallow: /preferences
+Disallow: /checkin
+Disallow: /forgot
+Disallow: /reset
+Disallow: /signin
+Disallow: /signup
+Disallow: /wishlist
+Disallow: /age-gate
+Disallow: /_next/*
+
+Sitemap: https://www.sunnydayzcannabis.com/sitemap.xml

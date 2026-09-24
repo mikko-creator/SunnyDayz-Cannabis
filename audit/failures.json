@@ -1,0 +1,619 @@
+{
+  "schema": "site-reforge/failures@1",
+  "items": [
+    {
+      "stage": "crawl:page",
+      "target": "http://www.sunnydayzcannabis.com/",
+      "reason": "browser-proxy failed for http://www.sunnydayzcannabis.com/: {\"error\":\"eval exception: {\\\"exceptionId\\\":3,\\\"text\\\":\\\"Uncaught (in promise) TypeError: Failed to fetch\\\",\\\"lineNumber\\\":2,\\\"columnNumber\\\":23,\\\"scriptId\\\":\\\"267\\\",\\\"stackTrace\\\":{\\\"callFrames\\\":[{\\\"",
+      "extra": {
+        "chain": []
+      },
+      "at": "2026-09-23T04:22:59.743Z",
+      "resolved": true,
+      "resolution": "Re-fetched directly: 308 -> https homepage; recorded as alias of index.html (site-inventory amendments)."
+    },
+    {
+      "stage": "assets:css",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:31:21.300Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. The design evidence is the in-browser computed-style capture (60 captures, 4 breakpoints) whose cssRules/@keyframes harvest reads these same-origin sheets inside the page.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:css",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/css/a62eb8395deb71b7.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:31:22.106Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. The design evidence is the in-browser computed-style capture (60 captures, 4 breakpoints) whose cssRules/@keyframes harvest reads these same-origin sheets inside the page.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:css",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/css/f29130d1c6a4cbf2.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:31:24.307Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. The design evidence is the in-browser computed-style capture (60 captures, 4 breakpoints) whose cssRules/@keyframes harvest reads these same-origin sheets inside the page.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:css",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/css/3f08ff5830d7eca4.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:31:25.120Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. The design evidence is the in-browser computed-style capture (60 captures, 4 breakpoints) whose cssRules/@keyframes harvest reads these same-origin sheets inside the page.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:css",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/css/68ac9f9eba89ce44.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:31:27.328Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. The design evidence is the in-browser computed-style capture (60 captures, 4 breakpoints) whose cssRules/@keyframes harvest reads these same-origin sheets inside the page.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:css",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/css/727973242bb33abd.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:31:28.139Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. The design evidence is the in-browser computed-style capture (60 captures, 4 breakpoints) whose cssRules/@keyframes harvest reads these same-origin sheets inside the page.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:css",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/css/33904fd63320745e.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:31:30.352Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. The design evidence is the in-browser computed-style capture (60 captures, 4 breakpoints) whose cssRules/@keyframes harvest reads these same-origin sheets inside the page.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:css",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/css/1705374b2c0bf9d7.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:31:31.163Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. The design evidence is the in-browser computed-style capture (60 captures, 4 breakpoints) whose cssRules/@keyframes harvest reads these same-origin sheets inside the page.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:css",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/css/2ffa5e7c6ab39fc4.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:31:33.371Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. The design evidence is the in-browser computed-style capture (60 captures, 4 breakpoints) whose cssRules/@keyframes harvest reads these same-origin sheets inside the page.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:css",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/css/fc5c0ed95d98e202.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:31:34.182Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. The design evidence is the in-browser computed-style capture (60 captures, 4 breakpoints) whose cssRules/@keyframes harvest reads these same-origin sheets inside the page.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:css",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/css/3b02276460fd69ef.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:31:36.389Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. The design evidence is the in-browser computed-style capture (60 captures, 4 breakpoints) whose cssRules/@keyframes harvest reads these same-origin sheets inside the page.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:css",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/css/f6cbcaff28b7c8a2.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:31:37.189Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. The design evidence is the in-browser computed-style capture (60 captures, 4 breakpoints) whose cssRules/@keyframes harvest reads these same-origin sheets inside the page.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:css",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/css/5a3246621068806f.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:31:39.405Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. The design evidence is the in-browser computed-style capture (60 captures, 4 breakpoints) whose cssRules/@keyframes harvest reads these same-origin sheets inside the page.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:css",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/css/b5d719edb9418b4a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:31:40.220Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. The design evidence is the in-browser computed-style capture (60 captures, 4 breakpoints) whose cssRules/@keyframes harvest reads these same-origin sheets inside the page.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:css",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/css/9b445beb897f5abb.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:31:42.422Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. The design evidence is the in-browser computed-style capture (60 captures, 4 breakpoints) whose cssRules/@keyframes harvest reads these same-origin sheets inside the page.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:css",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/css/6bc1fa4dfc6990ff.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:31:43.232Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. The design evidence is the in-browser computed-style capture (60 captures, 4 breakpoints) whose cssRules/@keyframes harvest reads these same-origin sheets inside the page.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:css",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/css/5eb9a79cc067b107.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:31:45.431Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. The design evidence is the in-browser computed-style capture (60 captures, 4 breakpoints) whose cssRules/@keyframes harvest reads these same-origin sheets inside the page.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:css",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/css/9de3b66d852d4055.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:31:45.850Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. The design evidence is the in-browser computed-style capture (60 captures, 4 breakpoints) whose cssRules/@keyframes harvest reads these same-origin sheets inside the page.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/ae379485-2b0328e934f513a4.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:31:51.890Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/8099-dbc4690881047a7a.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:31:52.699Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/main-app-370b2b8b622a4de5.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:31:54.911Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/26d45a0e-930de0535d0631d5.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:31:55.716Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/df03a24b-9331e9ec6972951f.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:31:57.917Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/1942-14eceddc30aff6df.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:31:58.724Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/7929-1f98e6bb66e9fadd.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:00.926Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/2324-e25b241a63d7d4e4.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:01.736Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/4798-9f85874639e8230e.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:03.940Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/7786-aaed3ff196e5c991.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:04.754Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/app/(Storefront)/(Shop)/(Home)/page-d41aa6bc435fd70d.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:06.959Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/app/(Storefront)/(Shop)/error-4753595e8a0fc789.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:07.772Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/app/(Storefront)/(Shop)/not-found-146c057ca548364a.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:09.979Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/app/(Storefront)/(Shop)/layout-1e2fd862e4c28e08.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:10.794Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/2046-b9ae90536440a135.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:12.991Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/app/(Storefront)/layout-2f9603caec29aabf.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:13.804Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/polyfills-42372ed130431b0a.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:16.005Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/webpack-9caea181f23664be.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:16.812Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/app/(Storefront)/(Shop)/(Content)/blog/(list)/page-b24d97029acb1f82.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:19.022Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/app/(Storefront)/(Shop)/(Content)/blog/%5Bslug%5D/page-3a414aedda441e3f.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:19.837Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/app/(Storefront)/(Shop)/(E-commerce)/brand/%5Bslug%5D/page-33d7d77b4a11daa1.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:22.037Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/app/(Storefront)/(Shop)/(E-commerce)/brands/page-47ff0da6882573fe.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:22.847Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/app/(Storefront)/(Shop)/(E-commerce)/collection/%5Bslug%5D/page-e73366a37890e214.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:25.057Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/app/(Storefront)/(Shop)/(E-commerce)/collection/%5Bslug%5D/%5Bsubcategory%5D/page-c834e79b4853f6c8.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:25.872Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/app/(Storefront)/(Shop)/(E-commerce)/deals/page-e1398d4532dbf080.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:28.080Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/app/(Storefront)/(Shop)/(Local-SEO)/dispensary/%5Bslug%5D/page-5af079f2a5c5af84.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:28.892Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/app/(Storefront)/(Shop)/(E-commerce)/product-group/%5Bslug%5D/page-050a5d78a43897d8.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:31.093Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/app/(Storefront)/(Shop)/(E-commerce)/product/%5Bslug%5D/page-c0198c52e10a8a9d.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:31.895Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/app/(Storefront)/(Shop)/(E-commerce)/promotions/page-0f5171bb6212ec59.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:34.105Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/app/(Storefront)/(Shop)/(E-commerce)/shop/page-f624007387825bc1.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:34.909Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/app/(Storefront)/(Shop)/(Local-SEO)/store-locator/page-9df06774e3a8ad61.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:37.119Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/app/(Storefront)/(Shop)/(E-commerce)/strain/%5Bslug%5D/page-0d39d982089ea942.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:37.932Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:script",
+      "target": "https://www.sunnydayzcannabis.com/_next/static/chunks/app/(Storefront)/(Shop)/(Local-SEO)/weed-delivery/%5Bslug%5D/page-0da8033a443e629a.js?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH",
+      "reason": "refused: robots.txt Disallow /_next/* — not requested",
+      "at": "2026-09-23T04:32:39.726Z",
+      "accepted": true,
+      "acceptedReason": "Not requested: robots.txt Disallow /_next/*. Platform runtime (Next.js/Treez bundles) is removed from the rebuild by design (tenet 5); nothing needs these files.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://www.sunnydayzcannabis.com/compress?w=1080&q=100",
+      "reason": "refused: srcset parse artifact (comma inside \"auto=format,compress\") — not a real resource",
+      "at": "2026-09-23T04:52:28.475Z",
+      "accepted": true,
+      "acceptedReason": "Phantom URL, not a resource: the source writes \"…png?auto=format,compress?w=N\" and the comma-splitting srcset parser resolved the tail as a page-relative path. The real image (images.prismic.io URL) is inventoried and downloaded.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://www.sunnydayzcannabis.com/compress?w=1200&q=100",
+      "reason": "refused: srcset parse artifact (comma inside \"auto=format,compress\") — not a real resource",
+      "at": "2026-09-23T04:52:29.288Z",
+      "accepted": true,
+      "acceptedReason": "Phantom URL, not a resource: the source writes \"…png?auto=format,compress?w=N\" and the comma-splitting srcset parser resolved the tail as a page-relative path. The real image (images.prismic.io URL) is inventoried and downloaded.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://www.sunnydayzcannabis.com/compress?w=1920&q=100",
+      "reason": "refused: srcset parse artifact (comma inside \"auto=format,compress\") — not a real resource",
+      "at": "2026-09-23T04:52:31.494Z",
+      "accepted": true,
+      "acceptedReason": "Phantom URL, not a resource: the source writes \"…png?auto=format,compress?w=N\" and the comma-splitting srcset parser resolved the tail as a page-relative path. The real image (images.prismic.io URL) is inventoried and downloaded.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://www.sunnydayzcannabis.com/compress?w=2048&q=100",
+      "reason": "refused: srcset parse artifact (comma inside \"auto=format,compress\") — not a real resource",
+      "at": "2026-09-23T04:52:32.309Z",
+      "accepted": true,
+      "acceptedReason": "Phantom URL, not a resource: the source writes \"…png?auto=format,compress?w=N\" and the comma-splitting srcset parser resolved the tail as a page-relative path. The real image (images.prismic.io URL) is inventoried and downloaded.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://www.sunnydayzcannabis.com/compress?w=3840&q=100",
+      "reason": "refused: srcset parse artifact (comma inside \"auto=format,compress\") — not a real resource",
+      "at": "2026-09-23T04:52:34.510Z",
+      "accepted": true,
+      "acceptedReason": "Phantom URL, not a resource: the source writes \"…png?auto=format,compress?w=N\" and the comma-splitting srcset parser resolved the tail as a page-relative path. The real image (images.prismic.io URL) is inventoried and downloaded.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://www.sunnydayzcannabis.com/compress?w=640&q=100",
+      "reason": "refused: srcset parse artifact (comma inside \"auto=format,compress\") — not a real resource",
+      "at": "2026-09-23T04:52:35.322Z",
+      "accepted": true,
+      "acceptedReason": "Phantom URL, not a resource: the source writes \"…png?auto=format,compress?w=N\" and the comma-splitting srcset parser resolved the tail as a page-relative path. The real image (images.prismic.io URL) is inventoried and downloaded.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://www.sunnydayzcannabis.com/compress?w=750&q=100",
+      "reason": "refused: srcset parse artifact (comma inside \"auto=format,compress\") — not a real resource",
+      "at": "2026-09-23T04:52:37.523Z",
+      "accepted": true,
+      "acceptedReason": "Phantom URL, not a resource: the source writes \"…png?auto=format,compress?w=N\" and the comma-splitting srcset parser resolved the tail as a page-relative path. The real image (images.prismic.io URL) is inventoried and downloaded.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://www.sunnydayzcannabis.com/compress?w=828&q=100",
+      "reason": "refused: srcset parse artifact (comma inside \"auto=format,compress\") — not a real resource",
+      "at": "2026-09-23T04:52:38.333Z",
+      "accepted": true,
+      "acceptedReason": "Phantom URL, not a resource: the source writes \"…png?auto=format,compress?w=N\" and the comma-splitting srcset parser resolved the tail as a page-relative path. The real image (images.prismic.io URL) is inventoried and downloaded.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://www.sunnydayzcannabis.com/product/compress?w=1080&q=100",
+      "reason": "refused: srcset parse artifact (comma inside \"auto=format,compress\") — not a real resource",
+      "at": "2026-09-23T04:52:40.937Z",
+      "accepted": true,
+      "acceptedReason": "Phantom URL, not a resource: the source writes \"…png?auto=format,compress?w=N\" and the comma-splitting srcset parser resolved the tail as a page-relative path. The real image (images.prismic.io URL) is inventoried and downloaded.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://www.sunnydayzcannabis.com/product/compress?w=1200&q=100",
+      "reason": "refused: srcset parse artifact (comma inside \"auto=format,compress\") — not a real resource",
+      "at": "2026-09-23T04:52:41.746Z",
+      "accepted": true,
+      "acceptedReason": "Phantom URL, not a resource: the source writes \"…png?auto=format,compress?w=N\" and the comma-splitting srcset parser resolved the tail as a page-relative path. The real image (images.prismic.io URL) is inventoried and downloaded.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://www.sunnydayzcannabis.com/product/compress?w=1920&q=100",
+      "reason": "refused: srcset parse artifact (comma inside \"auto=format,compress\") — not a real resource",
+      "at": "2026-09-23T04:52:43.948Z",
+      "accepted": true,
+      "acceptedReason": "Phantom URL, not a resource: the source writes \"…png?auto=format,compress?w=N\" and the comma-splitting srcset parser resolved the tail as a page-relative path. The real image (images.prismic.io URL) is inventoried and downloaded.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://www.sunnydayzcannabis.com/product/compress?w=2048&q=100",
+      "reason": "refused: srcset parse artifact (comma inside \"auto=format,compress\") — not a real resource",
+      "at": "2026-09-23T04:52:44.757Z",
+      "accepted": true,
+      "acceptedReason": "Phantom URL, not a resource: the source writes \"…png?auto=format,compress?w=N\" and the comma-splitting srcset parser resolved the tail as a page-relative path. The real image (images.prismic.io URL) is inventoried and downloaded.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://www.sunnydayzcannabis.com/product/compress?w=3840&q=100",
+      "reason": "refused: srcset parse artifact (comma inside \"auto=format,compress\") — not a real resource",
+      "at": "2026-09-23T04:52:46.959Z",
+      "accepted": true,
+      "acceptedReason": "Phantom URL, not a resource: the source writes \"…png?auto=format,compress?w=N\" and the comma-splitting srcset parser resolved the tail as a page-relative path. The real image (images.prismic.io URL) is inventoried and downloaded.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://www.sunnydayzcannabis.com/product/compress?w=640&q=100",
+      "reason": "refused: srcset parse artifact (comma inside \"auto=format,compress\") — not a real resource",
+      "at": "2026-09-23T04:52:47.773Z",
+      "accepted": true,
+      "acceptedReason": "Phantom URL, not a resource: the source writes \"…png?auto=format,compress?w=N\" and the comma-splitting srcset parser resolved the tail as a page-relative path. The real image (images.prismic.io URL) is inventoried and downloaded.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://www.sunnydayzcannabis.com/product/compress?w=750&q=100",
+      "reason": "refused: srcset parse artifact (comma inside \"auto=format,compress\") — not a real resource",
+      "at": "2026-09-23T04:52:49.974Z",
+      "accepted": true,
+      "acceptedReason": "Phantom URL, not a resource: the source writes \"…png?auto=format,compress?w=N\" and the comma-splitting srcset parser resolved the tail as a page-relative path. The real image (images.prismic.io URL) is inventoried and downloaded.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    },
+    {
+      "stage": "assets:image",
+      "target": "https://www.sunnydayzcannabis.com/product/compress?w=828&q=100",
+      "reason": "refused: srcset parse artifact (comma inside \"auto=format,compress\") — not a real resource",
+      "at": "2026-09-23T04:52:50.381Z",
+      "accepted": true,
+      "acceptedReason": "Phantom URL, not a resource: the source writes \"…png?auto=format,compress?w=N\" and the comma-splitting srcset parser resolved the tail as a page-relative path. The real image (images.prismic.io URL) is inventoried and downloaded.",
+      "acceptedBy": "tools/accept-failures.mjs"
+    }
+  ]
+}

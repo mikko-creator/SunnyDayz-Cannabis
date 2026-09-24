@@ -1,0 +1,844 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product-group/our-products",
+ "slug": "product-group-our-products",
+ "type": "listing",
+ "title": "Our Products",
+ "seoTitle": "Our Products",
+ "model": {
+  "kind": "product-group-our-products",
+  "path": "/product-group/our-products",
+  "theme": null,
+  "capture": {
+   "matchesUrl": true,
+   "signal": null,
+   "observed": null
+  },
+  "h1": "Our Products",
+  "banner": {
+   "title": "Our Products",
+   "description": null,
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/ITYHauH23rhJSyW9_BannerSliceDispensary.jpg?auto=format%2Ccompress&rect=0%2C0%2C2016%2C780&w=3840&fit=max",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/ITYHauH23rhJSyW9_BannerSliceDispensary.jpg?auto=format%2Ccompress&rect=2%2C0%2C2013%2C780&w=3840&fit=max",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Shop",
+    "href": "/shop"
+   },
+   {
+    "label": "Our Products",
+    "href": null
+   }
+  ],
+  "promoCarousel": null,
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "loading",
+  "emptyState": null,
+  "cards": [],
+  "productCount": 20,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/grav-classic-spoon-green-hand-pipe-one-size-merch",
+    "name": "Classic Spoon - Green - Hand Pipe",
+    "brand": "GRAV",
+    "description": "The GRAV Classic Spoon in Green is a timeless hand pipe that combines iconic design with exceptional functionality. Crafted by GRAV, a trusted name in premium smoking accessories, this durable glass pipe features a classic spoon shape that fits comfortably in your hand for smooth, enjoyable sessions. The vibrant green color adds a bold aesthetic while the thoughtfully engineered bowl delivers consistent airflow and even burning. Built from high-quality borosilicate glass, this merch piece offers both durability and easy maintenance. Whether you're a seasoned enthusiast or new to the experience, the Classic Spoon provides reliable performance in a compact, portable design. Perfect for solo sessions or sharing with friends, this versatile hand pipe is an essential addition to any collection.",
+    "price": "$20",
+    "priceAmount": 20,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0f62da60-7529-4123-b753-e3d832432886",
+     "alt": "Classic Spoon - Green - Hand Pipe"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/betty-s-eddies-betty-s-eddies-tropical-smoothie-chews-1-6-50-mg-10-pack-edible-50-milligrams",
+    "name": "Betty's Eddies | Tropical Smoothie | Chews | 1:6",
+    "brand": "BETTY'S EDDIES",
+    "description": "Betty's Eddies Tropical Smoothie Chews deliver a delicious, sun-soaked escape in every bite. This hybrid edible offers a balanced experience that combines uplifting energy with gentle relaxation, making it perfect for daytime adventures or unwinding after work. Each chew bursts with tropical fruit flavors—think juicy pineapple, ripe mango, and sweet citrus notes that transport your taste buds to a beachside paradise. The 1:6 ratio THC:CBD (50mg total) provides a mild, approachable dose ideal for both newcomers and experienced consumers seeking a mellow, functional high. Betty's Eddies crafts these chews with quality ingredients to ensure consistent effects and mouthwatering flavor in every piece. Whether you're looking to spark creativity, enhance social moments, or simply enjoy a happy, euphoric vibe, these Tropical Smoothie Chews offer a flavorful journey that's as enjoyable as it is effective.",
+    "price": "$20",
+    "priceAmount": 20,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/6f6512fe-3a8e-4fd8-a025-e34049d647f9",
+     "alt": "Betty's Eddies | Tropical Smoothie | Chews | 1:6"
+    }
+   },
+   {
+    "position": 3,
+    "url": "/product/treeworks-treeworks-007up-5g-live-hash-rosin-0-5-g-cartridge-0-5-grams",
+    "name": "Treeworks - 007up - .5G - Live Hash Rosin",
+    "brand": "TREEWORKS",
+    "description": "Treeworks presents 007up in a premium 0.5g live hash rosin cartridge, delivering exceptional potency and purity for discerning cannabis enthusiasts. This solventless extract is crafted using ice water hash techniques, preserving the full spectrum of cannabinoids and cannabis-derived terpenes for an authentic, strain-specific experience. Live hash rosin represents the pinnacle of concentrate craftsmanship, capturing the plant's essence at peak freshness. Each draw delivers rich, complex flavors and powerful effects that showcase the true character of the source material. Compatible with standard 510 thread batteries, this cartridge offers convenient, discreet consumption without compromising quality. Perfect for those who appreciate premium concentrates and demand nothing but the finest solventless extracts in their rotation.",
+    "price": "$40",
+    "priceAmount": 40,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0e4c738a-65ca-45f0-b6f4-62c303971c25",
+     "alt": "Treeworks - 007up - .5G - Live Hash Rosin"
+    }
+   },
+   {
+    "position": 4,
+    "url": "/product/the-fresh-connection-the-fresh-connection-perfect-pair-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "The Fresh Connection - Perfect Pair - 1G Pre-roll",
+    "brand": "THE FRESH CONNECTION",
+    "description": "The Fresh Connection presents Perfect Pair, a convenient 1g pre-roll crafted for cannabis enthusiasts seeking quality and ease. This preroll delivers a smooth, ready-to-enjoy experience without the need for grinding or rolling. Perfect Pair combines carefully selected flower to create a balanced, flavorful smoke that's ideal for both seasoned consumers and those new to cannabis. Each pre-roll is expertly packed to ensure an even burn from start to finish, making it perfect for solo sessions or sharing with friends. Whether you're unwinding after a long day or elevating social gatherings, this 1g pre-roll from The Fresh Connection offers consistent quality and satisfaction in every puff. Portable, discreet, and hassle-free—simply light up and enjoy the premium cannabis experience that The Fresh Connection is known for delivering.",
+    "price": "$8",
+    "priceAmount": 8,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f4f4bfbe-3437-4c0a-92a9-a125037ba955",
+     "alt": "The Fresh Connection - Perfect Pair - 1G Pre-roll"
+    }
+   },
+   {
+    "position": 5,
+    "url": "/product/coast-coast-milk-chocolate-bar-100-mg-edible-100-milligrams",
+    "name": "Coast - Milk Chocolate Bar - 100mg",
+    "brand": "COAST",
+    "description": "Coast Milk Chocolate Bar delivers 100mg of hybrid cannabis in a deliciously smooth, premium chocolate edible. This indulgent treat combines rich, creamy chocolate flavor with balanced hybrid effects that promote both relaxation and uplift. Perfect for those seeking a versatile experience, each bar offers precise dosing and convenient portability. The Coast brand is known for quality edibles that merge great taste with reliable potency. Whether you're unwinding after a long day or enhancing a social gathering, this milk chocolate bar provides a happy, euphoric experience with every bite. The 100mg total THC allows for customizable dosing—break off a piece for a milder effect or enjoy more for deeper relaxation. Ideal for chocolate lovers who appreciate the perfect balance of flavor and function in their cannabis edibles.",
+    "price": "$20",
+    "priceAmount": 20,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0d788732-7c76-4e4b-b0a8-cfcabe874fae",
+     "alt": "Coast - Milk Chocolate Bar - 100mg"
+    }
+   },
+   {
+    "position": 6,
+    "url": "/product/mass-yield-mass-yield-inzane-in-the-membrane-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "Mass Yield - Inzane in the Membrane - 1G Pre-roll",
+    "brand": "MASS YIELD",
+    "description": "Mass Yield presents Inzane in the Membrane, a premium 1g sativa pre-roll designed to energize and inspire. This expertly crafted flower pre-roll delivers an uplifting cerebral experience perfect for daytime activities, creative pursuits, or social gatherings. As a sativa-dominant strain, Inzane in the Membrane offers focused, euphoric effects that enhance productivity while keeping your mind clear and engaged. The pre-roll format provides convenient, ready-to-enjoy consumption with no grinding or rolling required. Mass Yield's commitment to quality ensures a smooth, flavorful smoke with every session. Whether you're looking to boost creativity, stay motivated, or simply elevate your day, this 1g pre-roll delivers consistent sativa effects in a portable, discreet package. Perfect for on-the-go cannabis enthusiasts seeking energetic, uplifting experiences.",
+    "price": "$8",
+    "priceAmount": 8,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/ba5c8300-eb79-41e6-b145-4f656099d779",
+     "alt": "Mass Yield - Inzane in the Membrane - 1G Pre-roll"
+    }
+   },
+   {
+    "position": 7,
+    "url": "/product/breathe-free-breathe-free-haley-s-comet-haze-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "Breathe Free - Haley's Comet Haze - 1G Pre-roll",
+    "brand": "BREATHE FREE",
+    "description": "Breathe Free presents Haley's Comet Haze, a premium 1g preroll crafted for cannabis enthusiasts seeking quality and convenience. This expertly rolled flower preroll delivers a smooth, consistent smoking experience from first light to final puff. Haley's Comet Haze offers an inviting aroma profile with herbal and earthy notes that hint at its rich terpene content. Whether you're looking to unwind after a long day or enhance a social gathering, this preroll provides reliable effects that cannabis lovers appreciate. The 1-gram format is perfect for solo sessions or sharing with friends, offering excellent value and portability. Breathe Free's commitment to quality ensures every preroll is carefully prepared using premium flower, delivering the authentic cannabis experience you deserve. Convenient, ready-to-enjoy, and crafted with care—Haley's Comet Haze makes it easy to elevate your moments.",
+    "price": "$8",
+    "priceAmount": 8,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/bf152e4b-2697-4444-9ead-7044e047193b",
+     "alt": "Breathe Free - Haley's Comet Haze - 1G Pre-roll"
+    }
+   },
+   {
+    "position": 8,
+    "url": "/product/treeworks-treeworks-gentle-drops-990mg-990-mg-tincture-990-milligrams",
+    "name": "Treeworks- Gentle Drops - 990MG",
+    "brand": "TREEWORKS",
+    "description": "Treeworks Gentle Drops delivers 990mg of premium cannabis extract in a versatile tincture format designed for precise dosing and customizable experiences. This potent liquid formula offers fast-acting relief that can be taken sublingually for rapid absorption or mixed into your favorite beverages and foods. Each dropper provides controlled dosing flexibility, making it easy to find your ideal serving size whether you're seeking relaxation, relief, or gentle euphoria. The discreet tincture format fits seamlessly into any wellness routine, offering a smoke-free alternative for experienced cannabis consumers. Treeworks focuses on quality extraction methods to preserve beneficial compounds while delivering consistent potency in every drop. Perfect for those who value precision and convenience in their cannabis consumption.",
+    "price": "$50",
+    "priceAmount": 50,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2dbc9786-277b-4778-bc3c-6c16c5c7aea1",
+     "alt": "Treeworks- Gentle Drops - 990MG"
+    }
+   },
+   {
+    "position": 9,
+    "url": "/product/bic-bic-lighter-black-one-size-merch",
+    "name": "Bic Lighter - Black",
+    "brand": "BIC",
+    "description": "Light up your sessions with the Bic Lighter in classic black. This essential merch piece delivers reliable flame every time you need it. Featuring Bic's iconic design and dependable performance, this lighter is a must-have accessory for any cannabis enthusiast. The sleek black finish keeps things discreet and stylish, while the durable construction ensures long-lasting use. Compact enough to slip into any pocket or bag, it's perfect for on-the-go convenience. Whether you're lighting flower, prerolls, or simply need a trustworthy flame, this Bic Lighter combines functionality with timeless appeal. An affordable, practical addition to your smoking accessories that you'll reach for again and again.",
+    "price": "$3",
+    "priceAmount": 3,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/6b0078ad-b092-4de0-8268-cb7c61ac1870",
+     "alt": "Bic Lighter - Black"
+    }
+   },
+   {
+    "position": 10,
+    "url": "/product/ahh-moments-ahh-moments-cherry-berry-shot-sleepy-1-1-20-mg-tincture-20-milligrams",
+    "name": "Ahh Moments | Cherry Berry Shot | Sleepy | 1:1",
+    "brand": "AHH MOMENTS",
+    "description": "Ahh Moments Cherry Berry Shot Sleepy is a 1:1 THC:CBN indica tincture crafted to help you unwind and drift into restful slumber. This 20mg shot delivers a balanced blend of THC and CBN in a delicious cherry berry flavor profile that makes bedtime something to look forward to. The indica classification promotes deep relaxation and sleepy effects, ideal for those seeking relief from restlessness or simply wanting to enhance their nighttime routine. Each shot is perfectly portioned for convenient, fast-acting delivery, allowing you to find your sweet spot without the guesswork. The tart-sweet cherry and berry notes create a pleasant tasting experience that masks any herbal undertones. Whether you're dealing with occasional sleeplessness or just want to elevate your evening wind-down ritual, this tincture offers a discreet, easy-to-use solution that fits seamlessly into your lifestyle. Simply take your shot and let the calming effects wash over you as you drift into peaceful, restorative rest.",
+    "price": "$15",
+    "priceAmount": 15,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d2548cb5-e9e6-4ad1-8f61-258dbe31ba6f",
+     "alt": "Ahh Moments | Cherry Berry Shot | Sleepy | 1:1"
+    }
+   },
+   {
+    "position": 11,
+    "url": "/product/in-house-in-house-maui-wowie-1g-dispo-1-g-cartridge-1-grams",
+    "name": "In House - Maui Wowie- 1G Dispo - 1 g",
+    "brand": "IN HOUSE",
+    "description": "In House brings you the legendary Maui Wowie in a convenient 1g All-In-One disposable cartridge, capturing the essence of this iconic tropical sativa. Known for its uplifting and energetic effects, Maui Wowie delivers a blissful experience that sparks creativity and happiness while keeping you focused throughout the day. This strain's vibrant flavor profile features sweet pineapple, citrus, and tropical notes that transport you straight to the Hawaiian islands with every puff. The disposable vape format offers ultimate portability and ease of use—no charging, no refilling, just pure enjoyment. Perfect for daytime adventures, social gatherings, or creative pursuits, this 1g cartridge provides smooth, flavorful vapor from start to finish. Experience the island vibes and euphoric effects that have made Maui Wowie a timeless favorite among cannabis enthusiasts.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5e72ff6-46f8-4deb-aeb7-13f1d5057367",
+     "alt": "In House - Maui Wowie- 1G Dispo - 1 g"
+    }
+   },
+   {
+    "position": 12,
+    "url": "/product/levia-levia-celebrate-drops-tincture-500-mg-tincture-500-milligrams",
+    "name": "Levia | Celebrate Drops | Tincture",
+    "brand": "LEVIA",
+    "description": "Levia Celebrate Tincture delivers 500mg of hybrid cannabis in a fast-acting, precisely dosed formula designed to elevate any occasion. This tincture combines the balanced effects of hybrid strains, offering a versatile experience that can inspire creativity and social connection while maintaining a sense of relaxed euphoria. Levia's innovative formulation ensures rapid onset, making it ideal for those who want predictable, controlled effects without the wait. The convenient dropper allows for easy customization of your dose, whether you're seeking subtle uplift or deeper celebration. Perfect for enhancing gatherings or personal moments of joy, this 500mg tincture provides flexibility and potency in one sleek bottle. Levia Celebrate brings together quality, consistency, and the celebration-worthy effects that make every experience memorable.",
+    "price": "$40",
+    "priceAmount": 40,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/876db210-16cc-4624-ae33-8ec0abec86ab",
+     "alt": "Levia | Celebrate Drops | Tincture"
+    }
+   },
+   {
+    "position": 13,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-solventless-hash-caps-100-mg-20-pack-edible-100-milligrams",
+    "name": "Sweetgrass Botanicals - Solventless Hash Caps",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals Solventless Hash Caps deliver 100 mg of pure, clean cannabis in convenient capsule form. These edible capsules are crafted using solventless extraction methods, preserving the full spectrum of cannabinoids and terpenes for an authentic, potent experience. Each cap offers a discreet, precise way to enjoy cannabis without smoke or vapor—perfect for those seeking consistent effects and ease of use. The solventless hash process ensures no chemical residues, just natural plant compounds working in harmony. Ideal for relaxation, relief, or simply unwinding after a long day, these capsules provide a controlled, predictable experience with every dose. Whether you're new to edibles or a seasoned enthusiast, Sweetgrass Botanicals combines quality craftsmanship with solventless purity to elevate your wellness routine.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/9d6fc805-e891-4aa5-888c-68d2cb218f91",
+     "alt": "Sweetgrass Botanicals - Solventless Hash Caps"
+    }
+   },
+   {
+    "position": 14,
+    "url": "/product/levia-levia-dream-drops-tincture-500-mg-tincture-500-milligrams",
+    "name": "Levia | Dream Drops | Tincture",
+    "brand": "LEVIA",
+    "description": "Levia Dream Drops Tincture delivers 500mg of calming indica relaxation in a convenient dropper format designed for restful evenings and restorative sleep. This tincture from Levia combines precision dosing with fast-acting effects, making it ideal for those seeking deep relaxation and relief from daily stress. The indica classification ensures a soothing, body-focused experience that helps quiet the mind and ease tension. Simply place drops under your tongue for quick absorption and customizable dosing tailored to your needs. Perfect for nighttime use, Dream Drops promotes feelings of calm and sleepiness without overwhelming intensity. Whether you're winding down after a long day or preparing for restful sleep, this 500mg tincture offers a discreet, controlled way to experience the relaxing benefits of indica cannabis. Levia's commitment to quality ensures consistent potency in every drop, helping you achieve the peaceful state you desire.",
+    "price": "$40",
+    "priceAmount": 40,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/dcd73f0a-3d11-4de7-b28d-21ab33c2eda9",
+     "alt": "Levia | Dream Drops | Tincture"
+    }
+   },
+   {
+    "position": 15,
+    "url": "/product/blazy-susan-blazy-susan-purple-cones-1-1-4-one-size-merch",
+    "name": "Blazy Susan - Purple - Cones - 1 1/4",
+    "brand": "BLAZY SUSAN",
+    "description": "Elevate your rolling experience with Blazy Susan Purple Cones in the classic 1 1/4 size. These eye-catching purple pre-rolled cones from Blazy Susan combine style with functionality, making every session a statement. Crafted for smokers who appreciate quality rolling papers, these ready-to-fill cones eliminate the hassle of manual rolling while delivering a smooth, even burn. The vibrant purple hue adds a fun, distinctive touch to your smoke sessions. Perfect for on-the-go convenience or leisurely enjoyment, each cone is designed with precision to ensure consistent performance. Whether you're a seasoned enthusiast or new to pre-rolled cones, Blazy Susan delivers reliable quality in every pack. Stock up on these premium purple cones and enjoy effortless, flavorful sessions every time.",
+    "price": "$8",
+    "priceAmount": 8,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/172ecc7f-e63b-4f9b-b35a-e0d574717dd5",
+     "alt": "Blazy Susan - Purple - Cones - 1 1/4"
+    }
+   },
+   {
+    "position": 16,
+    "url": "/product/omg-omg-shady-icee-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "OMG - Shady Icee - 3.5G Flower",
+    "brand": "OMG",
+    "description": "OMG brings you Shady Icee, a premium hybrid flower that delivers the perfect balance of relaxation and uplift in a convenient 3.5g pre-pack. This carefully cultivated strain combines the best of both worlds, offering effects that ease tension while keeping your mind clear and focused. Shady Icee delights the senses with frosty, resinous buds that showcase vibrant colors and exceptional quality. The flavor profile features refreshing notes of citrus and sweet tropical fruit with subtle earthy undertones, creating a smooth and enjoyable experience from first inhale to last. Ideal for any time of day, this hybrid provides a euphoric, happy high that promotes creativity and social connection without overwhelming sedation. Whether you're unwinding after work or sparking inspiration for your next project, OMG's Shady Icee delivers consistent quality and potent effects. Perfect for both seasoned enthusiasts and those seeking a well-rounded cannabis experience.",
+    "price": "$40",
+    "priceAmount": 40,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/be5e7ed0-924d-4ee9-8c9b-62d1d57abcf9",
+     "alt": "OMG - Shady Icee - 3.5G Flower"
+    }
+   },
+   {
+    "position": 17,
+    "url": "/product/tower-three-tower-three-florida-freeze-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Tower Three - Florida Freeze - 3.5G Flower",
+    "brand": "TOWER THREE",
+    "description": "Tower Three presents Florida Freeze, a premium 3.5g flower offering that delivers a refreshing cannabis experience. This carefully cultivated bud showcases frosty trichomes and a vibrant appearance that lives up to its chilly name. The aroma profile bursts with citrus and tropical notes, complemented by sweet undertones that entice the senses. Each nug is hand-selected to ensure quality and potency, making this flower ideal for discerning consumers seeking authentic cannabis enjoyment. Whether you're looking to unwind after a long day or enhance your creative pursuits, Florida Freeze provides a smooth, flavorful smoke that captures the essence of quality craftsmanship. This 3.5g jar offers the perfect amount for exploring this unique strain's characteristics and discovering your favorite consumption method.",
+    "price": "$45",
+    "priceAmount": 45,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/04379419-08d4-4139-866c-8383d3f53765",
+     "alt": "Tower Three - Florida Freeze - 3.5G Flower"
+    }
+   },
+   {
+    "position": 18,
+    "url": "/product/the-fresh-connection-the-fresh-connection-dante-s-inferno-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "The Fresh Connection - Dante's Inferno - 1G Pre-roll",
+    "brand": "THE FRESH CONNECTION",
+    "description": "The Fresh Connection presents Dante's Inferno, a 1g preroll that delivers an unforgettable smoking experience. This expertly crafted preroll showcases premium cannabis rolled to perfection, offering convenience and quality in every puff. Named after the epic journey through the underworld, Dante's Inferno promises a bold and memorable session. The Fresh Connection is known for their meticulous attention to detail and commitment to excellence, ensuring each preroll burns evenly and smoothly. Whether you're seeking relaxation after a long day or looking to elevate your social gatherings, this preroll provides a reliable and enjoyable experience. Ready to light and go, Dante's Inferno is perfect for both newcomers and seasoned enthusiasts who appreciate convenient, high-quality cannabis products.",
+    "price": "$8",
+    "priceAmount": 8,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/50f55e7b-c9fb-4ed9-9b40-04397f20c2d7",
+     "alt": "The Fresh Connection - Dante's Inferno - 1G Pre-roll"
+    }
+   },
+   {
+    "position": 19,
+    "url": "/product/sugaree-sugaree-clementine-1g-cart-melted-diamonds-1-g-cartridge-1-grams",
+    "name": "Sugaree - Clementine - 1G Cart - Melted Diamonds",
+    "brand": "SUGAREE",
+    "description": "Sugaree's Clementine 1G Cartridge delivers an uplifting sativa experience perfect for daytime enjoyment. This premium distillate cartridge captures the bright, citrusy essence of Clementine with every draw, offering energizing effects that spark creativity and focus. The sweet, tangy clementine flavor profile shines through, complemented by subtle herbal notes that make each puff refreshing and smooth. Ideal for those seeking a clear-headed, euphoric high, this sativa cart helps elevate your mood while keeping you alert and productive. The convenient 1-gram cartridge fits standard 510 thread batteries, making it easy to enjoy on the go. Whether you're tackling creative projects, socializing with friends, or simply need a burst of positivity, Sugaree's Clementine cartridge brings vibrant citrus flavor and focused energy to your cannabis routine. Experience the zesty, uplifting power of this sativa-dominant distillate.",
+    "price": "$20",
+    "priceAmount": 20,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/70539bde-9c67-4d7b-9767-4fa222ab2d17",
+     "alt": "Sugaree - Clementine - 1G Cart - Melted Diamonds"
+    }
+   },
+   {
+    "position": 20,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-slurricane-1g-live-rosin-1-g-extract-1-grams",
+    "name": "Sweetgrass Botanicals - Slurricane - 1G - Live Rosin",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals presents Slurricane Live Rosin, a premium 1g concentrate that showcases the full essence of this celebrated strain. This extract is crafted using solventless extraction methods, preserving the plant's natural terpene profile and cannabinoids for an authentic, full-spectrum experience. Slurricane delivers a rich, sweet flavor profile with notes of berry, grape, and creamy tropical fruit, complemented by earthy undertones. The aroma is equally captivating, offering a pungent blend of fruity sweetness and subtle spice. Live rosin enthusiasts appreciate this product for its potent effects that promote deep relaxation, euphoria, and relief, making it ideal for unwinding after a long day or easing into restful sleep. The 1g size provides excellent value for dabbing connoisseurs who demand quality and flavor in every session. Experience the difference that solventless craftsmanship brings with Sweetgrass Botanicals Slurricane Live Rosin.",
+    "price": "$60",
+    "priceAmount": 60,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d715ede5-3e1b-4db8-80eb-395166d63d81",
+     "alt": "Sweetgrass Botanicals - Slurricane - 1G - Live Rosin"
+    }
+   }
+  ],
+  "search": [],
+  "notice": null,
+  "galleries": [],
+  "stores": [],
+  "storeListToggleAriaLabel": null,
+  "map": null,
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/shop",
+       "name": "Shop"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "Product Group"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "GRAV",
+       "description": "The GRAV Classic Spoon in Green is a timeless hand pipe that combines iconic design with exceptional functionality. Crafted by GRAV, a trusted name in premium smoking accessories, this durable glass pipe features a classic spoon shape that fits comfortably in your hand for smooth, enjoyable sessions. The vibrant green color adds a bold aesthetic while the thoughtfully engineered bowl delivers consistent airflow and even burning. Built from high-quality borosilicate glass, this merch piece offers both durability and easy maintenance. Whether you&apos;re a seasoned enthusiast or new to the experience, the Classic Spoon provides reliable performance in a compact, portable design. Perfect for solo sessions or sharing with friends, this versatile hand pipe is an essential addition to any collection.",
+       "name": "Classic Spoon - Green - Hand Pipe",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/grav-classic-spoon-green-hand-pipe-one-size-merch"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0f62da60-7529-4123-b753-e3d832432886"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BETTY&apos;S EDDIES",
+       "description": "Betty&apos;s Eddies Tropical Smoothie Chews deliver a delicious, sun-soaked escape in every bite. This hybrid edible offers a balanced experience that combines uplifting energy with gentle relaxation, making it perfect for daytime adventures or unwinding after work. Each chew bursts with tropical fruit flavors—think juicy pineapple, ripe mango, and sweet citrus notes that transport your taste buds to a beachside paradise. The 1:6 ratio THC:CBD (50mg total) provides a mild, approachable dose ideal for both newcomers and experienced consumers seeking a mellow, functional high. Betty&apos;s Eddies crafts these chews with quality ingredients to ensure consistent effects and mouthwatering flavor in every piece. Whether you&apos;re looking to spark creativity, enhance social moments, or simply enjoy a happy, euphoric vibe, these Tropical Smoothie Chews offer a flavorful journey that&apos;s as enjoyable as it is effective.",
+       "name": "Betty&apos;s Eddies | Tropical Smoothie | Chews | 1:6",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-tropical-smoothie-chews-1-6-50-mg-10-pack-edible-50-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/6f6512fe-3a8e-4fd8-a025-e34049d647f9"
+      },
+      "position": "2"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TREEWORKS",
+       "description": "Treeworks presents 007up in a premium 0.5g live hash rosin cartridge, delivering exceptional potency and purity for discerning cannabis enthusiasts. This solventless extract is crafted using ice water hash techniques, preserving the full spectrum of cannabinoids and cannabis-derived terpenes for an authentic, strain-specific experience. Live hash rosin represents the pinnacle of concentrate craftsmanship, capturing the plant&apos;s essence at peak freshness. Each draw delivers rich, complex flavors and powerful effects that showcase the true character of the source material. Compatible with standard 510 thread batteries, this cartridge offers convenient, discreet consumption without compromising quality. Perfect for those who appreciate premium concentrates and demand nothing but the finest solventless extracts in their rotation.",
+       "name": "Treeworks - 007up - .5G - Live Hash Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-007up-5g-live-hash-rosin-0-5-g-cartridge-0-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0e4c738a-65ca-45f0-b6f4-62c303971c25"
+      },
+      "position": "3"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "THE FRESH CONNECTION",
+       "description": "The Fresh Connection presents Perfect Pair, a convenient 1g pre-roll crafted for cannabis enthusiasts seeking quality and ease. This preroll delivers a smooth, ready-to-enjoy experience without the need for grinding or rolling. Perfect Pair combines carefully selected flower to create a balanced, flavorful smoke that&apos;s ideal for both seasoned consumers and those new to cannabis. Each pre-roll is expertly packed to ensure an even burn from start to finish, making it perfect for solo sessions or sharing with friends. Whether you&apos;re unwinding after a long day or elevating social gatherings, this 1g pre-roll from The Fresh Connection offers consistent quality and satisfaction in every puff. Portable, discreet, and hassle-free—simply light up and enjoy the premium cannabis experience that The Fresh Connection is known for delivering.",
+       "name": "The Fresh Connection - Perfect Pair - 1G Pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "8",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-perfect-pair-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f4f4bfbe-3437-4c0a-92a9-a125037ba955"
+      },
+      "position": "4"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "COAST",
+       "description": "Coast Milk Chocolate Bar delivers 100mg of hybrid cannabis in a deliciously smooth, premium chocolate edible. This indulgent treat combines rich, creamy chocolate flavor with balanced hybrid effects that promote both relaxation and uplift. Perfect for those seeking a versatile experience, each bar offers precise dosing and convenient portability. The Coast brand is known for quality edibles that merge great taste with reliable potency. Whether you&apos;re unwinding after a long day or enhancing a social gathering, this milk chocolate bar provides a happy, euphoric experience with every bite. The 100mg total THC allows for customizable dosing—break off a piece for a milder effect or enjoy more for deeper relaxation. Ideal for chocolate lovers who appreciate the perfect balance of flavor and function in their cannabis edibles.",
+       "name": "Coast - Milk Chocolate Bar - 100mg",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/coast-coast-milk-chocolate-bar-100-mg-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0d788732-7c76-4e4b-b0a8-cfcabe874fae"
+      },
+      "position": "5"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "MASS YIELD",
+       "description": "Mass Yield presents Inzane in the Membrane, a premium 1g sativa pre-roll designed to energize and inspire. This expertly crafted flower pre-roll delivers an uplifting cerebral experience perfect for daytime activities, creative pursuits, or social gatherings. As a sativa-dominant strain, Inzane in the Membrane offers focused, euphoric effects that enhance productivity while keeping your mind clear and engaged. The pre-roll format provides convenient, ready-to-enjoy consumption with no grinding or rolling required. Mass Yield&apos;s commitment to quality ensures a smooth, flavorful smoke with every session. Whether you&apos;re looking to boost creativity, stay motivated, or simply elevate your day, this 1g pre-roll delivers consistent sativa effects in a portable, discreet package. Perfect for on-the-go cannabis enthusiasts seeking energetic, uplifting experiences.",
+       "name": "Mass Yield - Inzane in the Membrane - 1G Pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "8",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-inzane-in-the-membrane-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/ba5c8300-eb79-41e6-b145-4f656099d779"
+      },
+      "position": "6"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BREATHE FREE",
+       "description": "Breathe Free presents Haley&apos;s Comet Haze, a premium 1g preroll crafted for cannabis enthusiasts seeking quality and convenience. This expertly rolled flower preroll delivers a smooth, consistent smoking experience from first light to final puff. Haley&apos;s Comet Haze offers an inviting aroma profile with herbal and earthy notes that hint at its rich terpene content. Whether you&apos;re looking to unwind after a long day or enhance a social gathering, this preroll provides reliable effects that cannabis lovers appreciate. The 1-gram format is perfect for solo sessions or sharing with friends, offering excellent value and portability. Breathe Free&apos;s commitment to quality ensures every preroll is carefully prepared using premium flower, delivering the authentic cannabis experience you deserve. Convenient, ready-to-enjoy, and crafted with care—Haley&apos;s Comet Haze makes it easy to elevate your moments.",
+       "name": "Breathe Free - Haley&apos;s Comet Haze - 1G Pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "8",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-haley-s-comet-haze-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/bf152e4b-2697-4444-9ead-7044e047193b"
+      },
+      "position": "7"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TREEWORKS",
+       "description": "Treeworks Gentle Drops delivers 990mg of premium cannabis extract in a versatile tincture format designed for precise dosing and customizable experiences. This potent liquid formula offers fast-acting relief that can be taken sublingually for rapid absorption or mixed into your favorite beverages and foods. Each dropper provides controlled dosing flexibility, making it easy to find your ideal serving size whether you&apos;re seeking relaxation, relief, or gentle euphoria. The discreet tincture format fits seamlessly into any wellness routine, offering a smoke-free alternative for experienced cannabis consumers. Treeworks focuses on quality extraction methods to preserve beneficial compounds while delivering consistent potency in every drop. Perfect for those who value precision and convenience in their cannabis consumption.",
+       "name": "Treeworks- Gentle Drops - 990MG",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "50",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-gentle-drops-990mg-990-mg-tincture-990-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2dbc9786-277b-4778-bc3c-6c16c5c7aea1"
+      },
+      "position": "8"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BIC",
+       "description": "Light up your sessions with the Bic Lighter in classic black. This essential merch piece delivers reliable flame every time you need it. Featuring Bic&apos;s iconic design and dependable performance, this lighter is a must-have accessory for any cannabis enthusiast. The sleek black finish keeps things discreet and stylish, while the durable construction ensures long-lasting use. Compact enough to slip into any pocket or bag, it&apos;s perfect for on-the-go convenience. Whether you&apos;re lighting flower, prerolls, or simply need a trustworthy flame, this Bic Lighter combines functionality with timeless appeal. An affordable, practical addition to your smoking accessories that you&apos;ll reach for again and again.",
+       "name": "Bic Lighter - Black",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "3",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/bic-bic-lighter-black-one-size-merch"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/6b0078ad-b092-4de0-8268-cb7c61ac1870"
+      },
+      "position": "9"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "AHH MOMENTS",
+       "description": "Ahh Moments Cherry Berry Shot Sleepy is a 1:1 THC:CBN indica tincture crafted to help you unwind and drift into restful slumber. This 20mg shot delivers a balanced blend of THC and CBN in a delicious cherry berry flavor profile that makes bedtime something to look forward to. The indica classification promotes deep relaxation and sleepy effects, ideal for those seeking relief from restlessness or simply wanting to enhance their nighttime routine. Each shot is perfectly portioned for convenient, fast-acting delivery, allowing you to find your sweet spot without the guesswork. The tart-sweet cherry and berry notes create a pleasant tasting experience that masks any herbal undertones. Whether you&apos;re dealing with occasional sleeplessness or just want to elevate your evening wind-down ritual, this tincture offers a discreet, easy-to-use solution that fits seamlessly into your lifestyle. Simply take your shot and let the calming effects wash over you as you drift into peaceful, restorative rest.",
+       "name": "Ahh Moments | Cherry Berry Shot | Sleepy | 1:1",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "15",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-cherry-berry-shot-sleepy-1-1-20-mg-tincture-20-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d2548cb5-e9e6-4ad1-8f61-258dbe31ba6f"
+      },
+      "position": "10"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "IN HOUSE",
+       "description": "In House brings you the legendary Maui Wowie in a convenient 1g All-In-One disposable cartridge, capturing the essence of this iconic tropical sativa. Known for its uplifting and energetic effects, Maui Wowie delivers a blissful experience that sparks creativity and happiness while keeping you focused throughout the day. This strain&apos;s vibrant flavor profile features sweet pineapple, citrus, and tropical notes that transport you straight to the Hawaiian islands with every puff. The disposable vape format offers ultimate portability and ease of use—no charging, no refilling, just pure enjoyment. Perfect for daytime adventures, social gatherings, or creative pursuits, this 1g cartridge provides smooth, flavorful vapor from start to finish. Experience the island vibes and euphoric effects that have made Maui Wowie a timeless favorite among cannabis enthusiasts.",
+       "name": "In House - Maui Wowie- 1G Dispo - 1 g",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/in-house-in-house-maui-wowie-1g-dispo-1-g-cartridge-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5e72ff6-46f8-4deb-aeb7-13f1d5057367"
+      },
+      "position": "11"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "LEVIA",
+       "description": "Levia Celebrate Tincture delivers 500mg of hybrid cannabis in a fast-acting, precisely dosed formula designed to elevate any occasion. This tincture combines the balanced effects of hybrid strains, offering a versatile experience that can inspire creativity and social connection while maintaining a sense of relaxed euphoria. Levia&apos;s innovative formulation ensures rapid onset, making it ideal for those who want predictable, controlled effects without the wait. The convenient dropper allows for easy customization of your dose, whether you&apos;re seeking subtle uplift or deeper celebration. Perfect for enhancing gatherings or personal moments of joy, this 500mg tincture provides flexibility and potency in one sleek bottle. Levia Celebrate brings together quality, consistency, and the celebration-worthy effects that make every experience memorable.",
+       "name": "Levia | Celebrate Drops | Tincture",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/levia-levia-celebrate-drops-tincture-500-mg-tincture-500-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/876db210-16cc-4624-ae33-8ec0abec86ab"
+      },
+      "position": "12"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals Solventless Hash Caps deliver 100 mg of pure, clean cannabis in convenient capsule form. These edible capsules are crafted using solventless extraction methods, preserving the full spectrum of cannabinoids and terpenes for an authentic, potent experience. Each cap offers a discreet, precise way to enjoy cannabis without smoke or vapor—perfect for those seeking consistent effects and ease of use. The solventless hash process ensures no chemical residues, just natural plant compounds working in harmony. Ideal for relaxation, relief, or simply unwinding after a long day, these capsules provide a controlled, predictable experience with every dose. Whether you&apos;re new to edibles or a seasoned enthusiast, Sweetgrass Botanicals combines quality craftsmanship with solventless purity to elevate your wellness routine.",
+       "name": "Sweetgrass Botanicals - Solventless Hash Caps",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-solventless-hash-caps-100-mg-20-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/9d6fc805-e891-4aa5-888c-68d2cb218f91"
+      },
+      "position": "13"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "LEVIA",
+       "description": "Levia Dream Drops Tincture delivers 500mg of calming indica relaxation in a convenient dropper format designed for restful evenings and restorative sleep. This tincture from Levia combines precision dosing with fast-acting effects, making it ideal for those seeking deep relaxation and relief from daily stress. The indica classification ensures a soothing, body-focused experience that helps quiet the mind and ease tension. Simply place drops under your tongue for quick absorption and customizable dosing tailored to your needs. Perfect for nighttime use, Dream Drops promotes feelings of calm and sleepiness without overwhelming intensity. Whether you&apos;re winding down after a long day or preparing for restful sleep, this 500mg tincture offers a discreet, controlled way to experience the relaxing benefits of indica cannabis. Levia&apos;s commitment to quality ensures consistent potency in every drop, helping you achieve the peaceful state you desire.",
+       "name": "Levia | Dream Drops | Tincture",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/levia-levia-dream-drops-tincture-500-mg-tincture-500-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/dcd73f0a-3d11-4de7-b28d-21ab33c2eda9"
+      },
+      "position": "14"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BLAZY SUSAN",
+       "description": "Elevate your rolling experience with Blazy Susan Purple Cones in the classic 1 1/4 size. These eye-catching purple pre-rolled cones from Blazy Susan combine style with functionality, making every session a statement. Crafted for smokers who appreciate quality rolling papers, these ready-to-fill cones eliminate the hassle of manual rolling while delivering a smooth, even burn. The vibrant purple hue adds a fun, distinctive touch to your smoke sessions. Perfect for on-the-go convenience or leisurely enjoyment, each cone is designed with precision to ensure consistent performance. Whether you&apos;re a seasoned enthusiast or new to pre-rolled cones, Blazy Susan delivers reliable quality in every pack. Stock up on these premium purple cones and enjoy effortless, flavorful sessions every time.",
+       "name": "Blazy Susan - Purple - Cones - 1 1/4",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "8",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-purple-cones-1-1-4-one-size-merch"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/172ecc7f-e63b-4f9b-b35a-e0d574717dd5"
+      },
+      "position": "15"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "OMG",
+       "description": "OMG brings you Shady Icee, a premium hybrid flower that delivers the perfect balance of relaxation and uplift in a convenient 3.5g pre-pack. This carefully cultivated strain combines the best of both worlds, offering effects that ease tension while keeping your mind clear and focused. Shady Icee delights the senses with frosty, resinous buds that showcase vibrant colors and exceptional quality. The flavor profile features refreshing notes of citrus and sweet tropical fruit with subtle earthy undertones, creating a smooth and enjoyable experience from first inhale to last. Ideal for any time of day, this hybrid provides a euphoric, happy high that promotes creativity and social connection without overwhelming sedation. Whether you&apos;re unwinding after work or sparking inspiration for your next project, OMG&apos;s Shady Icee delivers consistent quality and potent effects. Perfect for both seasoned enthusiasts and those seeking a well-rounded cannabis experience.",
+       "name": "OMG - Shady Icee - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/omg-omg-shady-icee-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/be5e7ed0-924d-4ee9-8c9b-62d1d57abcf9"
+      },
+      "position": "16"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TOWER THREE",
+       "description": "Tower Three presents Florida Freeze, a premium 3.5g flower offering that delivers a refreshing cannabis experience. This carefully cultivated bud showcases frosty trichomes and a vibrant appearance that lives up to its chilly name. The aroma profile bursts with citrus and tropical notes, complemented by sweet undertones that entice the senses. Each nug is hand-selected to ensure quality and potency, making this flower ideal for discerning consumers seeking authentic cannabis enjoyment. Whether you&apos;re looking to unwind after a long day or enhance your creative pursuits, Florida Freeze provides a smooth, flavorful smoke that captures the essence of quality craftsmanship. This 3.5g jar offers the perfect amount for exploring this unique strain&apos;s characteristics and discovering your favorite consumption method.",
+       "name": "Tower Three - Florida Freeze - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "45",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-florida-freeze-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/04379419-08d4-4139-866c-8383d3f53765"
+      },
+      "position": "17"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "THE FRESH CONNECTION",
+       "description": "The Fresh Connection presents Dante&apos;s Inferno, a 1g preroll that delivers an unforgettable smoking experience. This expertly crafted preroll showcases premium cannabis rolled to perfection, offering convenience and quality in every puff. Named after the epic journey through the underworld, Dante&apos;s Inferno promises a bold and memorable session. The Fresh Connection is known for their meticulous attention to detail and commitment to excellence, ensuring each preroll burns evenly and smoothly. Whether you&apos;re seeking relaxation after a long day or looking to elevate your social gatherings, this preroll provides a reliable and enjoyable experience. Ready to light and go, Dante&apos;s Inferno is perfect for both newcomers and seasoned enthusiasts who appreciate convenient, high-quality cannabis products.",
+       "name": "The Fresh Connection - Dante&apos;s Inferno - 1G Pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "8",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-dante-s-inferno-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/50f55e7b-c9fb-4ed9-9b40-04397f20c2d7"
+      },
+      "position": "18"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SUGAREE",
+       "description": "Sugaree&apos;s Clementine 1G Cartridge delivers an uplifting sativa experience perfect for daytime enjoyment. This premium distillate cartridge captures the bright, citrusy essence of Clementine with every draw, offering energizing effects that spark creativity and focus. The sweet, tangy clementine flavor profile shines through, complemented by subtle herbal notes that make each puff refreshing and smooth. Ideal for those seeking a clear-headed, euphoric high, this sativa cart helps elevate your mood while keeping you alert and productive. The convenient 1-gram cartridge fits standard 510 thread batteries, making it easy to enjoy on the go. Whether you&apos;re tackling creative projects, socializing with friends, or simply need a burst of positivity, Sugaree&apos;s Clementine cartridge brings vibrant citrus flavor and focused energy to your cannabis routine. Experience the zesty, uplifting power of this sativa-dominant distillate.",
+       "name": "Sugaree - Clementine - 1G Cart - Melted Diamonds",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sugaree-sugaree-clementine-1g-cart-melted-diamonds-1-g-cartridge-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/70539bde-9c67-4d7b-9767-4fa222ab2d17"
+      },
+      "position": "19"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals presents Slurricane Live Rosin, a premium 1g concentrate that showcases the full essence of this celebrated strain. This extract is crafted using solventless extraction methods, preserving the plant&apos;s natural terpene profile and cannabinoids for an authentic, full-spectrum experience. Slurricane delivers a rich, sweet flavor profile with notes of berry, grape, and creamy tropical fruit, complemented by earthy undertones. The aroma is equally captivating, offering a pungent blend of fruity sweetness and subtle spice. Live rosin enthusiasts appreciate this product for its potent effects that promote deep relaxation, euphoria, and relief, making it ideal for unwinding after a long day or easing into restful sleep. The 1g size provides excellent value for dabbing connoisseurs who demand quality and flavor in every session. Experience the difference that solventless craftsmanship brings with Sweetgrass Botanicals Slurricane Live Rosin.",
+       "name": "Sweetgrass Botanicals - Slurricane - 1G - Live Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "60",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-slurricane-1g-live-rosin-1-g-extract-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d715ede5-3e1b-4db8-80eb-395166d63d81"
+      },
+      "position": "20"
+     }
+    ]
+   }
+  ]
+ }
+}

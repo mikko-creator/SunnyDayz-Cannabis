@@ -1,0 +1,847 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/strain/hybrid",
+ "slug": "strain-hybrid",
+ "type": "strain",
+ "title": "Discover Our Hybrid Cannabis Products: The Best Fusion of Effects and Flavors",
+ "seoTitle": "Discover Our Hybrid Cannabis Products: The Best Fusion of Effects and Flavors",
+ "model": {
+  "urlPath": "/strain/hybrid",
+  "urlKey": "hybrid",
+  "urlCaseVariant": false,
+  "urlLowercasePath": "/strain/hybrid",
+  "h1": "Discover Our Hybrid Cannabis Products: The Best Fusion of Effects and Flavors",
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Hybrid",
+    "href": null
+   }
+  ],
+  "banner": {
+   "lines": [
+    "Discover Our Hybrid Cannabis Products:",
+    "The Best Fusion of Effects and Flavors"
+   ],
+   "description": null,
+   "image": {
+    "desktop": {
+     "src": "https://images.prismic.io/sunny-dayz/Z5vMq5bqstJ9-D0W_CategoriesBanner-29.png?auto=format%2Ccompress&fit=max&w=3840",
+     "alt": "Banner"
+    },
+    "mobile": {
+     "src": "https://images.prismic.io/sunny-dayz/Z5vMrJbqstJ9-D0X_CategoriesBanner-28.png?auto=format%2Ccompress&fit=max&w=3840",
+     "alt": "Banner"
+    }
+   }
+  },
+  "seoBlocks": [],
+  "toolbar": {
+   "filterLabel": "FILTER",
+   "activeFilters": [],
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortOptions": []
+  },
+  "grid": {
+   "state": "empty",
+   "placeholderCount": 0,
+   "emptyState": {
+    "title": "No search results found",
+    "message": "No results match the filter criteria. Remove a filter or clear all filters to search again"
+   },
+   "cards": [],
+   "pagination": null
+  },
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/betty-s-eddies-betty-s-eddies-tropical-smoothie-chews-1-6-50-mg-10-pack-edible-50-milligrams",
+    "name": "Betty's Eddies | Tropical Smoothie | Chews | 1:6",
+    "brand": "BETTY'S EDDIES",
+    "description": "Betty's Eddies Tropical Smoothie Chews deliver a delicious, sun-soaked escape in every bite. This hybrid edible offers a balanced experience that combines uplifting energy with gentle relaxation, making it perfect for daytime adventures or unwinding after work. Each chew bursts with tropical fruit flavors—think juicy pineapple, ripe mango, and sweet citrus notes that transport your taste buds to a beachside paradise. The 1:6 ratio THC:CBD (50mg total) provides a mild, approachable dose ideal for both newcomers and experienced consumers seeking a mellow, functional high. Betty's Eddies crafts these chews with quality ingredients to ensure consistent effects and mouthwatering flavor in every piece. Whether you're looking to spark creativity, enhance social moments, or simply enjoy a happy, euphoric vibe, these Tropical Smoothie Chews offer a flavorful journey that's as enjoyable as it is effective.",
+    "price": "$20",
+    "priceValue": 20,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/6f6512fe-3a8e-4fd8-a025-e34049d647f9",
+     "alt": "Betty's Eddies | Tropical Smoothie | Chews | 1:6"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/coast-coast-milk-chocolate-bar-100-mg-edible-100-milligrams",
+    "name": "Coast - Milk Chocolate Bar - 100mg",
+    "brand": "COAST",
+    "description": "Coast Milk Chocolate Bar delivers 100mg of hybrid cannabis in a deliciously smooth, premium chocolate edible. This indulgent treat combines rich, creamy chocolate flavor with balanced hybrid effects that promote both relaxation and uplift. Perfect for those seeking a versatile experience, each bar offers precise dosing and convenient portability. The Coast brand is known for quality edibles that merge great taste with reliable potency. Whether you're unwinding after a long day or enhancing a social gathering, this milk chocolate bar provides a happy, euphoric experience with every bite. The 100mg total THC allows for customizable dosing—break off a piece for a milder effect or enjoy more for deeper relaxation. Ideal for chocolate lovers who appreciate the perfect balance of flavor and function in their cannabis edibles.",
+    "price": "$20",
+    "priceValue": 20,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0d788732-7c76-4e4b-b0a8-cfcabe874fae",
+     "alt": "Coast - Milk Chocolate Bar - 100mg"
+    }
+   },
+   {
+    "position": 3,
+    "url": "/product/treeworks-treeworks-gentle-drops-990mg-990-mg-tincture-990-milligrams",
+    "name": "Treeworks- Gentle Drops - 990MG",
+    "brand": "TREEWORKS",
+    "description": "Treeworks Gentle Drops delivers 990mg of premium cannabis extract in a versatile tincture format designed for precise dosing and customizable experiences. This potent liquid formula offers fast-acting relief that can be taken sublingually for rapid absorption or mixed into your favorite beverages and foods. Each dropper provides controlled dosing flexibility, making it easy to find your ideal serving size whether you're seeking relaxation, relief, or gentle euphoria. The discreet tincture format fits seamlessly into any wellness routine, offering a smoke-free alternative for experienced cannabis consumers. Treeworks focuses on quality extraction methods to preserve beneficial compounds while delivering consistent potency in every drop. Perfect for those who value precision and convenience in their cannabis consumption.",
+    "price": "$50",
+    "priceValue": 50,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2dbc9786-277b-4778-bc3c-6c16c5c7aea1",
+     "alt": "Treeworks- Gentle Drops - 990MG"
+    }
+   },
+   {
+    "position": 4,
+    "url": "/product/levia-levia-celebrate-drops-tincture-500-mg-tincture-500-milligrams",
+    "name": "Levia | Celebrate Drops | Tincture",
+    "brand": "LEVIA",
+    "description": "Levia Celebrate Tincture delivers 500mg of hybrid cannabis in a fast-acting, precisely dosed formula designed to elevate any occasion. This tincture combines the balanced effects of hybrid strains, offering a versatile experience that can inspire creativity and social connection while maintaining a sense of relaxed euphoria. Levia's innovative formulation ensures rapid onset, making it ideal for those who want predictable, controlled effects without the wait. The convenient dropper allows for easy customization of your dose, whether you're seeking subtle uplift or deeper celebration. Perfect for enhancing gatherings or personal moments of joy, this 500mg tincture provides flexibility and potency in one sleek bottle. Levia Celebrate brings together quality, consistency, and the celebration-worthy effects that make every experience memorable.",
+    "price": "$40",
+    "priceValue": 40,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/876db210-16cc-4624-ae33-8ec0abec86ab",
+     "alt": "Levia | Celebrate Drops | Tincture"
+    }
+   },
+   {
+    "position": 5,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-solventless-hash-caps-100-mg-20-pack-edible-100-milligrams",
+    "name": "Sweetgrass Botanicals - Solventless Hash Caps",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals Solventless Hash Caps deliver 100 mg of pure, clean cannabis in convenient capsule form. These edible capsules are crafted using solventless extraction methods, preserving the full spectrum of cannabinoids and terpenes for an authentic, potent experience. Each cap offers a discreet, precise way to enjoy cannabis without smoke or vapor—perfect for those seeking consistent effects and ease of use. The solventless hash process ensures no chemical residues, just natural plant compounds working in harmony. Ideal for relaxation, relief, or simply unwinding after a long day, these capsules provide a controlled, predictable experience with every dose. Whether you're new to edibles or a seasoned enthusiast, Sweetgrass Botanicals combines quality craftsmanship with solventless purity to elevate your wellness routine.",
+    "price": "$25",
+    "priceValue": 25,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/9d6fc805-e891-4aa5-888c-68d2cb218f91",
+     "alt": "Sweetgrass Botanicals - Solventless Hash Caps"
+    }
+   },
+   {
+    "position": 6,
+    "url": "/product/omg-omg-shady-icee-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "OMG - Shady Icee - 3.5G Flower",
+    "brand": "OMG",
+    "description": "OMG brings you Shady Icee, a premium hybrid flower that delivers the perfect balance of relaxation and uplift in a convenient 3.5g pre-pack. This carefully cultivated strain combines the best of both worlds, offering effects that ease tension while keeping your mind clear and focused. Shady Icee delights the senses with frosty, resinous buds that showcase vibrant colors and exceptional quality. The flavor profile features refreshing notes of citrus and sweet tropical fruit with subtle earthy undertones, creating a smooth and enjoyable experience from first inhale to last. Ideal for any time of day, this hybrid provides a euphoric, happy high that promotes creativity and social connection without overwhelming sedation. Whether you're unwinding after work or sparking inspiration for your next project, OMG's Shady Icee delivers consistent quality and potent effects. Perfect for both seasoned enthusiasts and those seeking a well-rounded cannabis experience.",
+    "price": "$40",
+    "priceValue": 40,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/be5e7ed0-924d-4ee9-8c9b-62d1d57abcf9",
+     "alt": "OMG - Shady Icee - 3.5G Flower"
+    }
+   },
+   {
+    "position": 7,
+    "url": "/product/tower-three-tower-three-florida-freeze-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Tower Three - Florida Freeze - 3.5G Flower",
+    "brand": "TOWER THREE",
+    "description": "Tower Three presents Florida Freeze, a premium 3.5g flower offering that delivers a refreshing cannabis experience. This carefully cultivated bud showcases frosty trichomes and a vibrant appearance that lives up to its chilly name. The aroma profile bursts with citrus and tropical notes, complemented by sweet undertones that entice the senses. Each nug is hand-selected to ensure quality and potency, making this flower ideal for discerning consumers seeking authentic cannabis enjoyment. Whether you're looking to unwind after a long day or enhance your creative pursuits, Florida Freeze provides a smooth, flavorful smoke that captures the essence of quality craftsmanship. This 3.5g jar offers the perfect amount for exploring this unique strain's characteristics and discovering your favorite consumption method.",
+    "price": "$45",
+    "priceValue": 45,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/04379419-08d4-4139-866c-8383d3f53765",
+     "alt": "Tower Three - Florida Freeze - 3.5G Flower"
+    }
+   },
+   {
+    "position": 8,
+    "url": "/product/the-fresh-connection-the-fresh-connection-dante-s-inferno-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "The Fresh Connection - Dante's Inferno - 1G Pre-roll",
+    "brand": "THE FRESH CONNECTION",
+    "description": "The Fresh Connection presents Dante's Inferno, a 1g preroll that delivers an unforgettable smoking experience. This expertly crafted preroll showcases premium cannabis rolled to perfection, offering convenience and quality in every puff. Named after the epic journey through the underworld, Dante's Inferno promises a bold and memorable session. The Fresh Connection is known for their meticulous attention to detail and commitment to excellence, ensuring each preroll burns evenly and smoothly. Whether you're seeking relaxation after a long day or looking to elevate your social gatherings, this preroll provides a reliable and enjoyable experience. Ready to light and go, Dante's Inferno is perfect for both newcomers and seasoned enthusiasts who appreciate convenient, high-quality cannabis products.",
+    "price": "$8",
+    "priceValue": 8,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/50f55e7b-c9fb-4ed9-9b40-04397f20c2d7",
+     "alt": "The Fresh Connection - Dante's Inferno - 1G Pre-roll"
+    }
+   },
+   {
+    "position": 9,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-cereal-milk-1g-live-rosin-1-g-extract-1-grams",
+    "name": "Sweetgrass Botanicals - Cereal Milk - 1G - Live Rosin",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals presents Cereal Milk Live Rosin, a premium 1g extract crafted using solventless extraction methods to preserve the plant's full spectrum of cannabinoids and terpenes. This artisanal concentrate delivers the strain's signature creamy, sweet flavor profile with subtle notes of vanilla and citrus, reminiscent of the milk left after a bowl of your favorite cereal. Live Rosin represents the pinnacle of cannabis extraction, utilizing fresh frozen material to capture the plant's essence at its peak. The result is a smooth, flavorful concentrate that offers potent effects and exceptional purity. Perfect for discerning consumers seeking premium quality and authentic taste, this 1g jar provides multiple sessions of rich, terpene-forward dabbing experiences. Ideal for concentrate enthusiasts who appreciate craft cannabis products made with meticulous attention to detail and quality.",
+    "price": "$60",
+    "priceValue": 60,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/9eae020b-c3aa-414a-b80c-a2c61a1a1546",
+     "alt": "Sweetgrass Botanicals - Cereal Milk - 1G - Live Rosin"
+    }
+   },
+   {
+    "position": 10,
+    "url": "/product/tower-three-tower-three-maple-butter-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Tower Three - Maple Butter - 3.5G Flower ",
+    "brand": "TOWER THREE",
+    "description": "Tower Three presents Maple Butter, a premium 3.5g flower offering that brings together rich, indulgent flavor with quality cannabis. This expertly cultivated flower delivers smooth, sweet maple notes complemented by creamy, buttery undertones that create a uniquely satisfying aromatic experience. Each bud is carefully hand-trimmed and cured to preserve terpene integrity and cannabinoid potency. The flavor profile unfolds with warm maple sweetness on the inhale, followed by smooth, buttery richness that lingers pleasantly. Perfect for cannabis enthusiasts seeking distinctive flavor alongside quality effects. Tower Three's commitment to cultivation excellence shines through in every jar, delivering consistent potency and exceptional taste. Whether you're unwinding after a long day or exploring new flavor profiles, Maple Butter offers a memorable experience that stands out from typical flower options. This 3.5g size provides the perfect amount to enjoy and share.",
+    "price": "$45",
+    "priceValue": 45,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7183191d-a596-44ee-a0bd-235387cd8cf0",
+     "alt": "Tower Three - Maple Butter - 3.5G Flower "
+    }
+   },
+   {
+    "position": 11,
+    "url": "/product/betty-s-eddies-betty-s-eddies-cherry-ache-away-eddies-1-4-1-50-mg-10-pack-edible-50-milligrams",
+    "name": "Betty's Eddies | Cherry | Ache Away Eddies | 1:4:1",
+    "brand": "BETTY'S EDDIES",
+    "description": "Betty's Eddies Cherry Ache Away Eddies deliver a carefully balanced 1:4:1 ratio of cannabinoids in a convenient 50mg chew, designed to provide targeted relief with a delicious cherry flavor. This hybrid edible combines the therapeutic benefits of multiple cannabinoids to help ease discomfort while maintaining balanced effects. Each chew offers a sweet-tart cherry taste that makes wellness enjoyable. The unique 1:4:1 formulation is crafted for those seeking relief without overwhelming psychoactive effects, making it ideal for daytime or evening use. Perfect for managing aches and pains while staying functional, these chews dissolve easily and deliver consistent results. Betty's Eddies brings quality ingredients and precise dosing together in a tasty, effective format that fits seamlessly into your wellness routine.",
+    "price": "$20",
+    "priceValue": 20,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/69ba0d61-9fda-470f-91b9-14638a61c1f9",
+     "alt": "Betty's Eddies | Cherry | Ache Away Eddies | 1:4:1"
+    }
+   },
+   {
+    "position": 12,
+    "url": "/product/betty-s-eddies-betty-s-eddies-strawberry-lemonade-swirl-beachtime-betty-s-1-1-50-mg-10-pack-edible-50-milligrams",
+    "name": "Betty's Eddies | Strawberry Lemonade Swirl | Beachtime Betty's | 1:1",
+    "brand": "BETTY'S EDDIES",
+    "description": "Betty's Eddies Strawberry Lemonade Swirl Beachtime Betty's 1:1 THC:CBG chews deliver a perfectly balanced hybrid experience with 50mg total. Each edible offers an equal ratio of THC and CBD, making them ideal for those seeking both uplifting and relaxing effects. The sweet strawberry and tart lemon flavors swirl together in every bite, creating a refreshing tropical taste that's perfect for any occasion. This balanced 1:1 formulation promotes a harmonious experience that's both social and focused, while providing gentle relief without overwhelming intensity. Betty's Eddies are crafted for consistency and quality, ensuring each chew delivers a reliable, enjoyable experience. Whether you're looking to unwind after a long day or enhance your creative pursuits, these strawberry lemonade chews offer a delicious and effective way to find your perfect balance.",
+    "price": "$20",
+    "priceValue": 20,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/beeaf7f6-9811-4a3d-8eae-2e261788c05d",
+     "alt": "Betty's Eddies | Strawberry Lemonade Swirl | Beachtime Betty's | 1:1"
+    }
+   },
+   {
+    "position": 13,
+    "url": "/product/tower-three-tower-three-florida-freeze-pre-roll-1-g-preroll-1-grams",
+    "name": "Tower Three - Florida Freeze - Pre-roll",
+    "brand": "TOWER THREE",
+    "description": "Tower Three presents Florida Freeze, a convenient 1g pre-roll ready to deliver a refreshing cannabis experience. This expertly crafted preroll showcases frosty, citrus-forward flavors reminiscent of tangy orange and tropical fruit, balanced with subtle earthy undertones that make each session smooth and enjoyable. Perfect for those seeking a flavorful, hassle-free option, Florida Freeze offers an uplifting and relaxed vibe ideal for unwinding after a long day or enhancing social gatherings. The pre-roll format provides ultimate convenience—no grinding, no rolling, just light and enjoy. Tower Three's commitment to quality ensures consistent potency and flavor in every puff, making Florida Freeze a standout choice for both seasoned enthusiasts and newcomers alike. Grab this 1g pre-roll and discover why Florida Freeze is quickly becoming a fan favorite.",
+    "price": "$12",
+    "priceValue": 12,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/1f08fc6c-1b66-4252-8526-d6b64e82eed3",
+     "alt": "Tower Three - Florida Freeze - Pre-roll"
+    }
+   },
+   {
+    "position": 14,
+    "url": "/product/treeworks-treeworks-purist-drops-2000mg-2000-mg-tincture-2000-milligrams",
+    "name": "Treeworks - Purist Drops - 2000MG",
+    "brand": "TREEWORKS",
+    "description": "Treeworks Purist Drops deliver a potent 2000mg tincture designed for those seeking precise, versatile dosing. This premium cannabis tincture offers a clean, straightforward experience without unnecessary additives, staying true to its \"purist\" name. Perfect for both newcomers and experienced users, the generous 2000mg strength allows for flexible micro-dosing or stronger servings based on your individual needs. Sublingual drops provide fast-acting effects, making it easy to customize your wellness routine. Whether you're seeking relaxation after a long day, relief from discomfort, or simply enhanced well-being, Treeworks Purist Drops offer a discreet, convenient solution. The unflavored formula integrates seamlessly into beverages or can be taken directly under the tongue. With its high potency and pure formulation, this tincture represents exceptional value and versatility for daily cannabis wellness.",
+    "price": "$70",
+    "priceValue": 70,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5c1fc3d2-27d8-4629-93ea-ed03c50e9120",
+     "alt": "Treeworks - Purist Drops - 2000MG"
+    }
+   },
+   {
+    "position": 15,
+    "url": "/product/keef-keef-orange-soda-5-mg-beverage-5-milligrams",
+    "name": "Keef | Orange Soda",
+    "brand": "KEEF",
+    "description": "Keef Orange Soda delivers a refreshing cannabis-infused beverage experience with 5 mg of hybrid THC per bottle. This delicious soda combines the classic taste of bright, citrusy orange with the balanced effects of a hybrid strain, making it perfect for any time of day. Each sip offers uplifting and relaxing sensations that can help you feel happy, focused, and social without overwhelming intensity. The low 5 mg dose makes this an ideal choice for both new consumers and experienced users seeking a controlled, enjoyable experience. Keef's Orange Soda is fast-acting, allowing you to feel effects within minutes, and provides a discreet, smoke-free way to enjoy cannabis. Whether you're unwinding after work, enhancing a social gathering, or simply craving a flavorful refreshment, this hybrid-infused orange soda offers a smooth, consistent experience in every bottle.",
+    "price": "$7",
+    "priceValue": 7,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2e428208-7faf-4db3-bf39-0d60224c96f3",
+     "alt": "Keef | Orange Soda"
+    }
+   },
+   {
+    "position": 16,
+    "url": "/product/omg-omg-mac-1-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "OMG - Mac 1 - 3.5G Flower",
+    "brand": "OMG",
+    "description": "OMG brings you Mac 1, a premium hybrid flower that's earned legendary status among cannabis connoisseurs. This 3.5g jar showcases dense, frosty buds with a captivating aroma profile blending citrus, earthy, and diesel notes. Mac 1 delivers a beautifully balanced hybrid experience—expect uplifted euphoria paired with deep relaxation that soothes both mind and body. Creative and focused energy makes it perfect for daytime inspiration or unwinding after work. The flavor profile is equally impressive, offering sweet citrus and herbal undertones with a smooth, satisfying finish. Whether you're seeking creative flow, social vibes, or simply relief from daily stress, Mac 1's well-rounded effects make it a versatile choice for any occasion. OMG's commitment to quality ensures each eighth delivers consistent potency and exceptional freshness in every bud.",
+    "price": "$40",
+    "priceValue": 40,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5c618d1-a8e1-48f9-ae31-0d8afbd94f69",
+     "alt": "OMG - Mac 1 - 3.5G Flower"
+    }
+   },
+   {
+    "position": 17,
+    "url": "/product/coast-coast-dark-chocolate-sea-salt-bar-100-mg-edible-100-milligrams",
+    "name": "Coast - Dark Chocolate Sea Salt Bar - 100mg",
+    "brand": "COAST",
+    "description": "Coast Dark Chocolate Sea Salt Bar delivers 100mg of premium hybrid cannabis in a sophisticated edible that balances indulgence with intention. This artisan chocolate bar combines rich, velvety dark chocolate with a delicate touch of sea salt, creating a luxurious flavor experience that elevates your cannabis consumption. Each precisely dosed square offers a balanced hybrid effect, perfect for those seeking relaxation without sedation or gentle euphoria paired with mental clarity. The smooth, creamy texture melts effortlessly on your palate while delivering consistent, predictable effects that both novice and experienced consumers can enjoy. Whether you're unwinding after a long day or seeking creative inspiration, this Coast chocolate bar transforms your edible experience into something truly special. The 100mg potency allows for flexible dosing—break off a small piece for a mild, uplifting effect or enjoy more for deeper relaxation and bliss.",
+    "price": "$20",
+    "priceValue": 20,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/eb942ac3-7ad2-4d24-af89-365b086a4b57",
+     "alt": "Coast - Dark Chocolate Sea Salt Bar - 100mg"
+    }
+   },
+   {
+    "position": 18,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-dante-s-lemons-5g-live-rosin-cart-0-5-g-cartridge-0-5-grams",
+    "name": "Sweetgrass Botanicals - Dante's Lemons - .5G Live Rosin Cart",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals presents Dante's Lemons, a premium 0.5g live rosin cartridge that delivers exceptional flavor and potency in a convenient 510 thread format. This Live Rosin Cart captures the essence of fresh cannabis through solventless extraction, preserving the plant's full terpene profile for an authentic, strain-specific experience. Dante's Lemons bursts with bright citrus notes dominated by zesty lemon and tangy citrus flavors, creating a mouthwatering profile that's both refreshing and bold. Each draw offers smooth vapor packed with aromatic terpenes and full-spectrum cannabinoids. The live rosin extraction method ensures you're getting cannabis-derived terpenes and a clean, pure concentrate without any additives or cutting agents. Compatible with any standard 510 thread battery, this cartridge makes it easy to enjoy premium live rosin on the go. Perfect for those seeking flavorful, high-quality concentrates with natural effects and true-to-plant taste.",
+    "price": "$40",
+    "priceValue": 40,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e1d868ae-db85-49cc-b4f0-eada110d9233",
+     "alt": "Sweetgrass Botanicals - Dante's Lemons - .5G Live Rosin Cart"
+    }
+   },
+   {
+    "position": 19,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-infused-olive-oil-250mg-250-mg-edible-250-milligrams",
+    "name": "Sweetgrass Botanicals - Infused Olive Oil - 250mg",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals Infused Olive Oil brings premium cannabis convenience to your kitchen with 250mg of THC in every bottle. This versatile edible oil seamlessly integrates into your culinary routine, perfect for drizzling over salads, finishing pasta dishes, or elevating your favorite recipes with cannabis-infused flavor. The smooth, rich olive oil base delivers a naturally earthy and savory profile that complements both sweet and savory applications. Ideal for those seeking precise dosing control, this infused oil allows you to customize your experience by the drop. Whether you're an experienced chef or new to cannabis cooking, this product offers a discreet and delicious way to enjoy the benefits of THC while exploring creative culinary possibilities. Simply start with a small amount, wait to assess effects, and adjust accordingly for your perfect dose.",
+    "price": "$30",
+    "priceValue": 30,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/c666904a-1e10-4dc7-bf32-98ee63f05b05",
+     "alt": "Sweetgrass Botanicals - Infused Olive Oil - 250mg"
+    }
+   },
+   {
+    "position": 20,
+    "url": "/product/bubby-s-bubby-s-chocolate-chip-baked-goods-5mg-5-mg-edible-5-milligrams",
+    "name": "Bubby's - Chocolate Chip Baked Goods - 5mg",
+    "brand": "BUBBY'S",
+    "description": "Bubby's Chocolate Chip Baked Goods bring the classic comfort of fresh-baked cookies to your cannabis experience with a precisely dosed 5mg THC edible that's perfect for both new and experienced users. Each delicious baked good delivers a low dose option that allows for easy control and customization of your experience, making it ideal for microdosing or enjoying throughout the day. The rich chocolate chip flavor satisfies your sweet tooth while providing a discreet and convenient consumption method. These baked treats offer a relaxed and uplifted experience that can enhance your mood without overwhelming effects. Whether you're unwinding after a long day or seeking gentle relief, Bubby's combines artisanal quality with consistent dosing. The familiar taste of chocolate chip cookies makes this edible approachable and enjoyable for anyone looking to explore cannabis-infused baked goods in a delicious, accessible format.",
+    "price": "$10",
+    "priceValue": 10,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f6337bcc-aa71-4a7e-8e5a-b88630899152",
+     "alt": "Bubby's - Chocolate Chip Baked Goods - 5mg"
+    }
+   }
+  ],
+  "productCount": 20,
+  "_ui": {
+   "filterDrawerId": "filters-treez-drawer",
+   "emptyStateIcon": "search"
+  },
+  "_jsonld": {
+   "breadcrumbList": {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/shop",
+       "name": "Menu"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "Hybrid"
+      },
+      "position": 3
+     }
+    ]
+   },
+   "itemList": {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BETTY&apos;S EDDIES",
+       "description": "Betty&apos;s Eddies Tropical Smoothie Chews deliver a delicious, sun-soaked escape in every bite. This hybrid edible offers a balanced experience that combines uplifting energy with gentle relaxation, making it perfect for daytime adventures or unwinding after work. Each chew bursts with tropical fruit flavors—think juicy pineapple, ripe mango, and sweet citrus notes that transport your taste buds to a beachside paradise. The 1:6 ratio THC:CBD (50mg total) provides a mild, approachable dose ideal for both newcomers and experienced consumers seeking a mellow, functional high. Betty&apos;s Eddies crafts these chews with quality ingredients to ensure consistent effects and mouthwatering flavor in every piece. Whether you&apos;re looking to spark creativity, enhance social moments, or simply enjoy a happy, euphoric vibe, these Tropical Smoothie Chews offer a flavorful journey that&apos;s as enjoyable as it is effective.",
+       "name": "Betty&apos;s Eddies | Tropical Smoothie | Chews | 1:6",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-tropical-smoothie-chews-1-6-50-mg-10-pack-edible-50-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/6f6512fe-3a8e-4fd8-a025-e34049d647f9"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "COAST",
+       "description": "Coast Milk Chocolate Bar delivers 100mg of hybrid cannabis in a deliciously smooth, premium chocolate edible. This indulgent treat combines rich, creamy chocolate flavor with balanced hybrid effects that promote both relaxation and uplift. Perfect for those seeking a versatile experience, each bar offers precise dosing and convenient portability. The Coast brand is known for quality edibles that merge great taste with reliable potency. Whether you&apos;re unwinding after a long day or enhancing a social gathering, this milk chocolate bar provides a happy, euphoric experience with every bite. The 100mg total THC allows for customizable dosing—break off a piece for a milder effect or enjoy more for deeper relaxation. Ideal for chocolate lovers who appreciate the perfect balance of flavor and function in their cannabis edibles.",
+       "name": "Coast - Milk Chocolate Bar - 100mg",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/coast-coast-milk-chocolate-bar-100-mg-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0d788732-7c76-4e4b-b0a8-cfcabe874fae"
+      },
+      "position": "2"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TREEWORKS",
+       "description": "Treeworks Gentle Drops delivers 990mg of premium cannabis extract in a versatile tincture format designed for precise dosing and customizable experiences. This potent liquid formula offers fast-acting relief that can be taken sublingually for rapid absorption or mixed into your favorite beverages and foods. Each dropper provides controlled dosing flexibility, making it easy to find your ideal serving size whether you&apos;re seeking relaxation, relief, or gentle euphoria. The discreet tincture format fits seamlessly into any wellness routine, offering a smoke-free alternative for experienced cannabis consumers. Treeworks focuses on quality extraction methods to preserve beneficial compounds while delivering consistent potency in every drop. Perfect for those who value precision and convenience in their cannabis consumption.",
+       "name": "Treeworks- Gentle Drops - 990MG",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "50",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-gentle-drops-990mg-990-mg-tincture-990-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2dbc9786-277b-4778-bc3c-6c16c5c7aea1"
+      },
+      "position": "3"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "LEVIA",
+       "description": "Levia Celebrate Tincture delivers 500mg of hybrid cannabis in a fast-acting, precisely dosed formula designed to elevate any occasion. This tincture combines the balanced effects of hybrid strains, offering a versatile experience that can inspire creativity and social connection while maintaining a sense of relaxed euphoria. Levia&apos;s innovative formulation ensures rapid onset, making it ideal for those who want predictable, controlled effects without the wait. The convenient dropper allows for easy customization of your dose, whether you&apos;re seeking subtle uplift or deeper celebration. Perfect for enhancing gatherings or personal moments of joy, this 500mg tincture provides flexibility and potency in one sleek bottle. Levia Celebrate brings together quality, consistency, and the celebration-worthy effects that make every experience memorable.",
+       "name": "Levia | Celebrate Drops | Tincture",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/levia-levia-celebrate-drops-tincture-500-mg-tincture-500-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/876db210-16cc-4624-ae33-8ec0abec86ab"
+      },
+      "position": "4"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals Solventless Hash Caps deliver 100 mg of pure, clean cannabis in convenient capsule form. These edible capsules are crafted using solventless extraction methods, preserving the full spectrum of cannabinoids and terpenes for an authentic, potent experience. Each cap offers a discreet, precise way to enjoy cannabis without smoke or vapor—perfect for those seeking consistent effects and ease of use. The solventless hash process ensures no chemical residues, just natural plant compounds working in harmony. Ideal for relaxation, relief, or simply unwinding after a long day, these capsules provide a controlled, predictable experience with every dose. Whether you&apos;re new to edibles or a seasoned enthusiast, Sweetgrass Botanicals combines quality craftsmanship with solventless purity to elevate your wellness routine.",
+       "name": "Sweetgrass Botanicals - Solventless Hash Caps",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-solventless-hash-caps-100-mg-20-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/9d6fc805-e891-4aa5-888c-68d2cb218f91"
+      },
+      "position": "5"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "OMG",
+       "description": "OMG brings you Shady Icee, a premium hybrid flower that delivers the perfect balance of relaxation and uplift in a convenient 3.5g pre-pack. This carefully cultivated strain combines the best of both worlds, offering effects that ease tension while keeping your mind clear and focused. Shady Icee delights the senses with frosty, resinous buds that showcase vibrant colors and exceptional quality. The flavor profile features refreshing notes of citrus and sweet tropical fruit with subtle earthy undertones, creating a smooth and enjoyable experience from first inhale to last. Ideal for any time of day, this hybrid provides a euphoric, happy high that promotes creativity and social connection without overwhelming sedation. Whether you&apos;re unwinding after work or sparking inspiration for your next project, OMG&apos;s Shady Icee delivers consistent quality and potent effects. Perfect for both seasoned enthusiasts and those seeking a well-rounded cannabis experience.",
+       "name": "OMG - Shady Icee - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/omg-omg-shady-icee-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/be5e7ed0-924d-4ee9-8c9b-62d1d57abcf9"
+      },
+      "position": "6"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TOWER THREE",
+       "description": "Tower Three presents Florida Freeze, a premium 3.5g flower offering that delivers a refreshing cannabis experience. This carefully cultivated bud showcases frosty trichomes and a vibrant appearance that lives up to its chilly name. The aroma profile bursts with citrus and tropical notes, complemented by sweet undertones that entice the senses. Each nug is hand-selected to ensure quality and potency, making this flower ideal for discerning consumers seeking authentic cannabis enjoyment. Whether you&apos;re looking to unwind after a long day or enhance your creative pursuits, Florida Freeze provides a smooth, flavorful smoke that captures the essence of quality craftsmanship. This 3.5g jar offers the perfect amount for exploring this unique strain&apos;s characteristics and discovering your favorite consumption method.",
+       "name": "Tower Three - Florida Freeze - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "45",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-florida-freeze-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/04379419-08d4-4139-866c-8383d3f53765"
+      },
+      "position": "7"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "THE FRESH CONNECTION",
+       "description": "The Fresh Connection presents Dante&apos;s Inferno, a 1g preroll that delivers an unforgettable smoking experience. This expertly crafted preroll showcases premium cannabis rolled to perfection, offering convenience and quality in every puff. Named after the epic journey through the underworld, Dante&apos;s Inferno promises a bold and memorable session. The Fresh Connection is known for their meticulous attention to detail and commitment to excellence, ensuring each preroll burns evenly and smoothly. Whether you&apos;re seeking relaxation after a long day or looking to elevate your social gatherings, this preroll provides a reliable and enjoyable experience. Ready to light and go, Dante&apos;s Inferno is perfect for both newcomers and seasoned enthusiasts who appreciate convenient, high-quality cannabis products.",
+       "name": "The Fresh Connection - Dante&apos;s Inferno - 1G Pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "8",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-dante-s-inferno-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/50f55e7b-c9fb-4ed9-9b40-04397f20c2d7"
+      },
+      "position": "8"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals presents Cereal Milk Live Rosin, a premium 1g extract crafted using solventless extraction methods to preserve the plant&apos;s full spectrum of cannabinoids and terpenes. This artisanal concentrate delivers the strain&apos;s signature creamy, sweet flavor profile with subtle notes of vanilla and citrus, reminiscent of the milk left after a bowl of your favorite cereal. Live Rosin represents the pinnacle of cannabis extraction, utilizing fresh frozen material to capture the plant&apos;s essence at its peak. The result is a smooth, flavorful concentrate that offers potent effects and exceptional purity. Perfect for discerning consumers seeking premium quality and authentic taste, this 1g jar provides multiple sessions of rich, terpene-forward dabbing experiences. Ideal for concentrate enthusiasts who appreciate craft cannabis products made with meticulous attention to detail and quality.",
+       "name": "Sweetgrass Botanicals - Cereal Milk - 1G - Live Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "60",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-cereal-milk-1g-live-rosin-1-g-extract-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/9eae020b-c3aa-414a-b80c-a2c61a1a1546"
+      },
+      "position": "9"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TOWER THREE",
+       "description": "Tower Three presents Maple Butter, a premium 3.5g flower offering that brings together rich, indulgent flavor with quality cannabis. This expertly cultivated flower delivers smooth, sweet maple notes complemented by creamy, buttery undertones that create a uniquely satisfying aromatic experience. Each bud is carefully hand-trimmed and cured to preserve terpene integrity and cannabinoid potency. The flavor profile unfolds with warm maple sweetness on the inhale, followed by smooth, buttery richness that lingers pleasantly. Perfect for cannabis enthusiasts seeking distinctive flavor alongside quality effects. Tower Three&apos;s commitment to cultivation excellence shines through in every jar, delivering consistent potency and exceptional taste. Whether you&apos;re unwinding after a long day or exploring new flavor profiles, Maple Butter offers a memorable experience that stands out from typical flower options. This 3.5g size provides the perfect amount to enjoy and share.",
+       "name": "Tower Three - Maple Butter - 3.5G Flower ",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "45",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-maple-butter-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7183191d-a596-44ee-a0bd-235387cd8cf0"
+      },
+      "position": "10"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BETTY&apos;S EDDIES",
+       "description": "Betty&apos;s Eddies Cherry Ache Away Eddies deliver a carefully balanced 1:4:1 ratio of cannabinoids in a convenient 50mg chew, designed to provide targeted relief with a delicious cherry flavor. This hybrid edible combines the therapeutic benefits of multiple cannabinoids to help ease discomfort while maintaining balanced effects. Each chew offers a sweet-tart cherry taste that makes wellness enjoyable. The unique 1:4:1 formulation is crafted for those seeking relief without overwhelming psychoactive effects, making it ideal for daytime or evening use. Perfect for managing aches and pains while staying functional, these chews dissolve easily and deliver consistent results. Betty&apos;s Eddies brings quality ingredients and precise dosing together in a tasty, effective format that fits seamlessly into your wellness routine.",
+       "name": "Betty&apos;s Eddies | Cherry | Ache Away Eddies | 1:4:1",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-cherry-ache-away-eddies-1-4-1-50-mg-10-pack-edible-50-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/69ba0d61-9fda-470f-91b9-14638a61c1f9"
+      },
+      "position": "11"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BETTY&apos;S EDDIES",
+       "description": "Betty&apos;s Eddies Strawberry Lemonade Swirl Beachtime Betty&apos;s 1:1 THC:CBG chews deliver a perfectly balanced hybrid experience with 50mg total. Each edible offers an equal ratio of THC and CBD, making them ideal for those seeking both uplifting and relaxing effects. The sweet strawberry and tart lemon flavors swirl together in every bite, creating a refreshing tropical taste that&apos;s perfect for any occasion. This balanced 1:1 formulation promotes a harmonious experience that&apos;s both social and focused, while providing gentle relief without overwhelming intensity. Betty&apos;s Eddies are crafted for consistency and quality, ensuring each chew delivers a reliable, enjoyable experience. Whether you&apos;re looking to unwind after a long day or enhance your creative pursuits, these strawberry lemonade chews offer a delicious and effective way to find your perfect balance.",
+       "name": "Betty&apos;s Eddies | Strawberry Lemonade Swirl | Beachtime Betty&apos;s | 1:1",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-strawberry-lemonade-swirl-beachtime-betty-s-1-1-50-mg-10-pack-edible-50-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/beeaf7f6-9811-4a3d-8eae-2e261788c05d"
+      },
+      "position": "12"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TOWER THREE",
+       "description": "Tower Three presents Florida Freeze, a convenient 1g pre-roll ready to deliver a refreshing cannabis experience. This expertly crafted preroll showcases frosty, citrus-forward flavors reminiscent of tangy orange and tropical fruit, balanced with subtle earthy undertones that make each session smooth and enjoyable. Perfect for those seeking a flavorful, hassle-free option, Florida Freeze offers an uplifting and relaxed vibe ideal for unwinding after a long day or enhancing social gatherings. The pre-roll format provides ultimate convenience—no grinding, no rolling, just light and enjoy. Tower Three&apos;s commitment to quality ensures consistent potency and flavor in every puff, making Florida Freeze a standout choice for both seasoned enthusiasts and newcomers alike. Grab this 1g pre-roll and discover why Florida Freeze is quickly becoming a fan favorite.",
+       "name": "Tower Three - Florida Freeze - Pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "12",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-florida-freeze-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/1f08fc6c-1b66-4252-8526-d6b64e82eed3"
+      },
+      "position": "13"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TREEWORKS",
+       "description": "Treeworks Purist Drops deliver a potent 2000mg tincture designed for those seeking precise, versatile dosing. This premium cannabis tincture offers a clean, straightforward experience without unnecessary additives, staying true to its &quot;purist&quot; name. Perfect for both newcomers and experienced users, the generous 2000mg strength allows for flexible micro-dosing or stronger servings based on your individual needs. Sublingual drops provide fast-acting effects, making it easy to customize your wellness routine. Whether you&apos;re seeking relaxation after a long day, relief from discomfort, or simply enhanced well-being, Treeworks Purist Drops offer a discreet, convenient solution. The unflavored formula integrates seamlessly into beverages or can be taken directly under the tongue. With its high potency and pure formulation, this tincture represents exceptional value and versatility for daily cannabis wellness.",
+       "name": "Treeworks - Purist Drops - 2000MG",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "70",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-purist-drops-2000mg-2000-mg-tincture-2000-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5c1fc3d2-27d8-4629-93ea-ed03c50e9120"
+      },
+      "position": "14"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "KEEF",
+       "description": "Keef Orange Soda delivers a refreshing cannabis-infused beverage experience with 5 mg of hybrid THC per bottle. This delicious soda combines the classic taste of bright, citrusy orange with the balanced effects of a hybrid strain, making it perfect for any time of day. Each sip offers uplifting and relaxing sensations that can help you feel happy, focused, and social without overwhelming intensity. The low 5 mg dose makes this an ideal choice for both new consumers and experienced users seeking a controlled, enjoyable experience. Keef&apos;s Orange Soda is fast-acting, allowing you to feel effects within minutes, and provides a discreet, smoke-free way to enjoy cannabis. Whether you&apos;re unwinding after work, enhancing a social gathering, or simply craving a flavorful refreshment, this hybrid-infused orange soda offers a smooth, consistent experience in every bottle.",
+       "name": "Keef | Orange Soda",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "7",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/keef-keef-orange-soda-5-mg-beverage-5-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2e428208-7faf-4db3-bf39-0d60224c96f3"
+      },
+      "position": "15"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "OMG",
+       "description": "OMG brings you Mac 1, a premium hybrid flower that&apos;s earned legendary status among cannabis connoisseurs. This 3.5g jar showcases dense, frosty buds with a captivating aroma profile blending citrus, earthy, and diesel notes. Mac 1 delivers a beautifully balanced hybrid experience—expect uplifted euphoria paired with deep relaxation that soothes both mind and body. Creative and focused energy makes it perfect for daytime inspiration or unwinding after work. The flavor profile is equally impressive, offering sweet citrus and herbal undertones with a smooth, satisfying finish. Whether you&apos;re seeking creative flow, social vibes, or simply relief from daily stress, Mac 1&apos;s well-rounded effects make it a versatile choice for any occasion. OMG&apos;s commitment to quality ensures each eighth delivers consistent potency and exceptional freshness in every bud.",
+       "name": "OMG - Mac 1 - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/omg-omg-mac-1-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5c618d1-a8e1-48f9-ae31-0d8afbd94f69"
+      },
+      "position": "16"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "COAST",
+       "description": "Coast Dark Chocolate Sea Salt Bar delivers 100mg of premium hybrid cannabis in a sophisticated edible that balances indulgence with intention. This artisan chocolate bar combines rich, velvety dark chocolate with a delicate touch of sea salt, creating a luxurious flavor experience that elevates your cannabis consumption. Each precisely dosed square offers a balanced hybrid effect, perfect for those seeking relaxation without sedation or gentle euphoria paired with mental clarity. The smooth, creamy texture melts effortlessly on your palate while delivering consistent, predictable effects that both novice and experienced consumers can enjoy. Whether you&apos;re unwinding after a long day or seeking creative inspiration, this Coast chocolate bar transforms your edible experience into something truly special. The 100mg potency allows for flexible dosing—break off a small piece for a mild, uplifting effect or enjoy more for deeper relaxation and bliss.",
+       "name": "Coast - Dark Chocolate Sea Salt Bar - 100mg",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/coast-coast-dark-chocolate-sea-salt-bar-100-mg-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/eb942ac3-7ad2-4d24-af89-365b086a4b57"
+      },
+      "position": "17"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals presents Dante&apos;s Lemons, a premium 0.5g live rosin cartridge that delivers exceptional flavor and potency in a convenient 510 thread format. This Live Rosin Cart captures the essence of fresh cannabis through solventless extraction, preserving the plant&apos;s full terpene profile for an authentic, strain-specific experience. Dante&apos;s Lemons bursts with bright citrus notes dominated by zesty lemon and tangy citrus flavors, creating a mouthwatering profile that&apos;s both refreshing and bold. Each draw offers smooth vapor packed with aromatic terpenes and full-spectrum cannabinoids. The live rosin extraction method ensures you&apos;re getting cannabis-derived terpenes and a clean, pure concentrate without any additives or cutting agents. Compatible with any standard 510 thread battery, this cartridge makes it easy to enjoy premium live rosin on the go. Perfect for those seeking flavorful, high-quality concentrates with natural effects and true-to-plant taste.",
+       "name": "Sweetgrass Botanicals - Dante&apos;s Lemons - .5G Live Rosin Cart",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-dante-s-lemons-5g-live-rosin-cart-0-5-g-cartridge-0-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e1d868ae-db85-49cc-b4f0-eada110d9233"
+      },
+      "position": "18"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals Infused Olive Oil brings premium cannabis convenience to your kitchen with 250mg of THC in every bottle. This versatile edible oil seamlessly integrates into your culinary routine, perfect for drizzling over salads, finishing pasta dishes, or elevating your favorite recipes with cannabis-infused flavor. The smooth, rich olive oil base delivers a naturally earthy and savory profile that complements both sweet and savory applications. Ideal for those seeking precise dosing control, this infused oil allows you to customize your experience by the drop. Whether you&apos;re an experienced chef or new to cannabis cooking, this product offers a discreet and delicious way to enjoy the benefits of THC while exploring creative culinary possibilities. Simply start with a small amount, wait to assess effects, and adjust accordingly for your perfect dose.",
+       "name": "Sweetgrass Botanicals - Infused Olive Oil - 250mg",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "30",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-infused-olive-oil-250mg-250-mg-edible-250-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/c666904a-1e10-4dc7-bf32-98ee63f05b05"
+      },
+      "position": "19"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BUBBY&apos;S",
+       "description": "Bubby&apos;s Chocolate Chip Baked Goods bring the classic comfort of fresh-baked cookies to your cannabis experience with a precisely dosed 5mg THC edible that&apos;s perfect for both new and experienced users. Each delicious baked good delivers a low dose option that allows for easy control and customization of your experience, making it ideal for microdosing or enjoying throughout the day. The rich chocolate chip flavor satisfies your sweet tooth while providing a discreet and convenient consumption method. These baked treats offer a relaxed and uplifted experience that can enhance your mood without overwhelming effects. Whether you&apos;re unwinding after a long day or seeking gentle relief, Bubby&apos;s combines artisanal quality with consistent dosing. The familiar taste of chocolate chip cookies makes this edible approachable and enjoyable for anyone looking to explore cannabis-infused baked goods in a delicious, accessible format.",
+       "name": "Bubby&apos;s - Chocolate Chip Baked Goods - 5mg",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "10",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/bubby-s-bubby-s-chocolate-chip-baked-goods-5mg-5-mg-edible-5-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f6337bcc-aa71-4a7e-8e5a-b88630899152"
+      },
+      "position": "20"
+     }
+    ]
+   }
+  }
+ }
+}

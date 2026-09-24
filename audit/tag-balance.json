@@ -1,0 +1,39 @@
+{
+ "schema": "sunnydayz/tag-balance@1",
+ "generated": "2026-09-24T01:41:59.719Z",
+ "pages": 250,
+ "findings": [],
+ "control": {
+  "input": "unclosed <div> inside <section>",
+  "reported": [
+   {
+    "kind": "stray-close",
+    "tag": "section",
+    "at": 38,
+    "open": "main>section>div"
+   },
+   {
+    "kind": "stray-close",
+    "tag": "main",
+    "at": 48,
+    "open": "main>section>div"
+   },
+   {
+    "kind": "unclosed",
+    "tag": "main",
+    "at": 0
+   },
+   {
+    "kind": "unclosed",
+    "tag": "section",
+    "at": 6
+   },
+   {
+    "kind": "unclosed",
+    "tag": "div",
+    "at": 15
+   }
+  ],
+  "fired": true
+ }
+}

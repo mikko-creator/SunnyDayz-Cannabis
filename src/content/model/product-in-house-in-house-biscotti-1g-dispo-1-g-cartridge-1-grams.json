@@ -1,0 +1,213 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/in-house-in-house-biscotti-1g-dispo-1-g-cartridge-1-grams",
+ "slug": "product-in-house-in-house-biscotti-1g-dispo-1-g-cartridge-1-grams",
+ "type": "product",
+ "title": "IN HOUSE - In House - Biscotti - 1G Dispo",
+ "seoTitle": "IN HOUSE - In House - Biscotti - 1G Dispo",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Cartridge",
+    "href": "/collection/cartridge"
+   },
+   {
+    "label": "In House - Biscotti - 1G Dispo",
+    "href": null
+   }
+  ],
+  "h1": "In House - Biscotti - 1G Dispo",
+  "name": "In House - Biscotti - 1G Dispo",
+  "brand": {
+   "label": "IN HOUSE",
+   "href": "/brand/in-house"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Indica",
+   "key": "indica",
+   "ariaLabel": "Flower type: Indica"
+  },
+  "category": {
+   "label": "Cartridge",
+   "href": "/collection/cartridge"
+  },
+  "subcategories": [
+   {
+    "label": "ALL-IN-ONE",
+    "href": "/collection/cartridge/all-in-one"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5e72ff6-46f8-4deb-aeb7-13f1d5057367?w=3840&q=100",
+   "alt": "In House - Biscotti - 1G Dispo"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5e72ff6-46f8-4deb-aeb7-13f1d5057367?w=3840&q=100",
+    "alt": "In House - Biscotti - 1G Dispo"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": "Warning",
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": "Cannabinoids"
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "86.6%",
+    "icon": "vector"
+   },
+   {
+    "label": "CBD",
+    "value": "0.3%",
+    "icon": "water_drop_black"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Experience the premium quality of In House with the Biscotti 1G Dispo, a convenient all-in-one cartridge delivering exceptional flavor and potency in every draw. This 1g disposable vape captures the essence of the beloved Biscotti strain, known for its rich, dessert-like profile featuring sweet, buttery notes with hints of nuttiness and spice. The sleek, portable design requires no charging or setup—simply inhale and enjoy smooth, satisfying vapor wherever life takes you. Perfect for both seasoned enthusiasts and newcomers seeking hassle-free convenience, this disposable cartridge offers consistent performance from first puff to last. In House brings you strain-specific quality in a user-friendly format that fits seamlessly into your lifestyle. Whether you're relaxing at home or on the go, the Biscotti 1G Dispo delivers authentic cannabis flavor and effects in one compact, ready-to-use device.",
+  "warnings": [
+   {
+    "title": "Proposition 65 Warning for California Consumers",
+    "collapsed": true,
+    "toggleIcon": "angle-down",
+    "toggleAriaLabel": "Expand content",
+    "label": "WARNING:",
+    "lines": [
+     "This product can expose you to chemicals including β-myrcene and cannabis smoke, which are known to the State of California to cause cancer, and chemicals including cannabis smoke and 9-tetrahydrocannabinol, which are known to the State of California to cause birth defects or other reproductive harm."
+    ],
+    "moreInfo": {
+     "text": "For more information go to",
+     "label": "www.P65Warnings.ca.gov",
+     "href": "https://www.P65Warnings.ca.gov"
+    },
+    "links": []
+   }
+  ],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "1g",
+    "price": "$25",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$25",
+   "original": null,
+   "ariaLabel": "Product price: $25"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add In House - Biscotti - 1G Dispo to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add In House - Biscotti - 1G Dispo to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "IN HOUSE",
+    "href": "/brand/in-house"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Indica",
+    "href": "/strain/Indica"
+   },
+   {
+    "label": "THC",
+    "value": "86.6%"
+   },
+   {
+    "label": "CBD",
+    "value": "0.3%"
+   },
+   {
+    "label": "Package Info",
+    "value": "In House Biscotti 1 G Dispo 1 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "1g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [
+   {
+    "group": "THC",
+    "items": [
+     {
+      "name": "THC",
+      "value": "86.6%"
+     }
+    ]
+   },
+   {
+    "group": "CBD",
+    "items": [
+     {
+      "name": "CBD",
+      "value": "0.3%"
+     }
+    ]
+   }
+  ],
+  "jsonld": null
+ }
+}

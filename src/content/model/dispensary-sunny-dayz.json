@@ -1,0 +1,1715 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/dispensary/sunny-dayz",
+ "slug": "dispensary-sunny-dayz",
+ "type": "page",
+ "title": "Sunny Dayz Cannabis Dispensary",
+ "seoTitle": "Sunny Dayz Cannabis Dispensary",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Sunny Dayz Cannabis Dispensary",
+    "href": null
+   }
+  ],
+  "h1": "Sunny Dayz Cannabis Dispensary",
+  "bannerImage": null,
+  "blocks": [
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMLpbqstJ9-DyC_Otis-Shop2023.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner location page"
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMLpbqstJ9-DyC_Otis-Shop2023.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner location page"
+   },
+   {
+    "t": "h1",
+    "text": "Sunny Dayz Cannabis Dispensary"
+   },
+   {
+    "t": "p",
+    "text": "ADULT",
+    "html": "ADULT"
+   },
+   {
+    "t": "p",
+    "text": "CLOSED",
+    "html": "CLOSED"
+   },
+   {
+    "t": "p",
+    "text": "until 10:00 AM ET",
+    "html": "until 10:00 AM ET"
+   },
+   {
+    "t": "h2",
+    "text": "Hours"
+   },
+   {
+    "t": "ol",
+    "items": [
+     {
+      "text": "Monday 10:00 AM - 9:00 PM",
+      "html": "Monday10:00 AM - 9:00 PM"
+     },
+     {
+      "text": "Tuesday 10:00 AM - 9:00 PM",
+      "html": "Tuesday10:00 AM - 9:00 PM"
+     },
+     {
+      "text": "Wednesday 10:00 AM - 9:00 PM",
+      "html": "Wednesday10:00 AM - 9:00 PM"
+     },
+     {
+      "text": "Thursday 10:00 AM - 9:00 PM",
+      "html": "Thursday10:00 AM - 9:00 PM"
+     },
+     {
+      "text": "Friday 10:00 AM - 9:00 PM",
+      "html": "Friday10:00 AM - 9:00 PM"
+     },
+     {
+      "text": "Saturday 10:00 AM - 9:00 PM",
+      "html": "Saturday10:00 AM - 9:00 PM"
+     },
+     {
+      "text": "Sunday 10:00 AM - 9:00 PM",
+      "html": "Sunday10:00 AM - 9:00 PM"
+     }
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "Get in touch"
+   },
+   {
+    "t": "p",
+    "text": "Phone Number",
+    "html": "Phone Number"
+   },
+   {
+    "t": "p",
+    "text": "+1 (413) 350-5034",
+    "html": "+1 (413) 350-5034"
+   },
+   {
+    "t": "p",
+    "text": "Email",
+    "html": "Email"
+   },
+   {
+    "t": "p",
+    "text": "info@sonnydayz.com",
+    "html": "info@sonnydayz.com"
+   },
+   {
+    "t": "p",
+    "text": "Address",
+    "html": "Address"
+   },
+   {
+    "t": "p",
+    "text": "105 Greenfield Rd, South Deerfield, MA 01373",
+    "html": "105 Greenfield Rd, South Deerfield, MA 01373"
+   },
+   {
+    "t": "p",
+    "text": "Socials",
+    "html": "Socials"
+   },
+   {
+    "t": "p",
+    "text": "At SunnyDayz, we believe exceptional cannabis starts with exceptional cultivation. Our philosophy is simple: quality over quantity. We focus on small-batch production, terpene-rich genetics, and meticulous craftsmanship to produce flower that delivers the full expression of each cultivar—not just high THC numbers. Every plant is carefully grown using proven cultivation techniques, hand-watered, hand-trimmed, and never rushed, ensuring each harvest meets the standards we'd expect ourselves.",
+    "html": "At SunnyDayz, we believe exceptional cannabis starts with exceptional cultivation. Our philosophy is simple: quality over quantity. We focus on small-batch production, terpene-rich genetics, and meticulous craftsmanship to produce flower that delivers the full expression of each cultivar—not just high THC numbers. Every plant is carefully grown using proven cultivation techniques, hand-watered, hand-trimmed, and never rushed, ensuring each harvest meets the standards we'd expect ourselves."
+   },
+   {
+    "t": "p",
+    "text": "Our passion for quality extends far beyond what we grow. We carefully curate one of the area's largest selections of cannabis products, featuring trusted brands alongside our own premium offerings. Every product we carry is personally evaluated by our knowledgeable team of budtenders, so we can confidently recommend products based on real experience, quality, and customer feedback.",
+    "html": "Our passion for quality extends far beyond what we grow. We carefully curate one of the area's largest selections of cannabis products, featuring trusted brands alongside our own premium offerings. Every product we carry is personally evaluated by our knowledgeable team of budtenders, so we can confidently recommend products based on real experience, quality, and customer feedback."
+   },
+   {
+    "t": "p",
+    "text": "At the heart of the SunnyDayz experience is our expansive deli-style Bud Bar, where you can explore an incredible variety of flower before making your selection. We believe cannabis should be experienced with your senses—see the colors, appreciate the structure, and discover the unique aromas and terpene profiles that make each strain special. Whether you're a seasoned enthusiast or new to cannabis, our team is here to guide you toward the products that best fit your preferences and desired experience.",
+    "html": "At the heart of the SunnyDayz experience is our expansive deli-style Bud Bar, where you can explore an incredible variety of flower before making your selection. We believe cannabis should be experienced with your senses—see the colors, appreciate the structure, and discover the unique aromas and terpene profiles that make each strain special. Whether you're a seasoned enthusiast or new to cannabis, our team is here to guide you toward the products that best fit your preferences and desired experience."
+   },
+   {
+    "t": "img",
+    "src": "https://maps.gstatic.com/mapfiles/api-3/images/icon_error.png",
+    "alt": ""
+   },
+   {
+    "t": "p",
+    "text": "Oops! Something went wrong.",
+    "html": "Oops! Something went wrong."
+   },
+   {
+    "t": "p",
+    "text": "This page didn't load Google Maps correctly. See the JavaScript console for technical details.",
+    "html": "This page didn't load Google Maps correctly. See the JavaScript console for technical details."
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/Z5vML5bqstJ9-DyD_avatar-3-.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "User profile image"
+   },
+   {
+    "t": "p",
+    "text": "Mandy Sanford",
+    "html": "Mandy Sanford"
+   },
+   {
+    "t": "quote",
+    "text": "Stiiizy offers a diverse menu of cannabis and CBD products. Customers praise the quality and variety available at this dispensary, making it a go-to destination for those seeking a range of options."
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMMJbqstJ9-DyE_avatar-4-.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "User profile image"
+   },
+   {
+    "t": "p",
+    "text": "Jonathan Renner",
+    "html": "Jonathan Renner"
+   },
+   {
+    "t": "quote",
+    "text": "Rancho Santa Fe provides a supportive environment for cannabis-related businesses and services. With a focus on community well-being and access to various resources, residents can explore the benefits of cannabis-based products within a welcoming local setting."
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMMZbqstJ9-DyF_avatar-5-.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "User profile image"
+   },
+   {
+    "t": "p",
+    "text": "Jon Lockman",
+    "html": "Jon Lockman"
+   },
+   {
+    "t": "quote",
+    "text": "Stiiizy, a prominent cannabis delivery service, provides quick and efficient delivery of medical marijuana products. Founded by Keith, the service aims to offer fast and reliable access to cannabis-based products in California."
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMMpbqstJ9-DyH_avatar-6-.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "User profile image"
+   },
+   {
+    "t": "p",
+    "text": "Patty Witting",
+    "html": "Patty Witting"
+   },
+   {
+    "t": "quote",
+    "text": "The cannabis clinics in Rancho Santa Fe cater to the medical needs of patients seeking cannabis-based treatments. These clinics offer professional guidance and access to a variety of medicinal cannabis products to address specific health concerns."
+   },
+   {
+    "t": "h2",
+    "text": "Testimonials"
+   },
+   {
+    "t": "p",
+    "text": "DEALS",
+    "html": "DEALS"
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/akEFElbRV8_Qf8Fb_deals.png?auto=format%2Ccompress&rect=0%2C0%2C520%2C520&w=3840&fit=max",
+    "alt": "Category image"
+   },
+   {
+    "t": "p",
+    "text": "VAPES",
+    "html": "VAPES"
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/akEFDlbRV8_Qf8FX_vapes.png?auto=format%2Ccompress&rect=0%2C0%2C520%2C520&w=3840&fit=max",
+    "alt": "Category image"
+   },
+   {
+    "t": "p",
+    "text": "FLOWER",
+    "html": "FLOWER"
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/akEFCVbRV8_Qf8FS_flowers.png?auto=format%2Ccompress&rect=0%2C0%2C520%2C520&w=3840&fit=max",
+    "alt": "Category image"
+   },
+   {
+    "t": "p",
+    "text": "PRE-ROLL",
+    "html": "PRE-ROLL"
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/akEFC1bRV8_Qf8FU_roll.png?auto=format%2Ccompress&rect=0%2C0%2C520%2C520&w=3840&fit=max",
+    "alt": "Category image"
+   },
+   {
+    "t": "p",
+    "text": "EDIBLES",
+    "html": "EDIBLES"
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/akEFFFbRV8_Qf8Fd_edibles.png?auto=format%2Ccompress&rect=0%2C0%2C520%2C520&w=3840&fit=max",
+    "alt": "Category image"
+   },
+   {
+    "t": "p",
+    "text": "EXTRACTS",
+    "html": "EXTRACTS"
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/akEFCFbRV8_Qf8FR_extracts.png?auto=format%2Ccompress&rect=0%2C0%2C520%2C520&w=3840&fit=max",
+    "alt": "Category image"
+   },
+   {
+    "t": "p",
+    "text": "DRINKS",
+    "html": "DRINKS"
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/akEFE1bRV8_Qf8Fc_drinks.png?auto=format%2Ccompress&rect=0%2C0%2C520%2C520&w=3840&fit=max",
+    "alt": "Category image"
+   },
+   {
+    "t": "p",
+    "text": "TINTURES",
+    "html": "TINTURES"
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/akEFDFbRV8_Qf8FV_tincture.png?auto=format%2Ccompress&rect=0%2C0%2C520%2C520&w=3840&fit=max",
+    "alt": "Category image"
+   },
+   {
+    "t": "p",
+    "text": "CAPSULES",
+    "html": "CAPSULES"
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/akEFEVbRV8_Qf8Fa_capsules.png?auto=format%2Ccompress&rect=0%2C0%2C520%2C520&w=3840&fit=max",
+    "alt": "Category image"
+   },
+   {
+    "t": "p",
+    "text": "TOPICALS",
+    "html": "TOPICALS"
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/akEFDVbRV8_Qf8FW_topicals.png?auto=format%2Ccompress&rect=0%2C0%2C520%2C520&w=3840&fit=max",
+    "alt": "Category image"
+   },
+   {
+    "t": "p",
+    "text": "ACCESSORIES",
+    "html": "ACCESSORIES"
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/akEFD1bRV8_Qf8FY_accessories.png?auto=format%2Ccompress&rect=0%2C0%2C520%2C520&w=3840&fit=max",
+    "alt": "Category image"
+   },
+   {
+    "t": "h2",
+    "text": "Categories"
+   },
+   {
+    "t": "p",
+    "text": "SHOP ALL",
+    "html": "SHOP ALL"
+   },
+   {
+    "t": "h2",
+    "text": "FAQS"
+   },
+   {
+    "t": "p",
+    "text": "Dispensary In Glendale",
+    "html": "Dispensary In Glendale"
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMPpbqstJ9-Dyd_LocationCard-3.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Thumbnail image of the city"
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMP5bqstJ9-Dyf_LocationCard-2.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Thumbnail image of the city"
+   },
+   {
+    "t": "p",
+    "text": "Sacramento",
+    "html": "Sacramento"
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMQJbqstJ9-Dyh_LocationCard-1.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Thumbnail image of the city"
+   },
+   {
+    "t": "p",
+    "text": "Malibu",
+    "html": "Malibu"
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMQZbqstJ9-Dyj_LocationCard.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Thumbnail image of the city"
+   },
+   {
+    "t": "p",
+    "text": "Dispensary In Glendale",
+    "html": "Dispensary In Glendale"
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMQpbqstJ9-Dyl_LocationItem.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Thumbnail image of the city"
+   },
+   {
+    "t": "h2",
+    "text": "We delivery here"
+   },
+   {
+    "t": "p",
+    "text": "$45",
+    "html": "$45"
+   },
+   {
+    "t": "p",
+    "text": "/",
+    "html": "/&nbsp;"
+   },
+   {
+    "t": "p",
+    "text": "3.5g",
+    "html": "3.5g"
+   },
+   {
+    "t": "p",
+    "text": "Tower Three - Maple Butter - 3.5G Flower",
+    "html": "Tower Three - Maple Butter - 3.5G Flower"
+   },
+   {
+    "t": "p",
+    "text": "TOWER THREE",
+    "html": "TOWER THREE"
+   },
+   {
+    "t": "p",
+    "text": "Hybrid",
+    "html": "Hybrid"
+   },
+   {
+    "t": "p",
+    "text": "THC: 24.50%",
+    "html": "THC: 24.50%"
+   },
+   {
+    "t": "p",
+    "text": "CBD: 0.10%",
+    "html": "CBD: 0.10%"
+   },
+   {
+    "t": "p",
+    "text": "PRE PACK",
+    "html": "PRE PACK"
+   },
+   {
+    "t": "p",
+    "text": "$45",
+    "html": "$45"
+   },
+   {
+    "t": "p",
+    "text": "/",
+    "html": "/&nbsp;"
+   },
+   {
+    "t": "p",
+    "text": "3.5g",
+    "html": "3.5g"
+   },
+   {
+    "t": "p",
+    "text": "Tower Three - Half Pint 4 - 3.5G Flower",
+    "html": "Tower Three - Half Pint 4 - 3.5G Flower"
+   },
+   {
+    "t": "p",
+    "text": "TOWER THREE",
+    "html": "TOWER THREE"
+   },
+   {
+    "t": "p",
+    "text": "Hybrid",
+    "html": "Hybrid"
+   },
+   {
+    "t": "p",
+    "text": "THC: 24.60%",
+    "html": "THC: 24.60%"
+   },
+   {
+    "t": "p",
+    "text": "PRE PACK",
+    "html": "PRE PACK"
+   },
+   {
+    "t": "p",
+    "text": "$45",
+    "html": "$45"
+   },
+   {
+    "t": "p",
+    "text": "/",
+    "html": "/&nbsp;"
+   },
+   {
+    "t": "p",
+    "text": "3.5g",
+    "html": "3.5g"
+   },
+   {
+    "t": "p",
+    "text": "Tower Three - Fruity Pebbles OG - 3.5G Flower",
+    "html": "Tower Three - Fruity Pebbles OG - 3.5G Flower"
+   },
+   {
+    "t": "p",
+    "text": "TOWER THREE",
+    "html": "TOWER THREE"
+   },
+   {
+    "t": "p",
+    "text": "Hybrid",
+    "html": "Hybrid"
+   },
+   {
+    "t": "p",
+    "text": "THC: 20.30%",
+    "html": "THC: 20.30%"
+   },
+   {
+    "t": "p",
+    "text": "CBD: 0.50%",
+    "html": "CBD: 0.50%"
+   },
+   {
+    "t": "p",
+    "text": "PRE PACK",
+    "html": "PRE PACK"
+   },
+   {
+    "t": "p",
+    "text": "$45",
+    "html": "$45"
+   },
+   {
+    "t": "p",
+    "text": "/",
+    "html": "/&nbsp;"
+   },
+   {
+    "t": "p",
+    "text": "3.5g",
+    "html": "3.5g"
+   },
+   {
+    "t": "p",
+    "text": "Tower Three - Dosido - 3.5G Flower",
+    "html": "Tower Three - Dosido - 3.5G Flower"
+   },
+   {
+    "t": "p",
+    "text": "TOWER THREE",
+    "html": "TOWER THREE"
+   },
+   {
+    "t": "p",
+    "text": "Indica",
+    "html": "Indica"
+   },
+   {
+    "t": "p",
+    "text": "THC: 24.20%",
+    "html": "THC: 24.20%"
+   },
+   {
+    "t": "p",
+    "text": "PRE PACK",
+    "html": "PRE PACK"
+   },
+   {
+    "t": "p",
+    "text": "$45",
+    "html": "$45"
+   },
+   {
+    "t": "p",
+    "text": "/",
+    "html": "/&nbsp;"
+   },
+   {
+    "t": "p",
+    "text": "3.5g",
+    "html": "3.5g"
+   },
+   {
+    "t": "p",
+    "text": "Tower Three - Butterstuff - 3.5G Flower",
+    "html": "Tower Three - Butterstuff - 3.5G Flower"
+   },
+   {
+    "t": "p",
+    "text": "TOWER THREE",
+    "html": "TOWER THREE"
+   },
+   {
+    "t": "p",
+    "text": "Hybrid",
+    "html": "Hybrid"
+   },
+   {
+    "t": "p",
+    "text": "THC: 23.88%",
+    "html": "THC: 23.88%"
+   },
+   {
+    "t": "p",
+    "text": "PRE PACK",
+    "html": "PRE PACK"
+   },
+   {
+    "t": "p",
+    "text": "$45",
+    "html": "$45"
+   },
+   {
+    "t": "p",
+    "text": "/",
+    "html": "/&nbsp;"
+   },
+   {
+    "t": "p",
+    "text": "3.5g",
+    "html": "3.5g"
+   },
+   {
+    "t": "p",
+    "text": "Tower Three - Deadhead OG - 3.5G Flower",
+    "html": "Tower Three - Deadhead OG - 3.5G Flower"
+   },
+   {
+    "t": "p",
+    "text": "TOWER THREE",
+    "html": "TOWER THREE"
+   },
+   {
+    "t": "p",
+    "text": "Indica",
+    "html": "Indica"
+   },
+   {
+    "t": "p",
+    "text": "THC: 30.90%",
+    "html": "THC: 30.90%"
+   },
+   {
+    "t": "p",
+    "text": "CBD: 0.09%",
+    "html": "CBD: 0.09%"
+   },
+   {
+    "t": "p",
+    "text": "PRE PACK",
+    "html": "PRE PACK"
+   },
+   {
+    "t": "p",
+    "text": "$45",
+    "html": "$45"
+   },
+   {
+    "t": "p",
+    "text": "/",
+    "html": "/&nbsp;"
+   },
+   {
+    "t": "p",
+    "text": "3.5g",
+    "html": "3.5g"
+   },
+   {
+    "t": "p",
+    "text": "Tower Three - Florida Freeze - 3.5G Flower",
+    "html": "Tower Three - Florida Freeze - 3.5G Flower"
+   },
+   {
+    "t": "p",
+    "text": "TOWER THREE",
+    "html": "TOWER THREE"
+   },
+   {
+    "t": "p",
+    "text": "Hybrid",
+    "html": "Hybrid"
+   },
+   {
+    "t": "p",
+    "text": "THC: 21.70%",
+    "html": "THC: 21.70%"
+   },
+   {
+    "t": "p",
+    "text": "CBD: 0.10%",
+    "html": "CBD: 0.10%"
+   },
+   {
+    "t": "p",
+    "text": "PRE PACK",
+    "html": "PRE PACK"
+   },
+   {
+    "t": "p",
+    "text": "$40",
+    "html": "$40"
+   },
+   {
+    "t": "p",
+    "text": "/",
+    "html": "/&nbsp;"
+   },
+   {
+    "t": "p",
+    "text": "3.5g",
+    "html": "3.5g"
+   },
+   {
+    "t": "p",
+    "text": "Doja Confetti - 3.5G Flower",
+    "html": "Doja Confetti - 3.5G Flower"
+   },
+   {
+    "t": "p",
+    "text": "DOJA",
+    "html": "DOJA"
+   },
+   {
+    "t": "p",
+    "text": "THC: 24%",
+    "html": "THC: 24%"
+   },
+   {
+    "t": "p",
+    "text": "PRE PACK",
+    "html": "PRE PACK"
+   },
+   {
+    "t": "p",
+    "text": "$40",
+    "html": "$40"
+   },
+   {
+    "t": "p",
+    "text": "/",
+    "html": "/&nbsp;"
+   },
+   {
+    "t": "p",
+    "text": "3.5g",
+    "html": "3.5g"
+   },
+   {
+    "t": "p",
+    "text": "OMG - Chocolate OG - 3.5G Flower",
+    "html": "OMG - Chocolate OG - 3.5G Flower"
+   },
+   {
+    "t": "p",
+    "text": "OMG",
+    "html": "OMG"
+   },
+   {
+    "t": "p",
+    "text": "Indica",
+    "html": "Indica"
+   },
+   {
+    "t": "p",
+    "text": "THC: 19.80%",
+    "html": "THC: 19.80%"
+   },
+   {
+    "t": "p",
+    "text": "PRE PACK",
+    "html": "PRE PACK"
+   },
+   {
+    "t": "p",
+    "text": "$40",
+    "html": "$40"
+   },
+   {
+    "t": "p",
+    "text": "/",
+    "html": "/&nbsp;"
+   },
+   {
+    "t": "p",
+    "text": "3.5g",
+    "html": "3.5g"
+   },
+   {
+    "t": "p",
+    "text": "OMG - Honey Berriez - 3.5G Flower",
+    "html": "OMG - Honey Berriez - 3.5G Flower"
+   },
+   {
+    "t": "p",
+    "text": "OMG",
+    "html": "OMG"
+   },
+   {
+    "t": "p",
+    "text": "Hybrid",
+    "html": "Hybrid"
+   },
+   {
+    "t": "p",
+    "text": "THC: 28.82%",
+    "html": "THC: 28.82%"
+   },
+   {
+    "t": "p",
+    "text": "TAC: 30.26%",
+    "html": "TAC: 30.26%"
+   },
+   {
+    "t": "p",
+    "text": "PRE PACK",
+    "html": "PRE PACK"
+   },
+   {
+    "t": "p",
+    "text": "$40",
+    "html": "$40"
+   },
+   {
+    "t": "p",
+    "text": "/",
+    "html": "/&nbsp;"
+   },
+   {
+    "t": "p",
+    "text": "3.5g",
+    "html": "3.5g"
+   },
+   {
+    "t": "p",
+    "text": "OMG - Mac 1 - 3.5G Flower",
+    "html": "OMG - Mac 1 - 3.5G Flower"
+   },
+   {
+    "t": "p",
+    "text": "OMG",
+    "html": "OMG"
+   },
+   {
+    "t": "p",
+    "text": "Hybrid",
+    "html": "Hybrid"
+   },
+   {
+    "t": "p",
+    "text": "THC: 23.61%",
+    "html": "THC: 23.61%"
+   },
+   {
+    "t": "p",
+    "text": "CBD: 0.37%",
+    "html": "CBD: 0.37%"
+   },
+   {
+    "t": "p",
+    "text": "TAC: 25.62%",
+    "html": "TAC: 25.62%"
+   },
+   {
+    "t": "p",
+    "text": "PRE PACK",
+    "html": "PRE PACK"
+   },
+   {
+    "t": "p",
+    "text": "$40",
+    "html": "$40"
+   },
+   {
+    "t": "p",
+    "text": "/",
+    "html": "/&nbsp;"
+   },
+   {
+    "t": "p",
+    "text": "3.5g",
+    "html": "3.5g"
+   },
+   {
+    "t": "p",
+    "text": "OMG - Pink Runtz - 3.5G Flower",
+    "html": "OMG - Pink Runtz - 3.5G Flower"
+   },
+   {
+    "t": "p",
+    "text": "OMG",
+    "html": "OMG"
+   },
+   {
+    "t": "p",
+    "text": "Hybrid",
+    "html": "Hybrid"
+   },
+   {
+    "t": "p",
+    "text": "THC: 22.29%",
+    "html": "THC: 22.29%"
+   },
+   {
+    "t": "p",
+    "text": "PRE PACK",
+    "html": "PRE PACK"
+   },
+   {
+    "t": "p",
+    "text": "$40",
+    "html": "$40"
+   },
+   {
+    "t": "p",
+    "text": "/",
+    "html": "/&nbsp;"
+   },
+   {
+    "t": "p",
+    "text": "3.5g",
+    "html": "3.5g"
+   },
+   {
+    "t": "p",
+    "text": "OMG - Shady Icee - 3.5G Flower",
+    "html": "OMG - Shady Icee - 3.5G Flower"
+   },
+   {
+    "t": "p",
+    "text": "OMG",
+    "html": "OMG"
+   },
+   {
+    "t": "p",
+    "text": "Hybrid",
+    "html": "Hybrid"
+   },
+   {
+    "t": "p",
+    "text": "THC: 21.57%",
+    "html": "THC: 21.57%"
+   },
+   {
+    "t": "p",
+    "text": "PRE PACK",
+    "html": "PRE PACK"
+   },
+   {
+    "t": "p",
+    "text": "$40",
+    "html": "$40"
+   },
+   {
+    "t": "p",
+    "text": "/",
+    "html": "/&nbsp;"
+   },
+   {
+    "t": "p",
+    "text": "3.5g",
+    "html": "3.5g"
+   },
+   {
+    "t": "p",
+    "text": "Bountiful - Candy Fumez - 3.5G Flower",
+    "html": "Bountiful - Candy Fumez - 3.5G Flower"
+   },
+   {
+    "t": "p",
+    "text": "BOUNTIFUL FARMS",
+    "html": "BOUNTIFUL FARMS"
+   },
+   {
+    "t": "p",
+    "text": "Hybrid",
+    "html": "Hybrid"
+   },
+   {
+    "t": "p",
+    "text": "THC: 31.12%",
+    "html": "THC: 31.12%"
+   },
+   {
+    "t": "p",
+    "text": "PRE PACK",
+    "html": "PRE PACK"
+   },
+   {
+    "t": "p",
+    "text": "$40",
+    "html": "$40"
+   },
+   {
+    "t": "p",
+    "text": "/",
+    "html": "/&nbsp;"
+   },
+   {
+    "t": "p",
+    "text": "3.5g",
+    "html": "3.5g"
+   },
+   {
+    "t": "p",
+    "text": "Bountiful - Texas Shoreline - 3.5G Flower",
+    "html": "Bountiful - Texas Shoreline - 3.5G Flower"
+   },
+   {
+    "t": "p",
+    "text": "BOUNTIFUL FARMS",
+    "html": "BOUNTIFUL FARMS"
+   },
+   {
+    "t": "p",
+    "text": "Sativa",
+    "html": "Sativa"
+   },
+   {
+    "t": "p",
+    "text": "THC: 25.37%",
+    "html": "THC: 25.37%"
+   },
+   {
+    "t": "p",
+    "text": "PRE PACK",
+    "html": "PRE PACK"
+   },
+   {
+    "t": "p",
+    "text": "$40",
+    "html": "$40"
+   },
+   {
+    "t": "p",
+    "text": "/",
+    "html": "/&nbsp;"
+   },
+   {
+    "t": "p",
+    "text": "3.5g",
+    "html": "3.5g"
+   },
+   {
+    "t": "p",
+    "text": "Bountiful - Watermellos - 3.5G Flower",
+    "html": "Bountiful - Watermellos - 3.5G Flower"
+   },
+   {
+    "t": "p",
+    "text": "BOUNTIFUL FARMS",
+    "html": "BOUNTIFUL FARMS"
+   },
+   {
+    "t": "p",
+    "text": "Sativa",
+    "html": "Sativa"
+   },
+   {
+    "t": "p",
+    "text": "THC: 25.38%",
+    "html": "THC: 25.38%"
+   },
+   {
+    "t": "p",
+    "text": "PRE PACK",
+    "html": "PRE PACK"
+   },
+   {
+    "t": "p",
+    "text": "Stock photo",
+    "html": "Stock photo"
+   },
+   {
+    "t": "p",
+    "text": "$35",
+    "html": "$35"
+   },
+   {
+    "t": "p",
+    "text": "/",
+    "html": "/&nbsp;"
+   },
+   {
+    "t": "p",
+    "text": "3.5g",
+    "html": "3.5g"
+   },
+   {
+    "t": "p",
+    "text": "Breathe Free - Guava Biscotti - 3.5G Flower",
+    "html": "Breathe Free - Guava Biscotti - 3.5G Flower"
+   },
+   {
+    "t": "p",
+    "text": "BREATH FREE",
+    "html": "BREATH FREE"
+   },
+   {
+    "t": "p",
+    "text": "THC: 32.98%",
+    "html": "THC: 32.98%"
+   },
+   {
+    "t": "p",
+    "text": "PRE PACK",
+    "html": "PRE PACK"
+   },
+   {
+    "t": "p",
+    "text": "$35",
+    "html": "$35"
+   },
+   {
+    "t": "p",
+    "text": "/",
+    "html": "/&nbsp;"
+   },
+   {
+    "t": "p",
+    "text": "3.5g",
+    "html": "3.5g"
+   },
+   {
+    "t": "p",
+    "text": "Breathe Free - Mango Smoothie - 3.5G Flower",
+    "html": "Breathe Free - Mango Smoothie - 3.5G Flower"
+   },
+   {
+    "t": "p",
+    "text": "BREATHE FREE",
+    "html": "BREATHE FREE"
+   },
+   {
+    "t": "p",
+    "text": "Indica",
+    "html": "Indica"
+   },
+   {
+    "t": "p",
+    "text": "THC: 23.09%",
+    "html": "THC: 23.09%"
+   },
+   {
+    "t": "p",
+    "text": "PRE PACK",
+    "html": "PRE PACK"
+   },
+   {
+    "t": "p",
+    "text": "$30",
+    "html": "$30"
+   },
+   {
+    "t": "p",
+    "text": "/",
+    "html": "/&nbsp;"
+   },
+   {
+    "t": "p",
+    "text": "3.5g",
+    "html": "3.5g"
+   },
+   {
+    "t": "p",
+    "text": "The Fresh Connection - Dante's Inferno - 3.5G Flower",
+    "html": "The Fresh Connection - Dante's Inferno - 3.5G Flower"
+   },
+   {
+    "t": "p",
+    "text": "THE FRESH CONNECTION",
+    "html": "THE FRESH CONNECTION"
+   },
+   {
+    "t": "p",
+    "text": "Hybrid",
+    "html": "Hybrid"
+   },
+   {
+    "t": "p",
+    "text": "THC: 22.98%",
+    "html": "THC: 22.98%"
+   },
+   {
+    "t": "p",
+    "text": "TAC: 27.76%",
+    "html": "TAC: 27.76%"
+   },
+   {
+    "t": "p",
+    "text": "PRE PACK",
+    "html": "PRE PACK"
+   },
+   {
+    "t": "p",
+    "text": "$30",
+    "html": "$30"
+   },
+   {
+    "t": "p",
+    "text": "/",
+    "html": "/&nbsp;"
+   },
+   {
+    "t": "p",
+    "text": "3.5g",
+    "html": "3.5g"
+   },
+   {
+    "t": "p",
+    "text": "The Fresh Connection - Mucho Melon - 3.5G Flower",
+    "html": "The Fresh Connection - Mucho Melon - 3.5G Flower"
+   },
+   {
+    "t": "p",
+    "text": "THE FRESH CONNECTION",
+    "html": "THE FRESH CONNECTION"
+   },
+   {
+    "t": "p",
+    "text": "Sativa",
+    "html": "Sativa"
+   },
+   {
+    "t": "p",
+    "text": "THC: 30.02%",
+    "html": "THC: 30.02%"
+   },
+   {
+    "t": "p",
+    "text": "TAC: 36.17%",
+    "html": "TAC: 36.17%"
+   },
+   {
+    "t": "p",
+    "text": "PRE PACK",
+    "html": "PRE PACK"
+   },
+   {
+    "t": "p",
+    "text": "$25",
+    "html": "$25"
+   },
+   {
+    "t": "p",
+    "text": "/",
+    "html": "/&nbsp;"
+   },
+   {
+    "t": "p",
+    "text": "3.5g",
+    "html": "3.5g"
+   },
+   {
+    "t": "p",
+    "text": "Mass Yield - Peanut Butter Gelato - 3.5G Flower",
+    "html": "Mass Yield - Peanut Butter Gelato - 3.5G Flower"
+   },
+   {
+    "t": "p",
+    "text": "MASS YIELD",
+    "html": "MASS YIELD"
+   },
+   {
+    "t": "p",
+    "text": "Indica",
+    "html": "Indica"
+   },
+   {
+    "t": "p",
+    "text": "THC: 22.39%",
+    "html": "THC: 22.39%"
+   },
+   {
+    "t": "p",
+    "text": "TAC: 26.6%",
+    "html": "TAC: 26.6%"
+   },
+   {
+    "t": "p",
+    "text": "PRE PACK",
+    "html": "PRE PACK"
+   },
+   {
+    "t": "p",
+    "text": "$25",
+    "html": "$25"
+   },
+   {
+    "t": "p",
+    "text": "/",
+    "html": "/&nbsp;"
+   },
+   {
+    "t": "p",
+    "text": "3.5g",
+    "html": "3.5g"
+   },
+   {
+    "t": "p",
+    "text": "Mass Yield - Inzane in the Membrane - 3.5G Flower",
+    "html": "Mass Yield - Inzane in the Membrane - 3.5G Flower"
+   },
+   {
+    "t": "p",
+    "text": "MASS YIELD",
+    "html": "MASS YIELD"
+   },
+   {
+    "t": "p",
+    "text": "Sativa",
+    "html": "Sativa"
+   },
+   {
+    "t": "p",
+    "text": "THC: 22.73%",
+    "html": "THC: 22.73%"
+   },
+   {
+    "t": "p",
+    "text": "TAC: 27.66%",
+    "html": "TAC: 27.66%"
+   },
+   {
+    "t": "p",
+    "text": "PRE PACK",
+    "html": "PRE PACK"
+   },
+   {
+    "t": "p",
+    "text": "$25",
+    "html": "$25"
+   },
+   {
+    "t": "p",
+    "text": "/",
+    "html": "/&nbsp;"
+   },
+   {
+    "t": "p",
+    "text": "3.5g",
+    "html": "3.5g"
+   },
+   {
+    "t": "p",
+    "text": "Impressed - Apples and Banana - 3.5G Flower",
+    "html": "Impressed - Apples and Banana - 3.5G Flower"
+   },
+   {
+    "t": "p",
+    "text": "IMPRESSED",
+    "html": "IMPRESSED"
+   },
+   {
+    "t": "p",
+    "text": "Hybrid",
+    "html": "Hybrid"
+   },
+   {
+    "t": "p",
+    "text": "THC: 22.09%",
+    "html": "THC: 22.09%"
+   },
+   {
+    "t": "p",
+    "text": "TAC: 26.15%",
+    "html": "TAC: 26.15%"
+   },
+   {
+    "t": "p",
+    "text": "PRE PACK",
+    "html": "PRE PACK"
+   },
+   {
+    "t": "p",
+    "text": "$25",
+    "html": "$25"
+   },
+   {
+    "t": "p",
+    "text": "/",
+    "html": "/&nbsp;"
+   },
+   {
+    "t": "p",
+    "text": "3.5g",
+    "html": "3.5g"
+   },
+   {
+    "t": "p",
+    "text": "Mass Yield - Rasta Pie - 3.5G Flower",
+    "html": "Mass Yield - Rasta Pie - 3.5G Flower"
+   },
+   {
+    "t": "p",
+    "text": "MASS YIELD",
+    "html": "MASS YIELD"
+   },
+   {
+    "t": "p",
+    "text": "Indica",
+    "html": "Indica"
+   },
+   {
+    "t": "p",
+    "text": "THC: 25.51%",
+    "html": "THC: 25.51%"
+   },
+   {
+    "t": "p",
+    "text": "TAC: 30.85%",
+    "html": "TAC: 30.85%"
+   },
+   {
+    "t": "p",
+    "text": "PRE PACK",
+    "html": "PRE PACK"
+   },
+   {
+    "t": "p",
+    "text": "See All",
+    "html": "See All"
+   },
+   {
+    "t": "h2",
+    "text": "Best Seller"
+   },
+   {
+    "t": "p",
+    "text": "See All",
+    "html": "See All"
+   }
+  ],
+  "faqs": [
+   {
+    "q": "How can I ensure the quality and safety of the cannabis products I purchase online?",
+    "a": [
+     {
+      "t": "p",
+      "text": "To ensure the quality and safety of cannabis products purchased online, buy only from licensed and reputable dispensaries that provide third-party lab test results verifying the product's potency, purity, and the absence of contaminants. Check for clear labeling of ingredients and dosages, and read customer reviews to gauge the dispensary's reliability. Additionally, be aware of your local regulations regarding online cannabis purchases to ensure compliance with legal requirements.",
+      "html": "To ensure the quality and safety of cannabis products purchased online, buy only from licensed and reputable dispensaries that provide third-party lab test results verifying the product's potency, purity, and the absence of contaminants. Check for clear labeling of ingredients and dosages, and read customer reviews to gauge the dispensary's reliability. Additionally, be aware of your local regulations regarding online cannabis purchases to ensure compliance with legal requirements."
+     }
+    ]
+   },
+   {
+    "q": "What are the best consumption methods for maximizing the benefits of cannabis edibles?",
+    "a": [
+     {
+      "t": "p",
+      "text": "The best methods for maximizing the benefits of cannabis edibles include starting with a low dose to gauge your tolerance and gradually increasing it. Consuming edibles with a meal, particularly one containing fats, can enhance the absorption of cannabinoids. Additionally, allowing sufficient time for the effects to set in—usually between 30 minutes to 2 hours—is crucial to avoid overconsumption. Staying hydrated and having a comfortable environment can also improve the overall experience.",
+      "html": "The best methods for maximizing the benefits of cannabis edibles include starting with a low dose to gauge your tolerance and gradually increasing it. Consuming edibles with a meal, particularly one containing fats, can enhance the absorption of cannabinoids. Additionally, allowing sufficient time for the effects to set in—usually between 30 minutes to 2 hours—is crucial to avoid overconsumption. Staying hydrated and having a comfortable environment can also improve the overall experience."
+     }
+    ]
+   },
+   {
+    "q": "How can cannabis-based skincare products help improve skin health and appearance?",
+    "a": [
+     {
+      "t": "p",
+      "text": "Cannabis-based skincare products can improve skin health and appearance through the anti-inflammatory and antioxidant properties of cannabinoids like CBD. These properties can help reduce redness, irritation, and acne, promoting a clearer complexion. Additionally, cannabis compounds can aid in regulating oil production, providing hydration without clogging pores. The antioxidants in cannabis also help protect the skin from environmental damage, slowing the signs of aging and improving overall skin texture.",
+      "html": "Cannabis-based skincare products can improve skin health and appearance through the anti-inflammatory and antioxidant properties of cannabinoids like CBD. These properties can help reduce redness, irritation, and acne, promoting a clearer complexion. Additionally, cannabis compounds can aid in regulating oil production, providing hydration without clogging pores. The antioxidants in cannabis also help protect the skin from environmental damage, slowing the signs of aging and improving overall skin texture."
+     }
+    ]
+   },
+   {
+    "q": "How do different strains of cannabis affect mood and energy levels?",
+    "a": [
+     {
+      "t": "p",
+      "text": "Different strains of cannabis can significantly impact mood and energy levels due to variations in their cannabinoid and terpene profiles. Sativa strains are typically associated with uplifting and energizing effects, often enhancing creativity and focus. Indica strains, on the other hand, are known for their relaxing and sedative properties, which can promote calmness and help with sleep. Hybrid strains, which combine elements of both sativa and indica, can offer a balanced effect, tailored to specific needs based on their genetic makeup. The presence of specific terpenes like limonene, pinene, and myrcene also plays a crucial role in modulating these effects, contributing to the overall experience.",
+      "html": "Different strains of cannabis can significantly impact mood and energy levels due to variations in their cannabinoid and terpene profiles. Sativa strains are typically associated with uplifting and energizing effects, often enhancing creativity and focus. Indica strains, on the other hand, are known for their relaxing and sedative properties, which can promote calmness and help with sleep. Hybrid strains, which combine elements of both sativa and indica, can offer a balanced effect, tailored to specific needs based on their genetic makeup. The presence of specific terpenes like limonene, pinene, and myrcene also plays a crucial role in modulating these effects, contributing to the overall experience."
+     }
+    ]
+   },
+   {
+    "q": "What are the key differences between CBD and THC products in terms of effects?",
+    "a": [
+     {
+      "t": "p",
+      "text": "CBD (cannabidiol) and THC (tetrahydrocannabinol) are both compounds found in cannabis, but they have distinct effects. THC is psychoactive and produces the \"high\" associated with marijuana use, affecting perception, mood, and cognitive function. It can cause euphoria, relaxation, and increased appetite, but may also lead to anxiety and paranoia in some individuals. In contrast, CBD is non-psychoactive and does not produce a high. It is often used for its potential therapeutic benefits, such as reducing anxiety, inflammation, and pain, and it may have neuroprotective properties. CBD products are generally considered safe and are used for medical purposes without the intoxicating effects of THC.",
+      "html": "CBD (cannabidiol) and THC (tetrahydrocannabinol) are both compounds found in cannabis, but they have distinct effects. THC is psychoactive and produces the \"high\" associated with marijuana use, affecting perception, mood, and cognitive function. It can cause euphoria, relaxation, and increased appetite, but may also lead to anxiety and paranoia in some individuals. In contrast, CBD is non-psychoactive and does not produce a high. It is often used for its potential therapeutic benefits, such as reducing anxiety, inflammation, and pain, and it may have neuroprotective properties. CBD products are generally considered safe and are used for medical purposes without the intoxicating effects of THC."
+     }
+    ]
+   },
+   {
+    "q": "What are the benefits of using CBD oil for pain relief and relaxation?",
+    "a": [
+     {
+      "t": "p",
+      "text": "CBD oil is widely used for pain relief and relaxation due to its potential anti-inflammatory and analgesic properties. It interacts with the endocannabinoid system in the body, which plays a role in regulating pain and mood. CBD oil can help reduce chronic pain, such as arthritis or neuropathic pain, without the psychoactive effects associated with THC. Additionally, it may promote relaxation and reduce anxiety, making it beneficial for people with stress-related disorders. Some users also report improved sleep quality and overall well-being.",
+      "html": "CBD oil is widely used for pain relief and relaxation due to its potential anti-inflammatory and analgesic properties. It interacts with the endocannabinoid system in the body, which plays a role in regulating pain and mood. CBD oil can help reduce chronic pain, such as arthritis or neuropathic pain, without the psychoactive effects associated with THC. Additionally, it may promote relaxation and reduce anxiety, making it beneficial for people with stress-related disorders. Some users also report improved sleep quality and overall well-being."
+     }
+    ]
+   }
+  ],
+  "forms": [],
+  "iframes": [],
+  "buttons": [
+   "Previous",
+   "Next",
+   "Previous",
+   "Next",
+   "Previous",
+   "Next",
+   "Add To Cart",
+   "Add To Cart",
+   "Add To Cart",
+   "Add To Cart",
+   "Add To Cart",
+   "Add To Cart",
+   "Add To Cart",
+   "Add To Cart",
+   "Add To Cart",
+   "Add To Cart",
+   "Add To Cart",
+   "Add To Cart",
+   "Add To Cart",
+   "Add To Cart",
+   "Add To Cart",
+   "Add To Cart",
+   "Add To Cart",
+   "Add To Cart",
+   "Add To Cart",
+   "Add To Cart",
+   "Add To Cart",
+   "Add To Cart",
+   "Add To Cart",
+   "Add To Cart",
+   "Previous",
+   "Next"
+  ],
+  "links": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "+1 (413) 350-5034",
+    "href": "tel:4133505034"
+   },
+   {
+    "label": "info@sonnydayz.com",
+    "href": "mailto:info@sonnydayz.com"
+   },
+   {
+    "label": "105 Greenfield Rd, South Deerfield, MA 01373",
+    "href": "/"
+   },
+   {
+    "label": "DEALS",
+    "href": "/deals"
+   },
+   {
+    "label": "VAPES",
+    "href": "/collection/cartridge"
+   },
+   {
+    "label": "FLOWER",
+    "href": "/collection/flower"
+   },
+   {
+    "label": "PRE-ROLL",
+    "href": "/collection/preroll"
+   },
+   {
+    "label": "EDIBLES",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "EXTRACTS",
+    "href": "/collection/extract"
+   },
+   {
+    "label": "DRINKS",
+    "href": "/collection/beverage"
+   },
+   {
+    "label": "TINTURES",
+    "href": "/collection/tincture"
+   },
+   {
+    "label": "CAPSULES",
+    "href": "/collection/pill"
+   },
+   {
+    "label": "TOPICALS",
+    "href": "/collection/topical"
+   },
+   {
+    "label": "ACCESSORIES",
+    "href": "/collection/merch"
+   },
+   {
+    "label": "SHOP ALL",
+    "href": "/shop"
+   },
+   {
+    "label": "Dispensary In Glendale",
+    "href": "/weed-delivery/dispensary-in-glendale"
+   },
+   {
+    "label": "Santa Monica Coastal Bliss, Cannabis Delight",
+    "href": "/weed-delivery/dispensary-in-glendale"
+   },
+   {
+    "label": "Sacramento",
+    "href": "/weed-delivery/dispensary-in-glendale"
+   },
+   {
+    "label": "Malibu",
+    "href": "/weed-delivery/dispensary-in-glendale"
+   },
+   {
+    "label": "Dispensary In Glendale",
+    "href": "/weed-delivery/dispensary-in-glendale"
+   },
+   {
+    "label": "See All",
+    "href": "/shop"
+   },
+   {
+    "label": "See All",
+    "href": "/shop"
+   }
+  ],
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "Sunny Dayz Cannabis Dispensary"
+      },
+      "position": 2
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "Store",
+    "@id": "https://www.sunnydayzcannabis.com/dispensary/sunny-dayz/a9e53d8f-066e-4d22-9a96-2c4b5c4e0181",
+    "name": "Sunny Dayz",
+    "telephone": "4133505034",
+    "url": "/dispensary/sunny-dayz",
+    "address": {
+     "@type": "PostalAddress",
+     "addressCountry": "US",
+     "addressLocality": "South Deerfield",
+     "addressRegion": "MA",
+     "postalCode": "01373",
+     "streetAddress": "105 Greenfield Rd"
+    },
+    "geo": {
+     "latitude": "42.486377",
+     "longitude": "-72.6137382",
+     "@type": "GeoCoordinates"
+    },
+    "openingHoursSpecification": []
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+     {
+      "@type": "Question",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "To ensure the quality and safety of cannabis products purchased online, buy only from licensed and reputable dispensaries that provide third-party lab test results verifying the product&apos;s potency, purity, and the absence of contaminants. Check for clear labeling of ingredients and dosages, and read customer reviews to gauge the dispensary&apos;s reliability. Additionally, be aware of your local regulations regarding online cannabis purchases to ensure compliance with legal requirements."
+      },
+      "name": "How can I ensure the quality and safety of the cannabis products I purchase online?"
+     },
+     {
+      "@type": "Question",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "The best methods for maximizing the benefits of cannabis edibles include starting with a low dose to gauge your tolerance and gradually increasing it. Consuming edibles with a meal, particularly one containing fats, can enhance the absorption of cannabinoids. Additionally, allowing sufficient time for the effects to set in—usually between 30 minutes to 2 hours—is crucial to avoid overconsumption. Staying hydrated and having a comfortable environment can also improve the overall experience."
+      },
+      "name": "What are the best consumption methods for maximizing the benefits of cannabis edibles?"
+     },
+     {
+      "@type": "Question",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Cannabis-based skincare products can improve skin health and appearance through the anti-inflammatory and antioxidant properties of cannabinoids like CBD. These properties can help reduce redness, irritation, and acne, promoting a clearer complexion. Additionally, cannabis compounds can aid in regulating oil production, providing hydration without clogging pores. The antioxidants in cannabis also help protect the skin from environmental damage, slowing the signs of aging and improving overall skin texture."
+      },
+      "name": "How can cannabis-based skincare products help improve skin health and appearance?"
+     },
+     {
+      "@type": "Question",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "Different strains of cannabis can significantly impact mood and energy levels due to variations in their cannabinoid and terpene profiles. Sativa strains are typically associated with uplifting and energizing effects, often enhancing creativity and focus. Indica strains, on the other hand, are known for their relaxing and sedative properties, which can promote calmness and help with sleep. Hybrid strains, which combine elements of both sativa and indica, can offer a balanced effect, tailored to specific needs based on their genetic makeup. The presence of specific terpenes like limonene, pinene, and myrcene also plays a crucial role in modulating these effects, contributing to the overall experience."
+      },
+      "name": "How do different strains of cannabis affect mood and energy levels?"
+     },
+     {
+      "@type": "Question",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "CBD (cannabidiol) and THC (tetrahydrocannabinol) are both compounds found in cannabis, but they have distinct effects. THC is psychoactive and produces the &quot;high&quot; associated with marijuana use, affecting perception, mood, and cognitive function. It can cause euphoria, relaxation, and increased appetite, but may also lead to anxiety and paranoia in some individuals. In contrast, CBD is non-psychoactive and does not produce a high. It is often used for its potential therapeutic benefits, such as reducing anxiety, inflammation, and pain, and it may have neuroprotective properties. CBD products are generally considered safe and are used for medical purposes without the intoxicating effects of THC."
+      },
+      "name": "What are the key differences between CBD and THC products in terms of effects?"
+     },
+     {
+      "@type": "Question",
+      "acceptedAnswer": {
+       "@type": "Answer",
+       "text": "CBD oil is widely used for pain relief and relaxation due to its potential anti-inflammatory and analgesic properties. It interacts with the endocannabinoid system in the body, which plays a role in regulating pain and mood. CBD oil can help reduce chronic pain, such as arthritis or neuropathic pain, without the psychoactive effects associated with THC. Additionally, it may promote relaxation and reduce anxiety, making it beneficial for people with stress-related disorders. Some users also report improved sleep quality and overall well-being."
+      },
+      "name": "What are the benefits of using CBD oil for pain relief and relaxation?"
+     }
+    ]
+   }
+  ]
+ }
+}

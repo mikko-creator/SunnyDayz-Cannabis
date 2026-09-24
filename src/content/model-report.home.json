@@ -1,0 +1,22 @@
+{
+ "schema": "sunnydayz/model-report@1",
+ "generated": "2026-09-23T05:39:53.385Z",
+ "min": 0.98,
+ "byType": {
+  "home": {
+   "pages": 1,
+   "errors": 0,
+   "below": 0,
+   "minCoverage": 1
+  }
+ },
+ "pages": [
+  {
+   "url": "https://www.sunnydayzcannabis.com/",
+   "type": "home",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  }
+ ]
+}

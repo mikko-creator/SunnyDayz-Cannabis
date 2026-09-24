@@ -1,0 +1,135 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-strawberry-cream-party-rosin-chocolate-100-mg-edible-100-milligrams",
+ "slug": "product-ahh-moments-ahh-moments-strawberry-cream-party-rosin-chocolate-100-mg-edible-100-milligrams",
+ "type": "product",
+ "title": "AHH MOMENTS - Ahh Moments | Strawberry Cream Party Rosin | Chocolate",
+ "seoTitle": "AHH MOMENTS - Ahh Moments | Strawberry Cream Party Rosin | Chocolate",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Ahh Moments | Strawberry Cream Party Rosin | Chocolate",
+    "href": null
+   }
+  ],
+  "h1": "Ahh Moments | Strawberry Cream Party Rosin | Chocolate",
+  "name": "Ahh Moments | Strawberry Cream Party Rosin | Chocolate",
+  "brand": {
+   "label": "AHH MOMENTS",
+   "href": "/brand/ahh-moments"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Sativa",
+   "key": "sativa",
+   "ariaLabel": "Flower type: Sativa"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "CHOCOLATE",
+    "href": "/collection/edible/chocolate"
+   }
+  ],
+  "image": {
+   "src": "",
+   "alt": "Ahh Moments | Strawberry Cream Party Rosin | Chocolate",
+   "placeholder": true
+  },
+  "images": [
+   {
+    "src": "",
+    "alt": "Ahh Moments | Strawberry Cream Party Rosin | Chocolate",
+    "placeholder": true
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": true,
+  "stockPhotoLabel": "Stock photo",
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "100MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Indulge in Ahh Moments Strawberry Cream Party Rosin Chocolate, a 100mg sativa edible that blends decadent chocolate with luscious strawberry cream flavors. Crafted with premium rosin, this delicious treat delivers an uplifting, energetic experience perfect for social gatherings or creative pursuits. Each bite combines rich, creamy sweetness with the smooth essence of ripe strawberries, creating a party-ready confection that tastes as good as it feels. The sativa classification provides a euphoric, focused boost that keeps you happy and engaged. Whether you're celebrating with friends or treating yourself, this rosin-infused chocolate offers a flavorful escape with elevated effects. Experience the difference of quality rosin extraction in every creamy, strawberry-kissed square.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "AHH MOMENTS",
+    "href": "/brand/ahh-moments"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Sativa",
+    "href": "/strain/Sativa"
+   },
+   {
+    "label": "THC",
+    "value": "100MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Ahh Moments Strawberry Cream Party Rosin Chocolate 100 Mg"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

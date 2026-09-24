@@ -1,0 +1,164 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/bubby-s-bubby-s-chocolate-chip-baked-goods-5mg-5-mg-edible-5-milligrams",
+ "slug": "product-bubby-s-bubby-s-chocolate-chip-baked-goods-5mg-5-mg-edible-5-milligrams",
+ "type": "product",
+ "title": "BUBBY'S - Bubby's - Chocolate Chip Baked Goods - 5mg",
+ "seoTitle": "BUBBY'S - Bubby's - Chocolate Chip Baked Goods - 5mg",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Bubby's - Chocolate Chip Baked Goods - 5mg",
+    "href": null
+   }
+  ],
+  "h1": "Bubby's - Chocolate Chip Baked Goods - 5mg",
+  "name": "Bubby's - Chocolate Chip Baked Goods - 5mg",
+  "brand": {
+   "label": "BUBBY'S",
+   "href": "/brand/bubbys"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "BAKED GOOD",
+    "href": "/collection/edible/baked-good"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f6337bcc-aa71-4a7e-8e5a-b88630899152?w=3840&q=100",
+   "alt": "Bubby's - Chocolate Chip Baked Goods - 5mg"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f6337bcc-aa71-4a7e-8e5a-b88630899152?w=3840&q=100",
+    "alt": "Bubby's - Chocolate Chip Baked Goods - 5mg"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "5MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Bubby's Chocolate Chip Baked Goods bring the classic comfort of fresh-baked cookies to your cannabis experience with a precisely dosed 5mg THC edible that's perfect for both new and experienced users. Each delicious baked good delivers a low dose option that allows for easy control and customization of your experience, making it ideal for microdosing or enjoying throughout the day. The rich chocolate chip flavor satisfies your sweet tooth while providing a discreet and convenient consumption method. These baked treats offer a relaxed and uplifted experience that can enhance your mood without overwhelming effects. Whether you're unwinding after a long day or seeking gentle relief, Bubby's combines artisanal quality with consistent dosing. The familiar taste of chocolate chip cookies makes this edible approachable and enjoyable for anyone looking to explore cannabis-infused baked goods in a delicious, accessible format.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "each",
+    "price": "$10",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$10",
+   "original": null,
+   "ariaLabel": "Product price: $10"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Bubby's - Chocolate Chip Baked Goods - 5mg to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Bubby's - Chocolate Chip Baked Goods - 5mg to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "BUBBYS",
+    "href": "/brand/bubbys"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "5MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Bubbys Chocolate Chip Baked Goods 5 Mg 5 Mg"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

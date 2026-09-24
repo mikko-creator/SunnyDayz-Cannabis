@@ -1,0 +1,127 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/sugaree-sugaree-strawana-1g-cart-melted-diamonds-1-g-cartridge-1-grams",
+ "slug": "product-sugaree-sugaree-strawana-1g-cart-melted-diamonds-1-g-cartridge-1-grams",
+ "type": "product",
+ "title": "SUGAREE - Sugaree - Strawana - 1G Cart - Melted Diamonds",
+ "seoTitle": "SUGAREE - Sugaree - Strawana - 1G Cart - Melted Diamonds",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Cartridge",
+    "href": "/collection/cartridge"
+   },
+   {
+    "label": "Sugaree - Strawana - 1G Cart - Melted Diamonds",
+    "href": null
+   }
+  ],
+  "h1": "Sugaree - Strawana - 1G Cart - Melted Diamonds",
+  "name": "Sugaree - Strawana - 1G Cart - Melted Diamonds",
+  "brand": {
+   "label": "SUGAREE",
+   "href": "/brand/sugaree"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Cartridge",
+   "href": "/collection/cartridge"
+  },
+  "subcategories": [
+   {
+    "label": "510 THREAD",
+    "href": "/collection/cartridge/510-thread"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d4a85115-dc67-451d-b049-d114a26259be?w=3840&q=100",
+   "alt": "Sugaree - Strawana - 1G Cart - Melted Diamonds"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d4a85115-dc67-451d-b049-d114a26259be?w=3840&q=100",
+    "alt": "Sugaree - Strawana - 1G Cart - Melted Diamonds"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": null,
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [],
+  "disclaimer": null,
+  "description": "Sugaree's Strawana 1G Cartridge delivers a premium melted diamonds experience in a convenient 510 thread format. This hybrid vape cart combines potent THC diamonds with rich terpenes for exceptional flavor and balanced effects. The Strawana strain profile features luscious strawberry and tropical banana notes that create a sweet, fruity aroma with every pull. Expect uplifting cerebral energy paired with gentle body relaxation—perfect for creative sessions or social gatherings. The melted diamonds extraction process preserves maximum cannabinoids and terpenes, ensuring smooth hits and full-spectrum effects. Compatible with any standard 510 battery, this 1 gram cartridge offers portability without sacrificing quality. Whether you're seeking focus, euphoria, or simply a delicious vaping experience, Sugaree's Strawana cart brings craft cannabis concentrates to your fingertips.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "SUGAREE",
+    "href": "/brand/sugaree"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "Package Info",
+    "value": "Sugaree Strawana 1 G Cart Melted Diamonds 1 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "1g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

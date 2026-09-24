@@ -1,0 +1,87 @@
+/* redesign-motion.css — the redesign's own motion. The source's 52 keyframes stay verbatim in
+   motion.css (C11); nothing here edits them.
+   Two paths for scroll-through motion:
+     1. native scroll-driven animations (animation-timeline: view()/scroll()) where supported;
+     2. otherwise site.js adds .is-in via IntersectionObserver and transitions do the work.
+   prefers-reduced-motion switches all of it off — the source site had no such block. */
+
+@keyframes sdz-grain { 0% { transform: translate(0, 0); } 25% { transform: translate(-3%, 2%); } 50% { transform: translate(2%, -3%); } 75% { transform: translate(-2%, -1%); } 100% { transform: translate(0, 0); } }
+@keyframes sdz-marquee { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+@keyframes sdz-rise { from { opacity: 0; transform: translateY(48px); filter: blur(6px); } to { opacity: 1; transform: none; filter: none; } }
+@keyframes sdz-pop-in { from { opacity: 0; transform: translateY(40px); } to { opacity: 1; transform: none; } }
+@keyframes sdz-cut-rise { from { transform: translateY(18%) scale(0.94); } to { transform: translateY(-3%) scale(1.02); } }
+@keyframes sdz-parallax-slow { from { transform: translateY(12%); } to { transform: translateY(-12%); } }
+@keyframes sdz-parallax-fast { from { transform: translateY(30%) rotate(-4deg); } to { transform: translateY(-30%) rotate(4deg); } }
+@keyframes sdz-outline-drift { from { transform: translate(4px, 4px) rotate(-0.5deg); } to { transform: translate(24px, 28px) rotate(-3.5deg); } }
+@keyframes sdz-hero-settle { from { transform: scale(1); filter: saturate(1); } to { transform: scale(1.12); filter: saturate(0.85) brightness(0.8); } }
+@keyframes sdz-hero-copy { from { opacity: 1; transform: none; } to { opacity: 0; transform: translateY(-60px); } }
+@keyframes sdz-bar-grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+@keyframes sdz-float { 0%, 100% { transform: translateY(0) rotate(0deg); } 50% { transform: translateY(-10px) rotate(1.5deg); } }
+@keyframes sdz-spin-slow { to { transform: rotate(360deg); } }
+@keyframes sdz-shine { from { background-position: 200% 0; } to { background-position: -200% 0; } }
+
+/* ---------- path 2 (default): observer-driven reveal ---------- */
+.reveal { opacity: 0; transform: translateY(44px); filter: blur(5px); transition: opacity 900ms var(--ease-out), transform 1100ms var(--ease-out), filter 900ms var(--ease-out); transition-delay: calc(var(--i, 0) * 70ms); }
+.reveal.is-in { opacity: 1; transform: none; filter: none; }
+.no-js .reveal { opacity: 1; transform: none; filter: none; }
+.bar__fill { transform: scaleX(0); transition: transform 1400ms var(--ease-out) 200ms; }
+.is-in .bar__fill, .bar.is-in .bar__fill { transform: scaleX(1); }
+.no-js .bar__fill { transform: none; }
+.float { animation: sdz-float 7s ease-in-out infinite; }
+.sun-orb--spin { animation: sdz-spin-slow 80s linear infinite; }
+
+/* ---------- path 1: native scroll-driven animation where supported ---------- */
+@supports (animation-timeline: view()) {
+  /* every view() here is view(block auto 0px): the end inset is pinned to 0 because the default (auto)
+     takes html's scroll-padding-bottom — 96px on phones, reserved so focus clears the dock — and every
+     reveal then finished 96px later.
+     a fixed-length range (the first 30vh after the element's top enters), not a cover %: a cover %
+     grows with the element's height, so a tall post body or buy box stayed blurred while being read.
+     .is-shown (site.js) = already on screen when the page loads: shown whole, never mid-reveal. */
+  .reveal, .reveal.is-in { opacity: 1; transform: none; filter: none; transition: none;
+    animation: sdz-rise linear both; animation-timeline: view(block auto 0px); animation-range: entry 0% entry 30vh; }
+  .reveal--pop, .reveal--pop.is-in { animation-name: sdz-pop-in; }
+  .reveal.is-shown { animation: none; }
+  .pop__cut.scroll-rise { animation: sdz-cut-rise linear both; animation-timeline: view(block auto 0px); animation-range: entry 10% cover 60%; }
+  .pop__outline.scroll-drift { animation: sdz-outline-drift linear both; animation-timeline: view(block auto 0px); animation-range: entry 0% exit 20%; }
+  .parallax-slow { animation: sdz-parallax-slow linear both; animation-timeline: view(block auto 0px); animation-range: cover; }
+  .parallax-fast { animation: sdz-parallax-fast linear both; animation-timeline: view(block auto 0px); animation-range: cover; }
+  .hero__video, .hero__poster { animation: sdz-hero-settle linear both; animation-timeline: scroll(root block); animation-range: 0 90vh; }
+  .hero__content, .hero__controls { animation: sdz-hero-copy linear both; animation-timeline: scroll(root block); animation-range: 10vh 70vh; }
+  /* landscape phones / very short windows: the CTAs only clear the dock after some scroll, so the
+     copy fades later — otherwise it is faint by the time it is reachable */
+  @media (max-height: 520px) { .hero__content, .hero__controls { animation-range: 45vh 110vh; } }
+  /* single-image stacks: frame and ring share one timeline (the stack's), so the ring's offset stays
+     constant instead of outlining an empty band as the frame drifts */
+  .layered--single { view-timeline-name: --single; view-timeline-inset: auto 0px; }
+  .layered--single .layered__a.parallax-slow, .layered--single .layered__ring { animation: sdz-parallax-slow linear both; animation-timeline: --single; animation-range: cover; }
+  .bar__fill, .is-in .bar__fill { transform: none; transition: none; animation: sdz-bar-grow linear both; animation-timeline: view(block auto 0px); animation-range: entry 20% cover 45%; }
+  .rail__progress span { transition: none; }
+  /* tagline wall: the lines rise as the band crosses the viewport — user-driven, never automatic */
+  .tagline-band__track { animation: sdz-type-rise linear both; animation-timeline: --tb; animation-range: cover; }
+}
+@keyframes sdz-type-rise { from { transform: translateY(0); } to { transform: translateY(calc(-3 * var(--tb-line))); } }
+/* phones: a smaller outline drift that stays inside the gutter */
+@keyframes sdz-outline-drift-sm { from { transform: translate(3px, 3px) rotate(-0.4deg); } to { transform: translate(10px, 12px) rotate(-1.6deg); } }
+@media (max-width: 600px) { .pop__outline.scroll-drift { animation-name: sdz-outline-drift-sm; } }
+/* a hover transform on the cut-out would fight the scroll animation for the same property:
+   the scroll-rise cut-outs lift through `scale` instead, which composes with `transform`. */
+.pop__cut.scroll-rise { transition: scale 800ms var(--ease-spring); }
+.pop:hover .pop__cut.scroll-rise, a:hover > .pop .pop__cut.scroll-rise { transform: none; scale: 1.06; }
+
+/* ---------- hover depth (pointer devices only) ---------- */
+@media (hover: hover) and (pointer: fine) {
+  [data-tilt] { transform-style: preserve-3d; will-change: transform; }
+  .magnet { transition: transform 400ms var(--ease-out); }
+}
+
+/* ---------- reduced motion ---------- */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: 0.001ms !important; animation-iteration-count: 1 !important; transition-duration: 0.001ms !important; scroll-behavior: auto !important; }
+  .reveal, .reveal.is-in { opacity: 1 !important; transform: none !important; filter: none !important; animation: none !important; }
+  .tagline-band__track { animation: none !important; transform: none !important; }
+  body::before { animation: none !important; }
+  .hero__video, .hero__poster, .hero__content, .hero__controls, .parallax-slow, .parallax-fast, .pop__cut, .pop__outline, .layered--single .layered__ring { animation: none !important; transform: none !important; }
+  .bar__fill { transform: none !important; animation: none !important; }
+  .pcard { transform: none !important; }
+}

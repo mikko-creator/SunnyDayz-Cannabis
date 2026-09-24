@@ -1,0 +1,139 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/collection/merch/battery",
+ "slug": "collection-merch-battery",
+ "type": "collection",
+ "title": "BATTERY",
+ "seoTitle": "BATTERY",
+ "model": {
+  "kind": "collection",
+  "level": "subcategory",
+  "path": "/collection/merch/battery",
+  "category": "merch",
+  "subcategory": "battery",
+  "parentPath": "/collection/merch",
+  "sortParam": null,
+  "capture": {
+   "matchesUrl": true,
+   "signal": null,
+   "observed": null
+  },
+  "h1": "BATTERY",
+  "banner": {
+   "title": "BATTERY",
+   "description": "Best BATTERY",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMq5bqstJ9-D0W_CategoriesBanner-29.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMrJbqstJ9-D0X_CategoriesBanner-28.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "BATTERY",
+    "href": null
+   }
+  ],
+  "categoryLinks": [],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "loading",
+  "emptyState": null,
+  "cards": [],
+  "productCount": 1,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/sunnydayz-sunnydayz-battery-one-size-merch",
+    "name": "Sunnydayz Battery",
+    "brand": "SUNNYDAYZ",
+    "description": "Power up your sessions with the SunnyDayz Battery, the essential accessory for vape enthusiasts seeking reliable, consistent performance. This sleek, portable battery is designed to deliver smooth, controlled draws with every use, making it the perfect companion for 510-thread cartridges. Engineered for convenience and durability, the SunnyDayz Battery features intuitive operation and long-lasting charge capacity, ensuring you're always ready to enjoy your favorite concentrates on the go. Whether you're at home or exploring the outdoors, this battery merch combines style and functionality in one compact device. Upgrade your vaping experience with SunnyDayz—where quality meets simplicity for effortless enjoyment every time.",
+    "price": "$10",
+    "priceAmount": 10,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://images.prismic.io/sunny-dayz/Z5vMl5bqstJ9-D0B_gear-paraphernalia.png?auto=format,compress",
+     "alt": "Sunnydayz Battery"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/shop",
+       "name": "Menu"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "BATTERY"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SUNNYDAYZ",
+       "description": "Power up your sessions with the SunnyDayz Battery, the essential accessory for vape enthusiasts seeking reliable, consistent performance. This sleek, portable battery is designed to deliver smooth, controlled draws with every use, making it the perfect companion for 510-thread cartridges. Engineered for convenience and durability, the SunnyDayz Battery features intuitive operation and long-lasting charge capacity, ensuring you&apos;re always ready to enjoy your favorite concentrates on the go. Whether you&apos;re at home or exploring the outdoors, this battery merch combines style and functionality in one compact device. Upgrade your vaping experience with SunnyDayz—where quality meets simplicity for effortless enjoyment every time.",
+       "name": " Sunnydayz Battery",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "10",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sunnydayz-sunnydayz-battery-one-size-merch"
+       },
+       "image": "https://images.prismic.io/sunny-dayz/Z5vMl5bqstJ9-D0B_gear-paraphernalia.png?auto=format,compress"
+      },
+      "position": "1"
+     }
+    ]
+   }
+  ]
+ }
+}

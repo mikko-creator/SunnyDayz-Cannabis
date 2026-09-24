@@ -1,0 +1,19 @@
+{
+  "schema": "site-reforge/client-facts@1",
+  "note": "Declared facts. ONLY facts recorded here or present in audit/content-inventory.json may appear as claims on the rebuild. Everything else is a fabrication and sr-fabrication.mjs fails the gate.",
+  "legalName": "",
+  "brand": "",
+  "phone": [],
+  "email": [],
+  "addresses": [],
+  "hours": "",
+  "licences": [],
+  "certifications": [],
+  "awards": [],
+  "statistics": [],
+  "testimonials": [],
+  "clients": [],
+  "guarantees": [],
+  "pricing": [],
+  "services": []
+}

@@ -1,0 +1,217 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/doja-doja-confetti-3-5g-flower-3-5-g-flower-3-5-grams",
+ "slug": "product-doja-doja-confetti-3-5g-flower-3-5-g-flower-3-5-grams",
+ "type": "product",
+ "title": "DOJA - Doja - Confetti - 3.5G Flower",
+ "seoTitle": "DOJA - Doja - Confetti - 3.5G Flower",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Flower",
+    "href": "/collection/flower"
+   },
+   {
+    "label": "Doja - Confetti - 3.5G Flower",
+    "href": null
+   }
+  ],
+  "h1": "Doja - Confetti - 3.5G Flower",
+  "name": "Doja - Confetti - 3.5G Flower",
+  "brand": {
+   "label": "DOJA",
+   "href": "/brand/doja"
+  },
+  "badges": [
+   {
+    "label": "Low Stock",
+    "title": "Low Stock",
+    "tone": "warning"
+   }
+  ],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Flower",
+   "href": "/collection/flower"
+  },
+  "subcategories": [
+   {
+    "label": "PRE-PACK",
+    "href": "/collection/flower/pre-pack"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5a028ed-a685-492e-9b17-4c95178cc3af?w=3840&q=100",
+   "alt": "Doja - Confetti - 3.5G Flower"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5a028ed-a685-492e-9b17-4c95178cc3af?w=3840&q=100",
+    "alt": "Doja - Confetti - 3.5G Flower"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": "Warning",
+   "about": "About this product",
+   "terpenes": "Terpenes",
+   "cannabinoids": "Cannabinoids"
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "24.006%",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Discover Doja Confetti, a premium 3.5g flower offering that brings celebration-worthy quality to your collection. This carefully cultivated pre-pack from Doja delivers exceptional cannabis flower in a convenient, ready-to-enjoy format. Known for their commitment to quality cultivation practices, Doja presents Confetti as a standout choice for discerning consumers seeking vibrant, potent buds. Each 3.5g package preserves the flower's natural terpenes and cannabinoids, ensuring optimal freshness and effect. Perfect for those who appreciate craft cannabis with personality, this pre-packed flower offers convenience without compromising on quality or experience. Whether you're exploring new strains or adding to your favorites, Doja Confetti delivers memorable moments in every session.",
+  "warnings": [
+   {
+    "title": "Proposition 65 Warning for California Consumers",
+    "collapsed": true,
+    "toggleIcon": "angle-down",
+    "toggleAriaLabel": "Expand content",
+    "label": "WARNING:",
+    "lines": [
+     "This product can expose you to chemicals including β-myrcene and cannabis smoke, which are known to the State of California to cause cancer, and chemicals including cannabis smoke and 9-tetrahydrocannabinol, which are known to the State of California to cause birth defects or other reproductive harm."
+    ],
+    "moreInfo": {
+     "text": "For more information go to",
+     "label": "www.P65Warnings.ca.gov",
+     "href": "https://www.P65Warnings.ca.gov"
+    },
+    "links": []
+   }
+  ],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "DOJA",
+    "href": "/brand/doja"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "24.006%"
+   },
+   {
+    "label": "Package Info",
+    "value": "Doja Confetti 3 5 G Flower 3 5 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "3.5g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [
+   {
+    "name": "Beta Caryophyllene",
+    "value": "0.596 %",
+    "aroma": "Peppery",
+    "effects": "Anti-inflammatory, analgesic, calming"
+   },
+   {
+    "name": "Beta Myrcene",
+    "value": "0.54 %",
+    "aroma": "Herbal",
+    "effects": "Relaxing, Sedation, Heaviness, Couch Lock"
+   },
+   {
+    "name": "Limonene",
+    "value": "0.342 %",
+    "aroma": "Citrus",
+    "effects": "Elevated mood, anti-anxiety"
+   },
+   {
+    "name": "Alpha Humulene",
+    "value": "0.231 %",
+    "aroma": "Hoppy",
+    "effects": "Pain relief, appetite suppression"
+   },
+   {
+    "name": "Alpha Bisabolol",
+    "value": "0.068 %",
+    "aroma": "Floral",
+    "effects": "Soothing, Anti-inflammatory"
+   },
+   {
+    "name": "Beta Pinene",
+    "value": "0.053 %",
+    "aroma": "Pine",
+    "effects": "Focus, Relief, Alert, Balanced"
+   },
+   {
+    "name": "Alpha Pinene",
+    "value": "0.027 %",
+    "aroma": "Pine",
+    "effects": "Focus, Relief, Alert, Balanced"
+   }
+  ],
+  "cannabinoids": [
+   {
+    "group": "THC",
+    "items": [
+     {
+      "name": "THCA",
+      "value": "26.327%"
+     },
+     {
+      "name": "THC",
+      "value": "24.0058%"
+     }
+    ]
+   }
+  ],
+  "jsonld": null
+ }
+}

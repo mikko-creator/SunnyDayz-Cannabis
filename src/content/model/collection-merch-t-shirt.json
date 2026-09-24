@@ -1,0 +1,139 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/collection/merch/t-shirt",
+ "slug": "collection-merch-t-shirt",
+ "type": "collection",
+ "title": "T SHIRT",
+ "seoTitle": "T SHIRT",
+ "model": {
+  "kind": "collection",
+  "level": "subcategory",
+  "path": "/collection/merch/t-shirt",
+  "category": "merch",
+  "subcategory": "t-shirt",
+  "parentPath": "/collection/merch",
+  "sortParam": null,
+  "capture": {
+   "matchesUrl": true,
+   "signal": null,
+   "observed": null
+  },
+  "h1": "T SHIRT",
+  "banner": {
+   "title": "T SHIRT",
+   "description": "Best T SHIRT",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMq5bqstJ9-D0W_CategoriesBanner-29.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMrJbqstJ9-D0X_CategoriesBanner-28.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "T SHIRT",
+    "href": null
+   }
+  ],
+  "categoryLinks": [],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "loading",
+  "emptyState": null,
+  "cards": [],
+  "productCount": 1,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/sunnydayz-sunnydayz-t-shirt-one-size-merch",
+    "name": "SunnyDayz - T Shirt",
+    "brand": "SUNNYDAYZ",
+    "description": "Rep your love for sunny vibes and cannabis culture with the SunnyDayz T-Shirt from Unknown Brand. This one-size merch essential brings laid-back style to your everyday wardrobe, perfect for festivals, hangouts, or just keeping it chill. Crafted for comfort and designed to make a statement, this tee combines quality fabric with a relaxed fit that works for almost anyone. Whether you're celebrating good times or just showing off your favorite lifestyle brand, the SunnyDayz T-Shirt delivers effortless cool. Add this versatile piece to your collection and wear your passion proudly—because every day's better when it feels like a sunny day.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://images.prismic.io/sunny-dayz/Z5vMl5bqstJ9-D0B_gear-paraphernalia.png?auto=format,compress",
+     "alt": "SunnyDayz - T Shirt"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/shop",
+       "name": "Menu"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "T SHIRT"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SUNNYDAYZ",
+       "description": "Rep your love for sunny vibes and cannabis culture with the SunnyDayz T-Shirt from Unknown Brand. This one-size merch essential brings laid-back style to your everyday wardrobe, perfect for festivals, hangouts, or just keeping it chill. Crafted for comfort and designed to make a statement, this tee combines quality fabric with a relaxed fit that works for almost anyone. Whether you&apos;re celebrating good times or just showing off your favorite lifestyle brand, the SunnyDayz T-Shirt delivers effortless cool. Add this versatile piece to your collection and wear your passion proudly—because every day&apos;s better when it feels like a sunny day.",
+       "name": "SunnyDayz - T Shirt",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sunnydayz-sunnydayz-t-shirt-one-size-merch"
+       },
+       "image": "https://images.prismic.io/sunny-dayz/Z5vMl5bqstJ9-D0B_gear-paraphernalia.png?auto=format,compress"
+      },
+      "position": "1"
+     }
+    ]
+   }
+  ]
+ }
+}

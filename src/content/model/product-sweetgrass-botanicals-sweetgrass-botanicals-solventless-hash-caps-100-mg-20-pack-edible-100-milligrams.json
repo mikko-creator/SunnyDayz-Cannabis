@@ -1,0 +1,133 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-solventless-hash-caps-100-mg-20-pack-edible-100-milligrams",
+ "slug": "product-sweetgrass-botanicals-sweetgrass-botanicals-solventless-hash-caps-100-mg-20-pack-edible-100-milligrams",
+ "type": "product",
+ "title": "SWEETGRASS BOTANICALS - Sweetgrass Botanicals - Solventless Hash Caps",
+ "seoTitle": "SWEETGRASS BOTANICALS - Sweetgrass Botanicals - Solventless Hash Caps",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Sweetgrass Botanicals - Solventless Hash Caps",
+    "href": null
+   }
+  ],
+  "h1": "Sweetgrass Botanicals - Solventless Hash Caps",
+  "name": "Sweetgrass Botanicals - Solventless Hash Caps",
+  "brand": {
+   "label": "SWEETGRASS BOTANICALS",
+   "href": "/brand/sweetgrass-botanicals"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "OTHER",
+    "href": "/collection/edible/other"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/9d6fc805-e891-4aa5-888c-68d2cb218f91?w=3840&q=100",
+   "alt": "Sweetgrass Botanicals - Solventless Hash Caps"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/9d6fc805-e891-4aa5-888c-68d2cb218f91?w=3840&q=100",
+    "alt": "Sweetgrass Botanicals - Solventless Hash Caps"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "100MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Sweetgrass Botanicals Solventless Hash Caps deliver 100 mg of pure, clean cannabis in convenient capsule form. These edible capsules are crafted using solventless extraction methods, preserving the full spectrum of cannabinoids and terpenes for an authentic, potent experience. Each cap offers a discreet, precise way to enjoy cannabis without smoke or vapor—perfect for those seeking consistent effects and ease of use. The solventless hash process ensures no chemical residues, just natural plant compounds working in harmony. Ideal for relaxation, relief, or simply unwinding after a long day, these capsules provide a controlled, predictable experience with every dose. Whether you're new to edibles or a seasoned enthusiast, Sweetgrass Botanicals combines quality craftsmanship with solventless purity to elevate your wellness routine.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "SWEETGRASS BOTANICALS",
+    "href": "/brand/sweetgrass-botanicals"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "100MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Sweetgrass Botanicals Solventless Hash Caps 100 Mg 20 Pack"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

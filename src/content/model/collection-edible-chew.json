@@ -1,0 +1,361 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/collection/edible/chew",
+ "slug": "collection-edible-chew",
+ "type": "collection",
+ "title": "CHEW",
+ "seoTitle": "CHEW",
+ "model": {
+  "kind": "collection",
+  "level": "subcategory",
+  "path": "/collection/edible/chew",
+  "category": "edible",
+  "subcategory": "chew",
+  "parentPath": "/collection/edible",
+  "sortParam": null,
+  "capture": {
+   "matchesUrl": true,
+   "signal": null,
+   "observed": null
+  },
+  "h1": "CHEW",
+  "banner": {
+   "title": "CHEW",
+   "description": "Best CHEW",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMq5bqstJ9-D0W_CategoriesBanner-29.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMrJbqstJ9-D0X_CategoriesBanner-28.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "CHEW",
+    "href": null
+   }
+  ],
+  "categoryLinks": [],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "loading",
+  "emptyState": null,
+  "cards": [],
+  "productCount": 7,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/betty-s-eddies-betty-s-eddies-tropical-smoothie-chews-1-6-50-mg-10-pack-edible-50-milligrams",
+    "name": "Betty's Eddies | Tropical Smoothie | Chews | 1:6",
+    "brand": "BETTY'S EDDIES",
+    "description": "Betty's Eddies Tropical Smoothie Chews deliver a delicious, sun-soaked escape in every bite. This hybrid edible offers a balanced experience that combines uplifting energy with gentle relaxation, making it perfect for daytime adventures or unwinding after work. Each chew bursts with tropical fruit flavors—think juicy pineapple, ripe mango, and sweet citrus notes that transport your taste buds to a beachside paradise. The 1:6 ratio THC:CBD (50mg total) provides a mild, approachable dose ideal for both newcomers and experienced consumers seeking a mellow, functional high. Betty's Eddies crafts these chews with quality ingredients to ensure consistent effects and mouthwatering flavor in every piece. Whether you're looking to spark creativity, enhance social moments, or simply enjoy a happy, euphoric vibe, these Tropical Smoothie Chews offer a flavorful journey that's as enjoyable as it is effective.",
+    "price": "$20",
+    "priceAmount": 20,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/6f6512fe-3a8e-4fd8-a025-e34049d647f9",
+     "alt": "Betty's Eddies | Tropical Smoothie | Chews | 1:6"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/betty-s-eddies-betty-s-eddies-cherry-ache-away-eddies-1-4-1-50-mg-10-pack-edible-50-milligrams",
+    "name": "Betty's Eddies | Cherry | Ache Away Eddies | 1:4:1",
+    "brand": "BETTY'S EDDIES",
+    "description": "Betty's Eddies Cherry Ache Away Eddies deliver a carefully balanced 1:4:1 ratio of cannabinoids in a convenient 50mg chew, designed to provide targeted relief with a delicious cherry flavor. This hybrid edible combines the therapeutic benefits of multiple cannabinoids to help ease discomfort while maintaining balanced effects. Each chew offers a sweet-tart cherry taste that makes wellness enjoyable. The unique 1:4:1 formulation is crafted for those seeking relief without overwhelming psychoactive effects, making it ideal for daytime or evening use. Perfect for managing aches and pains while staying functional, these chews dissolve easily and deliver consistent results. Betty's Eddies brings quality ingredients and precise dosing together in a tasty, effective format that fits seamlessly into your wellness routine.",
+    "price": "$20",
+    "priceAmount": 20,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/69ba0d61-9fda-470f-91b9-14638a61c1f9",
+     "alt": "Betty's Eddies | Cherry | Ache Away Eddies | 1:4:1"
+    }
+   },
+   {
+    "position": 3,
+    "url": "/product/betty-s-eddies-betty-s-eddies-strawberry-lemonade-swirl-beachtime-betty-s-1-1-50-mg-10-pack-edible-50-milligrams",
+    "name": "Betty's Eddies | Strawberry Lemonade Swirl | Beachtime Betty's | 1:1",
+    "brand": "BETTY'S EDDIES",
+    "description": "Betty's Eddies Strawberry Lemonade Swirl Beachtime Betty's 1:1 THC:CBG chews deliver a perfectly balanced hybrid experience with 50mg total. Each edible offers an equal ratio of THC and CBD, making them ideal for those seeking both uplifting and relaxing effects. The sweet strawberry and tart lemon flavors swirl together in every bite, creating a refreshing tropical taste that's perfect for any occasion. This balanced 1:1 formulation promotes a harmonious experience that's both social and focused, while providing gentle relief without overwhelming intensity. Betty's Eddies are crafted for consistency and quality, ensuring each chew delivers a reliable, enjoyable experience. Whether you're looking to unwind after a long day or enhance your creative pursuits, these strawberry lemonade chews offer a delicious and effective way to find your perfect balance.",
+    "price": "$20",
+    "priceAmount": 20,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/beeaf7f6-9811-4a3d-8eae-2e261788c05d",
+     "alt": "Betty's Eddies | Strawberry Lemonade Swirl | Beachtime Betty's | 1:1"
+    }
+   },
+   {
+    "position": 4,
+    "url": "/product/betty-s-eddies-betty-s-eddies-watermelon-go-betty-go-50-mg-10-pack-edible-50-milligrams",
+    "name": "Betty's Eddies | Watermelon | Go Betty Go",
+    "brand": "BETTY'S EDDIES",
+    "description": "Betty's Eddies brings you Go Betty Go Watermelon chews—a delicious hybrid edible crafted for balanced effects and refreshing flavor. Each package contains 50mg of THC, delivering a perfect blend of relaxation and uplift in every bite. These watermelon-flavored chews offer a sweet, juicy taste that makes dosing enjoyable and convenient. Hybrid strains are known for combining the best of both worlds, providing gentle euphoria alongside soothing calm. Ideal for those seeking relief without sedation or a creative boost without overstimulation. Betty's Eddies uses quality ingredients to ensure consistent potency and delightful flavor in every chew. Perfect for social occasions, creative pursuits, or unwinding after a long day. Experience the refreshing taste of watermelon paired with the balanced effects of a thoughtfully crafted hybrid edible. Go Betty Go delivers happiness and relaxation in one irresistible treat.",
+    "price": "$20",
+    "priceAmount": 20,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/aac165c8-9370-4567-a962-41de2ca6ece2",
+     "alt": "Betty's Eddies | Watermelon | Go Betty Go"
+    }
+   },
+   {
+    "position": 5,
+    "url": "/product/betty-s-eddies-betty-s-eddies-raspberry-creme-bedtime-betty-s-1-2-1-50-mg-10-pack-edible-50-milligrams",
+    "name": "Betty's Eddies | Raspberry Creme | Bedtime Betty's | 1:2:1",
+    "brand": "BETTY'S EDDIES",
+    "description": "Betty's Eddies Raspberry Creme Bedtime Betty's chews deliver a balanced 1:2:1 THC:CBD:CBN ratio of cannabinoids in a 50 mg edible designed to help you unwind. Crafted by Betty's Eddies, these indica-inspired chews combine relaxing effects with the sweet, creamy flavor of raspberry for a delicious bedtime treat. Each chew offers a smooth, fruity taste that makes your nightly routine something to look forward to. Ideal for those seeking relief and relaxation, Bedtime Betty's help ease you into a restful state, promoting sleepy, calm vibes perfect for winding down after a long day. The convenient chewable format makes dosing simple and enjoyable, while the raspberry creme flavor profile adds a touch of indulgence to your cannabis experience. Whether you're looking to quiet a busy mind or simply enhance your sleep quality, these indica chews provide a gentle, effective way to embrace relaxation and drift off peacefully.",
+    "price": "$20",
+    "priceAmount": 20,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/ed10bc00-42c5-472b-bf9e-42904893b01d",
+     "alt": "Betty's Eddies | Raspberry Creme | Bedtime Betty's | 1:2:1"
+    }
+   },
+   {
+    "position": 6,
+    "url": "/product/betty-s-eddies-betty-s-eddies-lemon-agave-bedtime-betty-s-50-mg-10-pack-edible-50-milligrams",
+    "name": "Betty's Eddies | Lemon Agave | Bedtime Betty's",
+    "brand": "BETTY'S EDDIES",
+    "description": "Betty's Eddies Lemon Agave Bedtime Betty's chews deliver 50mg of hybrid cannabis in a delicious, sleep-focused edible. Crafted by Betty's Eddies, these thoughtfully formulated chews combine the bright, zesty flavor of lemon with the smooth sweetness of agave for a perfectly balanced taste experience. As a hybrid product, Bedtime Betty's offers the best of both worlds—gentle relaxation to ease you into restful sleep while maintaining mental clarity. Each chew is designed to help you unwind after a long day, promoting calm and tranquility without overwhelming sedation. The 50mg potency makes these ideal for experienced consumers seeking reliable nighttime relief. Whether you're looking to quiet a busy mind or simply enhance your evening routine, Betty's Eddies Lemon Agave Bedtime Betty's provides a delicious, effective way to support better sleep naturally.",
+    "price": "$20",
+    "priceAmount": 20,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/8d454e86-c583-4335-a344-130100a1943b",
+     "alt": "Betty's Eddies | Lemon Agave | Bedtime Betty's"
+    }
+   },
+   {
+    "position": 7,
+    "url": "/product/betty-s-eddies-betty-s-eddies-orange-creme-ache-away-pm-1-1-1-50-mg-10-pack-edible-50-milligrams",
+    "name": "Betty's Eddies | Orange Creme | Ache Away PM | 1:1:1",
+    "brand": "BETTY'S EDDIES",
+    "description": "Betty's Eddies Orange Creme Ache Away PM brings targeted relief in a delicious 1:1:1 ratio chewable edible designed for nighttime comfort. This indica-leaning formula combines THC, CBC, and CBN to deliver relaxed, sleepy effects perfect for unwinding after a long day. Each chew features a creamy orange flavor profile that makes your evening routine something to look forward to. With 50mg total cannabinoids, this balanced ratio product offers gentle, soothing relief ideal for those seeking rest and relaxation. Betty's Eddies crafts premium chews that taste incredible while delivering dependable results. Whether you're managing occasional discomfort or simply preparing for a restful night, Orange Creme Ache Away PM combines sweet citrus taste with calming indica benefits in every bite.",
+    "price": "$20",
+    "priceAmount": 20,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/878289dd-76dc-41d5-b853-43e3c585f304",
+     "alt": "Betty's Eddies | Orange Creme | Ache Away PM | 1:1:1"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/shop",
+       "name": "Menu"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "CHEW"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BETTY&apos;S EDDIES",
+       "description": "Betty&apos;s Eddies Tropical Smoothie Chews deliver a delicious, sun-soaked escape in every bite. This hybrid edible offers a balanced experience that combines uplifting energy with gentle relaxation, making it perfect for daytime adventures or unwinding after work. Each chew bursts with tropical fruit flavors—think juicy pineapple, ripe mango, and sweet citrus notes that transport your taste buds to a beachside paradise. The 1:6 ratio THC:CBD (50mg total) provides a mild, approachable dose ideal for both newcomers and experienced consumers seeking a mellow, functional high. Betty&apos;s Eddies crafts these chews with quality ingredients to ensure consistent effects and mouthwatering flavor in every piece. Whether you&apos;re looking to spark creativity, enhance social moments, or simply enjoy a happy, euphoric vibe, these Tropical Smoothie Chews offer a flavorful journey that&apos;s as enjoyable as it is effective.",
+       "name": "Betty&apos;s Eddies | Tropical Smoothie | Chews | 1:6",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-tropical-smoothie-chews-1-6-50-mg-10-pack-edible-50-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/6f6512fe-3a8e-4fd8-a025-e34049d647f9"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BETTY&apos;S EDDIES",
+       "description": "Betty&apos;s Eddies Cherry Ache Away Eddies deliver a carefully balanced 1:4:1 ratio of cannabinoids in a convenient 50mg chew, designed to provide targeted relief with a delicious cherry flavor. This hybrid edible combines the therapeutic benefits of multiple cannabinoids to help ease discomfort while maintaining balanced effects. Each chew offers a sweet-tart cherry taste that makes wellness enjoyable. The unique 1:4:1 formulation is crafted for those seeking relief without overwhelming psychoactive effects, making it ideal for daytime or evening use. Perfect for managing aches and pains while staying functional, these chews dissolve easily and deliver consistent results. Betty&apos;s Eddies brings quality ingredients and precise dosing together in a tasty, effective format that fits seamlessly into your wellness routine.",
+       "name": "Betty&apos;s Eddies | Cherry | Ache Away Eddies | 1:4:1",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-cherry-ache-away-eddies-1-4-1-50-mg-10-pack-edible-50-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/69ba0d61-9fda-470f-91b9-14638a61c1f9"
+      },
+      "position": "2"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BETTY&apos;S EDDIES",
+       "description": "Betty&apos;s Eddies Strawberry Lemonade Swirl Beachtime Betty&apos;s 1:1 THC:CBG chews deliver a perfectly balanced hybrid experience with 50mg total. Each edible offers an equal ratio of THC and CBD, making them ideal for those seeking both uplifting and relaxing effects. The sweet strawberry and tart lemon flavors swirl together in every bite, creating a refreshing tropical taste that&apos;s perfect for any occasion. This balanced 1:1 formulation promotes a harmonious experience that&apos;s both social and focused, while providing gentle relief without overwhelming intensity. Betty&apos;s Eddies are crafted for consistency and quality, ensuring each chew delivers a reliable, enjoyable experience. Whether you&apos;re looking to unwind after a long day or enhance your creative pursuits, these strawberry lemonade chews offer a delicious and effective way to find your perfect balance.",
+       "name": "Betty&apos;s Eddies | Strawberry Lemonade Swirl | Beachtime Betty&apos;s | 1:1",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-strawberry-lemonade-swirl-beachtime-betty-s-1-1-50-mg-10-pack-edible-50-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/beeaf7f6-9811-4a3d-8eae-2e261788c05d"
+      },
+      "position": "3"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BETTY&apos;S EDDIES",
+       "description": "Betty&apos;s Eddies brings you Go Betty Go Watermelon chews—a delicious hybrid edible crafted for balanced effects and refreshing flavor. Each package contains 50mg of THC, delivering a perfect blend of relaxation and uplift in every bite. These watermelon-flavored chews offer a sweet, juicy taste that makes dosing enjoyable and convenient. Hybrid strains are known for combining the best of both worlds, providing gentle euphoria alongside soothing calm. Ideal for those seeking relief without sedation or a creative boost without overstimulation. Betty&apos;s Eddies uses quality ingredients to ensure consistent potency and delightful flavor in every chew. Perfect for social occasions, creative pursuits, or unwinding after a long day. Experience the refreshing taste of watermelon paired with the balanced effects of a thoughtfully crafted hybrid edible. Go Betty Go delivers happiness and relaxation in one irresistible treat.",
+       "name": "Betty&apos;s Eddies | Watermelon | Go Betty Go",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-watermelon-go-betty-go-50-mg-10-pack-edible-50-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/aac165c8-9370-4567-a962-41de2ca6ece2"
+      },
+      "position": "4"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BETTY&apos;S EDDIES",
+       "description": "Betty&apos;s Eddies Raspberry Creme Bedtime Betty&apos;s chews deliver a balanced 1:2:1 THC:CBD:CBN ratio of cannabinoids in a 50 mg edible designed to help you unwind. Crafted by Betty&apos;s Eddies, these indica-inspired chews combine relaxing effects with the sweet, creamy flavor of raspberry for a delicious bedtime treat. Each chew offers a smooth, fruity taste that makes your nightly routine something to look forward to. Ideal for those seeking relief and relaxation, Bedtime Betty&apos;s help ease you into a restful state, promoting sleepy, calm vibes perfect for winding down after a long day. The convenient chewable format makes dosing simple and enjoyable, while the raspberry creme flavor profile adds a touch of indulgence to your cannabis experience. Whether you&apos;re looking to quiet a busy mind or simply enhance your sleep quality, these indica chews provide a gentle, effective way to embrace relaxation and drift off peacefully.",
+       "name": "Betty&apos;s Eddies | Raspberry Creme | Bedtime Betty&apos;s | 1:2:1",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-raspberry-creme-bedtime-betty-s-1-2-1-50-mg-10-pack-edible-50-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/ed10bc00-42c5-472b-bf9e-42904893b01d"
+      },
+      "position": "5"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BETTY&apos;S EDDIES",
+       "description": "Betty&apos;s Eddies Lemon Agave Bedtime Betty&apos;s chews deliver 50mg of hybrid cannabis in a delicious, sleep-focused edible. Crafted by Betty&apos;s Eddies, these thoughtfully formulated chews combine the bright, zesty flavor of lemon with the smooth sweetness of agave for a perfectly balanced taste experience. As a hybrid product, Bedtime Betty&apos;s offers the best of both worlds—gentle relaxation to ease you into restful sleep while maintaining mental clarity. Each chew is designed to help you unwind after a long day, promoting calm and tranquility without overwhelming sedation. The 50mg potency makes these ideal for experienced consumers seeking reliable nighttime relief. Whether you&apos;re looking to quiet a busy mind or simply enhance your evening routine, Betty&apos;s Eddies Lemon Agave Bedtime Betty&apos;s provides a delicious, effective way to support better sleep naturally.",
+       "name": "Betty&apos;s Eddies | Lemon Agave | Bedtime Betty&apos;s",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-lemon-agave-bedtime-betty-s-50-mg-10-pack-edible-50-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/8d454e86-c583-4335-a344-130100a1943b"
+      },
+      "position": "6"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BETTY&apos;S EDDIES",
+       "description": "Betty&apos;s Eddies Orange Creme Ache Away PM brings targeted relief in a delicious 1:1:1 ratio chewable edible designed for nighttime comfort. This indica-leaning formula combines THC, CBC, and CBN to deliver relaxed, sleepy effects perfect for unwinding after a long day. Each chew features a creamy orange flavor profile that makes your evening routine something to look forward to. With 50mg total cannabinoids, this balanced ratio product offers gentle, soothing relief ideal for those seeking rest and relaxation. Betty&apos;s Eddies crafts premium chews that taste incredible while delivering dependable results. Whether you&apos;re managing occasional discomfort or simply preparing for a restful night, Orange Creme Ache Away PM combines sweet citrus taste with calming indica benefits in every bite.",
+       "name": "Betty&apos;s Eddies | Orange Creme | Ache Away PM | 1:1:1",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-orange-creme-ache-away-pm-1-1-1-50-mg-10-pack-edible-50-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/878289dd-76dc-41d5-b853-43e3c585f304"
+      },
+      "position": "7"
+     }
+    ]
+   }
+  ]
+ }
+}

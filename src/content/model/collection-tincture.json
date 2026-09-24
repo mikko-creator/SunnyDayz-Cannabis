@@ -1,0 +1,475 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/collection/tincture",
+ "slug": "collection-tincture",
+ "type": "collection",
+ "title": "The best tinctures | TINCTURE",
+ "seoTitle": "The best tinctures | TINCTURE",
+ "model": {
+  "kind": "collection",
+  "level": "category",
+  "path": "/collection/tincture",
+  "category": "tincture",
+  "subcategory": null,
+  "parentPath": null,
+  "sortParam": null,
+  "capture": {
+   "matchesUrl": true,
+   "signal": null,
+   "observed": null
+  },
+  "h1": "TINCTURES",
+  "banner": {
+   "title": "TINCTURES",
+   "description": null,
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMaZbqstJ9-DzT_CategoriesBanner-25.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMapbqstJ9-DzU_CategoriesBanner-11.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Tinctures",
+    "href": null
+   }
+  ],
+  "categoryLinks": [
+   {
+    "label": "Deals",
+    "href": "/deals",
+    "ariaLabel": "Go to Deals",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs_KYofJOwHRt1_deals.svg?fit=max&w=128",
+     "alt": "Deals icon"
+    }
+   },
+   {
+    "label": "Flower",
+    "href": "/collection/flower?sort=brandAsc",
+    "ariaLabel": "Go to Flower",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs6aYofJOwHRti_flowers.svg?fit=max&w=128",
+     "alt": "Flower icon"
+    }
+   },
+   {
+    "label": "Vapes",
+    "href": "/collection/cartridge?sort=brandAsc",
+    "ariaLabel": "Go to Vapes",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs9KYofJOwHRtt_vapes.svg?fit=max&w=128",
+     "alt": "Vapes icon"
+    }
+   },
+   {
+    "label": "Pre-Roll",
+    "href": "/collection/preroll?sort=brandAsc",
+    "ariaLabel": "Go to Pre-Roll",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs76YofJOwHRto_rolls.svg?fit=max&w=128",
+     "alt": "Pre-Roll icon"
+    }
+   },
+   {
+    "label": "Edibles",
+    "href": "/collection/edible?sort=priceDesc",
+    "ariaLabel": "Go to Edibles",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs5aYofJOwHRte_edibles.svg?fit=max&w=128",
+     "alt": "Edibles icon"
+    }
+   },
+   {
+    "label": "Extracts",
+    "href": "/collection/extract?sort=brandAsc",
+    "ariaLabel": "Go to Extracts",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs6KYofJOwHRth_extracts.svg?fit=max&w=128",
+     "alt": "Extracts icon"
+    }
+   },
+   {
+    "label": "Drinks",
+    "href": "/collection/beverage?sort=brandAsc",
+    "ariaLabel": "Go to Drinks",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs5KYofJOwHRtd_drinks-3.svg?fit=max&w=128",
+     "alt": "Drinks icon"
+    }
+   },
+   {
+    "label": "Tinctures",
+    "href": "/collection/tincture?sort=brandAsc",
+    "ariaLabel": "Tinctures, current page",
+    "current": true,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs8qYofJOwHRtr_tinctures.svg?fit=max&w=128",
+     "alt": "Tinctures icon"
+    }
+   },
+   {
+    "label": "Capsules",
+    "href": "/collection/pill?sort=brandAsc",
+    "ariaLabel": "Go to Capsules",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs-aYofJOwHRty_capsules.svg?fit=max&w=128",
+     "alt": "Capsules icon"
+    }
+   },
+   {
+    "label": "Topicals",
+    "href": "/collection/topical?sort=brandAsc",
+    "ariaLabel": "Go to Topicals",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs86YofJOwHRts_topicals.svg?fit=max&w=128",
+     "alt": "Topicals icon"
+    }
+   },
+   {
+    "label": "Accessories",
+    "href": "/collection/merch?sort=brandAsc",
+    "ariaLabel": "Go to Accessories",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs9aYofJOwHRtu_accesories.svg?fit=max&w=128",
+     "alt": "Accessories icon"
+    }
+   }
+  ],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "empty",
+  "emptyState": {
+   "heading": "No search results found",
+   "text": "No results match the filter criteria. Remove a filter or clear all filters to search again"
+  },
+  "cards": [],
+  "productCount": 7,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/treeworks-treeworks-gentle-drops-990mg-990-mg-tincture-990-milligrams",
+    "name": "Treeworks- Gentle Drops - 990MG",
+    "brand": "TREEWORKS",
+    "description": "Treeworks Gentle Drops delivers 990mg of premium cannabis extract in a versatile tincture format designed for precise dosing and customizable experiences. This potent liquid formula offers fast-acting relief that can be taken sublingually for rapid absorption or mixed into your favorite beverages and foods. Each dropper provides controlled dosing flexibility, making it easy to find your ideal serving size whether you're seeking relaxation, relief, or gentle euphoria. The discreet tincture format fits seamlessly into any wellness routine, offering a smoke-free alternative for experienced cannabis consumers. Treeworks focuses on quality extraction methods to preserve beneficial compounds while delivering consistent potency in every drop. Perfect for those who value precision and convenience in their cannabis consumption.",
+    "price": "$50",
+    "priceAmount": 50,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2dbc9786-277b-4778-bc3c-6c16c5c7aea1",
+     "alt": "Treeworks- Gentle Drops - 990MG"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/ahh-moments-ahh-moments-cherry-berry-shot-sleepy-1-1-20-mg-tincture-20-milligrams",
+    "name": "Ahh Moments | Cherry Berry Shot | Sleepy | 1:1",
+    "brand": "AHH MOMENTS",
+    "description": "Ahh Moments Cherry Berry Shot Sleepy is a 1:1 THC:CBN indica tincture crafted to help you unwind and drift into restful slumber. This 20mg shot delivers a balanced blend of THC and CBN in a delicious cherry berry flavor profile that makes bedtime something to look forward to. The indica classification promotes deep relaxation and sleepy effects, ideal for those seeking relief from restlessness or simply wanting to enhance their nighttime routine. Each shot is perfectly portioned for convenient, fast-acting delivery, allowing you to find your sweet spot without the guesswork. The tart-sweet cherry and berry notes create a pleasant tasting experience that masks any herbal undertones. Whether you're dealing with occasional sleeplessness or just want to elevate your evening wind-down ritual, this tincture offers a discreet, easy-to-use solution that fits seamlessly into your lifestyle. Simply take your shot and let the calming effects wash over you as you drift into peaceful, restorative rest.",
+    "price": "$15",
+    "priceAmount": 15,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d2548cb5-e9e6-4ad1-8f61-258dbe31ba6f",
+     "alt": "Ahh Moments | Cherry Berry Shot | Sleepy | 1:1"
+    }
+   },
+   {
+    "position": 3,
+    "url": "/product/levia-levia-celebrate-drops-tincture-500-mg-tincture-500-milligrams",
+    "name": "Levia | Celebrate Drops | Tincture",
+    "brand": "LEVIA",
+    "description": "Levia Celebrate Tincture delivers 500mg of hybrid cannabis in a fast-acting, precisely dosed formula designed to elevate any occasion. This tincture combines the balanced effects of hybrid strains, offering a versatile experience that can inspire creativity and social connection while maintaining a sense of relaxed euphoria. Levia's innovative formulation ensures rapid onset, making it ideal for those who want predictable, controlled effects without the wait. The convenient dropper allows for easy customization of your dose, whether you're seeking subtle uplift or deeper celebration. Perfect for enhancing gatherings or personal moments of joy, this 500mg tincture provides flexibility and potency in one sleek bottle. Levia Celebrate brings together quality, consistency, and the celebration-worthy effects that make every experience memorable.",
+    "price": "$40",
+    "priceAmount": 40,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/876db210-16cc-4624-ae33-8ec0abec86ab",
+     "alt": "Levia | Celebrate Drops | Tincture"
+    }
+   },
+   {
+    "position": 4,
+    "url": "/product/levia-levia-dream-drops-tincture-500-mg-tincture-500-milligrams",
+    "name": "Levia | Dream Drops | Tincture",
+    "brand": "LEVIA",
+    "description": "Levia Dream Drops Tincture delivers 500mg of calming indica relaxation in a convenient dropper format designed for restful evenings and restorative sleep. This tincture from Levia combines precision dosing with fast-acting effects, making it ideal for those seeking deep relaxation and relief from daily stress. The indica classification ensures a soothing, body-focused experience that helps quiet the mind and ease tension. Simply place drops under your tongue for quick absorption and customizable dosing tailored to your needs. Perfect for nighttime use, Dream Drops promotes feelings of calm and sleepiness without overwhelming intensity. Whether you're winding down after a long day or preparing for restful sleep, this 500mg tincture offers a discreet, controlled way to experience the relaxing benefits of indica cannabis. Levia's commitment to quality ensures consistent potency in every drop, helping you achieve the peaceful state you desire.",
+    "price": "$40",
+    "priceAmount": 40,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/dcd73f0a-3d11-4de7-b28d-21ab33c2eda9",
+     "alt": "Levia | Dream Drops | Tincture"
+    }
+   },
+   {
+    "position": 5,
+    "url": "/product/treeworks-treeworks-purist-drops-2000mg-2000-mg-tincture-2000-milligrams",
+    "name": "Treeworks - Purist Drops - 2000MG",
+    "brand": "TREEWORKS",
+    "description": "Treeworks Purist Drops deliver a potent 2000mg tincture designed for those seeking precise, versatile dosing. This premium cannabis tincture offers a clean, straightforward experience without unnecessary additives, staying true to its \"purist\" name. Perfect for both newcomers and experienced users, the generous 2000mg strength allows for flexible micro-dosing or stronger servings based on your individual needs. Sublingual drops provide fast-acting effects, making it easy to customize your wellness routine. Whether you're seeking relaxation after a long day, relief from discomfort, or simply enhanced well-being, Treeworks Purist Drops offer a discreet, convenient solution. The unflavored formula integrates seamlessly into beverages or can be taken directly under the tongue. With its high potency and pure formulation, this tincture represents exceptional value and versatility for daily cannabis wellness.",
+    "price": "$70",
+    "priceAmount": 70,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5c1fc3d2-27d8-4629-93ea-ed03c50e9120",
+     "alt": "Treeworks - Purist Drops - 2000MG"
+    }
+   },
+   {
+    "position": 6,
+    "url": "/product/levia-levia-achieve-drops-tincture-500-mg-tincture-500-milligrams",
+    "name": "Levia | Achieve Drops | Tincture",
+    "brand": "LEVIA",
+    "description": "Levia Achieve Drops Tincture delivers 500mg of sativa-driven focus and energy in a convenient, fast-acting formula. This premium tincture is designed for those seeking mental clarity, creativity, and uplifted motivation throughout the day. Simply place a few drops under your tongue and experience the energizing effects that help you stay productive and engaged. The sativa classification makes this tincture ideal for daytime use, whether you're tackling projects, socializing, or pursuing creative endeavors. Levia's expertly crafted formula ensures consistent dosing and reliable results with every use. Perfect for cannabis consumers who value precision and performance, Achieve Drops offer a discreet, smoke-free way to enhance your daily routine with uplifting, focused effects.",
+    "price": "$40",
+    "priceAmount": 40,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d861cdec-0238-4628-a3ab-27c5b691c033",
+     "alt": "Levia | Achieve Drops | Tincture"
+    }
+   },
+   {
+    "position": 7,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-amplify-1350mg-cbd-cbg-thc-tincture-1350-mg-tincture-1350-milligrams",
+    "name": "Sweetgrass Botanicals - Amplify 1350mg CBD/CBG/THC Tincture",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals Amplify 1350mg CBD/CBG/THC Tincture delivers a powerful trio of cannabinoids in one convenient bottle. This premium tincture combines 1350mg of CBD, CBG, and THC to create a balanced, full-spectrum experience designed to amplify wellness and relief. The carefully crafted formula harnesses the entourage effect, allowing each cannabinoid to work synergistically for enhanced benefits. Perfect for those seeking relaxed, focused, and uplifted effects, this tincture offers versatile dosing with its easy-to-use dropper. Whether you're looking for relief from discomfort, support for stress management, or simply want to enhance your daily wellness routine, Amplify provides consistent, reliable results. The clean, earthy flavor profile makes it easy to incorporate into your day, taken directly or added to your favorite beverage. Sweetgrass Botanicals ensures quality and potency in every drop.",
+    "price": "$70",
+    "priceAmount": 70,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a8597b8c-dfcb-46e3-923a-591bbbc94f72",
+     "alt": "Sweetgrass Botanicals - Amplify 1350mg CBD/CBG/THC Tincture"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/shop",
+       "name": "Menu"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "Tinctures"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TREEWORKS",
+       "description": "Treeworks Gentle Drops delivers 990mg of premium cannabis extract in a versatile tincture format designed for precise dosing and customizable experiences. This potent liquid formula offers fast-acting relief that can be taken sublingually for rapid absorption or mixed into your favorite beverages and foods. Each dropper provides controlled dosing flexibility, making it easy to find your ideal serving size whether you&apos;re seeking relaxation, relief, or gentle euphoria. The discreet tincture format fits seamlessly into any wellness routine, offering a smoke-free alternative for experienced cannabis consumers. Treeworks focuses on quality extraction methods to preserve beneficial compounds while delivering consistent potency in every drop. Perfect for those who value precision and convenience in their cannabis consumption.",
+       "name": "Treeworks- Gentle Drops - 990MG",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "50",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-gentle-drops-990mg-990-mg-tincture-990-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2dbc9786-277b-4778-bc3c-6c16c5c7aea1"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "AHH MOMENTS",
+       "description": "Ahh Moments Cherry Berry Shot Sleepy is a 1:1 THC:CBN indica tincture crafted to help you unwind and drift into restful slumber. This 20mg shot delivers a balanced blend of THC and CBN in a delicious cherry berry flavor profile that makes bedtime something to look forward to. The indica classification promotes deep relaxation and sleepy effects, ideal for those seeking relief from restlessness or simply wanting to enhance their nighttime routine. Each shot is perfectly portioned for convenient, fast-acting delivery, allowing you to find your sweet spot without the guesswork. The tart-sweet cherry and berry notes create a pleasant tasting experience that masks any herbal undertones. Whether you&apos;re dealing with occasional sleeplessness or just want to elevate your evening wind-down ritual, this tincture offers a discreet, easy-to-use solution that fits seamlessly into your lifestyle. Simply take your shot and let the calming effects wash over you as you drift into peaceful, restorative rest.",
+       "name": "Ahh Moments | Cherry Berry Shot | Sleepy | 1:1",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "15",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-cherry-berry-shot-sleepy-1-1-20-mg-tincture-20-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d2548cb5-e9e6-4ad1-8f61-258dbe31ba6f"
+      },
+      "position": "2"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "LEVIA",
+       "description": "Levia Celebrate Tincture delivers 500mg of hybrid cannabis in a fast-acting, precisely dosed formula designed to elevate any occasion. This tincture combines the balanced effects of hybrid strains, offering a versatile experience that can inspire creativity and social connection while maintaining a sense of relaxed euphoria. Levia&apos;s innovative formulation ensures rapid onset, making it ideal for those who want predictable, controlled effects without the wait. The convenient dropper allows for easy customization of your dose, whether you&apos;re seeking subtle uplift or deeper celebration. Perfect for enhancing gatherings or personal moments of joy, this 500mg tincture provides flexibility and potency in one sleek bottle. Levia Celebrate brings together quality, consistency, and the celebration-worthy effects that make every experience memorable.",
+       "name": "Levia | Celebrate Drops | Tincture",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/levia-levia-celebrate-drops-tincture-500-mg-tincture-500-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/876db210-16cc-4624-ae33-8ec0abec86ab"
+      },
+      "position": "3"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "LEVIA",
+       "description": "Levia Dream Drops Tincture delivers 500mg of calming indica relaxation in a convenient dropper format designed for restful evenings and restorative sleep. This tincture from Levia combines precision dosing with fast-acting effects, making it ideal for those seeking deep relaxation and relief from daily stress. The indica classification ensures a soothing, body-focused experience that helps quiet the mind and ease tension. Simply place drops under your tongue for quick absorption and customizable dosing tailored to your needs. Perfect for nighttime use, Dream Drops promotes feelings of calm and sleepiness without overwhelming intensity. Whether you&apos;re winding down after a long day or preparing for restful sleep, this 500mg tincture offers a discreet, controlled way to experience the relaxing benefits of indica cannabis. Levia&apos;s commitment to quality ensures consistent potency in every drop, helping you achieve the peaceful state you desire.",
+       "name": "Levia | Dream Drops | Tincture",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/levia-levia-dream-drops-tincture-500-mg-tincture-500-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/dcd73f0a-3d11-4de7-b28d-21ab33c2eda9"
+      },
+      "position": "4"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TREEWORKS",
+       "description": "Treeworks Purist Drops deliver a potent 2000mg tincture designed for those seeking precise, versatile dosing. This premium cannabis tincture offers a clean, straightforward experience without unnecessary additives, staying true to its &quot;purist&quot; name. Perfect for both newcomers and experienced users, the generous 2000mg strength allows for flexible micro-dosing or stronger servings based on your individual needs. Sublingual drops provide fast-acting effects, making it easy to customize your wellness routine. Whether you&apos;re seeking relaxation after a long day, relief from discomfort, or simply enhanced well-being, Treeworks Purist Drops offer a discreet, convenient solution. The unflavored formula integrates seamlessly into beverages or can be taken directly under the tongue. With its high potency and pure formulation, this tincture represents exceptional value and versatility for daily cannabis wellness.",
+       "name": "Treeworks - Purist Drops - 2000MG",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "70",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-purist-drops-2000mg-2000-mg-tincture-2000-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5c1fc3d2-27d8-4629-93ea-ed03c50e9120"
+      },
+      "position": "5"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "LEVIA",
+       "description": "Levia Achieve Drops Tincture delivers 500mg of sativa-driven focus and energy in a convenient, fast-acting formula. This premium tincture is designed for those seeking mental clarity, creativity, and uplifted motivation throughout the day. Simply place a few drops under your tongue and experience the energizing effects that help you stay productive and engaged. The sativa classification makes this tincture ideal for daytime use, whether you&apos;re tackling projects, socializing, or pursuing creative endeavors. Levia&apos;s expertly crafted formula ensures consistent dosing and reliable results with every use. Perfect for cannabis consumers who value precision and performance, Achieve Drops offer a discreet, smoke-free way to enhance your daily routine with uplifting, focused effects.",
+       "name": "Levia | Achieve Drops | Tincture",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/levia-levia-achieve-drops-tincture-500-mg-tincture-500-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d861cdec-0238-4628-a3ab-27c5b691c033"
+      },
+      "position": "6"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals Amplify 1350mg CBD/CBG/THC Tincture delivers a powerful trio of cannabinoids in one convenient bottle. This premium tincture combines 1350mg of CBD, CBG, and THC to create a balanced, full-spectrum experience designed to amplify wellness and relief. The carefully crafted formula harnesses the entourage effect, allowing each cannabinoid to work synergistically for enhanced benefits. Perfect for those seeking relaxed, focused, and uplifted effects, this tincture offers versatile dosing with its easy-to-use dropper. Whether you&apos;re looking for relief from discomfort, support for stress management, or simply want to enhance your daily wellness routine, Amplify provides consistent, reliable results. The clean, earthy flavor profile makes it easy to incorporate into your day, taken directly or added to your favorite beverage. Sweetgrass Botanicals ensures quality and potency in every drop.",
+       "name": "Sweetgrass Botanicals - Amplify 1350mg CBD/CBG/THC Tincture",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "70",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-amplify-1350mg-cbd-cbg-thc-tincture-1350-mg-tincture-1350-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a8597b8c-dfcb-46e3-923a-591bbbc94f72"
+      },
+      "position": "7"
+     }
+    ]
+   }
+  ]
+ }
+}

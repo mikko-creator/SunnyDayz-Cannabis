@@ -1,0 +1,142 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/collection/topical/other",
+ "slug": "collection-topical-other",
+ "type": "collection",
+ "title": "OTHER",
+ "seoTitle": "OTHER",
+ "model": {
+  "kind": "collection",
+  "level": "subcategory",
+  "path": "/collection/topical/other",
+  "category": "topical",
+  "subcategory": "other",
+  "parentPath": "/collection/topical",
+  "sortParam": null,
+  "capture": {
+   "matchesUrl": true,
+   "signal": null,
+   "observed": null
+  },
+  "h1": "OTHER",
+  "banner": {
+   "title": "OTHER",
+   "description": "Best OTHER",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMq5bqstJ9-D0W_CategoriesBanner-29.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMrJbqstJ9-D0X_CategoriesBanner-28.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "OTHER",
+    "href": null
+   }
+  ],
+  "categoryLinks": [],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "empty",
+  "emptyState": {
+   "heading": "No search results found",
+   "text": "No results match the filter criteria. Remove a filter or clear all filters to search again"
+  },
+  "cards": [],
+  "productCount": 1,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-muscle-salve-300mg-300-mg-topical-300-milligrams",
+    "name": "Sweetgrass Botanicals - Muscle Salve - 300mg",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals Muscle Salve delivers targeted relief in a convenient 300mg topical formula designed for active lifestyles. This soothing salve combines premium cannabis extract with nourishing botanicals to provide localized comfort exactly where you need it most. Simply massage into tired, sore muscles after workouts, long days, or whenever tension strikes. The rich, non-greasy texture absorbs quickly, making it ideal for on-the-go relief without residue. Whether you're an athlete seeking post-exercise recovery or simply need everyday muscle support, this 300mg salve offers a natural approach to wellness. Perfect for addressing discomfort in backs, shoulders, knees, and joints, it delivers fast-acting comfort without psychoactive effects. Experience the power of plant-based relief with Sweetgrass Botanicals' carefully crafted topical solution.",
+    "price": "$60",
+    "priceAmount": 60,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/508ed1a8-d0f9-43f5-a238-a6aa1243c1ee",
+     "alt": "Sweetgrass Botanicals - Muscle Salve - 300mg"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/shop",
+       "name": "Menu"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "OTHER"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals Muscle Salve delivers targeted relief in a convenient 300mg topical formula designed for active lifestyles. This soothing salve combines premium cannabis extract with nourishing botanicals to provide localized comfort exactly where you need it most. Simply massage into tired, sore muscles after workouts, long days, or whenever tension strikes. The rich, non-greasy texture absorbs quickly, making it ideal for on-the-go relief without residue. Whether you&apos;re an athlete seeking post-exercise recovery or simply need everyday muscle support, this 300mg salve offers a natural approach to wellness. Perfect for addressing discomfort in backs, shoulders, knees, and joints, it delivers fast-acting comfort without psychoactive effects. Experience the power of plant-based relief with Sweetgrass Botanicals&apos; carefully crafted topical solution.",
+       "name": "Sweetgrass Botanicals - Muscle Salve - 300mg ",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "60",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-muscle-salve-300mg-300-mg-topical-300-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/508ed1a8-d0f9-43f5-a238-a6aa1243c1ee"
+      },
+      "position": "1"
+     }
+    ]
+   }
+  ]
+ }
+}

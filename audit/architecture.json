@@ -1,0 +1,113 @@
+{
+  "schema": "site-reforge/architecture@1",
+  "generated": "2026-09-23T04:25:46.432Z",
+  "origin": "https://www.sunnydayzcannabis.com",
+  "pageTypes": {
+    "home": 1,
+    "page": 108,
+    "blog-index": 7,
+    "form": 1,
+    "commerce": 147
+  },
+  "urlDepthHistogram": {
+    "0": 1,
+    "1": 15,
+    "2": 216,
+    "3": 32
+  },
+  "primaryNav": [
+    {
+      "label": "Home",
+      "onPages": 264
+    },
+    {
+      "label": "Brands",
+      "onPages": 264
+    },
+    {
+      "label": "Deals",
+      "onPages": 264
+    },
+    {
+      "label": "Our Products",
+      "onPages": 264
+    },
+    {
+      "label": "Strains",
+      "onPages": 264
+    },
+    {
+      "label": "About Us",
+      "onPages": 264
+    },
+    {
+      "label": "Contact Us",
+      "onPages": 264
+    }
+  ],
+  "globalFooterCandidates": [
+    {
+      "onPages": 264,
+      "sample": "CATEGORIES Vapes Flower Pre-rolls Edibles Extracts CBD Drinks Tincture Capsules Topicals Accesories SHOP BY ALL Brands Deals Daily Deals ABOUT US Our Story Contact Us LEGAL Terms and Conditions Privacy Policy For use by individuals registered qualifying patients or individuals 21 years of age or older only. Keep out of reach of children. It is illegal to drive a motor vehicle while under the influ"
+    }
+  ],
+  "formsByAction": [
+    {
+      "action": "(same page) [get]",
+      "pages": [
+        "https://www.sunnydayzcannabis.com/brands",
+        "https://www.sunnydayzcannabis.com/weed-delivery/dispensary-in-glendale"
+      ],
+      "fields": [
+        "brands-search"
+      ]
+    }
+  ],
+  "orphanPages": [
+    "https://www.sunnydayzcannabis.com/all-products",
+    "https://www.sunnydayzcannabis.com/collection/extract/sugar",
+    "https://www.sunnydayzcannabis.com/collection/flower/bulk-flower",
+    "https://www.sunnydayzcannabis.com/collection/merch/hoodie",
+    "https://www.sunnydayzcannabis.com/collection/merch/other",
+    "https://www.sunnydayzcannabis.com/collection/preroll/infused",
+    "https://www.sunnydayzcannabis.com/daily-deals",
+    "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-atlantic-bliss-rso-chocolate-100-mg-edible-100-milligrams",
+    "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-blueberry-vanilla-dream-rso-chocolate-100-mg-edible-100-milligrams",
+    "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-raspberry-rosin-revive-chocolate-100-mg-edible-100-milligrams",
+    "https://www.sunnydayzcannabis.com/product/bountiful-farms-bountiful-candy-fumez-3-5g-flower-3-5-g-flower-3-5-grams",
+    "https://www.sunnydayzcannabis.com/product/bountiful-farms-bountiful-texas-shoreline-3-5g-flower-3-5-g-flower-3-5-grams",
+    "https://www.sunnydayzcannabis.com/product/bountiful-farms-bountiful-watermellos-3-5g-flower-3-5-g-flower-3-5-grams",
+    "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-confetti-1g-pre-roll-1-g-3-pack-preroll-1-grams",
+    "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-haley-s-comet-haze-1g-pre-roll-1-g-preroll-1-grams",
+    "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-mango-smoothie-1g-pre-roll-1-g-3-pack-preroll-1-grams",
+    "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-mango-smoothie-1g-pre-roll-1-g-preroll-1-grams",
+    "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-mango-smoothie-3-5g-flower-3-5-g-flower-3-5-grams",
+    "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-pineapple-cake-1g-pre-roll-1-g-preroll-1-grams",
+    "https://www.sunnydayzcannabis.com/product/bubby-s-bubby-s-chocolate-chip-baked-goods-5mg-5-mg-edible-5-milligrams",
+    "https://www.sunnydayzcannabis.com/product/coast-coast-cookies-cream-white-chocolate-bar-100-mg-edible-100-milligrams",
+    "https://www.sunnydayzcannabis.com/product/coast-coast-goodnight-grape-gummy-5-25-100-mg-20-pack-edible-100-milligrams",
+    "https://www.sunnydayzcannabis.com/product/coast-coast-milk-chocolate-bar-100-mg-edible-100-milligrams",
+    "https://www.sunnydayzcannabis.com/product/coast-coast-s-mores-chocolate-bar-100-mg-edible-100-milligrams",
+    "https://www.sunnydayzcannabis.com/product/e-z-wider-organic-hemp-cones-1-1-4-one-size-merch",
+    "https://www.sunnydayzcannabis.com/product/hg-aluminum-grinder-black-2-5-inch-one-size-merch",
+    "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-acai-blueberry-harmony-100-mg-10-pack-edible-100-milligrams",
+    "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-sour-berry-bliss-live-rosin-100-mg-10-pack-edible-100-milligrams",
+    "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-sour-melon-rush-live-rosin-100-mg-10-pack-edible-100-milligrams",
+    "https://www.sunnydayzcannabis.com/product/kanha-kanha-sleep-marionberry-plum-nano-gummy-100-mg-10-pack-edible-100-milligrams",
+    "https://www.sunnydayzcannabis.com/product/kanha-kanha-strawberry-classic-gummy-100-mg-10-pack-edible-100-milligrams",
+    "https://www.sunnydayzcannabis.com/product/kanha-kanha-watermelon-classic-gummy-100-mg-10-pack-edible-100-milligrams",
+    "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-infused-olive-oil-500mg-500-mg-edible-500-milligrams",
+    "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-solventless-hash-caps-100-mg-20-pack-edible-100-milligrams",
+    "https://www.sunnydayzcannabis.com/product/the-healing-rose-healing-rose-lemon-ginger-200mg-cbd-cbg-8x-200-mg-cbd-200-milligrams",
+    "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-chill-rosin-gummies-100mg-100-mg-edible-100-milligrams",
+    "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-party-rosin-gummies-100mg-100-mg-edible-100-milligrams",
+    "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-sleep-relief-live-hash-rosin-gummies-700mg-700-mg-10-pack-edible-700-milligrams",
+    "https://www.sunnydayzcannabis.com/promotions",
+    "https://www.sunnydayzcannabis.com/strain/cbd",
+    "https://www.sunnydayzcannabis.com/strain/hybrid",
+    "https://www.sunnydayzcannabis.com/strain/indica",
+    "https://www.sunnydayzcannabis.com/strain/sativa",
+    "https://www.sunnydayzcannabis.com/strain/si",
+    "https://www.sunnydayzcannabis.com/weed-delivery/dispensary-in-glendale"
+  ]
+}

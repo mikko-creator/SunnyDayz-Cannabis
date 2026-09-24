@@ -1,0 +1,31 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/Small%20Batch,%20Real%20Farmers,%20Real%20Flavor.",
+ "slug": "~small-~batch-~real-~farmers-~real-~flavor",
+ "type": "notfound",
+ "title": "404",
+ "seoTitle": "404",
+ "model": {
+  "h1": "404",
+  "blocks": [
+   {
+    "t": "h1",
+    "text": "404"
+   },
+   {
+    "t": "p",
+    "text": "Oops! Page not found.",
+    "html": "Oops! Page not found."
+   },
+   {
+    "t": "p",
+    "text": "We couldn’t find the page you are looking for. Perhaps you can try searching:",
+    "html": "We couldn’t find the page you are looking for.<br>Perhaps you can try searching:"
+   }
+  ],
+  "links": [],
+  "buttons": [
+   "Return to Home"
+  ],
+  "softNotFound": true
+ }
+}

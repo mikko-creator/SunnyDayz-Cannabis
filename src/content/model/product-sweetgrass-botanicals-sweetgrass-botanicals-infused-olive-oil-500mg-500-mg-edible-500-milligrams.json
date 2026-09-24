@@ -1,0 +1,164 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-infused-olive-oil-500mg-500-mg-edible-500-milligrams",
+ "slug": "product-sweetgrass-botanicals-sweetgrass-botanicals-infused-olive-oil-500mg-500-mg-edible-500-milligrams",
+ "type": "product",
+ "title": "SWEETGRASS BOTANICALS - Sweetgrass Botanicals - Infused Olive Oil - 500mg",
+ "seoTitle": "SWEETGRASS BOTANICALS - Sweetgrass Botanicals - Infused Olive Oil - 500mg",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Sweetgrass Botanicals - Infused Olive Oil - 500mg",
+    "href": null
+   }
+  ],
+  "h1": "Sweetgrass Botanicals - Infused Olive Oil - 500mg",
+  "name": "Sweetgrass Botanicals - Infused Olive Oil - 500mg",
+  "brand": {
+   "label": "SWEETGRASS BOTANICALS",
+   "href": "/brand/sweetgrass-botanicals"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "OIL",
+    "href": "/collection/edible/oil"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/75ed45dd-de3c-4dac-8ce5-c92f97333f58?w=3840&q=100",
+   "alt": "Sweetgrass Botanicals - Infused Olive Oil - 500mg"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/75ed45dd-de3c-4dac-8ce5-c92f97333f58?w=3840&q=100",
+    "alt": "Sweetgrass Botanicals - Infused Olive Oil - 500mg"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "500MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Sweetgrass Botanicals Infused Olive Oil brings versatile cannabis wellness to your kitchen with 500mg of premium extract in every bottle. This culinary edible offers a sophisticated way to incorporate cannabis into your daily routine, whether drizzled over salads, mixed into dressings, or used in low-heat cooking. The smooth, earthy flavor profile complements both savory and sweet dishes while delivering consistent, long-lasting effects. Perfect for experienced consumers seeking creative control over their dosing, this infused oil allows you to customize your experience with every meal. Simply start with a small amount and wait 60-90 minutes to feel the full effects. Store in a cool, dark place to maintain potency and freshness. Elevate your culinary creations while enjoying the therapeutic benefits of cannabis with this premium infused olive oil.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "each",
+    "price": "$70",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$70",
+   "original": null,
+   "ariaLabel": "Product price: $70"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Sweetgrass Botanicals - Infused Olive Oil - 500mg to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Sweetgrass Botanicals - Infused Olive Oil - 500mg to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "SWEETGRASS BOTANICALS",
+    "href": "/brand/sweetgrass-botanicals"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "500MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Sweetgrass Botanicals Infused Olive Oil 500 Mg 500 Mg"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

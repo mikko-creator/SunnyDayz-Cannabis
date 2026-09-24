@@ -1,0 +1,144 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/e-z-wider-organic-hemp-cones-1-1-4-one-size-merch",
+ "slug": "product-e-z-wider-organic-hemp-cones-1-1-4-one-size-merch",
+ "type": "product",
+ "title": "- E-Z Wider - Organic Hemp Cones - 1 1/4",
+ "seoTitle": "- E-Z Wider - Organic Hemp Cones - 1 1/4",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Merch",
+    "href": "/collection/merch"
+   },
+   {
+    "label": "E-Z Wider - Organic Hemp Cones - 1 1/4",
+    "href": null
+   }
+  ],
+  "h1": "E-Z Wider - Organic Hemp Cones - 1 1/4",
+  "name": "E-Z Wider - Organic Hemp Cones - 1 1/4",
+  "brand": {
+   "label": "not specified",
+   "href": null
+  },
+  "badges": [],
+  "strainType": null,
+  "category": {
+   "label": "Merch",
+   "href": "/collection/merch"
+  },
+  "subcategories": [
+   {
+    "label": "ROLLING PAPERS",
+    "href": "/collection/merch/rolling-papers"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/51fdcffe-90cd-466c-ad2a-e1c45fa88098?w=3840&q=100",
+   "alt": "E-Z Wider - Organic Hemp Cones - 1 1/4"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/51fdcffe-90cd-466c-ad2a-e1c45fa88098?w=3840&q=100",
+    "alt": "E-Z Wider - Organic Hemp Cones - 1 1/4"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": null,
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [],
+  "disclaimer": null,
+  "description": "E-Z Wider Organic Hemp Cones in the classic 1 1/4 size deliver a smooth, natural smoking experience for cannabis enthusiasts who value quality rolling papers. Crafted from organic hemp, these pre-rolled cones offer a clean, slow burn that lets you enjoy your flower's true flavors without harsh paper taste. The 1 1/4 size is perfect for personal sessions or sharing with friends, providing just the right capacity for a satisfying smoke. Hemp papers are known for their even burn rate and minimal ash, making them a favorite among connoisseurs. Simply fill, twist, and enjoy—these cones eliminate the learning curve of traditional rolling while delivering consistent results every time. Ideal for on-the-go convenience or relaxed sessions at home, E-Z Wider's organic hemp construction ensures a pure, eco-friendly choice that complements any strain in your collection.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "",
+    "price": "$3",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$3",
+   "original": null,
+   "ariaLabel": "Product price: $3"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add E-Z Wider - Organic Hemp Cones - 1 1/4 to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add E-Z Wider - Organic Hemp Cones - 1 1/4 to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "Not Specified"
+   },
+   {
+    "label": "Package Info",
+    "value": "E Z Wider Organic Hemp Cones 1 1 4 One Size"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/raw-raw-classic-cones-dog-walker-single-70-24-one-size-merch",
+ "slug": "product-raw-raw-classic-cones-dog-walker-single-70-24-one-size-merch",
+ "type": "product",
+ "title": "RAW - Raw - Classic Cones - Dog Walker - Single - 70/24",
+ "seoTitle": "RAW - Raw - Classic Cones - Dog Walker - Single - 70/24",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Merch",
+    "href": "/collection/merch"
+   },
+   {
+    "label": "Raw - Classic Cones - Dog Walker - Single - 70/24",
+    "href": null
+   }
+  ],
+  "h1": "Raw - Classic Cones - Dog Walker - Single - 70/24",
+  "name": "Raw - Classic Cones - Dog Walker - Single - 70/24",
+  "brand": {
+   "label": "RAW",
+   "href": "/brand/raw"
+  },
+  "badges": [],
+  "strainType": null,
+  "category": {
+   "label": "Merch",
+   "href": "/collection/merch"
+  },
+  "subcategories": [
+   {
+    "label": "ROLLING PAPERS",
+    "href": "/collection/merch/rolling-papers"
+   }
+  ],
+  "image": {
+   "src": "",
+   "alt": "Raw - Classic Cones - Dog Walker - Single - 70/24",
+   "placeholder": true
+  },
+  "images": [
+   {
+    "src": "",
+    "alt": "Raw - Classic Cones - Dog Walker - Single - 70/24",
+    "placeholder": true
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": true,
+  "stockPhotoLabel": "Stock photo",
+  "sectionTitles": {
+   "details": null,
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [],
+  "disclaimer": null,
+  "description": "RAW Classic Cones Dog Walker Singles deliver the iconic RAW rolling paper experience in a perfectly pre-rolled, convenient format. These slim, compact cones are crafted from natural unrefined paper that burns slow and even, letting you enjoy pure flavor without any unwanted additives. Ideal for solo sessions or on-the-go enjoyment, the Dog Walker size offers a quick, satisfying smoke that fits seamlessly into your lifestyle. RAW's signature quality shines through in every cone, with a classic brown hue and watermark that prevents runs. Whether you're new to rolling papers or a seasoned enthusiast, these single cones provide hassle-free convenience without compromising on authenticity or taste. Perfect for the cannabis consumer who values natural, unprocessed accessories that enhance rather than interfere with their experience.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "RAW",
+    "href": "/brand/raw"
+   },
+   {
+    "label": "Package Info",
+    "value": "Raw Classic Cones Dog Walker Single 70 24 One Size"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

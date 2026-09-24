@@ -1,0 +1,310 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/harbor-house-harbor-house-gmo-1g-pre-roll-1-g-preroll-1-grams",
+ "slug": "product-harbor-house-harbor-house-gmo-1g-pre-roll-1-g-preroll-1-grams",
+ "type": "product",
+ "title": "HARBOR HOUSE - Harbor House - GMO - 1G Pre-roll",
+ "seoTitle": "HARBOR HOUSE - Harbor House - GMO - 1G Pre-roll",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Preroll",
+    "href": "/collection/preroll"
+   },
+   {
+    "label": "Harbor House - GMO - 1G Pre-roll",
+    "href": null
+   }
+  ],
+  "h1": "Harbor House - GMO - 1G Pre-roll",
+  "name": "Harbor House - GMO - 1G Pre-roll",
+  "brand": {
+   "label": "HARBOR HOUSE",
+   "href": "/brand/harbor-house"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Indica",
+   "key": "indica",
+   "ariaLabel": "Flower type: Indica"
+  },
+  "category": {
+   "label": "Preroll",
+   "href": "/collection/preroll"
+  },
+  "subcategories": [
+   {
+    "label": "FLOWER",
+    "href": "/collection/preroll/flower"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/ed23af36-5266-4981-abd2-25219bba7020?w=3840&q=100",
+   "alt": "Harbor House - GMO - 1G Pre-roll"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/ed23af36-5266-4981-abd2-25219bba7020?w=3840&q=100",
+    "alt": "Harbor House - GMO - 1G Pre-roll"
+   },
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/4d8a9e4a-d70d-4641-a35f-d1812b8a1d26?w=3840&q=100",
+    "alt": "Harbor House - GMO - 1G Pre-roll"
+   }
+  ],
+  "thumbnails": [
+   {
+    "src": "",
+    "alt": "Harbor House - GMO - 1G Pre-roll",
+    "placeholder": true,
+    "active": true
+   },
+   {
+    "src": "",
+    "alt": "Harbor House - GMO - 1G Pre-roll",
+    "placeholder": true,
+    "active": false
+   }
+  ],
+  "galleryNav": [
+   {
+    "label": "Previous",
+    "direction": "prev",
+    "disabled": true
+   },
+   {
+    "label": "Next",
+    "direction": "next",
+    "disabled": false
+   }
+  ],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": "Warning",
+   "about": "About this product",
+   "terpenes": "Terpenes",
+   "cannabinoids": "Cannabinoids"
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "29.05%",
+    "icon": "vector"
+   },
+   {
+    "label": "TAC",
+    "value": "34.25%",
+    "icon": "inline-svg",
+    "_iconSvg": "<svg aria-hidden=\"true\" focusable=\"false\" fill=\"none\" height=\"24\" viewBox=\"0 0 24 24\" width=\"24\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M11.3861 17C11.3861 17 13.2936 18.8093 15.0142 18.8182C15.0189 18.8182 15.0228 18.8145 15.0233 18.8098C15.1804 17.2607 14.9915 16.7978 14.5768 16.1057C14.573 16.0995 14.578 16.0914 14.5852 16.0918C16.8502 16.2108 17.9242 15.8694 19.5575 14.7345C19.5626 14.731 19.5628 14.7233 19.5579 14.7196C18.2611 13.7263 17.31 13.5742 15.5048 13.3668C15.4961 13.3658 15.4937 13.354 15.5013 13.3497C17.8316 12.0074 18.678 10.657 19.564 7.46866C19.5657 7.46222 19.56 7.45593 19.5535 7.4571C16.8106 7.94349 15.5358 8.56175 13.6791 10.1643C13.6725 10.1699 13.6623 10.164 13.664 10.1555C14.5336 5.73445 11.5403 2.17971 11.3918 2.0066C11.388 2.00227 11.3846 2.00192 11.3811 2.00646C11.242 2.18801 8.23874 6.16714 9.10739 10.1548C9.10925 10.1634 9.09891 10.1694 9.09228 10.1636C7.23597 8.56159 5.96111 7.94343 3.21865 7.4571C3.21206 7.45593 3.20636 7.46222 3.20815 7.46866C4.0941 10.657 4.94054 12.0074 7.27083 13.3497C7.27844 13.354 7.27603 13.3658 7.26731 13.3668C5.46211 13.5742 4.51105 13.7263 3.21423 14.7196C3.20935 14.7233 3.20952 14.731 3.21458 14.7345C4.84787 15.8694 5.92194 16.2108 8.18687 16.0918C8.19415 16.0914 8.19909 16.0995 8.19534 16.1057C7.78058 16.7978 7.59169 17.2607 7.74884 18.8098C7.74931 18.8145 7.75322 18.8182 7.75789 18.8182C9.4785 18.8093 11.3861 17 11.3861 17ZM11.3861 17V17.4545V22\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-width=\"2\"></path></svg>"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Harbor House brings you GMO in a convenient 1g pre-roll, ready to deliver a powerful and memorable experience. This premium preroll showcases the distinctive garlic, earthy, and pungent aroma that GMO is celebrated for, offering a robust flavor profile that stands out from the crowd. Known for its relaxing and euphoric effects, this strain is perfect for unwinding after a long day or melting away stress. Each pre-roll is expertly crafted for smooth, consistent burning and maximum enjoyment. Whether you're a seasoned enthusiast or exploring new favorites, Harbor House's GMO pre-roll provides quality and potency in every puff. Elevate your cannabis ritual with this bold, flavorful choice that delivers satisfaction from start to finish.",
+  "warnings": [
+   {
+    "title": "Proposition 65 Warning for California Consumers",
+    "collapsed": true,
+    "toggleIcon": "angle-down",
+    "toggleAriaLabel": "Expand content",
+    "label": "WARNING:",
+    "lines": [
+     "This product can expose you to chemicals including β-myrcene and cannabis smoke, which are known to the State of California to cause cancer, and chemicals including cannabis smoke and 9-tetrahydrocannabinol, which are known to the State of California to cause birth defects or other reproductive harm."
+    ],
+    "moreInfo": {
+     "text": "For more information go to",
+     "label": "www.P65Warnings.ca.gov",
+     "href": "https://www.P65Warnings.ca.gov"
+    },
+    "links": []
+   }
+  ],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "1g",
+    "price": "$10",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$10",
+   "original": null,
+   "ariaLabel": "Product price: $10"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Harbor House - GMO - 1G Pre-roll to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Harbor House - GMO - 1G Pre-roll to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "HARBOR HOUSE",
+    "href": "/brand/harbor-house"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Indica",
+    "href": "/strain/Indica"
+   },
+   {
+    "label": "THC",
+    "value": "29.05%"
+   },
+   {
+    "label": "TAC",
+    "value": "34.25%"
+   },
+   {
+    "label": "Package Info",
+    "value": "Harbor House Gmo 1 G Pre Roll 1 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "1g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [
+   {
+    "name": "Beta Myrcene",
+    "value": "1.09 %",
+    "aroma": "Herbal",
+    "effects": "Relaxing, Sedation, Heaviness, Couch Lock"
+   },
+   {
+    "name": "Limonene",
+    "value": "0.95 %",
+    "aroma": "Citrus",
+    "effects": "Elevated mood, anti-anxiety"
+   },
+   {
+    "name": "Beta Pinene",
+    "value": "0.27 %",
+    "aroma": "Pine",
+    "effects": "Focus, Relief, Alert, Balanced"
+   },
+   {
+    "name": "Alpha Pinene",
+    "value": "0.24 %",
+    "aroma": "Pine",
+    "effects": "Focus, Relief, Alert, Balanced"
+   },
+   {
+    "name": "Beta Caryophyllene",
+    "value": "0.2 %",
+    "aroma": "Peppery",
+    "effects": "Anti-inflammatory, analgesic, calming"
+   },
+   {
+    "name": "Alpha Humulene",
+    "value": "0.18 %",
+    "aroma": "Hoppy",
+    "effects": "Pain relief, appetite suppression"
+   },
+   {
+    "name": "Alpha Bisabolol",
+    "value": "0.02 %",
+    "aroma": "Floral",
+    "effects": "Soothing, Anti-inflammatory"
+   },
+   {
+    "name": "Alpha Terpinene",
+    "value": "0.01 %",
+    "aroma": "Lemony",
+    "effects": "Antioxidant, anti-inflammatory, antimicrobial"
+   },
+   {
+    "name": "Caryophyllene Oxide",
+    "value": "0.01 %",
+    "aroma": "Peppery",
+    "effects": "Anti-inflammatory, analgesic, calming"
+   }
+  ],
+  "cannabinoids": [
+   {
+    "group": "THC",
+    "items": [
+     {
+      "name": "THCA",
+      "value": "32.18%"
+     },
+     {
+      "name": "THC",
+      "value": "29.05%"
+     }
+    ]
+   },
+   {
+    "group": "CBD",
+    "items": [
+     {
+      "name": "CBG",
+      "value": "0.12%"
+     }
+    ]
+   },
+   {
+    "group": "TAC",
+    "items": [
+     {
+      "name": "Total Cannabinoids",
+      "value": "34.25%"
+     }
+    ]
+   }
+  ],
+  "jsonld": null
+ }
+}

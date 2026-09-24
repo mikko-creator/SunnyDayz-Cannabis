@@ -1,0 +1,344 @@
+{
+ "schema": "sunnydayz/model-report@1",
+ "generated": "2026-09-23T06:06:33.845Z",
+ "min": 0.98,
+ "byType": {
+  "collection": {
+   "pages": 47,
+   "errors": 0,
+   "below": 0,
+   "minCoverage": 1
+  }
+ },
+ "pages": [
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/preroll/flower",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/cartridge/all-in-one",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/cbd/topical",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/edible/chocolate",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/extract/badder",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/merch/hat",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/merch/lighter",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/tincture/other",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/topical/lubricant",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/topical/other",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/cartridge",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/edible/baked-good",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/extract/live-rosin",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/merch/rolling-papers",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/flower?sort=brandAsc",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/merch?sort=brandAsc",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/preroll?sort=brandAsc",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/edible?sort=priceDesc",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/extract?sort=brandAsc",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/beverage/other",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/edible/chew",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/edible/gummy",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/edible/oil",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/edible/other",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/extract/kief",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/flower/pre-pack",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/merch/battery",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/merch/grinder",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/merch/other",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/merch/pipe",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/merch/t-shirt",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/topical/cream",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/topical/oil",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/beverage",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/cartridge/510-thread",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/cbd",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/edible",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/flower",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/merch",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/preroll",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/tincture",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/beverage?sort=brandAsc",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/cartridge?sort=brandAsc",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/extract",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/tincture?sort=brandAsc",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/topical",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/topical?sort=brandAsc",
+   "type": "collection",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  }
+ ]
+}

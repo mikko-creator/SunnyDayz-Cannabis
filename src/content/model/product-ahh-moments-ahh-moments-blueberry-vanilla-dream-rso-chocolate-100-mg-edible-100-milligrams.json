@@ -1,0 +1,133 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-blueberry-vanilla-dream-rso-chocolate-100-mg-edible-100-milligrams",
+ "slug": "product-ahh-moments-ahh-moments-blueberry-vanilla-dream-rso-chocolate-100-mg-edible-100-milligrams",
+ "type": "product",
+ "title": "AHH MOMENTS - Ahh Moments | Blueberry Vanilla Dream RSO | Chocolate",
+ "seoTitle": "AHH MOMENTS - Ahh Moments | Blueberry Vanilla Dream RSO | Chocolate",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Ahh Moments | Blueberry Vanilla Dream RSO | Chocolate",
+    "href": null
+   }
+  ],
+  "h1": "Ahh Moments | Blueberry Vanilla Dream RSO | Chocolate",
+  "name": "Ahh Moments | Blueberry Vanilla Dream RSO | Chocolate",
+  "brand": {
+   "label": "AHH MOMENTS",
+   "href": "/brand/ahh-moments"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Indica",
+   "key": "indica",
+   "ariaLabel": "Flower type: Indica"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "CHOCOLATE",
+    "href": "/collection/edible/chocolate"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/8ea0f8c2-9058-4747-b7f5-81ee5e4e683a?w=3840&q=100",
+   "alt": "Ahh Moments | Blueberry Vanilla Dream RSO | Chocolate"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/8ea0f8c2-9058-4747-b7f5-81ee5e4e683a?w=3840&q=100",
+    "alt": "Ahh Moments | Blueberry Vanilla Dream RSO | Chocolate"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "100MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Ahh Moments presents Blueberry Vanilla Dream RSO Chocolate, a delicious 100mg indica-infused edible crafted for ultimate relaxation. This decadent chocolate combines the rich sweetness of blueberry and smooth vanilla cream with full-spectrum RSO (Rick Simpson Oil) to deliver powerful, long-lasting effects. Each bite offers a luxurious flavor experience while promoting deep relaxation, relief, and restful sleep—perfect for unwinding after a long day or easing into a peaceful evening. The indica classification ensures calming, body-focused benefits that melt away tension and stress. Whether you're seeking relief from discomfort or simply craving a tranquil escape, this gourmet chocolate treat delivers both exceptional taste and therapeutic effects in one indulgent package.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "AHH MOMENTS",
+    "href": "/brand/ahh-moments"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Indica",
+    "href": "/strain/Indica"
+   },
+   {
+    "label": "THC",
+    "value": "100MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Ahh Moments Blueberry Vanilla Dream Rso Chocolate 100 Mg"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

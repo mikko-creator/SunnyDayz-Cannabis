@@ -1,0 +1,177 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/about-us",
+ "slug": "about-us",
+ "type": "page",
+ "title": "About us",
+ "seoTitle": "About us",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "About us",
+    "href": null
+   }
+  ],
+  "h1": "ROOTED IN QUALITY CULTIVATING TRUST",
+  "bannerImage": {
+   "src": "https://images.prismic.io/sunny-dayz/ITYHauH23rhJSyW9_BannerSliceDispensary.jpg?auto=format%2Ccompress&rect=0%2C0%2C2016%2C780&w=3840&fit=max",
+   "alt": "Banner"
+  },
+  "blocks": [
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/ITYHauH23rhJSyW9_BannerSliceDispensary.jpg?auto=format%2Ccompress&rect=0%2C0%2C2016%2C780&w=3840&fit=max",
+    "alt": "Banner"
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/ITYHauH23rhJSyW9_BannerSliceDispensary.jpg?auto=format%2Ccompress&rect=2%2C0%2C2013%2C780&w=3840&fit=max",
+    "alt": "Banner"
+   },
+   {
+    "t": "h1",
+    "text": "ROOTED IN QUALITY CULTIVATING TRUST"
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/1g2QF2k5tZETN2b0_SDC-2025-logo-ai.png?auto=format%2Ccompress&fit=max&w=3840&q=100",
+    "alt": "Image"
+   },
+   {
+    "t": "h1",
+    "text": "Small Batch, Real Farmers, Real Flavor"
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz is an independently owned, vertically integrated craft cannabis company built around a simple belief: cannabis should be about more than THC percentage. We focus on quality, flavor, terpenes, and the overall experience—from how our cannabis is cultivated to how customers discover and purchase it. Our flower is grown in small batches, in organic living soil, and is hand-watered and hand-trimmed with an emphasis on bringing out the unique characteristics of every cultivar.",
+    "html": "SunnyDayz is an independently owned, vertically integrated craft cannabis company built around a simple belief: cannabis should be about more than THC percentage. We focus on quality, flavor, terpenes, and the overall experience—from how our cannabis is cultivated to how customers discover and purchase it. Our flower is grown in small batches, in organic living soil, and is hand-watered and hand-trimmed with an emphasis on bringing out the unique characteristics of every cultivar."
+   },
+   {
+    "t": "h2",
+    "text": "Our Ethos, Our Passion"
+   },
+   {
+    "t": "p",
+    "text": "Education",
+    "html": "Education"
+   },
+   {
+    "t": "p",
+    "text": "We believe a better understanding of cannabis leads to a better experience. That’s why education is at the heart of SunnyDayz. From terpenes and cannabinoids to genetics, cultivation methods, and product types, we help you understand what’s behind the product—so you can choose cannabis based on the experience you’re looking for, not simply the highest THC number.",
+    "html": "We believe a better understanding of cannabis leads to a better experience. That’s why education is at the heart of SunnyDayz. From terpenes and cannabinoids to genetics, cultivation methods, and product types, we help you understand what’s behind the product—so you can choose cannabis based on the experience you’re looking for, not simply the highest THC number."
+   },
+   {
+    "t": "p",
+    "text": "Quality & Commitment",
+    "html": "Quality &amp; Commitment"
+   },
+   {
+    "t": "p",
+    "text": "Quality isn’t just something we talk about—it’s built into how we operate every day. From cultivating and manufacturing our own products to carefully selecting the brands we carry, we’re committed to doing things the right way. Small batches, thoughtful processes and attention to detail allow us to focus on what matters most: consistency, freshness, and a better cannabis experience.",
+    "html": "Quality isn’t just something we talk about—it’s built into how we operate every day. From cultivating and manufacturing our own products to carefully selecting the brands we carry, we’re committed to doing things the right way. Small batches, thoughtful processes and attention to detail allow us to focus on what matters most: consistency, freshness, and a better cannabis experience."
+   },
+   {
+    "t": "p",
+    "text": "Transparency",
+    "html": "Transparency"
+   },
+   {
+    "t": "p",
+    "text": "We believe transparency starts with knowing what you’re buying. At our deli-style bud bar, you can see and smell the flower before you choose it and learn more about where it came from, when it was harvested, and how it was grown. Our team is here to answer questions and provide straightforward information about the products on our shelves, so you can make the choice that’s right for you",
+    "html": "We believe transparency starts with knowing what you’re buying. At our deli-style bud bar, you can see and smell the flower before you choose it and learn more about where it came from, when it was harvested, and how it was grown. Our team is here to answer questions and provide straightforward information about the products on our shelves, so you can make the choice that’s right for you"
+   },
+   {
+    "t": "h1",
+    "text": "Independently Owned, Vertically Integrated"
+   },
+   {
+    "t": "h5",
+    "text": "Cultivation"
+   },
+   {
+    "t": "p",
+    "text": "At SunnyDayz, our cultivation facility was purpose built and properly engineered from the ground up to create an optimal environment for the plant. Our advanced chilled-water HVACD system provides precise control over temperature, humidity, and environmental conditions throughout every stage of cultivation, allowing us to maintain consistency from room to room and harvest to harvest. We pair that technology with a hands-on approach— organic living soil, small-batch cultivation, hand watering, and hand trimming. The result is the best of both worlds: sophisticated environmental control combined with real farmers who understand the plant. Everything is designed around one goal— healthy plants that fully express their genetics, terpenes, flavor, and aroma.",
+    "html": "At SunnyDayz, our cultivation facility was purpose built and properly engineered from the ground up to create an optimal environment for the plant. Our advanced chilled-water HVACD system provides precise control over temperature, humidity, and environmental conditions throughout every stage of cultivation, allowing us to maintain consistency from room to room and harvest to harvest. We pair that technology with a hands-on approach— organic living soil, small-batch cultivation, hand watering, and hand trimming. The result is the best of both worlds: sophisticated environmental control combined with real farmers who understand the plant. Everything is designed around one goal— healthy plants that fully express their genetics, terpenes, flavor, and aroma."
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/_x2SxPcRB_Gw3OlE_tropstrawberry2026-07-2910-42-31-C%2CS4-copy-2.png?auto=format%2Ccompress&rect=0%2C259%2C2080%2C1365&w=3840&fit=max",
+    "alt": "Image"
+   },
+   {
+    "t": "h1",
+    "text": "Manufacturing"
+   },
+   {
+    "t": "p",
+    "text": "At SunnyDayz, we believe craft cannabis should stay craft. Our flower is hand-trimmed, our pre-rolls are hand-packed, and our rosin is produced using solventless ice-water extraction to preserve the plant’s natural terpenes, flavor, and character. No automated production lines, no unnecessary processing, and no shortcuts. Just carefully made, small-batch products with a focus on quality from start to finish.",
+    "html": "At SunnyDayz, we believe craft cannabis should stay craft. Our flower is hand-trimmed, our pre-rolls are hand-packed, and our rosin is produced using solventless ice-water extraction to preserve the plant’s natural terpenes, flavor, and character. No automated production lines, no unnecessary processing, and no shortcuts. Just carefully made, small-batch products with a focus on quality from start to finish."
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/dEB8TVFoV3_UgrQH_AddtoAboutUsmanufacturing.jpg?auto=format%2Ccompress&rect=0%2C335%2C963%2C963&w=3840&fit=max",
+    "alt": "Image"
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/99DK9YcV-09HWM9V_2A13C876-BE59-4FBC-9555-7EC1060AA6CF.PNG?auto=format%2Ccompress&rect=0%2C181%2C1086%2C1086&w=3840&fit=max",
+    "alt": "Image"
+   },
+   {
+    "t": "h1",
+    "text": "Retail"
+   },
+   {
+    "t": "p",
+    "text": "At SunnyDayz, retail is about education, transparency, and a better way to experience cannabis. We carefully curate every product we carry, selecting brands and products that meet our standards for quality and consistency. Our deli-style bud bar lets customers see and smell flower before they buy, with clear information like harvest dates, testing results, terpene profiles, and more. Our knowledgeable team is here to educate—not just sell —helping every customer make a more informed and confident choice",
+    "html": "At SunnyDayz, retail is about education, transparency, and a better way to experience cannabis. We carefully curate every product we carry, selecting brands and products that meet our standards for quality and consistency. Our deli-style bud bar lets customers see and smell flower before they buy, with clear information like harvest dates, testing results, terpene profiles, and more. Our knowledgeable team is here to educate—not just sell —helping every customer make a more informed and confident choice"
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMfpbqstJ9-Dzo_about-img2.png?auto=format%2Ccompress&rect=417%2C0%2C1667%2C1667&w=3840&fit=max",
+    "alt": "Image"
+   },
+   {
+    "t": "img",
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMfZbqstJ9-Dzn_about-section-2.png?auto=format%2Ccompress&rect=169%2C0%2C1600%2C1600&w=3840&fit=max",
+    "alt": "Image"
+   }
+  ],
+  "faqs": [],
+  "forms": [],
+  "iframes": [],
+  "buttons": [],
+  "links": [
+   {
+    "label": "Home",
+    "href": "/"
+   }
+  ],
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "About us"
+      },
+      "position": 2
+     }
+    ]
+   }
+  ]
+ }
+}

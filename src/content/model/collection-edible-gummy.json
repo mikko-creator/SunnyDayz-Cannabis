@@ -1,0 +1,620 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/collection/edible/gummy",
+ "slug": "collection-edible-gummy",
+ "type": "collection",
+ "title": "GUMMY",
+ "seoTitle": "GUMMY",
+ "model": {
+  "kind": "collection",
+  "level": "subcategory",
+  "path": "/collection/edible/gummy",
+  "category": "edible",
+  "subcategory": "gummy",
+  "parentPath": "/collection/edible",
+  "sortParam": null,
+  "capture": {
+   "matchesUrl": true,
+   "signal": null,
+   "observed": null
+  },
+  "h1": "GUMMY",
+  "banner": {
+   "title": "GUMMY",
+   "description": "Best GUMMY",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMq5bqstJ9-D0W_CategoriesBanner-29.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMrJbqstJ9-D0X_CategoriesBanner-28.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "GUMMY",
+    "href": null
+   }
+  ],
+  "categoryLinks": [],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "loading",
+  "emptyState": null,
+  "cards": [],
+  "productCount": 14,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/kanha-kanha-sleep-marionberry-plum-nano-gummy-100-mg-10-pack-edible-100-milligrams",
+    "name": "Kanha - Sleep Marionberry Plum - Nano Gummy",
+    "brand": "KANHA",
+    "description": "Kanha Sleep Marionberry Plum Nano Gummy delivers 100mg of indica-powered relaxation in a delicious edible form designed to help you unwind. This fast-acting nano gummy combines the sweet-tart flavor of ripe marionberries with smooth plum notes for a satisfying nighttime treat. Formulated specifically for sleep support, each gummy offers calming, relaxing effects ideal for those seeking relief from restlessness and stress. Kanha's nano technology ensures quicker onset, so you can drift off faster. The indica classification provides the soothing, full-body relaxation you need after a long day. Perfect for evening use, this gummy blends fruity berry and plum flavors with sleepy, calming benefits to support restful nights and deep relaxation.",
+    "price": "$15",
+    "priceAmount": 15,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/faec4038-67b3-4a0b-9906-514719414e10",
+     "alt": "Kanha - Sleep Marionberry Plum - Nano Gummy"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/kanha-kanha-strawberry-classic-gummy-100-mg-10-pack-edible-100-milligrams",
+    "name": "Kanha - Strawberry - Classic Gummy",
+    "brand": "KANHA",
+    "description": "Kanha Strawberry Classic Gummy delivers 100mg of indica-infused relaxation in delicious, fruit-forward bites. Each gummy from this trusted edible brand combines authentic strawberry flavor with calming effects perfect for unwinding after a long day. Kanha's precise dosing and consistent quality make these indica gummies ideal for experienced users seeking deep relaxation, restful sleep, and full-body relief. The sweet, berry-kissed taste masks any cannabis flavor while the indica classification provides the soothing, tranquil experience you crave. Whether you're looking to melt away stress, ease into evening relaxation, or enjoy a peaceful night's rest, these strawberry gummies offer a delicious pathway to calm. Kanha's commitment to quality ensures every bite delivers the reliable, relaxing effects that make this classic edible a go-to choice for indica enthusiasts.",
+    "price": "$15",
+    "priceAmount": 15,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/6911d2c3-df30-4d63-9f77-afeac40dd6a3",
+     "alt": "Kanha - Strawberry - Classic Gummy"
+    }
+   },
+   {
+    "position": 3,
+    "url": "/product/coast-coast-goodnight-grape-gummy-5-25-100-mg-20-pack-edible-100-milligrams",
+    "name": "Coast - Goodnight Grape - Gummy - 5:25",
+    "brand": "COAST",
+    "description": "Coast Goodnight Grape Gummies deliver a deliciously relaxing experience perfect for winding down after a long day. This Indica edible features 100mg total THC in a 5:25 THC:CBN ratio, offering balanced relaxation with added wellness benefits. Each grape-flavored gummy provides soothing effects ideal for evening use, helping you ease tension and prepare for restful sleep. Coast crafts these gummies with quality ingredients and consistent dosing, making them a reliable choice for those seeking deep relaxation and tranquility. The sweet grape flavor masks any cannabis taste, while the Indica classification ensures calming, full-body effects that melt away stress. Perfect for experienced users looking to unwind, relax, and enjoy a peaceful night's rest.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/03771bd2-1034-4ddf-a2db-af733a6584f4",
+     "alt": "Coast - Goodnight Grape - Gummy - 5:25"
+    }
+   },
+   {
+    "position": 4,
+    "url": "/product/coast-coast-blissful-blueberry-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+    "name": "Coast - Blissful Blueberry - Gummy - 5:5:5",
+    "brand": "COAST",
+    "description": "Coast Blissful Blueberry Gummies deliver a perfectly balanced 5:5:5 ratio of THC:CBN:CBC cannabinoids in a delicious 100mg edible. These indica-dominant gummies combine sweet blueberry flavor with calming effects designed to promote relaxation and ease. Each gummy offers a consistent dose, making it simple to find your ideal experience whether you're unwinding after a long day or seeking restful sleep. The natural blueberry taste creates a fruity, enjoyable consumption method without any harsh cannabis flavor. Coast crafts these gummies for those who appreciate quality edibles that deliver reliable results. Perfect for evening use, these treats may help you feel relaxed, happy, and ready to melt into your favorite spot. The convenient gummy format makes dosing straightforward and discreet, ideal for both new and experienced cannabis consumers seeking the therapeutic benefits of indica effects paired with delightful berry sweetness.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5f344554-b9a9-47b9-be81-c2b3615732b7",
+     "alt": "Coast - Blissful Blueberry - Gummy - 5:5:5"
+    }
+   },
+   {
+    "position": 5,
+    "url": "/product/kanha-kanha-belts-blueberry-lemon-drop-live-rosin-100-mg-10-pack-edible-100-milligrams",
+    "name": "Kanha Belts - Blueberry Lemon Drop - Live Rosin",
+    "brand": "KANHA",
+    "description": "Kanha Belts - Blueberry Lemon Drop - Live Rosin - 100 mg delivers a premium hybrid edible experience crafted by Kanha, a trusted leader in cannabis gummies. These delicious belts combine the sweet, tangy flavors of ripe blueberry and bright lemon drop, creating a mouthwatering taste that makes dosing enjoyable. Infused with 100 mg of high-quality live rosin, these gummies offer the full spectrum benefits of cannabis-derived terpenes for enhanced effects and authenticity. The hybrid classification provides a balanced experience that can promote relaxation, creativity, and uplifted mood without being too sedating or stimulating. Perfect for both recreational enjoyment and therapeutic relief, Kanha Belts are precisely dosed for consistent, reliable results every time. Whether you're unwinding after a long day or seeking creative inspiration, these strain-specific gummies deliver potent effects with exceptional flavor in every bite.",
+    "price": "$20",
+    "priceAmount": 20,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/cbf3db4b-ead0-4750-add6-038746177439",
+     "alt": "Kanha Belts - Blueberry Lemon Drop - Live Rosin"
+    }
+   },
+   {
+    "position": 6,
+    "url": "/product/kanha-kanha-belts-cherry-limeade-live-rosin-100-mg-10-pack-edible-100-milligrams",
+    "name": "Kanha Belts - Cherry Limeade - Live Rosin",
+    "brand": "KANHA",
+    "description": "Kanha Belts - Cherry Limeade - Live Rosin - 100mg delivers a premium sativa edible experience with bold, tangy flavor and uplifting effects. These gummy belts from Kanha are crafted with live rosin, offering cannabis-derived terpenes and full spectrum benefits for enhanced potency and authenticity. Each 100mg package features vibrant cherry and lime notes that create a refreshing, tart taste sensation. As a sativa-dominant edible, expect energetic, creative, and uplifting effects perfect for daytime enjoyment or social activities. Kanha's expertise ensures consistent dosing and fast-acting results in every chewy, flavorful belt.",
+    "price": "$20",
+    "priceAmount": 20,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/af67c416-7481-4da3-9880-a59c7b0172fa",
+     "alt": "Kanha Belts - Cherry Limeade - Live Rosin"
+    }
+   },
+   {
+    "position": 7,
+    "url": "/product/kanha-kanha-belts-sour-berry-bliss-live-rosin-100-mg-10-pack-edible-100-milligrams",
+    "name": "Kanha Belts - Sour Berry Bliss - Live Rosin",
+    "brand": "KANHA",
+    "description": "Kanha Belts - Sour Berry Bliss - Live Rosin - 100 mg delivers a premium indica edible experience crafted with live rosin for maximum potency and flavor. These gummy belts capture the essence of ripe, tangy berries with a sour kick that tingles the taste buds. Each belt provides relaxing effects perfect for unwinding after a long day, easing tension, and promoting restful sleep. Made with cannabis-derived terpenes, this strain-specific formula preserves the plant's natural profile for an authentic entourage effect. The 100mg package offers convenient dosing flexibility for both new and experienced consumers. Kanha's commitment to quality ensures consistent, lab-tested results in every bite. Enjoy the sweet-tart berry flavor while embracing the calming, full-body relaxation that indica edibles are known for. Perfect for evening use or whenever you need to melt away stress and find your bliss.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/b3340253-34f8-4563-a55d-20bcf5428016",
+     "alt": "Kanha Belts - Sour Berry Bliss - Live Rosin"
+    }
+   },
+   {
+    "position": 8,
+    "url": "/product/kanha-kanha-belts-sour-melon-rush-live-rosin-100-mg-10-pack-edible-100-milligrams",
+    "name": "Kanha Belts | Sour Melon Rush | Live Rosin",
+    "brand": "KANHA",
+    "description": "Kanha Belts - Sour Melon Rush brings live rosin edibles to a whole new level with 100mg of hybrid cannabis goodness packed into delicious gummy belts. Known for premium quality and precise dosing, Kanha delivers a mouthwatering sour melon flavor that tantalizes your taste buds while providing balanced effects. These live rosin-infused gummies offer a full spectrum experience, combining the uplifting and relaxing qualities of a hybrid. Perfect for those seeking euphoric, happy, and relaxed vibes, each belt is crafted with cannabis-derived terpenes for an authentic, strain-specific experience. Whether you're looking to unwind after a long day or enhance social moments, Sour Melon Rush delivers consistent, fast-acting relief with bold fruity flavor. Kanha's commitment to quality ensures every bite is vegan-friendly and precisely dosed for your peace of mind.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5604fdf9-9d8c-42dd-916d-9156dcaede7b",
+     "alt": "Kanha Belts | Sour Melon Rush | Live Rosin"
+    }
+   },
+   {
+    "position": 9,
+    "url": "/product/kanha-kanha-belts-acai-blueberry-harmony-100-mg-10-pack-edible-100-milligrams",
+    "name": "Kanha Belts - Acai Blueberry - Harmony Gummy",
+    "brand": "KANHA",
+    "description": "Kanha Belts - Acai Blueberry - Harmony Gummy delivers 100mg of premium indica cannabis in a delicious edible format that's perfect for unwinding. Each gummy belt features rich acai and sweet blueberry flavors that create a delightful taste experience while delivering reliable relaxation. As an indica-dominant edible, these gummies are ideal for evening use when you're seeking deep relaxation and restful sleep. The convenient belt format makes dosing easy and enjoyable, whether you're new to cannabis edibles or an experienced user. Kanha is known for their consistent quality and precise dosing, ensuring you get the same great experience every time. These gummies offer calming, relaxed effects that help melt away stress and tension. The fruity, berry-forward flavor profile masks any cannabis taste, making them a treat to consume. Perfect for those seeking relief and relaxation in a tasty, discreet package.",
+    "price": "$15",
+    "priceAmount": 15,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e76e0df5-5d44-4236-bba8-96da2722eed1",
+     "alt": "Kanha Belts - Acai Blueberry - Harmony Gummy"
+    }
+   },
+   {
+    "position": 10,
+    "url": "/product/kanha-kanha-watermelon-classic-gummy-100-mg-10-pack-edible-100-milligrams",
+    "name": "Kanha - Watermelon - 100 mg",
+    "brand": "KANHA",
+    "description": "Kanha Watermelon gummies deliver a perfectly balanced hybrid experience in a delicious 100mg edible format. Each gummy bursts with juicy watermelon flavor, offering a refreshing and enjoyable way to elevate your day or unwind in the evening. Kanha is renowned for crafting premium cannabis-infused gummies with consistent dosing and exceptional taste. This hybrid blend provides a harmonious combination of uplifting and relaxing effects, making it ideal for social gatherings, creative pursuits, or simply enjoying a peaceful moment. The sweet, fruity watermelon profile masks any cannabis taste, delivering pure enjoyment with every bite. Perfect for both experienced users and those seeking a flavorful, reliable edible experience. Kanha's commitment to quality ensures you receive a product that's both potent and delicious, packaged for freshness and convenience.",
+    "price": "$15",
+    "priceAmount": 15,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d4824e29-6eec-407e-8c0a-3af7f3f4c3c1",
+     "alt": "Kanha - Watermelon - 100 mg"
+    }
+   },
+   {
+    "position": 11,
+    "url": "/product/claravita-claravita-apple-cider-gummies-live-rosin-1-1-100-mg-20-pack-edible-100-milligrams",
+    "name": "Claravita - Apple Cider Gummies - Live Rosin - 1:1",
+    "brand": "CLARAVITA",
+    "description": "Claravita's Apple Cider Live Rosin Gummies deliver a perfectly balanced 1:1 ratio of THC to CBD in a delicious 100mg edible. Crafted with premium live rosin extract, these hybrid gummies offer a harmonious blend of relaxation and gentle uplift, making them ideal for both experienced users and those seeking balanced effects. Each gummy features authentic apple cider flavor with crisp, tart notes that evoke autumn orchard freshness. The live rosin extraction preserves the full spectrum of cannabinoids and terpenes for enhanced entourage effects. Perfect for unwinding after a long day while maintaining mental clarity, or for easing into social situations with calm confidence. Experience the elevated quality of live rosin in a convenient, precisely dosed gummy format that combines therapeutic benefits with exceptional taste.",
+    "price": "$16",
+    "priceAmount": 16,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/fd372c27-1b6c-40b1-8b31-4197e17cf919",
+     "alt": "Claravita - Apple Cider Gummies - Live Rosin - 1:1"
+    }
+   },
+   {
+    "position": 12,
+    "url": "/product/coast-coast-strawberry-lemonade-gummy-10-5-5-100-mg-20-pack-edible-100-milligrams",
+    "name": "Coast - Strawberry Lemonade - Gummy - 10:5:5",
+    "brand": "COAST",
+    "description": "Coast Strawberry Lemonade Gummies deliver a refreshing twist on cannabis edibles with a unique CBG:CBC:THC 10:5:5 cannabinoid ratio and 100mg total potency. This sativa-inspired gummy combines the sweet taste of ripe strawberries with zesty lemonade for a bright, fruity flavor experience. Perfect for those seeking an uplifting, energetic effect, these gummies offer a balanced approach to cannabis consumption. The carefully crafted formula provides a happy, focused experience ideal for daytime use or social occasions. Each gummy features a tart, citrus profile that makes dosing both enjoyable and convenient. Coast blends quality ingredients with precision dosing to create edibles that taste as good as they perform. Whether you're looking for creative inspiration or simply want to elevate your mood, these Strawberry Lemonade Gummies from Coast offer a delicious, reliable way to enjoy sativa effects in a portable, discreet format.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/66b70385-bdf1-4475-88d8-1ddfd4e49e79",
+     "alt": "Coast - Strawberry Lemonade - Gummy - 10:5:5"
+    }
+   },
+   {
+    "position": 13,
+    "url": "/product/coast-coast-raspberry-lime-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+    "name": "Coast - Raspberry Lime - Gummy - 5:5:5",
+    "brand": "COAST",
+    "description": "Coast Raspberry Lime Gummy delivers a perfectly balanced 5:5:5 ratio of THC:CBD:THCV, in a 100mg package, offering a versatile cannabis experience in delicious gummy form. Each bite bursts with tangy raspberry and zesty lime flavors that make your wellness routine something to look forward to. This edible combines the uplifting effects of THC with the calming properties of CBD and the relaxing benefits of THCV, creating a well-rounded experience that can adapt to your needs throughout the day. Whether you're seeking creative focus, gentle relaxation, or restful sleep, this ratio-based gummy provides flexible support. The fruity, tart flavor profile makes dosing enjoyable while the precise cannabinoid blend ensures consistent results. Perfect for those who appreciate both flavor and function in their cannabis edibles.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/14708e26-5d93-48d6-9a60-eb5e2fbecaf2",
+     "alt": "Coast - Raspberry Lime - Gummy - 5:5:5"
+    }
+   },
+   {
+    "position": 14,
+    "url": "/product/coast-coast-tangerine-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+    "name": "Coast - Tangerine - Gummy - 5:5:5",
+    "brand": "COAST",
+    "description": "Coast Tangerine Gummy delivers a perfectly balanced 5:5:5 ratio of THC:CBD:CBG, in every delicious bite. This edible combines the bright, citrusy sweetness of tangerine with a carefully crafted cannabinoid profile designed to offer versatile benefits throughout your day. The 5mg THC provides gentle euphoria and uplifted mood, while 5mg CBD supports relaxation and relief. The addition of 5mg CBG rounds out the experience, making this gummy ideal for those seeking a well-rounded effect. Coast crafts each gummy with quality ingredients and consistent dosing, ensuring a reliable experience every time. The tangerine flavor bursts with zesty citrus notes that make wellness enjoyable. Perfect for both newcomers exploring cannabinoid ratios and experienced users seeking balanced relief, this gummy offers a flavorful, approachable way to enjoy the entourage effect of multiple cannabinoids working in harmony.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/271adb92-8229-448f-a8d0-4c716c46ef5a",
+     "alt": "Coast - Tangerine - Gummy - 5:5:5"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/shop",
+       "name": "Menu"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "GUMMY"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "KANHA",
+       "description": "Kanha Sleep Marionberry Plum Nano Gummy delivers 100mg of indica-powered relaxation in a delicious edible form designed to help you unwind. This fast-acting nano gummy combines the sweet-tart flavor of ripe marionberries with smooth plum notes for a satisfying nighttime treat. Formulated specifically for sleep support, each gummy offers calming, relaxing effects ideal for those seeking relief from restlessness and stress. Kanha&apos;s nano technology ensures quicker onset, so you can drift off faster. The indica classification provides the soothing, full-body relaxation you need after a long day. Perfect for evening use, this gummy blends fruity berry and plum flavors with sleepy, calming benefits to support restful nights and deep relaxation.",
+       "name": "Kanha - Sleep Marionberry Plum - Nano Gummy",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "15",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-sleep-marionberry-plum-nano-gummy-100-mg-10-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/faec4038-67b3-4a0b-9906-514719414e10"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "KANHA",
+       "description": "Kanha Strawberry Classic Gummy delivers 100mg of indica-infused relaxation in delicious, fruit-forward bites. Each gummy from this trusted edible brand combines authentic strawberry flavor with calming effects perfect for unwinding after a long day. Kanha&apos;s precise dosing and consistent quality make these indica gummies ideal for experienced users seeking deep relaxation, restful sleep, and full-body relief. The sweet, berry-kissed taste masks any cannabis flavor while the indica classification provides the soothing, tranquil experience you crave. Whether you&apos;re looking to melt away stress, ease into evening relaxation, or enjoy a peaceful night&apos;s rest, these strawberry gummies offer a delicious pathway to calm. Kanha&apos;s commitment to quality ensures every bite delivers the reliable, relaxing effects that make this classic edible a go-to choice for indica enthusiasts.",
+       "name": "Kanha - Strawberry - Classic Gummy",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "15",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-strawberry-classic-gummy-100-mg-10-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/6911d2c3-df30-4d63-9f77-afeac40dd6a3"
+      },
+      "position": "2"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "COAST",
+       "description": "Coast Goodnight Grape Gummies deliver a deliciously relaxing experience perfect for winding down after a long day. This Indica edible features 100mg total THC in a 5:25 THC:CBN ratio, offering balanced relaxation with added wellness benefits. Each grape-flavored gummy provides soothing effects ideal for evening use, helping you ease tension and prepare for restful sleep. Coast crafts these gummies with quality ingredients and consistent dosing, making them a reliable choice for those seeking deep relaxation and tranquility. The sweet grape flavor masks any cannabis taste, while the Indica classification ensures calming, full-body effects that melt away stress. Perfect for experienced users looking to unwind, relax, and enjoy a peaceful night&apos;s rest.",
+       "name": "Coast - Goodnight Grape - Gummy - 5:25",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/coast-coast-goodnight-grape-gummy-5-25-100-mg-20-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/03771bd2-1034-4ddf-a2db-af733a6584f4"
+      },
+      "position": "3"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "COAST",
+       "description": "Coast Blissful Blueberry Gummies deliver a perfectly balanced 5:5:5 ratio of THC:CBN:CBC cannabinoids in a delicious 100mg edible. These indica-dominant gummies combine sweet blueberry flavor with calming effects designed to promote relaxation and ease. Each gummy offers a consistent dose, making it simple to find your ideal experience whether you&apos;re unwinding after a long day or seeking restful sleep. The natural blueberry taste creates a fruity, enjoyable consumption method without any harsh cannabis flavor. Coast crafts these gummies for those who appreciate quality edibles that deliver reliable results. Perfect for evening use, these treats may help you feel relaxed, happy, and ready to melt into your favorite spot. The convenient gummy format makes dosing straightforward and discreet, ideal for both new and experienced cannabis consumers seeking the therapeutic benefits of indica effects paired with delightful berry sweetness.",
+       "name": "Coast - Blissful Blueberry - Gummy - 5:5:5",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/coast-coast-blissful-blueberry-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5f344554-b9a9-47b9-be81-c2b3615732b7"
+      },
+      "position": "4"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "KANHA",
+       "description": "Kanha Belts - Blueberry Lemon Drop - Live Rosin - 100 mg delivers a premium hybrid edible experience crafted by Kanha, a trusted leader in cannabis gummies. These delicious belts combine the sweet, tangy flavors of ripe blueberry and bright lemon drop, creating a mouthwatering taste that makes dosing enjoyable. Infused with 100 mg of high-quality live rosin, these gummies offer the full spectrum benefits of cannabis-derived terpenes for enhanced effects and authenticity. The hybrid classification provides a balanced experience that can promote relaxation, creativity, and uplifted mood without being too sedating or stimulating. Perfect for both recreational enjoyment and therapeutic relief, Kanha Belts are precisely dosed for consistent, reliable results every time. Whether you&apos;re unwinding after a long day or seeking creative inspiration, these strain-specific gummies deliver potent effects with exceptional flavor in every bite.",
+       "name": "Kanha Belts - Blueberry Lemon Drop - Live Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-blueberry-lemon-drop-live-rosin-100-mg-10-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/cbf3db4b-ead0-4750-add6-038746177439"
+      },
+      "position": "5"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "KANHA",
+       "description": "Kanha Belts - Cherry Limeade - Live Rosin - 100mg delivers a premium sativa edible experience with bold, tangy flavor and uplifting effects. These gummy belts from Kanha are crafted with live rosin, offering cannabis-derived terpenes and full spectrum benefits for enhanced potency and authenticity. Each 100mg package features vibrant cherry and lime notes that create a refreshing, tart taste sensation. As a sativa-dominant edible, expect energetic, creative, and uplifting effects perfect for daytime enjoyment or social activities. Kanha&apos;s expertise ensures consistent dosing and fast-acting results in every chewy, flavorful belt.",
+       "name": "Kanha Belts - Cherry Limeade - Live Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-cherry-limeade-live-rosin-100-mg-10-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/af67c416-7481-4da3-9880-a59c7b0172fa"
+      },
+      "position": "6"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "KANHA",
+       "description": "Kanha Belts - Sour Berry Bliss - Live Rosin - 100 mg delivers a premium indica edible experience crafted with live rosin for maximum potency and flavor. These gummy belts capture the essence of ripe, tangy berries with a sour kick that tingles the taste buds. Each belt provides relaxing effects perfect for unwinding after a long day, easing tension, and promoting restful sleep. Made with cannabis-derived terpenes, this strain-specific formula preserves the plant&apos;s natural profile for an authentic entourage effect. The 100mg package offers convenient dosing flexibility for both new and experienced consumers. Kanha&apos;s commitment to quality ensures consistent, lab-tested results in every bite. Enjoy the sweet-tart berry flavor while embracing the calming, full-body relaxation that indica edibles are known for. Perfect for evening use or whenever you need to melt away stress and find your bliss.",
+       "name": "Kanha Belts - Sour Berry Bliss - Live Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-sour-berry-bliss-live-rosin-100-mg-10-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/b3340253-34f8-4563-a55d-20bcf5428016"
+      },
+      "position": "7"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "KANHA",
+       "description": "Kanha Belts - Sour Melon Rush brings live rosin edibles to a whole new level with 100mg of hybrid cannabis goodness packed into delicious gummy belts. Known for premium quality and precise dosing, Kanha delivers a mouthwatering sour melon flavor that tantalizes your taste buds while providing balanced effects. These live rosin-infused gummies offer a full spectrum experience, combining the uplifting and relaxing qualities of a hybrid. Perfect for those seeking euphoric, happy, and relaxed vibes, each belt is crafted with cannabis-derived terpenes for an authentic, strain-specific experience. Whether you&apos;re looking to unwind after a long day or enhance social moments, Sour Melon Rush delivers consistent, fast-acting relief with bold fruity flavor. Kanha&apos;s commitment to quality ensures every bite is vegan-friendly and precisely dosed for your peace of mind.",
+       "name": "Kanha Belts | Sour Melon Rush | Live Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-sour-melon-rush-live-rosin-100-mg-10-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5604fdf9-9d8c-42dd-916d-9156dcaede7b"
+      },
+      "position": "8"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "KANHA",
+       "description": "Kanha Belts - Acai Blueberry - Harmony Gummy delivers 100mg of premium indica cannabis in a delicious edible format that&apos;s perfect for unwinding. Each gummy belt features rich acai and sweet blueberry flavors that create a delightful taste experience while delivering reliable relaxation. As an indica-dominant edible, these gummies are ideal for evening use when you&apos;re seeking deep relaxation and restful sleep. The convenient belt format makes dosing easy and enjoyable, whether you&apos;re new to cannabis edibles or an experienced user. Kanha is known for their consistent quality and precise dosing, ensuring you get the same great experience every time. These gummies offer calming, relaxed effects that help melt away stress and tension. The fruity, berry-forward flavor profile masks any cannabis taste, making them a treat to consume. Perfect for those seeking relief and relaxation in a tasty, discreet package.",
+       "name": "Kanha Belts - Acai Blueberry - Harmony Gummy",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "15",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-acai-blueberry-harmony-100-mg-10-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e76e0df5-5d44-4236-bba8-96da2722eed1"
+      },
+      "position": "9"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "KANHA",
+       "description": "Kanha Watermelon gummies deliver a perfectly balanced hybrid experience in a delicious 100mg edible format. Each gummy bursts with juicy watermelon flavor, offering a refreshing and enjoyable way to elevate your day or unwind in the evening. Kanha is renowned for crafting premium cannabis-infused gummies with consistent dosing and exceptional taste. This hybrid blend provides a harmonious combination of uplifting and relaxing effects, making it ideal for social gatherings, creative pursuits, or simply enjoying a peaceful moment. The sweet, fruity watermelon profile masks any cannabis taste, delivering pure enjoyment with every bite. Perfect for both experienced users and those seeking a flavorful, reliable edible experience. Kanha&apos;s commitment to quality ensures you receive a product that&apos;s both potent and delicious, packaged for freshness and convenience.",
+       "name": "Kanha - Watermelon - 100 mg",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "15",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-watermelon-classic-gummy-100-mg-10-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d4824e29-6eec-407e-8c0a-3af7f3f4c3c1"
+      },
+      "position": "10"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "CLARAVITA",
+       "description": "Claravita&apos;s Apple Cider Live Rosin Gummies deliver a perfectly balanced 1:1 ratio of THC to CBD in a delicious 100mg edible. Crafted with premium live rosin extract, these hybrid gummies offer a harmonious blend of relaxation and gentle uplift, making them ideal for both experienced users and those seeking balanced effects. Each gummy features authentic apple cider flavor with crisp, tart notes that evoke autumn orchard freshness. The live rosin extraction preserves the full spectrum of cannabinoids and terpenes for enhanced entourage effects. Perfect for unwinding after a long day while maintaining mental clarity, or for easing into social situations with calm confidence. Experience the elevated quality of live rosin in a convenient, precisely dosed gummy format that combines therapeutic benefits with exceptional taste.",
+       "name": "Claravita - Apple Cider Gummies - Live Rosin - 1:1",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "16",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/claravita-claravita-apple-cider-gummies-live-rosin-1-1-100-mg-20-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/fd372c27-1b6c-40b1-8b31-4197e17cf919"
+      },
+      "position": "11"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "COAST",
+       "description": "Coast Strawberry Lemonade Gummies deliver a refreshing twist on cannabis edibles with a unique CBG:CBC:THC 10:5:5 cannabinoid ratio and 100mg total potency. This sativa-inspired gummy combines the sweet taste of ripe strawberries with zesty lemonade for a bright, fruity flavor experience. Perfect for those seeking an uplifting, energetic effect, these gummies offer a balanced approach to cannabis consumption. The carefully crafted formula provides a happy, focused experience ideal for daytime use or social occasions. Each gummy features a tart, citrus profile that makes dosing both enjoyable and convenient. Coast blends quality ingredients with precision dosing to create edibles that taste as good as they perform. Whether you&apos;re looking for creative inspiration or simply want to elevate your mood, these Strawberry Lemonade Gummies from Coast offer a delicious, reliable way to enjoy sativa effects in a portable, discreet format.",
+       "name": "Coast - Strawberry Lemonade - Gummy - 10:5:5",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/coast-coast-strawberry-lemonade-gummy-10-5-5-100-mg-20-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/66b70385-bdf1-4475-88d8-1ddfd4e49e79"
+      },
+      "position": "12"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "COAST",
+       "description": "Coast Raspberry Lime Gummy delivers a perfectly balanced 5:5:5 ratio of THC:CBD:THCV, in a 100mg package, offering a versatile cannabis experience in delicious gummy form. Each bite bursts with tangy raspberry and zesty lime flavors that make your wellness routine something to look forward to. This edible combines the uplifting effects of THC with the calming properties of CBD and the relaxing benefits of THCV, creating a well-rounded experience that can adapt to your needs throughout the day. Whether you&apos;re seeking creative focus, gentle relaxation, or restful sleep, this ratio-based gummy provides flexible support. The fruity, tart flavor profile makes dosing enjoyable while the precise cannabinoid blend ensures consistent results. Perfect for those who appreciate both flavor and function in their cannabis edibles.",
+       "name": "Coast - Raspberry Lime - Gummy - 5:5:5",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/coast-coast-raspberry-lime-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/14708e26-5d93-48d6-9a60-eb5e2fbecaf2"
+      },
+      "position": "13"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "COAST",
+       "description": "Coast Tangerine Gummy delivers a perfectly balanced 5:5:5 ratio of THC:CBD:CBG, in every delicious bite. This edible combines the bright, citrusy sweetness of tangerine with a carefully crafted cannabinoid profile designed to offer versatile benefits throughout your day. The 5mg THC provides gentle euphoria and uplifted mood, while 5mg CBD supports relaxation and relief. The addition of 5mg CBG rounds out the experience, making this gummy ideal for those seeking a well-rounded effect. Coast crafts each gummy with quality ingredients and consistent dosing, ensuring a reliable experience every time. The tangerine flavor bursts with zesty citrus notes that make wellness enjoyable. Perfect for both newcomers exploring cannabinoid ratios and experienced users seeking balanced relief, this gummy offers a flavorful, approachable way to enjoy the entourage effect of multiple cannabinoids working in harmony.",
+       "name": "Coast - Tangerine - Gummy - 5:5:5",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/coast-coast-tangerine-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/271adb92-8229-448f-a8d0-4c716c46ef5a"
+      },
+      "position": "14"
+     }
+    ]
+   }
+  ]
+ }
+}

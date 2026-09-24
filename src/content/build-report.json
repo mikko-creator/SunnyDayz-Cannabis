@@ -1,0 +1,1481 @@
+{
+ "schema": "sunnydayz/build@1",
+ "generated": "2026-09-24T01:40:46.511Z",
+ "pages": [
+  {
+   "url": "https://www.sunnydayzcannabis.com/about-us",
+   "type": "page",
+   "file": "about-us.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/all-products",
+   "type": "notfound",
+   "file": "all-products.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/blog/camino-gummies-ranked-by-customer-reviews",
+   "type": "blog-post",
+   "file": "blog/camino-gummies-ranked-by-customer-reviews.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/blog/cannabinoids-and-the-body--all-new-products",
+   "type": "blog-post",
+   "file": "blog/cannabinoids-and-the-body--all-new-products.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/blog/purple-wookie-strain",
+   "type": "blog-post",
+   "file": "blog/purple-wookie-strain.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/blog/quiz-toasties-classic-and-toasties-bold--which-toa",
+   "type": "blog-post",
+   "file": "blog/quiz-toasties-classic-and-toasties-bold--which-toa.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/blog/the-best-strains-for-the-summer",
+   "type": "blog-post",
+   "file": "blog/the-best-strains-for-the-summer.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/blog/whats-the-best-vape-pen-for-you",
+   "type": "blog-post",
+   "file": "blog/whats-the-best-vape-pen-for-you.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/blog",
+   "type": "blog-index",
+   "file": "blog/index.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/ahh-moments",
+   "type": "brand",
+   "file": "brand/ahh-moments.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/bettys-eddies",
+   "type": "brand",
+   "file": "brand/bettys-eddies.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/bic",
+   "type": "brand",
+   "file": "brand/bic.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/blazy-susan",
+   "type": "brand",
+   "file": "brand/blazy-susan.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/bountiful-farms",
+   "type": "brand",
+   "file": "brand/bountiful-farms.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/breath-free",
+   "type": "brand",
+   "file": "brand/breath-free.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/breathe-free",
+   "type": "brand",
+   "file": "brand/breathe-free.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/bubbys",
+   "type": "brand",
+   "file": "brand/bubbys.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/claravita",
+   "type": "brand",
+   "file": "brand/claravita.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/coast",
+   "type": "brand",
+   "file": "brand/coast.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/doja",
+   "type": "brand",
+   "file": "brand/doja.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/elements",
+   "type": "brand",
+   "file": "brand/elements.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/grav",
+   "type": "brand",
+   "file": "brand/grav.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/harbor-house",
+   "type": "brand",
+   "file": "brand/harbor-house.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/impressed",
+   "type": "brand",
+   "file": "brand/impressed.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/in-house",
+   "type": "brand",
+   "file": "brand/in-house.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/kanha",
+   "type": "brand",
+   "file": "brand/kanha.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/keef",
+   "type": "brand",
+   "file": "brand/keef.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/levia",
+   "type": "brand",
+   "file": "brand/levia.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/mass-yield",
+   "type": "brand",
+   "file": "brand/mass-yield.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/natures-heritage",
+   "type": "brand",
+   "file": "brand/natures-heritage.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/omg",
+   "type": "brand",
+   "file": "brand/omg.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/raw",
+   "type": "brand",
+   "file": "brand/raw.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/sugaree",
+   "type": "brand",
+   "file": "brand/sugaree.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/sunnydayz",
+   "type": "brand",
+   "file": "brand/sunnydayz.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/sweetgrass-botanicals",
+   "type": "brand",
+   "file": "brand/sweetgrass-botanicals.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/the-fresh-connection",
+   "type": "brand",
+   "file": "brand/the-fresh-connection.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/the-healing-rose",
+   "type": "brand",
+   "file": "brand/the-healing-rose.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/tower-three",
+   "type": "brand",
+   "file": "brand/tower-three.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brand/treeworks",
+   "type": "brand",
+   "file": "brand/treeworks.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/brands",
+   "type": "brands",
+   "file": "brands.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/beverage",
+   "type": "collection",
+   "file": "collection/beverage/index.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/beverage/other",
+   "type": "collection",
+   "file": "collection/beverage/other.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/cartridge",
+   "type": "collection",
+   "file": "collection/cartridge/index.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/cartridge/510-thread",
+   "type": "collection",
+   "file": "collection/cartridge/510-thread.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/cartridge/all-in-one",
+   "type": "collection",
+   "file": "collection/cartridge/all-in-one.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/cbd/topical",
+   "type": "collection",
+   "file": "collection/cbd/topical.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/cbd",
+   "type": "collection",
+   "file": "collection/cbd/index.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/edible",
+   "type": "collection",
+   "file": "collection/edible/index.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/edible/baked-good",
+   "type": "collection",
+   "file": "collection/edible/baked-good.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/edible/chew",
+   "type": "collection",
+   "file": "collection/edible/chew.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/edible/chocolate",
+   "type": "collection",
+   "file": "collection/edible/chocolate.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/edible/gummy",
+   "type": "collection",
+   "file": "collection/edible/gummy.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/edible/oil",
+   "type": "collection",
+   "file": "collection/edible/oil.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/edible/other",
+   "type": "collection",
+   "file": "collection/edible/other.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/extract",
+   "type": "collection",
+   "file": "collection/extract/index.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/extract/badder",
+   "type": "collection",
+   "file": "collection/extract/badder.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/extract/kief",
+   "type": "collection",
+   "file": "collection/extract/kief.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/extract/live-rosin",
+   "type": "collection",
+   "file": "collection/extract/live-rosin.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/extract/sugar",
+   "type": "notfound",
+   "file": "collection/extract/sugar.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/flower",
+   "type": "collection",
+   "file": "collection/flower/index.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/flower/bulk-flower",
+   "type": "notfound",
+   "file": "collection/flower/bulk-flower.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/flower/pre-pack",
+   "type": "collection",
+   "file": "collection/flower/pre-pack.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/merch",
+   "type": "collection",
+   "file": "collection/merch/index.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/merch/battery",
+   "type": "collection",
+   "file": "collection/merch/battery.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/merch/grinder",
+   "type": "collection",
+   "file": "collection/merch/grinder.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/merch/hat",
+   "type": "collection",
+   "file": "collection/merch/hat.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/merch/hoodie",
+   "type": "notfound",
+   "file": "collection/merch/hoodie.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/merch/lighter",
+   "type": "collection",
+   "file": "collection/merch/lighter.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/merch/other",
+   "type": "collection",
+   "file": "collection/merch/other.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/merch/pipe",
+   "type": "collection",
+   "file": "collection/merch/pipe.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/merch/rolling-papers",
+   "type": "collection",
+   "file": "collection/merch/rolling-papers.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/merch/t-shirt",
+   "type": "collection",
+   "file": "collection/merch/t-shirt.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/pill",
+   "type": "notfound",
+   "file": "collection/pill.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/preroll",
+   "type": "collection",
+   "file": "collection/preroll/index.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/preroll/flower",
+   "type": "collection",
+   "file": "collection/preroll/flower.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/preroll/infused",
+   "type": "notfound",
+   "file": "collection/preroll/infused.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/tincture",
+   "type": "collection",
+   "file": "collection/tincture/index.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/tincture/other",
+   "type": "collection",
+   "file": "collection/tincture/other.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/topical",
+   "type": "collection",
+   "file": "collection/topical/index.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/topical/cream",
+   "type": "collection",
+   "file": "collection/topical/cream.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/topical/lubricant",
+   "type": "collection",
+   "file": "collection/topical/lubricant.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/topical/oil",
+   "type": "collection",
+   "file": "collection/topical/oil.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/collection/topical/other",
+   "type": "collection",
+   "file": "collection/topical/other.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/contact-us",
+   "type": "page",
+   "file": "contact-us.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/daily-deals",
+   "type": "listing",
+   "file": "daily-deals.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/daily-specials",
+   "type": "notfound",
+   "file": "daily-specials.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/deals",
+   "type": "listing",
+   "file": "deals.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/dispensary/sunny-dayz",
+   "type": "page",
+   "file": "dispensary/sunny-dayz.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/",
+   "type": "home",
+   "file": "index.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/our-strains",
+   "type": "listing",
+   "file": "our-strains.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/privacy-policy",
+   "type": "page",
+   "file": "privacy-policy.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-atlantic-bliss-rso-chocolate-100-mg-edible-100-milligrams",
+   "type": "product",
+   "file": "product/ahh-moments-ahh-moments-atlantic-bliss-rso-chocolate-100-mg-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-blueberry-vanilla-dream-rso-chocolate-100-mg-edible-100-milligrams",
+   "type": "product",
+   "file": "product/ahh-moments-ahh-moments-blueberry-vanilla-dream-rso-chocolate-100-mg-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-caramel-crush-calm-rosin-chocolate-100-mg-edible-100-milligrams",
+   "type": "product",
+   "file": "product/ahh-moments-ahh-moments-caramel-crush-calm-rosin-chocolate-100-mg-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-cherry-berry-shot-sleepy-1-1-20-mg-tincture-20-milligrams",
+   "type": "product",
+   "file": "product/ahh-moments-ahh-moments-cherry-berry-shot-sleepy-1-1-20-mg-tincture-20-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-raspberry-rosin-revive-chocolate-100-mg-edible-100-milligrams",
+   "type": "product",
+   "file": "product/ahh-moments-ahh-moments-raspberry-rosin-revive-chocolate-100-mg-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-strawberry-cream-party-rosin-chocolate-100-mg-edible-100-milligrams",
+   "type": "product",
+   "file": "product/ahh-moments-ahh-moments-strawberry-cream-party-rosin-chocolate-100-mg-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-cherry-ache-away-eddies-1-4-1-50-mg-10-pack-edible-50-milligrams",
+   "type": "product",
+   "file": "product/betty-s-eddies-betty-s-eddies-cherry-ache-away-eddies-1-4-1-50-mg-10-pack-edible-50-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-lemon-agave-bedtime-betty-s-50-mg-10-pack-edible-50-milligrams",
+   "type": "product",
+   "file": "product/betty-s-eddies-betty-s-eddies-lemon-agave-bedtime-betty-s-50-mg-10-pack-edible-50-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-orange-creme-ache-away-pm-1-1-1-50-mg-10-pack-edible-50-milligrams",
+   "type": "product",
+   "file": "product/betty-s-eddies-betty-s-eddies-orange-creme-ache-away-pm-1-1-1-50-mg-10-pack-edible-50-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-raspberry-creme-bedtime-betty-s-1-2-1-50-mg-10-pack-edible-50-milligrams",
+   "type": "product",
+   "file": "product/betty-s-eddies-betty-s-eddies-raspberry-creme-bedtime-betty-s-1-2-1-50-mg-10-pack-edible-50-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-strawberry-lemonade-swirl-beachtime-betty-s-1-1-50-mg-10-pack-edible-50-milligrams",
+   "type": "product",
+   "file": "product/betty-s-eddies-betty-s-eddies-strawberry-lemonade-swirl-beachtime-betty-s-1-1-50-mg-10-pack-edible-50-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-tropical-smoothie-chews-1-6-50-mg-10-pack-edible-50-milligrams",
+   "type": "product",
+   "file": "product/betty-s-eddies-betty-s-eddies-tropical-smoothie-chews-1-6-50-mg-10-pack-edible-50-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-watermelon-go-betty-go-50-mg-10-pack-edible-50-milligrams",
+   "type": "product",
+   "file": "product/betty-s-eddies-betty-s-eddies-watermelon-go-betty-go-50-mg-10-pack-edible-50-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/bic-bic-lighter-black-one-size-merch",
+   "type": "product",
+   "file": "product/bic-bic-lighter-black-one-size-merch.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/bic-bic-lighter-color-one-size-merch",
+   "type": "product",
+   "file": "product/bic-bic-lighter-color-one-size-merch.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-filter-tips-book-pink-ultra-wide-one-size-merch",
+   "type": "product",
+   "file": "product/blazy-susan-blazy-susan-filter-tips-book-pink-ultra-wide-one-size-merch.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-filter-tips-book-purple-ultra-wide-one-size-merch",
+   "type": "product",
+   "file": "product/blazy-susan-blazy-susan-filter-tips-book-purple-ultra-wide-one-size-merch.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-filter-tips-tin-100ct-one-size-merch",
+   "type": "product",
+   "file": "product/blazy-susan-blazy-susan-filter-tips-tin-100ct-one-size-merch.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-pink-cones-shorty-53mm-one-size-merch",
+   "type": "product",
+   "file": "product/blazy-susan-blazy-susan-pink-cones-shorty-53mm-one-size-merch.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-purple-cones-1-1-4-one-size-merch",
+   "type": "product",
+   "file": "product/blazy-susan-blazy-susan-purple-cones-1-1-4-one-size-merch.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-purple-rolling-papers-1-1-4-one-size-merch",
+   "type": "product",
+   "file": "product/blazy-susan-blazy-susan-purple-rolling-papers-1-1-4-one-size-merch.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-purple-rolling-papers-king-slim-one-size-merch",
+   "type": "product",
+   "file": "product/blazy-susan-blazy-susan-purple-rolling-papers-king-slim-one-size-merch.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/bountiful-farms-bountiful-candy-fumez-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "file": "product/bountiful-farms-bountiful-candy-fumez-3-5g-flower-3-5-g-flower-3-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/bountiful-farms-bountiful-texas-shoreline-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "file": "product/bountiful-farms-bountiful-texas-shoreline-3-5g-flower-3-5-g-flower-3-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/bountiful-farms-bountiful-watermellos-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "file": "product/bountiful-farms-bountiful-watermellos-3-5g-flower-3-5-g-flower-3-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/breath-free-breathe-free-guava-biscotti-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "file": "product/breath-free-breathe-free-guava-biscotti-3-5g-flower-3-5-g-flower-3-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-blueberry-n-strawberry-1g-pre-roll-3-pack-3-g-preroll-3-grams",
+   "type": "product",
+   "file": "product/breathe-free-breathe-free-blueberry-n-strawberry-1g-pre-roll-3-pack-3-g-preroll-3-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-confetti-1g-pre-roll-1-g-3-pack-preroll-1-grams",
+   "type": "product",
+   "file": "product/breathe-free-breathe-free-confetti-1g-pre-roll-1-g-3-pack-preroll-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-haley-s-comet-haze-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "file": "product/breathe-free-breathe-free-haley-s-comet-haze-1g-pre-roll-1-g-preroll-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-lemongrass-gas-1g-pre-roll-3-pack-3-g-preroll-3-grams",
+   "type": "product",
+   "file": "product/breathe-free-breathe-free-lemongrass-gas-1g-pre-roll-3-pack-3-g-preroll-3-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-mango-smoothie-1g-pre-roll-1-g-3-pack-preroll-1-grams",
+   "type": "product",
+   "file": "product/breathe-free-breathe-free-mango-smoothie-1g-pre-roll-1-g-3-pack-preroll-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-mango-smoothie-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "file": "product/breathe-free-breathe-free-mango-smoothie-1g-pre-roll-1-g-preroll-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-mango-smoothie-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "file": "product/breathe-free-breathe-free-mango-smoothie-3-5g-flower-3-5-g-flower-3-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-pineapple-cake-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "file": "product/breathe-free-breathe-free-pineapple-cake-1g-pre-roll-1-g-preroll-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/bubby-s-bubby-s-chocolate-chip-baked-goods-5mg-5-mg-edible-5-milligrams",
+   "type": "product",
+   "file": "product/bubby-s-bubby-s-chocolate-chip-baked-goods-5mg-5-mg-edible-5-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/bubby-s-bubby-s-pumpkin-bites-baked-goods-5mg-5-mg-edible-5-milligrams",
+   "type": "product",
+   "file": "product/bubby-s-bubby-s-pumpkin-bites-baked-goods-5mg-5-mg-edible-5-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/claravita-claravita-apple-cider-gummies-live-rosin-1-1-100-mg-20-pack-edible-100-milligrams",
+   "type": "product",
+   "file": "product/claravita-claravita-apple-cider-gummies-live-rosin-1-1-100-mg-20-pack-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/coast-coast-blissful-blueberry-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+   "type": "product",
+   "file": "product/coast-coast-blissful-blueberry-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/coast-coast-cookies-cream-white-chocolate-bar-100-mg-edible-100-milligrams",
+   "type": "product",
+   "file": "product/coast-coast-cookies-cream-white-chocolate-bar-100-mg-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/coast-coast-dark-chocolate-sea-salt-bar-100-mg-edible-100-milligrams",
+   "type": "product",
+   "file": "product/coast-coast-dark-chocolate-sea-salt-bar-100-mg-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/coast-coast-goodnight-grape-gummy-5-25-100-mg-20-pack-edible-100-milligrams",
+   "type": "product",
+   "file": "product/coast-coast-goodnight-grape-gummy-5-25-100-mg-20-pack-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/coast-coast-milk-chocolate-bar-100-mg-edible-100-milligrams",
+   "type": "product",
+   "file": "product/coast-coast-milk-chocolate-bar-100-mg-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/coast-coast-raspberry-lime-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+   "type": "product",
+   "file": "product/coast-coast-raspberry-lime-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/coast-coast-s-mores-chocolate-bar-100-mg-edible-100-milligrams",
+   "type": "product",
+   "file": "product/coast-coast-s-mores-chocolate-bar-100-mg-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/coast-coast-strawberry-lemonade-gummy-10-5-5-100-mg-20-pack-edible-100-milligrams",
+   "type": "product",
+   "file": "product/coast-coast-strawberry-lemonade-gummy-10-5-5-100-mg-20-pack-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/coast-coast-tangerine-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+   "type": "product",
+   "file": "product/coast-coast-tangerine-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/doja-doja-confetti-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "file": "product/doja-doja-confetti-3-5g-flower-3-5-g-flower-3-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/e-z-wider-organic-hemp-cones-1-1-4-one-size-merch",
+   "type": "product",
+   "file": "product/e-z-wider-organic-hemp-cones-1-1-4-one-size-merch.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/elements-elements-rolling-papers-1-1-4-one-size-merch",
+   "type": "product",
+   "file": "product/elements-elements-rolling-papers-1-1-4-one-size-merch.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/grav-classic-spoon-amber-hand-pipe-one-size-merch",
+   "type": "product",
+   "file": "product/grav-classic-spoon-amber-hand-pipe-one-size-merch.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/grav-classic-spoon-black-hand-pipe-one-size-merch",
+   "type": "product",
+   "file": "product/grav-classic-spoon-black-hand-pipe-one-size-merch.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/grav-classic-spoon-blue-hand-pipe-one-size-merch",
+   "type": "product",
+   "file": "product/grav-classic-spoon-blue-hand-pipe-one-size-merch.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/grav-classic-spoon-green-hand-pipe-one-size-merch",
+   "type": "product",
+   "file": "product/grav-classic-spoon-green-hand-pipe-one-size-merch.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/grav-classic-spoon-pink-hand-pipe-one-size-merch",
+   "type": "product",
+   "file": "product/grav-classic-spoon-pink-hand-pipe-one-size-merch.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product-group/our-products",
+   "type": "listing",
+   "file": "product-group/our-products.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/harbor-house-harbor-house-bajah-blast-5g-cartridge-distillate-0-5-g-cartridge-0-5-grams",
+   "type": "product",
+   "file": "product/harbor-house-harbor-house-bajah-blast-5g-cartridge-distillate-0-5-g-cartridge-0-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/harbor-house-harbor-house-gmo-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "file": "product/harbor-house-harbor-house-gmo-1g-pre-roll-1-g-preroll-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/harbor-house-harbor-house-lemon-cherry-sherbert-1g-badder-1-g-extract-1-grams",
+   "type": "product",
+   "file": "product/harbor-house-harbor-house-lemon-cherry-sherbert-1g-badder-1-g-extract-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/harbor-house-harbor-house-orange-43-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "file": "product/harbor-house-harbor-house-orange-43-1g-pre-roll-1-g-preroll-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/harbor-house-harbor-house-super-silver-haze-x-albarino-1g-badder-1-g-extract-1-grams",
+   "type": "product",
+   "file": "product/harbor-house-harbor-house-super-silver-haze-x-albarino-1g-badder-1-g-extract-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/hg-aluminum-grinder-black-2-5-inch-one-size-merch",
+   "type": "product",
+   "file": "product/hg-aluminum-grinder-black-2-5-inch-one-size-merch.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/impressed-impressed-apples-and-banana-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "file": "product/impressed-impressed-apples-and-banana-3-5g-flower-3-5-g-flower-3-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/impressed-impressed-gelonade-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "file": "product/impressed-impressed-gelonade-1g-pre-roll-1-g-preroll-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/impressed-impressed-rainbow-belts-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "file": "product/impressed-impressed-rainbow-belts-1g-pre-roll-1-g-preroll-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/impressed-impressed-zangria-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "file": "product/impressed-impressed-zangria-1g-pre-roll-1-g-preroll-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/in-house-in-house-biscotti-1g-dispo-1-g-cartridge-1-grams",
+   "type": "product",
+   "file": "product/in-house-in-house-biscotti-1g-dispo-1-g-cartridge-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/in-house-in-house-maui-wowie-1g-dispo-1-g-cartridge-1-grams",
+   "type": "product",
+   "file": "product/in-house-in-house-maui-wowie-1g-dispo-1-g-cartridge-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-acai-blueberry-harmony-100-mg-10-pack-edible-100-milligrams",
+   "type": "product",
+   "file": "product/kanha-kanha-belts-acai-blueberry-harmony-100-mg-10-pack-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-blueberry-lemon-drop-live-rosin-100-mg-10-pack-edible-100-milligrams",
+   "type": "product",
+   "file": "product/kanha-kanha-belts-blueberry-lemon-drop-live-rosin-100-mg-10-pack-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-cherry-limeade-live-rosin-100-mg-10-pack-edible-100-milligrams",
+   "type": "product",
+   "file": "product/kanha-kanha-belts-cherry-limeade-live-rosin-100-mg-10-pack-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-sour-berry-bliss-live-rosin-100-mg-10-pack-edible-100-milligrams",
+   "type": "product",
+   "file": "product/kanha-kanha-belts-sour-berry-bliss-live-rosin-100-mg-10-pack-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-sour-melon-rush-live-rosin-100-mg-10-pack-edible-100-milligrams",
+   "type": "product",
+   "file": "product/kanha-kanha-belts-sour-melon-rush-live-rosin-100-mg-10-pack-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-sleep-marionberry-plum-nano-gummy-100-mg-10-pack-edible-100-milligrams",
+   "type": "product",
+   "file": "product/kanha-kanha-sleep-marionberry-plum-nano-gummy-100-mg-10-pack-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-strawberry-classic-gummy-100-mg-10-pack-edible-100-milligrams",
+   "type": "product",
+   "file": "product/kanha-kanha-strawberry-classic-gummy-100-mg-10-pack-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-watermelon-classic-gummy-100-mg-10-pack-edible-100-milligrams",
+   "type": "product",
+   "file": "product/kanha-kanha-watermelon-classic-gummy-100-mg-10-pack-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/keef-keef-orange-soda-5-mg-beverage-5-milligrams",
+   "type": "product",
+   "file": "product/keef-keef-orange-soda-5-mg-beverage-5-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/keef-keef-original-cola-5-mg-beverage-5-milligrams",
+   "type": "product",
+   "file": "product/keef-keef-original-cola-5-mg-beverage-5-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/keef-keef-root-beer-soda-5-mg-beverage-5-milligrams",
+   "type": "product",
+   "file": "product/keef-keef-root-beer-soda-5-mg-beverage-5-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/levia-levia-achieve-drops-tincture-500-mg-tincture-500-milligrams",
+   "type": "product",
+   "file": "product/levia-levia-achieve-drops-tincture-500-mg-tincture-500-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/levia-levia-celebrate-drops-tincture-500-mg-tincture-500-milligrams",
+   "type": "product",
+   "file": "product/levia-levia-celebrate-drops-tincture-500-mg-tincture-500-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/levia-levia-dream-drops-tincture-500-mg-tincture-500-milligrams",
+   "type": "product",
+   "file": "product/levia-levia-dream-drops-tincture-500-mg-tincture-500-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-el-jefe-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "file": "product/mass-yield-mass-yield-el-jefe-1g-pre-roll-1-g-preroll-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-inzane-in-the-membrane-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "file": "product/mass-yield-mass-yield-inzane-in-the-membrane-1g-pre-roll-1-g-preroll-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-inzane-in-the-membrane-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "file": "product/mass-yield-mass-yield-inzane-in-the-membrane-3-5g-flower-3-5-g-flower-3-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-peanut-butter-gelato-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "file": "product/mass-yield-mass-yield-peanut-butter-gelato-1g-pre-roll-1-g-preroll-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-peanut-butter-gelato-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "file": "product/mass-yield-mass-yield-peanut-butter-gelato-3-5g-flower-3-5-g-flower-3-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-rasta-pie-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "file": "product/mass-yield-mass-yield-rasta-pie-1g-pre-roll-1-g-preroll-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-rasta-pie-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "file": "product/mass-yield-mass-yield-rasta-pie-3-5g-flower-3-5-g-flower-3-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/nature-s-heritage-nature-s-heritage-grape-diamonds-5g-live-sauce-dispo-0-5-g-cartridge-0-5-grams",
+   "type": "product",
+   "file": "product/nature-s-heritage-nature-s-heritage-grape-diamonds-5g-live-sauce-dispo-0-5-g-cartridge-0-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/nature-s-heritage-nature-s-heritage-tropical-citrus-x-early-lemon-berry-5g-2pk-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "file": "product/nature-s-heritage-nature-s-heritage-tropical-citrus-x-early-lemon-berry-5g-2pk-pre-roll-1-g-preroll-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/omg-omg-chocolate-og-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "file": "product/omg-omg-chocolate-og-3-5g-flower-3-5-g-flower-3-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/omg-omg-honey-berriez-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "file": "product/omg-omg-honey-berriez-3-5g-flower-3-5-g-flower-3-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/omg-omg-mac-1-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "file": "product/omg-omg-mac-1-3-5g-flower-3-5-g-flower-3-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/omg-omg-pink-runtz-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "file": "product/omg-omg-pink-runtz-3-5g-flower-3-5-g-flower-3-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/omg-omg-shady-icee-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "file": "product/omg-omg-shady-icee-3-5g-flower-3-5-g-flower-3-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/raw-raw-classic-cones-dog-walker-single-70-24-one-size-merch",
+   "type": "product",
+   "file": "product/raw-raw-classic-cones-dog-walker-single-70-24-one-size-merch.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/raw-raw-organic-rolling-papers-black-1-1-4-one-size-merch",
+   "type": "product",
+   "file": "product/raw-raw-organic-rolling-papers-black-1-1-4-one-size-merch.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sugaree-sugaree-clementine-1g-cart-melted-diamonds-1-g-cartridge-1-grams",
+   "type": "product",
+   "file": "product/sugaree-sugaree-clementine-1g-cart-melted-diamonds-1-g-cartridge-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sugaree-sugaree-gelato-1g-cart-melted-diamonds-1-g-cartridge-1-grams",
+   "type": "product",
+   "file": "product/sugaree-sugaree-gelato-1g-cart-melted-diamonds-1-g-cartridge-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sugaree-sugaree-strawana-1g-cart-melted-diamonds-1-g-cartridge-1-grams",
+   "type": "product",
+   "file": "product/sugaree-sugaree-strawana-1g-cart-melted-diamonds-1-g-cartridge-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sunnydayz-sunnydayz-battery-one-size-merch",
+   "type": "product",
+   "file": "product/sunnydayz-sunnydayz-battery-one-size-merch.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sunnydayz-sunnydayz-hat-one-size-merch",
+   "type": "product",
+   "file": "product/sunnydayz-sunnydayz-hat-one-size-merch.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sunnydayz-sunnydayz-t-shirt-one-size-merch",
+   "type": "product",
+   "file": "product/sunnydayz-sunnydayz-t-shirt-one-size-merch.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-amplify-1350mg-cbd-cbg-thc-tincture-1350-mg-tincture-1350-milligrams",
+   "type": "product",
+   "file": "product/sweetgrass-botanicals-sweetgrass-botanicals-amplify-1350mg-cbd-cbg-thc-tincture-1350-mg-tincture-1350-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-cereal-milk-1g-live-rosin-1-g-extract-1-grams",
+   "type": "product",
+   "file": "product/sweetgrass-botanicals-sweetgrass-botanicals-cereal-milk-1g-live-rosin-1-g-extract-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-cherry-whip-1g-dry-sift-1-g-extract-1-grams",
+   "type": "product",
+   "file": "product/sweetgrass-botanicals-sweetgrass-botanicals-cherry-whip-1g-dry-sift-1-g-extract-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-dante-s-lemons-1g-live-rosin-1-g-extract-1-grams",
+   "type": "product",
+   "file": "product/sweetgrass-botanicals-sweetgrass-botanicals-dante-s-lemons-1g-live-rosin-1-g-extract-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-dante-s-lemons-5g-live-rosin-cart-0-5-g-cartridge-0-5-grams",
+   "type": "product",
+   "file": "product/sweetgrass-botanicals-sweetgrass-botanicals-dante-s-lemons-5g-live-rosin-cart-0-5-g-cartridge-0-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-gary-payton-x-apple-mints-1g-live-rosin-1-g-extract-1-grams",
+   "type": "product",
+   "file": "product/sweetgrass-botanicals-sweetgrass-botanicals-gary-payton-x-apple-mints-1g-live-rosin-1-g-extract-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-goodnight-hash-caps-thc-cbn-100-mg-20-pack-edible-100-milligrams",
+   "type": "product",
+   "file": "product/sweetgrass-botanicals-sweetgrass-botanicals-goodnight-hash-caps-thc-cbn-100-mg-20-pack-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-honeydew-1g-live-rosin-1-g-extract-1-grams",
+   "type": "product",
+   "file": "product/sweetgrass-botanicals-sweetgrass-botanicals-honeydew-1g-live-rosin-1-g-extract-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-honeydew-5g-live-rosin-cart-0-5-g-cartridge-0-5-grams",
+   "type": "product",
+   "file": "product/sweetgrass-botanicals-sweetgrass-botanicals-honeydew-5g-live-rosin-cart-0-5-g-cartridge-0-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-infused-olive-oil-250mg-250-mg-edible-250-milligrams",
+   "type": "product",
+   "file": "product/sweetgrass-botanicals-sweetgrass-botanicals-infused-olive-oil-250mg-250-mg-edible-250-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-infused-olive-oil-500mg-500-mg-edible-500-milligrams",
+   "type": "product",
+   "file": "product/sweetgrass-botanicals-sweetgrass-botanicals-infused-olive-oil-500mg-500-mg-edible-500-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-massage-oil-500mg-500-mg-topical-500-milligrams",
+   "type": "product",
+   "file": "product/sweetgrass-botanicals-sweetgrass-botanicals-massage-oil-500mg-500-mg-topical-500-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-muscle-salve-300mg-300-mg-topical-300-milligrams",
+   "type": "product",
+   "file": "product/sweetgrass-botanicals-sweetgrass-botanicals-muscle-salve-300mg-300-mg-topical-300-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-personal-lubricant-500mg-500-mg-topical-500-milligrams",
+   "type": "product",
+   "file": "product/sweetgrass-botanicals-sweetgrass-botanicals-personal-lubricant-500mg-500-mg-topical-500-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-slurricane-1g-live-rosin-1-g-extract-1-grams",
+   "type": "product",
+   "file": "product/sweetgrass-botanicals-sweetgrass-botanicals-slurricane-1g-live-rosin-1-g-extract-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-solventless-hash-caps-100-mg-20-pack-edible-100-milligrams",
+   "type": "product",
+   "file": "product/sweetgrass-botanicals-sweetgrass-botanicals-solventless-hash-caps-100-mg-20-pack-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-sour-gary-5g-live-rosin-cart-0-5-g-cartridge-0-5-grams",
+   "type": "product",
+   "file": "product/sweetgrass-botanicals-sweetgrass-botanicals-sour-gary-5g-live-rosin-cart-0-5-g-cartridge-0-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-superboof-1g-live-rosin-1-g-extract-1-grams",
+   "type": "product",
+   "file": "product/sweetgrass-botanicals-sweetgrass-botanicals-superboof-1g-live-rosin-1-g-extract-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-dante-s-inferno-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "file": "product/the-fresh-connection-the-fresh-connection-dante-s-inferno-1g-pre-roll-1-g-preroll-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-dante-s-inferno-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "file": "product/the-fresh-connection-the-fresh-connection-dante-s-inferno-3-5g-flower-3-5-g-flower-3-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-mac-31-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "file": "product/the-fresh-connection-the-fresh-connection-mac-31-1g-pre-roll-1-g-preroll-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-mucho-melon-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "file": "product/the-fresh-connection-the-fresh-connection-mucho-melon-1g-pre-roll-1-g-preroll-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-mucho-melon-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "file": "product/the-fresh-connection-the-fresh-connection-mucho-melon-3-5g-flower-3-5-g-flower-3-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/the-fresh-connection-the-fresh-connection-perfect-pair-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "file": "product/the-fresh-connection-the-fresh-connection-perfect-pair-1g-pre-roll-1-g-preroll-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/the-healing-rose-healing-rose-lemon-ginger-200mg-cbd-cbg-8x-200-mg-cbd-200-milligrams",
+   "type": "product",
+   "file": "product/the-healing-rose-healing-rose-lemon-ginger-200mg-cbd-cbg-8x-200-mg-cbd-200-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-butterstuff-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "file": "product/tower-three-tower-three-butterstuff-3-5g-flower-3-5-g-flower-3-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-deadhead-og-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "file": "product/tower-three-tower-three-deadhead-og-3-5g-flower-3-5-g-flower-3-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-dosido-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "file": "product/tower-three-tower-three-dosido-3-5g-flower-3-5-g-flower-3-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-florida-freeze-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "file": "product/tower-three-tower-three-florida-freeze-3-5g-flower-3-5-g-flower-3-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-florida-freeze-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "file": "product/tower-three-tower-three-florida-freeze-pre-roll-1-g-preroll-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-fruity-pebbles-og-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "file": "product/tower-three-tower-three-fruity-pebbles-og-3-5g-flower-3-5-g-flower-3-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-half-pint-4-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "file": "product/tower-three-tower-three-half-pint-4-3-5g-flower-3-5-g-flower-3-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-last-dance-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "file": "product/tower-three-tower-three-last-dance-1g-pre-roll-1-g-preroll-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-maple-butter-3-5g-flower-3-5-g-flower-3-5-grams",
+   "type": "product",
+   "file": "product/tower-three-tower-three-maple-butter-3-5g-flower-3-5-g-flower-3-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-moonbutter-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "file": "product/tower-three-tower-three-moonbutter-1g-pre-roll-1-g-preroll-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-og-kush-1g-pre-roll-1-g-preroll-1-grams",
+   "type": "product",
+   "file": "product/tower-three-tower-three-og-kush-1g-pre-roll-1-g-preroll-1-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-007up-5g-live-hash-rosin-0-5-g-cartridge-0-5-grams",
+   "type": "product",
+   "file": "product/treeworks-treeworks-007up-5g-live-hash-rosin-0-5-g-cartridge-0-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-canna-cream-rso-1000mg-1000-mg-topical-1000-milligrams",
+   "type": "product",
+   "file": "product/treeworks-treeworks-canna-cream-rso-1000mg-1000-mg-topical-1000-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-chill-rosin-gummies-100mg-100-mg-edible-100-milligrams",
+   "type": "product",
+   "file": "product/treeworks-treeworks-chill-rosin-gummies-100mg-100-mg-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-gentle-drops-990mg-990-mg-tincture-990-milligrams",
+   "type": "product",
+   "file": "product/treeworks-treeworks-gentle-drops-990mg-990-mg-tincture-990-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-party-rosin-gummies-100mg-100-mg-edible-100-milligrams",
+   "type": "product",
+   "file": "product/treeworks-treeworks-party-rosin-gummies-100mg-100-mg-edible-100-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-purist-drops-2000mg-2000-mg-tincture-2000-milligrams",
+   "type": "product",
+   "file": "product/treeworks-treeworks-purist-drops-2000mg-2000-mg-tincture-2000-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-sleep-relief-live-hash-rosin-gummies-700mg-700-mg-10-pack-edible-700-milligrams",
+   "type": "product",
+   "file": "product/treeworks-treeworks-sleep-relief-live-hash-rosin-gummies-700mg-700-mg-10-pack-edible-700-milligrams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-superboof-5g-live-hash-rosin-0-5-g-cartridge-0-5-grams",
+   "type": "product",
+   "file": "product/treeworks-treeworks-superboof-5g-live-hash-rosin-0-5-g-cartridge-0-5-grams.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/promotions",
+   "type": "listing",
+   "file": "promotions.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/shop",
+   "type": "listing",
+   "file": "shop.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/store-locator",
+   "type": "listing",
+   "file": "store-locator.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/strain/cbd",
+   "type": "strain",
+   "file": "strain/cbd.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/strain/hybrid",
+   "type": "strain",
+   "file": "strain/hybrid.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/strain/indica",
+   "type": "strain",
+   "file": "strain/indica.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/strain/sativa",
+   "type": "strain",
+   "file": "strain/sativa.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/strain/si",
+   "type": "strain",
+   "file": "strain/si.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/strain/S%20I",
+   "type": "notfound",
+   "file": "strain/S I.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/terms-and-conditions",
+   "type": "page",
+   "file": "terms-and-conditions.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/weed-delivery/dispensary-in-glendale",
+   "type": "page",
+   "file": "weed-delivery/dispensary-in-glendale.html"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/Small%20Batch,%20Real%20Farmers,%20Real%20Flavor.",
+   "type": "notfound",
+   "file": "Small Batch, Real Farmers, Real Flavor..html"
+  }
+ ],
+ "skipped": [
+  {
+   "url": "https://www.sunnydayzcannabis.com/strain/Cbd",
+   "type": "strain",
+   "why": "case twin: 301 to /strain/cbd"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/strain/Hybrid",
+   "type": "strain",
+   "why": "case twin: 301 to /strain/hybrid"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/strain/Indica",
+   "type": "strain",
+   "why": "case twin: 301 to /strain/indica"
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/strain/Sativa",
+   "type": "strain",
+   "why": "case twin: 301 to /strain/sativa"
+  }
+ ],
+ "redirects": [
+  {
+   "from": "/strain/Cbd",
+   "to": "/strain/cbd",
+   "status": 301,
+   "why": "case-only twin; the source declares the lowercase URL canonical"
+  },
+  {
+   "from": "/strain/Hybrid",
+   "to": "/strain/hybrid",
+   "status": 301,
+   "why": "case-only twin; the source declares the lowercase URL canonical"
+  },
+  {
+   "from": "/strain/Indica",
+   "to": "/strain/indica",
+   "status": 301,
+   "why": "case-only twin; the source declares the lowercase URL canonical"
+  },
+  {
+   "from": "/strain/Sativa",
+   "to": "/strain/sativa",
+   "status": 301,
+   "why": "case-only twin; the source declares the lowercase URL canonical"
+  }
+ ],
+ "errors": [],
+ "links": {
+  "brokenInternal": []
+ },
+ "images": {
+  "resolved": 8446,
+  "encoded": 0,
+  "cached": 11420,
+  "copied": 585,
+  "missing": [],
+  "lowRes": [
+   {
+    "url": "https://images.prismic.io/sunny-dayz/HiHZ4XNY-h3H9Plo_Betty_sEddies.png?auto=format,compress\\u0026rect=1,0,224,224\\u0026w=120\\u0026h=120\\",
+    "px": "225x224"
+   },
+   {
+    "url": "https://images.prismic.io/sunny-dayz/UYu0JtSJgXrZU80P_CoastCannabisCo..jpeg?auto=format,compress\\u0026rect=0,0,200,200\\u0026w=120\\u0026h=120\\",
+    "px": "200x200"
+   },
+   {
+    "url": "https://images.prismic.io/sunny-dayz/GUq_o5oczB0eqaJ8_Kahna.jpeg?auto=format,compress\\u0026rect=0,0,225,225\\u0026w=120\\u0026h=120\\",
+    "px": "225x225"
+   },
+   {
+    "url": "https://www.sunnydayzcannabis.com/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fsunny-dayz%2FntC50GyNgsLh8dXR_Levia.jpeg%3Fauto%3Dformat%2Ccompress%26rect%3D65%2C0%2C169%2C169%26w%3D384%26h%3D384&w=1080&q=75",
+    "px": "384x384"
+   },
+   {
+    "url": "https://images.prismic.io/sunny-dayz/Yn6zveaeNRiZ6pLI_NaturesHeritage.jpg?auto=format,compress\\u0026rect=4,0,121,121\\u0026w=120\\u0026h=120\\",
+    "px": "129x121"
+   },
+   {
+    "url": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7183191d-a596-44ee-a0bd-235387cd8cf0?w=1080&q=100",
+    "px": "224x224"
+   },
+   {
+    "url": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/388fadc2-a2ba-4807-bd1e-4173602c1ad3?w=1080&q=100",
+    "px": "371x480"
+   },
+   {
+    "url": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0732cd8b-701c-4dce-9b40-163026f3cdb5?w=1080&q=100",
+    "px": "224x224"
+   },
+   {
+    "url": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/04379419-08d4-4139-866c-8383d3f53765?w=1080&q=100",
+    "px": "224x224"
+   },
+   {
+    "url": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/bccc2791-9420-46b1-89c1-94e914c89f14?w=1080&q=100",
+    "px": "270x300"
+   },
+   {
+    "url": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/6f6512fe-3a8e-4fd8-a025-e34049d647f9?w=1080&q=100",
+    "px": "334x281"
+   },
+   {
+    "url": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2e2209b1-f899-4b50-a806-fcb021932ecd?w=1080&q=100",
+    "px": "365x547"
+   },
+   {
+    "url": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/00e28b2b-daa2-4797-a7b9-3bbf36def824?w=1080&q=100",
+    "px": "242x208"
+   },
+   {
+    "url": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/71a079d3-3bef-4781-b12a-00238e1abfbb?w=1080&q=100",
+    "px": "179x281"
+   },
+   {
+    "url": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2297b398-38ae-42d5-88d0-b200915ba146?w=1080&q=100",
+    "px": "225x224"
+   },
+   {
+    "url": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/23eaacfb-517b-4413-b9a3-9afff8e1f5d8?w=1080&q=100",
+    "px": "225x224"
+   },
+   {
+    "url": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a1862c5a-8afc-4cbd-9965-2c9acbdf9070?w=1080&q=100",
+    "px": "225x224"
+   },
+   {
+    "url": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2e428208-7faf-4db3-bf39-0d60224c96f3?w=1080&q=100",
+    "px": "270x547"
+   },
+   {
+    "url": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/dc9645e9-7547-487d-b151-9b7c3e27f44c?w=1080&q=100",
+    "px": "226x223"
+   },
+   {
+    "url": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/8f8524e8-c612-41e0-8a5c-2b05c1db146b?w=1080&q=100",
+    "px": "188x188"
+   },
+   {
+    "url": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/1f08fc6c-1b66-4252-8526-d6b64e82eed3?w=1080&q=100",
+    "px": "300x300"
+   },
+   {
+    "url": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/fec28fc4-b561-442a-9a7b-0f664f308d12?w=1080&q=100",
+    "px": "300x300"
+   },
+   {
+    "url": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/44a84a46-a0ba-4619-b059-b2ff84487497?w=1080&q=100",
+    "px": "300x300"
+   },
+   {
+    "url": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs_KYofJOwHRt1_deals.svg?fit=max&w=128",
+    "px": "100x100"
+   },
+   {
+    "url": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs6aYofJOwHRti_flowers.svg?fit=max&w=128",
+    "px": "100x100"
+   },
+   {
+    "url": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs9KYofJOwHRtt_vapes.svg?fit=max&w=128",
+    "px": "100x100"
+   },
+   {
+    "url": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs76YofJOwHRto_rolls.svg?fit=max&w=128",
+    "px": "100x100"
+   },
+   {
+    "url": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs5aYofJOwHRte_edibles.svg?fit=max&w=128",
+    "px": "100x100"
+   },
+   {
+    "url": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs6KYofJOwHRth_extracts.svg?fit=max&w=128",
+    "px": "100x100"
+   },
+   {
+    "url": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs5KYofJOwHRtd_drinks-3.svg?fit=max&w=128",
+    "px": "100x100"
+   },
+   {
+    "url": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs8qYofJOwHRtr_tinctures.svg?fit=max&w=128",
+    "px": "100x100"
+   },
+   {
+    "url": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs-aYofJOwHRty_capsules.svg?fit=max&w=128",
+    "px": "100x100"
+   },
+   {
+    "url": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs86YofJOwHRts_topicals.svg?fit=max&w=128",
+    "px": "100x100"
+   },
+   {
+    "url": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs9aYofJOwHRtu_accesories.svg?fit=max&w=128",
+    "px": "100x100"
+   },
+   {
+    "url": "https://images.prismic.io/sunny-dayz/Z5vML5bqstJ9-DyD_avatar-3-.png?auto=format%2Ccompress&fit=max&w=1080",
+    "px": "48x48"
+   },
+   {
+    "url": "https://images.prismic.io/sunny-dayz/Z5vMMJbqstJ9-DyE_avatar-4-.png?auto=format%2Ccompress&fit=max&w=1080",
+    "px": "48x48"
+   },
+   {
+    "url": "https://images.prismic.io/sunny-dayz/Z5vMMZbqstJ9-DyF_avatar-5-.png?auto=format%2Ccompress&fit=max&w=1080",
+    "px": "48x48"
+   },
+   {
+    "url": "https://images.prismic.io/sunny-dayz/Z5vMMpbqstJ9-DyH_avatar-6-.png?auto=format%2Ccompress&fit=max&w=1080",
+    "px": "48x48"
+   },
+   {
+    "url": "https://images.prismic.io/sunny-dayz/Z5vMP5bqstJ9-Dyf_LocationCard-2.png?auto=format,compress\\",
+    "px": "346x230"
+   },
+   {
+    "url": "https://images.prismic.io/sunny-dayz/Z5vMQZbqstJ9-Dyj_LocationCard.png?auto=format,compress\\",
+    "px": "345x230"
+   },
+   {
+    "url": "https://images.prismic.io/sunny-dayz/Z5vMQpbqstJ9-Dyl_LocationItem.png?auto=format,compress\\",
+    "px": "297x200"
+   }
+  ]
+ }
+}

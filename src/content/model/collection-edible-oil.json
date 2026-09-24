@@ -1,0 +1,176 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/collection/edible/oil",
+ "slug": "collection-edible-oil",
+ "type": "collection",
+ "title": "OIL",
+ "seoTitle": "OIL",
+ "model": {
+  "kind": "collection",
+  "level": "subcategory",
+  "path": "/collection/edible/oil",
+  "category": "edible",
+  "subcategory": "oil",
+  "parentPath": "/collection/edible",
+  "sortParam": null,
+  "capture": {
+   "matchesUrl": true,
+   "signal": null,
+   "observed": null
+  },
+  "h1": "OIL",
+  "banner": {
+   "title": "OIL",
+   "description": "Best OIL",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMq5bqstJ9-D0W_CategoriesBanner-29.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMrJbqstJ9-D0X_CategoriesBanner-28.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "OIL",
+    "href": null
+   }
+  ],
+  "categoryLinks": [],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "loading",
+  "emptyState": null,
+  "cards": [],
+  "productCount": 2,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-infused-olive-oil-250mg-250-mg-edible-250-milligrams",
+    "name": "Sweetgrass Botanicals - Infused Olive Oil - 250mg",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals Infused Olive Oil brings premium cannabis convenience to your kitchen with 250mg of THC in every bottle. This versatile edible oil seamlessly integrates into your culinary routine, perfect for drizzling over salads, finishing pasta dishes, or elevating your favorite recipes with cannabis-infused flavor. The smooth, rich olive oil base delivers a naturally earthy and savory profile that complements both sweet and savory applications. Ideal for those seeking precise dosing control, this infused oil allows you to customize your experience by the drop. Whether you're an experienced chef or new to cannabis cooking, this product offers a discreet and delicious way to enjoy the benefits of THC while exploring creative culinary possibilities. Simply start with a small amount, wait to assess effects, and adjust accordingly for your perfect dose.",
+    "price": "$30",
+    "priceAmount": 30,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/c666904a-1e10-4dc7-bf32-98ee63f05b05",
+     "alt": "Sweetgrass Botanicals - Infused Olive Oil - 250mg"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-infused-olive-oil-500mg-500-mg-edible-500-milligrams",
+    "name": "Sweetgrass Botanicals - Infused Olive Oil - 500mg",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals Infused Olive Oil brings versatile cannabis wellness to your kitchen with 500mg of premium extract in every bottle. This culinary edible offers a sophisticated way to incorporate cannabis into your daily routine, whether drizzled over salads, mixed into dressings, or used in low-heat cooking. The smooth, earthy flavor profile complements both savory and sweet dishes while delivering consistent, long-lasting effects. Perfect for experienced consumers seeking creative control over their dosing, this infused oil allows you to customize your experience with every meal. Simply start with a small amount and wait 60-90 minutes to feel the full effects. Store in a cool, dark place to maintain potency and freshness. Elevate your culinary creations while enjoying the therapeutic benefits of cannabis with this premium infused olive oil.",
+    "price": "$70",
+    "priceAmount": 70,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/75ed45dd-de3c-4dac-8ce5-c92f97333f58",
+     "alt": "Sweetgrass Botanicals - Infused Olive Oil - 500mg"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/shop",
+       "name": "Menu"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "OIL"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals Infused Olive Oil brings premium cannabis convenience to your kitchen with 250mg of THC in every bottle. This versatile edible oil seamlessly integrates into your culinary routine, perfect for drizzling over salads, finishing pasta dishes, or elevating your favorite recipes with cannabis-infused flavor. The smooth, rich olive oil base delivers a naturally earthy and savory profile that complements both sweet and savory applications. Ideal for those seeking precise dosing control, this infused oil allows you to customize your experience by the drop. Whether you&apos;re an experienced chef or new to cannabis cooking, this product offers a discreet and delicious way to enjoy the benefits of THC while exploring creative culinary possibilities. Simply start with a small amount, wait to assess effects, and adjust accordingly for your perfect dose.",
+       "name": "Sweetgrass Botanicals - Infused Olive Oil - 250mg",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "30",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-infused-olive-oil-250mg-250-mg-edible-250-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/c666904a-1e10-4dc7-bf32-98ee63f05b05"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals Infused Olive Oil brings versatile cannabis wellness to your kitchen with 500mg of premium extract in every bottle. This culinary edible offers a sophisticated way to incorporate cannabis into your daily routine, whether drizzled over salads, mixed into dressings, or used in low-heat cooking. The smooth, earthy flavor profile complements both savory and sweet dishes while delivering consistent, long-lasting effects. Perfect for experienced consumers seeking creative control over their dosing, this infused oil allows you to customize your experience with every meal. Simply start with a small amount and wait 60-90 minutes to feel the full effects. Store in a cool, dark place to maintain potency and freshness. Elevate your culinary creations while enjoying the therapeutic benefits of cannabis with this premium infused olive oil.",
+       "name": "Sweetgrass Botanicals - Infused Olive Oil - 500mg",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "70",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-infused-olive-oil-500mg-500-mg-edible-500-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/75ed45dd-de3c-4dac-8ce5-c92f97333f58"
+      },
+      "position": "2"
+     }
+    ]
+   }
+  ]
+ }
+}

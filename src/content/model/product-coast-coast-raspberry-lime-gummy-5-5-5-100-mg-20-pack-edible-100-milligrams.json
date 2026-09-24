@@ -1,0 +1,133 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/coast-coast-raspberry-lime-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+ "slug": "product-coast-coast-raspberry-lime-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+ "type": "product",
+ "title": "COAST - Coast - Raspberry Lime - Gummy - 5:5:5",
+ "seoTitle": "COAST - Coast - Raspberry Lime - Gummy - 5:5:5",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Coast - Raspberry Lime - Gummy - 5:5:5",
+    "href": null
+   }
+  ],
+  "h1": "Coast - Raspberry Lime - Gummy - 5:5:5",
+  "name": "Coast - Raspberry Lime - Gummy - 5:5:5",
+  "brand": {
+   "label": "COAST",
+   "href": "/brand/coast"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Sativa",
+   "key": "sativa",
+   "ariaLabel": "Flower type: Sativa"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "GUMMY",
+    "href": "/collection/edible/gummy"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/14708e26-5d93-48d6-9a60-eb5e2fbecaf2?w=3840&q=100",
+   "alt": "Coast - Raspberry Lime - Gummy - 5:5:5"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/14708e26-5d93-48d6-9a60-eb5e2fbecaf2?w=3840&q=100",
+    "alt": "Coast - Raspberry Lime - Gummy - 5:5:5"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "100MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Coast Raspberry Lime Gummy delivers a perfectly balanced 5:5:5 ratio of THC:CBD:THCV, in a 100mg package, offering a versatile cannabis experience in delicious gummy form. Each bite bursts with tangy raspberry and zesty lime flavors that make your wellness routine something to look forward to. This edible combines the uplifting effects of THC with the calming properties of CBD and the relaxing benefits of THCV, creating a well-rounded experience that can adapt to your needs throughout the day. Whether you're seeking creative focus, gentle relaxation, or restful sleep, this ratio-based gummy provides flexible support. The fruity, tart flavor profile makes dosing enjoyable while the precise cannabinoid blend ensures consistent results. Perfect for those who appreciate both flavor and function in their cannabis edibles.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "COAST",
+    "href": "/brand/coast"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Sativa",
+    "href": "/strain/Sativa"
+   },
+   {
+    "label": "THC",
+    "value": "100MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Coast Raspberry Lime Gummy 5 5 5 100 Mg 20 Pack"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

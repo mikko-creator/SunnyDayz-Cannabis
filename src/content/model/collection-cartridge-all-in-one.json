@@ -1,0 +1,216 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/collection/cartridge/all-in-one",
+ "slug": "collection-cartridge-all-in-one",
+ "type": "collection",
+ "title": "ALL IN ONE",
+ "seoTitle": "ALL IN ONE",
+ "model": {
+  "kind": "collection",
+  "level": "subcategory",
+  "path": "/collection/cartridge/all-in-one",
+  "category": "cartridge",
+  "subcategory": "all-in-one",
+  "parentPath": "/collection/cartridge",
+  "sortParam": null,
+  "capture": {
+   "matchesUrl": true,
+   "signal": null,
+   "observed": null
+  },
+  "h1": "ALL-IN-ONE",
+  "banner": {
+   "title": "ALL-IN-ONE",
+   "description": "Best ALL-IN-ONE",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMq5bqstJ9-D0W_CategoriesBanner-29.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMrJbqstJ9-D0X_CategoriesBanner-28.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "ALL IN ONE",
+    "href": null
+   }
+  ],
+  "categoryLinks": [],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "empty",
+  "emptyState": {
+   "heading": "No search results found",
+   "text": "No results match the filter criteria. Remove a filter or clear all filters to search again"
+  },
+  "cards": [],
+  "productCount": 3,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/in-house-in-house-maui-wowie-1g-dispo-1-g-cartridge-1-grams",
+    "name": "In House - Maui Wowie- 1G Dispo - 1 g",
+    "brand": "IN HOUSE",
+    "description": "In House brings you the legendary Maui Wowie in a convenient 1g All-In-One disposable cartridge, capturing the essence of this iconic tropical sativa. Known for its uplifting and energetic effects, Maui Wowie delivers a blissful experience that sparks creativity and happiness while keeping you focused throughout the day. This strain's vibrant flavor profile features sweet pineapple, citrus, and tropical notes that transport you straight to the Hawaiian islands with every puff. The disposable vape format offers ultimate portability and ease of use—no charging, no refilling, just pure enjoyment. Perfect for daytime adventures, social gatherings, or creative pursuits, this 1g cartridge provides smooth, flavorful vapor from start to finish. Experience the island vibes and euphoric effects that have made Maui Wowie a timeless favorite among cannabis enthusiasts.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5e72ff6-46f8-4deb-aeb7-13f1d5057367",
+     "alt": "In House - Maui Wowie- 1G Dispo - 1 g"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/in-house-in-house-biscotti-1g-dispo-1-g-cartridge-1-grams",
+    "name": "In House - Biscotti - 1G Dispo",
+    "brand": "IN HOUSE",
+    "description": "Experience the premium quality of In House with the Biscotti 1G Dispo, a convenient all-in-one cartridge delivering exceptional flavor and potency in every draw. This 1g disposable vape captures the essence of the beloved Biscotti strain, known for its rich, dessert-like profile featuring sweet, buttery notes with hints of nuttiness and spice. The sleek, portable design requires no charging or setup—simply inhale and enjoy smooth, satisfying vapor wherever life takes you. Perfect for both seasoned enthusiasts and newcomers seeking hassle-free convenience, this disposable cartridge offers consistent performance from first puff to last. In House brings you strain-specific quality in a user-friendly format that fits seamlessly into your lifestyle. Whether you're relaxing at home or on the go, the Biscotti 1G Dispo delivers authentic cannabis flavor and effects in one compact, ready-to-use device.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5e72ff6-46f8-4deb-aeb7-13f1d5057367",
+     "alt": "In House - Biscotti - 1G Dispo"
+    }
+   },
+   {
+    "position": 3,
+    "url": "/product/nature-s-heritage-nature-s-heritage-grape-diamonds-5g-live-sauce-dispo-0-5-g-cartridge-0-5-grams",
+    "name": "Nature's Heritage - Grape Diamonds - .5G Live Sauce - Dispo",
+    "brand": "NATURE'S HERITAGE",
+    "description": "Nature's Heritage Grape Diamonds .5g Live Sauce All-In-One cartridge delivers a premium vaping experience with bold, fruity flavor in a convenient, ready-to-use format. This disposable device features live sauce extract, preserving the plant's natural terpene profile for an authentic, strain-specific taste. Expect rich grape and sweet berry notes with hints of earthy undertones that create a smooth, flavorful draw from first puff to last. The live sauce consistency ensures robust flavor and potent effects in every session. Ideal for on-the-go enjoyment, this .5g all-in-one requires no charging or separate battery—simply inhale and savor the concentrated cannabis experience. Nature's Heritage brings quality craftsmanship to this portable cartridge, making it perfect for both seasoned enthusiasts and newcomers seeking hassle-free convenience without compromising on taste or potency.",
+    "price": "$20",
+    "priceAmount": 20,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/dc9645e9-7547-487d-b151-9b7c3e27f44c",
+     "alt": "Nature's Heritage - Grape Diamonds - .5G Live Sauce - Dispo"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/shop",
+       "name": "Menu"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "ALL IN ONE"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "IN HOUSE",
+       "description": "In House brings you the legendary Maui Wowie in a convenient 1g All-In-One disposable cartridge, capturing the essence of this iconic tropical sativa. Known for its uplifting and energetic effects, Maui Wowie delivers a blissful experience that sparks creativity and happiness while keeping you focused throughout the day. This strain&apos;s vibrant flavor profile features sweet pineapple, citrus, and tropical notes that transport you straight to the Hawaiian islands with every puff. The disposable vape format offers ultimate portability and ease of use—no charging, no refilling, just pure enjoyment. Perfect for daytime adventures, social gatherings, or creative pursuits, this 1g cartridge provides smooth, flavorful vapor from start to finish. Experience the island vibes and euphoric effects that have made Maui Wowie a timeless favorite among cannabis enthusiasts.",
+       "name": "In House - Maui Wowie- 1G Dispo - 1 g",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/in-house-in-house-maui-wowie-1g-dispo-1-g-cartridge-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5e72ff6-46f8-4deb-aeb7-13f1d5057367"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "IN HOUSE",
+       "description": "Experience the premium quality of In House with the Biscotti 1G Dispo, a convenient all-in-one cartridge delivering exceptional flavor and potency in every draw. This 1g disposable vape captures the essence of the beloved Biscotti strain, known for its rich, dessert-like profile featuring sweet, buttery notes with hints of nuttiness and spice. The sleek, portable design requires no charging or setup—simply inhale and enjoy smooth, satisfying vapor wherever life takes you. Perfect for both seasoned enthusiasts and newcomers seeking hassle-free convenience, this disposable cartridge offers consistent performance from first puff to last. In House brings you strain-specific quality in a user-friendly format that fits seamlessly into your lifestyle. Whether you&apos;re relaxing at home or on the go, the Biscotti 1G Dispo delivers authentic cannabis flavor and effects in one compact, ready-to-use device.",
+       "name": "In House - Biscotti - 1G Dispo",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/in-house-in-house-biscotti-1g-dispo-1-g-cartridge-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5e72ff6-46f8-4deb-aeb7-13f1d5057367"
+      },
+      "position": "2"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "NATURE&apos;S HERITAGE",
+       "description": "Nature&apos;s Heritage Grape Diamonds .5g Live Sauce All-In-One cartridge delivers a premium vaping experience with bold, fruity flavor in a convenient, ready-to-use format. This disposable device features live sauce extract, preserving the plant&apos;s natural terpene profile for an authentic, strain-specific taste. Expect rich grape and sweet berry notes with hints of earthy undertones that create a smooth, flavorful draw from first puff to last. The live sauce consistency ensures robust flavor and potent effects in every session. Ideal for on-the-go enjoyment, this .5g all-in-one requires no charging or separate battery—simply inhale and savor the concentrated cannabis experience. Nature&apos;s Heritage brings quality craftsmanship to this portable cartridge, making it perfect for both seasoned enthusiasts and newcomers seeking hassle-free convenience without compromising on taste or potency.",
+       "name": "Nature&apos;s Heritage - Grape Diamonds - .5G Live Sauce - Dispo",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/nature-s-heritage-nature-s-heritage-grape-diamonds-5g-live-sauce-dispo-0-5-g-cartridge-0-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/dc9645e9-7547-487d-b151-9b7c3e27f44c"
+      },
+      "position": "3"
+     }
+    ]
+   }
+  ]
+ }
+}

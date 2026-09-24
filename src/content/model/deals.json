@@ -1,0 +1,87 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/deals",
+ "slug": "deals",
+ "type": "listing",
+ "title": "Deals page",
+ "seoTitle": "Deals page",
+ "model": {
+  "kind": "deals",
+  "path": "/deals",
+  "theme": null,
+  "capture": {
+   "matchesUrl": true,
+   "signal": null,
+   "observed": null
+  },
+  "h1": "DEALS",
+  "banner": {
+   "title": "DEALS",
+   "description": null,
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMUZbqstJ9-Dy6_CategoriesBanner-21.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMUpbqstJ9-Dy7_CategoriesBanner-7.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Deals",
+    "href": null
+   }
+  ],
+  "promoCarousel": {
+   "ariaLabel": "Promotions carousel: Today's deals, 0 promotions available",
+   "heading": "Today's deals",
+   "countText": "0 promotions available",
+   "promotionCount": 0,
+   "seeAll": {
+    "label": "SEE ALL",
+    "countBadge": "(0)",
+    "href": "/promotions",
+    "ariaLabel": "Go to See all, 0 promotions available"
+   },
+   "state": "loading",
+   "placeholderSlides": 15,
+   "promotions": [],
+   "controls": {
+    "previous": "Previous",
+    "next": "Next"
+   }
+  },
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "loading",
+  "emptyState": null,
+  "cards": [],
+  "productCount": 0,
+  "products": [],
+  "search": [],
+  "notice": null,
+  "galleries": [],
+  "stores": [],
+  "storeListToggleAriaLabel": null,
+  "map": null,
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": []
+   }
+  ]
+ }
+}

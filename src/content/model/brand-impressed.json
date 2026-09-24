@@ -1,0 +1,245 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/brand/impressed",
+ "slug": "brand-impressed",
+ "type": "brand",
+ "title": "IMPRESSED",
+ "seoTitle": "IMPRESSED",
+ "model": {
+  "kind": "brand",
+  "path": "/brand/impressed",
+  "slug": "impressed",
+  "name": "IMPRESSED",
+  "h1": "IMPRESSED",
+  "logo": null,
+  "banner": {
+   "title": "IMPRESSED",
+   "description": "Shop cannabis products from IMPRESSED at a dispensary near you",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Brands",
+    "href": "/brands"
+   },
+   {
+    "label": "IMPRESSED",
+    "href": null
+   }
+  ],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "empty",
+  "emptyState": {
+   "heading": "No search results found",
+   "text": "No results match the filter criteria. Remove a filter or clear all filters to search again"
+  },
+  "cards": [],
+  "productCount": 4,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/impressed-impressed-zangria-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "Impressed - Zangria - 1G Pre-roll ",
+    "brand": "IMPRESSED",
+    "description": "Impressed brings you Zangria, a premium 1g pre-roll that's ready to light up your experience. This expertly crafted preroll showcases the brand's commitment to quality and convenience, delivering smooth, consistent draws from start to finish. Zangria offers a vibrant flavor profile with fruity, citrus notes balanced by subtle herbal undertones that dance across the palate. Each pre-roll is carefully packed with finely ground flower to ensure an even burn and optimal enjoyment. Perfect for on-the-go sessions or sharing with friends, this single gram pre-roll provides just the right amount for a satisfying smoke. Whether you're unwinding after a long day or enhancing social moments, Impressed Zangria delivers a memorable cannabis experience in a convenient, portable format. No grinding, no rolling—just pure enjoyment.",
+    "price": "$8",
+    "priceAmount": 8,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2297b398-38ae-42d5-88d0-b200915ba146",
+     "alt": "Impressed - Zangria - 1G Pre-roll "
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/impressed-impressed-gelonade-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "Impressed - Gelonade - 1G Pre-roll",
+    "brand": "IMPRESSED",
+    "description": "Impressed brings you Gelonade, a premium 1g pre-roll that's ready to spark up whenever you need it. This expertly crafted preroll showcases the signature citrus-forward profile that Gelonade is known for, delivering bright lemon and lime notes with a sweet, refreshing finish. The Impressed brand focuses on quality flower and convenient formats, making this single-gram option perfect for solo sessions or on-the-go enjoyment. Expect uplifting and energetic effects that can enhance creativity and focus, ideal for daytime use or social gatherings. The vibrant flavor profile combines tropical and fruity aromas with hints of earthy undertones, creating a well-rounded smoking experience. Each pre-roll is carefully packed to ensure an even burn and consistent potency from start to finish. Whether you're new to cannabis or a seasoned enthusiast, this Gelonade pre-roll offers a flavorful and reliable way to enjoy premium flower without the hassle of grinding or rolling yourself.",
+    "price": "$8",
+    "priceAmount": 8,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/23eaacfb-517b-4413-b9a3-9afff8e1f5d8",
+     "alt": "Impressed - Gelonade - 1G Pre-roll"
+    }
+   },
+   {
+    "position": 3,
+    "url": "/product/impressed-impressed-rainbow-belts-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "Impressed - Rainbow Belts - 1G Pre-roll ",
+    "brand": "IMPRESSED",
+    "description": "Impressed brings you Rainbow Belts in a convenient 1g pre-roll, delivering exceptional quality and flavor in every puff. This premium preroll showcases the beloved Rainbow Belts strain, known for its vibrant terpene profile and delightful experience. Expect a tantalizing blend of sweet, fruity notes with hints of berry and citrus that dance across your palate. The smooth, expertly rolled joint offers consistent burn and potent effects that cannabis enthusiasts crave. Perfect for those seeking a flavorful smoking experience without the hassle of grinding and rolling, this ready-to-enjoy preroll fits seamlessly into any session. Whether you're unwinding after a long day or sharing with friends, Impressed Rainbow Belts delivers relaxation and uplifted vibes in one perfectly crafted package. Discover why Impressed is trusted for quality craftsmanship and premium flower selections.",
+    "price": "$8",
+    "priceAmount": 8,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a1862c5a-8afc-4cbd-9965-2c9acbdf9070",
+     "alt": "Impressed - Rainbow Belts - 1G Pre-roll "
+    }
+   },
+   {
+    "position": 4,
+    "url": "/product/impressed-impressed-apples-and-banana-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Impressed - Apples and Banana - 3.5G Flower",
+    "brand": "IMPRESSED",
+    "description": "Impressed brings you Apples and Banana, a premium 3.5g flower that delivers a uniquely fruity cannabis experience. This standout strain blends the sweet, crisp notes of fresh apples with the smooth, creamy essence of ripe banana, creating an aromatic profile that's both inviting and memorable. Each bud is carefully cultivated to preserve its natural terpenes and potency, ensuring a flavorful smoke or vape session. Whether you're seeking creative inspiration, social energy, or simply a delicious addition to your collection, Apples and Banana offers a distinctive flavor journey. The tropical and fruity aroma fills the air, while the smooth smoke provides balanced effects that appeal to both newcomers and seasoned enthusiasts. Impressed's commitment to quality shines through in every nug, making this 3.5g jar perfect for solo sessions or sharing with friends. Discover why Apples and Banana is quickly becoming a favorite among flower connoisseurs.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7ecbcb69-cc6d-4e24-9f4f-fa1ea71c2991",
+     "alt": "Impressed - Apples and Banana - 3.5G Flower"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/brands",
+       "name": "Brands"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "IMPRESSED"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "IMPRESSED",
+       "description": "Impressed brings you Zangria, a premium 1g pre-roll that&apos;s ready to light up your experience. This expertly crafted preroll showcases the brand&apos;s commitment to quality and convenience, delivering smooth, consistent draws from start to finish. Zangria offers a vibrant flavor profile with fruity, citrus notes balanced by subtle herbal undertones that dance across the palate. Each pre-roll is carefully packed with finely ground flower to ensure an even burn and optimal enjoyment. Perfect for on-the-go sessions or sharing with friends, this single gram pre-roll provides just the right amount for a satisfying smoke. Whether you&apos;re unwinding after a long day or enhancing social moments, Impressed Zangria delivers a memorable cannabis experience in a convenient, portable format. No grinding, no rolling—just pure enjoyment.",
+       "name": "Impressed - Zangria - 1G Pre-roll ",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "8",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/impressed-impressed-zangria-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2297b398-38ae-42d5-88d0-b200915ba146"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "IMPRESSED",
+       "description": "Impressed brings you Gelonade, a premium 1g pre-roll that&apos;s ready to spark up whenever you need it. This expertly crafted preroll showcases the signature citrus-forward profile that Gelonade is known for, delivering bright lemon and lime notes with a sweet, refreshing finish. The Impressed brand focuses on quality flower and convenient formats, making this single-gram option perfect for solo sessions or on-the-go enjoyment. Expect uplifting and energetic effects that can enhance creativity and focus, ideal for daytime use or social gatherings. The vibrant flavor profile combines tropical and fruity aromas with hints of earthy undertones, creating a well-rounded smoking experience. Each pre-roll is carefully packed to ensure an even burn and consistent potency from start to finish. Whether you&apos;re new to cannabis or a seasoned enthusiast, this Gelonade pre-roll offers a flavorful and reliable way to enjoy premium flower without the hassle of grinding or rolling yourself.",
+       "name": "Impressed - Gelonade - 1G Pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "8",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/impressed-impressed-gelonade-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/23eaacfb-517b-4413-b9a3-9afff8e1f5d8"
+      },
+      "position": "2"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "IMPRESSED",
+       "description": "Impressed brings you Rainbow Belts in a convenient 1g pre-roll, delivering exceptional quality and flavor in every puff. This premium preroll showcases the beloved Rainbow Belts strain, known for its vibrant terpene profile and delightful experience. Expect a tantalizing blend of sweet, fruity notes with hints of berry and citrus that dance across your palate. The smooth, expertly rolled joint offers consistent burn and potent effects that cannabis enthusiasts crave. Perfect for those seeking a flavorful smoking experience without the hassle of grinding and rolling, this ready-to-enjoy preroll fits seamlessly into any session. Whether you&apos;re unwinding after a long day or sharing with friends, Impressed Rainbow Belts delivers relaxation and uplifted vibes in one perfectly crafted package. Discover why Impressed is trusted for quality craftsmanship and premium flower selections.",
+       "name": "Impressed - Rainbow Belts - 1G Pre-roll ",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "8",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/impressed-impressed-rainbow-belts-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a1862c5a-8afc-4cbd-9965-2c9acbdf9070"
+      },
+      "position": "3"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "IMPRESSED",
+       "description": "Impressed brings you Apples and Banana, a premium 3.5g flower that delivers a uniquely fruity cannabis experience. This standout strain blends the sweet, crisp notes of fresh apples with the smooth, creamy essence of ripe banana, creating an aromatic profile that&apos;s both inviting and memorable. Each bud is carefully cultivated to preserve its natural terpenes and potency, ensuring a flavorful smoke or vape session. Whether you&apos;re seeking creative inspiration, social energy, or simply a delicious addition to your collection, Apples and Banana offers a distinctive flavor journey. The tropical and fruity aroma fills the air, while the smooth smoke provides balanced effects that appeal to both newcomers and seasoned enthusiasts. Impressed&apos;s commitment to quality shines through in every nug, making this 3.5g jar perfect for solo sessions or sharing with friends. Discover why Apples and Banana is quickly becoming a favorite among flower connoisseurs.",
+       "name": "Impressed - Apples and Banana - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/impressed-impressed-apples-and-banana-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7ecbcb69-cc6d-4e24-9f4f-fa1ea71c2991"
+      },
+      "position": "4"
+     }
+    ]
+   }
+  ]
+ }
+}

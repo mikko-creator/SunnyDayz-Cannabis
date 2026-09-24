@@ -1,0 +1,194 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-deadhead-og-3-5g-flower-3-5-g-flower-3-5-grams",
+ "slug": "product-tower-three-tower-three-deadhead-og-3-5g-flower-3-5-g-flower-3-5-grams",
+ "type": "product",
+ "title": "TOWER THREE - Tower Three - Deadhead OG - 3.5G Flower",
+ "seoTitle": "TOWER THREE - Tower Three - Deadhead OG - 3.5G Flower",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Flower",
+    "href": "/collection/flower"
+   },
+   {
+    "label": "Tower Three - Deadhead OG - 3.5G Flower",
+    "href": null
+   }
+  ],
+  "h1": "Tower Three - Deadhead OG - 3.5G Flower",
+  "name": "Tower Three - Deadhead OG - 3.5G Flower",
+  "brand": {
+   "label": "TOWER THREE",
+   "href": "/brand/tower-three"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Indica",
+   "key": "indica",
+   "ariaLabel": "Flower type: Indica"
+  },
+  "category": {
+   "label": "Flower",
+   "href": "/collection/flower"
+  },
+  "subcategories": [
+   {
+    "label": "PRE-PACK",
+    "href": "/collection/flower/pre-pack"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/cb1cd7ef-0d5e-4b67-bc8d-42f388f06ea6?w=3840&q=100",
+   "alt": "Tower Three - Deadhead OG - 3.5G Flower"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/cb1cd7ef-0d5e-4b67-bc8d-42f388f06ea6?w=3840&q=100",
+    "alt": "Tower Three - Deadhead OG - 3.5G Flower"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": "Warning",
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": "Cannabinoids"
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "30.9%",
+    "icon": "vector"
+   },
+   {
+    "label": "CBD",
+    "value": "0.093%",
+    "icon": "water_drop_black"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Tower Three presents Deadhead OG, a premium 3.5g flower offering that delivers a potent, memorable experience. This legendary strain is renowned for its powerful effects that combine deep relaxation with euphoric uplift, making it a favorite among discerning cannabis enthusiasts. Deadhead OG's distinctive aroma profile features earthy, pine, and diesel notes with a pungent undertone that speaks to its quality and potency. The dense, resinous buds showcase careful cultivation and curing, ensuring optimal freshness and cannabinoid preservation. Whether you're unwinding after a long day or seeking relief, this classic strain provides a well-rounded experience that honors its celebrated lineage. Perfect for evening use, Deadhead OG from Tower Three brings craft-quality flower to your collection in a convenient eighth-ounce format.",
+  "warnings": [
+   {
+    "title": "Proposition 65 Warning for California Consumers",
+    "collapsed": true,
+    "toggleIcon": "angle-down",
+    "toggleAriaLabel": "Expand content",
+    "label": "WARNING:",
+    "lines": [
+     "This product can expose you to chemicals including β-myrcene and cannabis smoke, which are known to the State of California to cause cancer, and chemicals including cannabis smoke and 9-tetrahydrocannabinol, which are known to the State of California to cause birth defects or other reproductive harm."
+    ],
+    "moreInfo": {
+     "text": "For more information go to",
+     "label": "www.P65Warnings.ca.gov",
+     "href": "https://www.P65Warnings.ca.gov"
+    },
+    "links": []
+   }
+  ],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "TOWER THREE",
+    "href": "/brand/tower-three"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Indica",
+    "href": "/strain/Indica"
+   },
+   {
+    "label": "THC",
+    "value": "30.9%"
+   },
+   {
+    "label": "CBD",
+    "value": "0.093%"
+   },
+   {
+    "label": "Package Info",
+    "value": "Tower Three Deadhead Og 3 5 G Flower 3 5 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "3.5g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [
+   {
+    "group": "THC",
+    "items": [
+     {
+      "name": "THCA",
+      "value": "34.6%"
+     },
+     {
+      "name": "THC",
+      "value": "30.9%"
+     }
+    ]
+   },
+   {
+    "group": "CBD",
+    "items": [
+     {
+      "name": "CBG",
+      "value": "0.164%"
+     },
+     {
+      "name": "CBDA",
+      "value": "0.106%"
+     },
+     {
+      "name": "CBD",
+      "value": "0.0931%"
+     }
+    ]
+   }
+  ],
+  "jsonld": null
+ }
+}

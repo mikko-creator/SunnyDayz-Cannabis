@@ -1,0 +1,145 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-purple-rolling-papers-king-slim-one-size-merch",
+ "slug": "product-blazy-susan-blazy-susan-purple-rolling-papers-king-slim-one-size-merch",
+ "type": "product",
+ "title": "BLAZY SUSAN - Blazy Susan - Purple - Rolling Papers - King Slim",
+ "seoTitle": "BLAZY SUSAN - Blazy Susan - Purple - Rolling Papers - King Slim",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Merch",
+    "href": "/collection/merch"
+   },
+   {
+    "label": "Blazy Susan - Purple - Rolling Papers - King Slim",
+    "href": null
+   }
+  ],
+  "h1": "Blazy Susan - Purple - Rolling Papers - King Slim",
+  "name": "Blazy Susan - Purple - Rolling Papers - King Slim",
+  "brand": {
+   "label": "BLAZY SUSAN",
+   "href": "/brand/blazy-susan"
+  },
+  "badges": [],
+  "strainType": null,
+  "category": {
+   "label": "Merch",
+   "href": "/collection/merch"
+  },
+  "subcategories": [
+   {
+    "label": "ROLLING PAPERS",
+    "href": "/collection/merch/rolling-papers"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f090e88e-ca0e-4a91-8d22-d24cf397f7d6?w=3840&q=100",
+   "alt": "Blazy Susan - Purple - Rolling Papers - King Slim"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f090e88e-ca0e-4a91-8d22-d24cf397f7d6?w=3840&q=100",
+    "alt": "Blazy Susan - Purple - Rolling Papers - King Slim"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": null,
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [],
+  "disclaimer": null,
+  "description": "Blazy Susan Purple King Slim Rolling Papers bring a vibrant twist to your rolling experience. These premium rolling papers from Blazy Susan feature a striking purple hue that stands out in any collection. Designed in the popular king slim size, they offer the perfect balance of length and width for smooth, even burns every time. Crafted from high-quality materials, these rolling papers deliver a clean, slow burn that lets you savor every moment. Whether you're rolling for yourself or sharing with friends, Blazy Susan's signature purple papers combine style with functionality. The ultra-thin construction ensures minimal interference with your blend's natural flavors, while the precise cut and consistent texture make rolling effortless. Perfect for those who appreciate quality rolling accessories with a pop of personality. Each paper is carefully manufactured to provide reliable performance session after session.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "",
+    "price": "$2",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$2",
+   "original": null,
+   "ariaLabel": "Product price: $2"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Blazy Susan - Purple - Rolling Papers - King Slim to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Blazy Susan - Purple - Rolling Papers - King Slim to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "BLAZY SUSAN",
+    "href": "/brand/blazy-susan"
+   },
+   {
+    "label": "Package Info",
+    "value": "Blazy Susan Purple Rolling Papers King Slim One Size"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

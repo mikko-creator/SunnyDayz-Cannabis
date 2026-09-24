@@ -1,0 +1,133 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-personal-lubricant-500mg-500-mg-topical-500-milligrams",
+ "slug": "product-sweetgrass-botanicals-sweetgrass-botanicals-personal-lubricant-500mg-500-mg-topical-500-milligrams",
+ "type": "product",
+ "title": "SWEETGRASS BOTANICALS - Sweetgrass Botanicals - Personal Lubricant - 500mg",
+ "seoTitle": "SWEETGRASS BOTANICALS - Sweetgrass Botanicals - Personal Lubricant - 500mg",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Topical",
+    "href": "/collection/topical"
+   },
+   {
+    "label": "Sweetgrass Botanicals - Personal Lubricant - 500mg",
+    "href": null
+   }
+  ],
+  "h1": "Sweetgrass Botanicals - Personal Lubricant - 500mg",
+  "name": "Sweetgrass Botanicals - Personal Lubricant - 500mg",
+  "brand": {
+   "label": "SWEETGRASS BOTANICALS",
+   "href": "/brand/sweetgrass-botanicals"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Topical",
+   "href": "/collection/topical"
+  },
+  "subcategories": [
+   {
+    "label": "LUBRICANT",
+    "href": "/collection/topical/lubricant"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/211b8fd5-8e5d-492f-bc8d-b78268d602fb?w=3840&q=100",
+   "alt": "Sweetgrass Botanicals - Personal Lubricant - 500mg"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/211b8fd5-8e5d-492f-bc8d-b78268d602fb?w=3840&q=100",
+    "alt": "Sweetgrass Botanicals - Personal Lubricant - 500mg"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "500MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Sweetgrass Botanicals Personal Lubricant delivers 500mg of cannabis-infused comfort in a premium topical formula designed to enhance intimacy and relaxation. This specialized lubricant combines the natural benefits of cannabis with a smooth, skin-friendly base that absorbs gently without residue. Perfect for those seeking a more connected, relaxed experience, this topical product offers soothing relief and enhanced sensation. The 500mg concentration provides noticeable effects while maintaining a balanced, comfortable application. Ideal for personal wellness routines, this lubricant from Sweetgrass Botanicals reflects their commitment to quality and discretion in cannabis topicals. Experience a new dimension of comfort and pleasure with this thoughtfully crafted intimate product.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "SWEETGRASS BOTANICALS",
+    "href": "/brand/sweetgrass-botanicals"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "500MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Sweetgrass Botanicals Personal Lubricant 500 Mg 500 Mg"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

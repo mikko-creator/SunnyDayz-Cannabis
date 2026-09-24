@@ -1,0 +1,643 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/terms-and-conditions",
+ "slug": "terms-and-conditions",
+ "type": "page",
+ "title": "Terms and Conditions",
+ "seoTitle": "Terms and Conditions",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   }
+  ],
+  "h1": "Terms and Conditions",
+  "bannerImage": null,
+  "blocks": [
+   {
+    "t": "h1",
+    "text": "Terms and Conditions"
+   },
+   {
+    "t": "p",
+    "text": "These Terms and Conditions (\"Terms\") govern your access to and use of www.sunnydayzcannabis.com (the \"Website\"), including any online menus, ordering features, loyalty programs, communications, content, and other services made available through the Website (collectively, the \"Services\").",
+    "html": "These Terms and Conditions (\"Terms\") govern your access to and use of <a href=\"http://www.sunnydayzcannabis.com/\" rel=\"noopener\">www.sunnydayzcannabis.com</a> (the \"Website\"), including any online menus, ordering features, loyalty programs, communications, content, and other services made available through the Website (collectively, the \"Services\")."
+   },
+   {
+    "t": "p",
+    "text": "The Website and Services are operated by SunnyDayz, Inc. (\"SunnyDayz,\" \"we,\" \"us,\" or \"our\") , located at 105 Greenfield Road, South Deerfield, Massachusetts .",
+    "html": "The Website and Services are operated by <strong>SunnyDayz, Inc. (\"SunnyDayz,\" \"we,\" \"us,\" or \"our\")</strong>, located at <strong>105 Greenfield Road, South Deerfield, Massachusetts</strong>."
+   },
+   {
+    "t": "p",
+    "text": "By accessing or using the Website or Services, you acknowledge that you have read, understood, and agree to be bound by these Terms and our Privacy Policy. If you do not agree to these Terms, you should not access or use the Website or Services.",
+    "html": "By accessing or using the Website or Services, you acknowledge that you have read, understood, and agree to be bound by these Terms and our Privacy Policy. If you do not agree to these Terms, you should not access or use the Website or Services."
+   },
+   {
+    "t": "h2",
+    "text": "1. AGE REQUIREMENT"
+   },
+   {
+    "t": "p",
+    "text": "The SunnyDayz Website and adult-use cannabis products and services are intended solely for adults who are 21 years of age or older .",
+    "html": "The SunnyDayz Website and adult-use cannabis products and services are intended solely for adults who are <strong>21 years of age or older</strong>."
+   },
+   {
+    "t": "p",
+    "text": "By accessing the Website, creating an account, placing an order, joining the Sun Club loyalty program, or otherwise using our Services, you represent and warrant that you are at least 21 years of age.",
+    "html": "By accessing the Website, creating an account, placing an order, joining the Sun Club loyalty program, or otherwise using our Services, you represent and warrant that you are at least 21 years of age."
+   },
+   {
+    "t": "p",
+    "text": "Access to the Website does not establish eligibility to purchase cannabis products. Customers purchasing or picking up cannabis products at SunnyDayz must present valid government-issued identification and satisfy all applicable age-verification and identification requirements.",
+    "html": "Access to the Website does not establish eligibility to purchase cannabis products. Customers purchasing or picking up cannabis products at SunnyDayz must present valid government-issued identification and satisfy all applicable age-verification and identification requirements."
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz reserves the right to refuse entry, service, or sale when required or permitted by applicable law or regulation.",
+    "html": "SunnyDayz reserves the right to refuse entry, service, or sale when required or permitted by applicable law or regulation."
+   },
+   {
+    "t": "h2",
+    "text": "2. CANNABIS LAWS AND REGULATIONS"
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz operates in accordance with applicable Massachusetts laws and regulations governing adult-use cannabis.",
+    "html": "SunnyDayz operates in accordance with applicable Massachusetts laws and regulations governing adult-use cannabis."
+   },
+   {
+    "t": "p",
+    "text": "Cannabis laws vary between jurisdictions and between state and federal law. Nothing on this Website should be interpreted as a representation that the possession, purchase, transportation, consumption, or use of cannabis is lawful in every jurisdiction.",
+    "html": "Cannabis laws vary between jurisdictions and between state and federal law. Nothing on this Website should be interpreted as a representation that the possession, purchase, transportation, consumption, or use of cannabis is lawful in every jurisdiction."
+   },
+   {
+    "t": "p",
+    "text": "You are solely responsible for understanding and complying with the laws applicable to your possession, purchase, transportation, and use of cannabis products.",
+    "html": "You are solely responsible for understanding and complying with the laws applicable to your possession, purchase, transportation, and use of cannabis products."
+   },
+   {
+    "t": "p",
+    "text": "Cannabis products purchased from SunnyDayz may not be transported or transferred in violation of applicable law.",
+    "html": "Cannabis products purchased from SunnyDayz may not be transported or transferred in violation of applicable law."
+   },
+   {
+    "t": "h2",
+    "text": "3. WEBSITE INFORMATION"
+   },
+   {
+    "t": "p",
+    "text": "We strive to provide accurate and current information regarding our products, pricing, promotions, availability, cannabinoid content, terpene profiles, testing information, product descriptions, photographs, and other information.",
+    "html": "We strive to provide accurate and current information regarding our products, pricing, promotions, availability, cannabinoid content, terpene profiles, testing information, product descriptions, photographs, and other information."
+   },
+   {
+    "t": "p",
+    "text": "However, product information and inventory may change without notice. We do not guarantee that all information displayed on the Website will be complete, accurate, current, or free from error at all times.",
+    "html": "However, product information and inventory may change without notice. We do not guarantee that all information displayed on the Website will be complete, accurate, current, or free from error at all times."
+   },
+   {
+    "t": "p",
+    "text": "Product photographs and images are provided for informational purposes and may not exactly represent the product available for purchase.",
+    "html": "Product photographs and images are provided for informational purposes and may not exactly represent the product available for purchase."
+   },
+   {
+    "t": "p",
+    "text": "In the event of a discrepancy between information displayed on the Website and information associated with the product at our licensed retail location, applicable product labeling, testing information, regulatory information, and information maintained by SunnyDayz at the point of sale will control.",
+    "html": "In the event of a discrepancy between information displayed on the Website and information associated with the product at our licensed retail location, applicable product labeling, testing information, regulatory information, and information maintained by SunnyDayz at the point of sale will control."
+   },
+   {
+    "t": "h2",
+    "text": "4. ONLINE ORDERS AND RESERVATIONS"
+   },
+   {
+    "t": "p",
+    "text": "The Website may allow customers to browse products and place orders or reservations for pickup at SunnyDayz.",
+    "html": "The Website may allow customers to browse products and place orders or reservations for pickup at SunnyDayz."
+   },
+   {
+    "t": "p",
+    "text": "Submitting an online order does not constitute a completed cannabis sale.",
+    "html": "Submitting an online order does not constitute a completed cannabis sale."
+   },
+   {
+    "t": "p",
+    "text": "All cannabis transactions are subject to final verification and completion at the SunnyDayz retail location, including age and identification verification, product availability, applicable purchase limits, payment, and any other requirements imposed by Massachusetts law or regulation.",
+    "html": "All cannabis transactions are subject to final verification and completion at the SunnyDayz retail location, including age and identification verification, product availability, applicable purchase limits, payment, and any other requirements imposed by Massachusetts law or regulation."
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz reserves the right to reject, modify, limit, or cancel an order when necessary, including because of product availability, pricing errors, regulatory requirements, purchase limits, suspected fraud, or other circumstances.",
+    "html": "SunnyDayz reserves the right to reject, modify, limit, or cancel an order when necessary, including because of product availability, pricing errors, regulatory requirements, purchase limits, suspected fraud, or other circumstances."
+   },
+   {
+    "t": "p",
+    "text": "Products are not guaranteed to remain available until a transaction has been completed.",
+    "html": "Products are not guaranteed to remain available until a transaction has been completed."
+   },
+   {
+    "t": "h2",
+    "text": "5. PRICING, PROMOTIONS, AND PAYMENT"
+   },
+   {
+    "t": "p",
+    "text": "Prices, discounts, promotions, specials, and product availability displayed on the Website are subject to change without notice.",
+    "html": "Prices, discounts, promotions, specials, and product availability displayed on the Website are subject to change without notice."
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz reserves the right to correct typographical errors, pricing errors, inaccurate product descriptions, or other Website errors.",
+    "html": "SunnyDayz reserves the right to correct typographical errors, pricing errors, inaccurate product descriptions, or other Website errors."
+   },
+   {
+    "t": "p",
+    "text": "Promotional offers may be subject to additional terms, eligibility requirements, expiration dates, product exclusions, quantity limitations, or restrictions imposed by applicable law.",
+    "html": "Promotional offers may be subject to additional terms, eligibility requirements, expiration dates, product exclusions, quantity limitations, or restrictions imposed by applicable law."
+   },
+   {
+    "t": "p",
+    "text": "Available payment methods are determined at the time and location of purchase and may be subject to change.",
+    "html": "Available payment methods are determined at the time and location of purchase and may be subject to change."
+   },
+   {
+    "t": "p",
+    "text": "Nothing displayed on the Website constitutes a guarantee that a particular payment method will be accepted.",
+    "html": "Nothing displayed on the Website constitutes a guarantee that a particular payment method will be accepted."
+   },
+   {
+    "t": "h2",
+    "text": "6. PURCHASE LIMITS"
+   },
+   {
+    "t": "p",
+    "text": "All cannabis purchases are subject to applicable Massachusetts purchase and possession limits.",
+    "html": "All cannabis purchases are subject to applicable Massachusetts purchase and possession limits."
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz may restrict, modify, or refuse a transaction when necessary to comply with applicable laws, regulations, regulatory guidance, inventory-control requirements, or responsible retail practices.",
+    "html": "SunnyDayz may restrict, modify, or refuse a transaction when necessary to comply with applicable laws, regulations, regulatory guidance, inventory-control requirements, or responsible retail practices."
+   },
+   {
+    "t": "p",
+    "text": "Attempts to circumvent applicable purchase limits or other regulatory requirements may result in refusal of service.",
+    "html": "Attempts to circumvent applicable purchase limits or other regulatory requirements may result in refusal of service."
+   },
+   {
+    "t": "h2",
+    "text": "7. SUN CLUB"
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz may offer customers the opportunity to participate in its Sun Club loyalty program.",
+    "html": "SunnyDayz may offer customers the opportunity to participate in its <strong>Sun Club</strong> loyalty program."
+   },
+   {
+    "t": "p",
+    "text": "Participation in Sun Club is voluntary and subject to any additional program terms, restrictions, earning rules, redemption requirements, and expiration policies communicated by SunnyDayz.",
+    "html": "Participation in Sun Club is voluntary and subject to any additional program terms, restrictions, earning rules, redemption requirements, and expiration policies communicated by SunnyDayz."
+   },
+   {
+    "t": "p",
+    "text": "Points and rewards have no cash value, are not transferable unless expressly authorized by SunnyDayz, and may only be redeemed in accordance with applicable program rules and cannabis regulations.",
+    "html": "Points and rewards have no cash value, are not transferable unless expressly authorized by SunnyDayz, and may only be redeemed in accordance with applicable program rules and cannabis regulations."
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz may modify, suspend, or discontinue Sun Club or any of its benefits, rewards, earning structures, or redemption requirements at any time, subject to applicable law.",
+    "html": "SunnyDayz may modify, suspend, or discontinue Sun Club or any of its benefits, rewards, earning structures, or redemption requirements at any time, subject to applicable law."
+   },
+   {
+    "t": "p",
+    "text": "Participation in Sun Club does not guarantee the availability of any particular product, promotion, discount, or reward.",
+    "html": "Participation in Sun Club does not guarantee the availability of any particular product, promotion, discount, or reward."
+   },
+   {
+    "t": "h2",
+    "text": "8. COMMUNICATIONS AND MARKETING"
+   },
+   {
+    "t": "p",
+    "text": "If you provide SunnyDayz with your email address or mobile telephone number and affirmatively elect to receive communications where required, you may receive information concerning SunnyDayz, including product announcements, promotions, events, loyalty information, educational content, and other marketing communications.",
+    "html": "If you provide SunnyDayz with your email address or mobile telephone number and affirmatively elect to receive communications where required, you may receive information concerning SunnyDayz, including product announcements, promotions, events, loyalty information, educational content, and other marketing communications."
+   },
+   {
+    "t": "p",
+    "text": "You may unsubscribe from promotional email communications by following the unsubscribe instructions contained in those communications.",
+    "html": "You may unsubscribe from promotional email communications by following the unsubscribe instructions contained in those communications."
+   },
+   {
+    "t": "p",
+    "text": "Where applicable, you may opt out of promotional text messages using the instructions provided with those messages.",
+    "html": "Where applicable, you may opt out of promotional text messages using the instructions provided with those messages."
+   },
+   {
+    "t": "p",
+    "text": "Your consent to receive marketing communications is not a condition of purchasing cannabis or other products from SunnyDayz.",
+    "html": "Your consent to receive marketing communications is not a condition of purchasing cannabis or other products from SunnyDayz."
+   },
+   {
+    "t": "p",
+    "text": "Transactional, account-related, security-related, or legally required communications may still be sent when appropriate.",
+    "html": "Transactional, account-related, security-related, or legally required communications may still be sent when appropriate."
+   },
+   {
+    "t": "h2",
+    "text": "9. ACCOUNTS"
+   },
+   {
+    "t": "p",
+    "text": "Certain Website features may permit or require the creation of an account.",
+    "html": "Certain Website features may permit or require the creation of an account."
+   },
+   {
+    "t": "p",
+    "text": "You agree to provide accurate, complete, and current information and to update your information when necessary.",
+    "html": "You agree to provide accurate, complete, and current information and to update your information when necessary."
+   },
+   {
+    "t": "p",
+    "text": "You are responsible for maintaining the confidentiality of your login credentials and for activity occurring through your account.",
+    "html": "You are responsible for maintaining the confidentiality of your login credentials and for activity occurring through your account."
+   },
+   {
+    "t": "p",
+    "text": "You agree to notify SunnyDayz promptly if you believe your account has been accessed or used without authorization.",
+    "html": "You agree to notify SunnyDayz promptly if you believe your account has been accessed or used without authorization."
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz may suspend or terminate accounts that contain inaccurate information, are used fraudulently, violate these Terms, or are otherwise used in a manner inconsistent with applicable law or SunnyDayz policies",
+    "html": "SunnyDayz may suspend or terminate accounts that contain inaccurate information, are used fraudulently, violate these Terms, or are otherwise used in a manner inconsistent with applicable law or SunnyDayz policies"
+   },
+   {
+    "t": "h2",
+    "text": "10. HEALTH AND PRODUCT INFORMATION"
+   },
+   {
+    "t": "p",
+    "text": "Information provided on the Website concerning cannabis, cannabinoids, terpenes, cultivation, product characteristics, potential effects, or other cannabis-related subjects is provided for general educational and informational purposes only.",
+    "html": "Information provided on the Website concerning cannabis, cannabinoids, terpenes, cultivation, product characteristics, potential effects, or other cannabis-related subjects is provided for general educational and informational purposes only."
+   },
+   {
+    "t": "p",
+    "text": "Nothing contained on this Website constitutes medical advice, diagnosis, treatment, or a recommendation to use cannabis or any particular cannabis product.",
+    "html": "<strong>Nothing contained on this Website constitutes medical advice, diagnosis, treatment, or a recommendation to use cannabis or any particular cannabis product.</strong>"
+   },
+   {
+    "t": "p",
+    "text": "Individual experiences with cannabis vary. Product effects may differ based on numerous factors, including the product, dosage, method of consumption, individual tolerance, and other circumstances.",
+    "html": "Individual experiences with cannabis vary. Product effects may differ based on numerous factors, including the product, dosage, method of consumption, individual tolerance, and other circumstances."
+   },
+   {
+    "t": "p",
+    "text": "You should consult an appropriate healthcare professional regarding questions concerning your health, medications, medical conditions, or the potential effects of cannabis.",
+    "html": "You should consult an appropriate healthcare professional regarding questions concerning your health, medications, medical conditions, or the potential effects of cannabis."
+   },
+   {
+    "t": "p",
+    "text": "Do not operate a motor vehicle or machinery while impaired.",
+    "html": "Do not operate a motor vehicle or machinery while impaired."
+   },
+   {
+    "t": "p",
+    "text": "Keep cannabis and cannabis products securely stored and away from children and pets.",
+    "html": "Keep cannabis and cannabis products securely stored and away from children and pets."
+   },
+   {
+    "t": "h2",
+    "text": "11. USER CONTENT"
+   },
+   {
+    "t": "p",
+    "text": "If the Website allows users to submit reviews, comments, photographs, messages, or other materials (\"User Content\"), you are responsible for the content you submit.",
+    "html": "If the Website allows users to submit reviews, comments, photographs, messages, or other materials (\"User Content\"), you are responsible for the content you submit."
+   },
+   {
+    "t": "p",
+    "text": "You may not submit content that is unlawful, fraudulent, threatening, defamatory, obscene, infringing, misleading, or otherwise inappropriate.",
+    "html": "You may not submit content that is unlawful, fraudulent, threatening, defamatory, obscene, infringing, misleading, or otherwise inappropriate."
+   },
+   {
+    "t": "p",
+    "text": "By submitting User Content to SunnyDayz, you represent that you have the necessary rights to submit that content and that its use will not violate the rights of another person or entity.",
+    "html": "By submitting User Content to SunnyDayz, you represent that you have the necessary rights to submit that content and that its use will not violate the rights of another person or entity."
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz reserves the right to remove User Content that violates these Terms or applicable law.",
+    "html": "SunnyDayz reserves the right to remove User Content that violates these Terms or applicable law."
+   },
+   {
+    "t": "h2",
+    "text": "12. INTELLECTUAL PROPERTY"
+   },
+   {
+    "t": "p",
+    "text": "Unless otherwise indicated, the Website and its content, including the SunnyDayz name, logos, trademarks, graphics, photographs, text, designs, product descriptions, Website layout, and other original materials, are owned by or licensed to SunnyDayz and are protected by applicable intellectual-property laws.",
+    "html": "Unless otherwise indicated, the Website and its content, including the SunnyDayz name, logos, trademarks, graphics, photographs, text, designs, product descriptions, Website layout, and other original materials, are owned by or licensed to SunnyDayz and are protected by applicable intellectual-property laws."
+   },
+   {
+    "t": "p",
+    "text": "You may access the Website for your personal, non-commercial use.",
+    "html": "You may access the Website for your personal, non-commercial use."
+   },
+   {
+    "t": "p",
+    "text": "No portion of the Website may be copied, reproduced, republished, distributed, modified, displayed, transmitted, or otherwise exploited for commercial purposes without prior written permission from SunnyDayz or the applicable rights holder.",
+    "html": "No portion of the Website may be copied, reproduced, republished, distributed, modified, displayed, transmitted, or otherwise exploited for commercial purposes without prior written permission from SunnyDayz or the applicable rights holder."
+   },
+   {
+    "t": "p",
+    "text": "Nothing contained on the Website grants any license or right to use any SunnyDayz trademark, trade name, logo, or other intellectual property without our prior written consent.",
+    "html": "Nothing contained on the Website grants any license or right to use any SunnyDayz trademark, trade name, logo, or other intellectual property without our prior written consent."
+   },
+   {
+    "t": "h2",
+    "text": "13. THIRD-PARTY SERVICES AND LINKS"
+   },
+   {
+    "t": "p",
+    "text": "The Website may contain links to or integrations with third-party websites, platforms, payment providers, ordering systems, mapping services, social-media platforms, loyalty providers, or other services.",
+    "html": "The Website may contain links to or integrations with third-party websites, platforms, payment providers, ordering systems, mapping services, social-media platforms, loyalty providers, or other services."
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz does not own or control these third-party services and is not responsible for their content, availability, security, privacy practices, terms, or operation.",
+    "html": "SunnyDayz does not own or control these third-party services and is not responsible for their content, availability, security, privacy practices, terms, or operation."
+   },
+   {
+    "t": "p",
+    "text": "Your use of a third-party service may be subject to separate terms and privacy policies established by that third party.",
+    "html": "Your use of a third-party service may be subject to separate terms and privacy policies established by that third party."
+   },
+   {
+    "t": "p",
+    "text": "The inclusion of a link or integration does not necessarily constitute SunnyDayz's endorsement of the third-party service or its content.",
+    "html": "The inclusion of a link or integration does not necessarily constitute SunnyDayz's endorsement of the third-party service or its content."
+   },
+   {
+    "t": "h2",
+    "text": "14. PROHIBITED USE"
+   },
+   {
+    "t": "p",
+    "text": "You may not use the Website or Services to:",
+    "html": "You may not use the Website or Services to:"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "text": "Violate any applicable federal, state, or local law or regulation;",
+      "html": "Violate any applicable federal, state, or local law or regulation;"
+     },
+     {
+      "text": "Misrepresent your age, identity, or eligibility to purchase cannabis;",
+      "html": "Misrepresent your age, identity, or eligibility to purchase cannabis;"
+     },
+     {
+      "text": "Attempt to purchase cannabis on behalf of an individual who is not legally eligible to purchase or possess it;",
+      "html": "Attempt to purchase cannabis on behalf of an individual who is not legally eligible to purchase or possess it;"
+     },
+     {
+      "text": "Circumvent applicable purchase limits or regulatory requirements;",
+      "html": "Circumvent applicable purchase limits or regulatory requirements;"
+     },
+     {
+      "text": "Engage in fraudulent or deceptive activity;",
+      "html": "Engage in fraudulent or deceptive activity;"
+     },
+     {
+      "text": "Interfere with the security or operation of the Website;",
+      "html": "Interfere with the security or operation of the Website;"
+     },
+     {
+      "text": "Attempt to gain unauthorized access to the Website, accounts, systems, or networks;",
+      "html": "Attempt to gain unauthorized access to the Website, accounts, systems, or networks;"
+     },
+     {
+      "text": "Introduce malicious software, viruses, or harmful code;",
+      "html": "Introduce malicious software, viruses, or harmful code;"
+     },
+     {
+      "text": "Scrape, harvest, copy, or systematically extract Website content without authorization; or",
+      "html": "Scrape, harvest, copy, or systematically extract Website content without authorization; or"
+     },
+     {
+      "text": "Use the Website or its content for an unlawful or unauthorized commercial purpose",
+      "html": "Use the Website or its content for an unlawful or unauthorized commercial purpose"
+     }
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "15. TERMINATION OR SUSPENSION"
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz may restrict, suspend, or terminate access to the Website, Services, or a user account when we reasonably believe these Terms have been violated, fraudulent or unlawful activity has occurred, security is at risk, or such action is otherwise necessary to protect SunnyDayz, its customers, third parties, or comply with applicable law.",
+    "html": "SunnyDayz may restrict, suspend, or terminate access to the Website, Services, or a user account when we reasonably believe these Terms have been violated, fraudulent or unlawful activity has occurred, security is at risk, or such action is otherwise necessary to protect SunnyDayz, its customers, third parties, or comply with applicable law."
+   },
+   {
+    "t": "p",
+    "text": "Provisions of these Terms that by their nature should survive termination will continue to apply after termination.",
+    "html": "Provisions of these Terms that by their nature should survive termination will continue to apply after termination."
+   },
+   {
+    "t": "p",
+    "text": "If you have any questions about these Terms, please contact us at info@sunnydayzcannabis.com.",
+    "html": "If you have any questions about these Terms, please contact us at info@sunnydayzcannabis.com."
+   },
+   {
+    "t": "h2",
+    "text": "16. DISCLAIMER OF WARRANTIES"
+   },
+   {
+    "t": "p",
+    "text": "To the fullest extent permitted by applicable law, the Website and Services are provided on an \"AS IS\" and \"AS AVAILABLE\" basis.",
+    "html": "To the fullest extent permitted by applicable law, the Website and Services are provided on an <strong>\"AS IS\"</strong> and <strong>\"AS AVAILABLE\"</strong> basis."
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz makes no warranty that the Website will be uninterrupted, error-free, secure, or continuously available, or that Website content will always be complete, current, or accurate.",
+    "html": "SunnyDayz makes no warranty that the Website will be uninterrupted, error-free, secure, or continuously available, or that Website content will always be complete, current, or accurate."
+   },
+   {
+    "t": "p",
+    "text": "To the fullest extent permitted by applicable law, SunnyDayz disclaims all warranties, express or implied, including warranties of merchantability, fitness for a particular purpose, title, and non-infringement.",
+    "html": "To the fullest extent permitted by applicable law, SunnyDayz disclaims all warranties, express or implied, including warranties of merchantability, fitness for a particular purpose, title, and non-infringement."
+   },
+   {
+    "t": "p",
+    "text": "Nothing in these Terms excludes warranties or other rights that cannot lawfully be excluded under applicable law.",
+    "html": "Nothing in these Terms excludes warranties or other rights that cannot lawfully be excluded under applicable law."
+   },
+   {
+    "t": "h2",
+    "text": "17. LIMITATION OF LIABILITY"
+   },
+   {
+    "t": "p",
+    "text": "To the fullest extent permitted by applicable law, SunnyDayz, Inc. and its owners, directors, officers, employees, agents, affiliates, contractors, licensors, and service providers will not be liable for indirect, incidental, special, consequential, exemplary, or punitive damages arising from or relating to your access to or use of, or inability to access or use, the Website or Services.",
+    "html": "To the fullest extent permitted by applicable law, SunnyDayz, Inc. and its owners, directors, officers, employees, agents, affiliates, contractors, licensors, and service providers will not be liable for indirect, incidental, special, consequential, exemplary, or punitive damages arising from or relating to your access to or use of, or inability to access or use, the Website or Services."
+   },
+   {
+    "t": "p",
+    "text": "This includes, without limitation, damages arising from Website interruptions, errors, third-party services, unauthorized access, loss of data, or reliance on information made available through the Website.",
+    "html": "This includes, without limitation, damages arising from Website interruptions, errors, third-party services, unauthorized access, loss of data, or reliance on information made available through the Website."
+   },
+   {
+    "t": "p",
+    "text": "Nothing in these Terms limits liability to the extent such limitation is prohibited by applicable law.",
+    "html": "Nothing in these Terms limits liability to the extent such limitation is prohibited by applicable law."
+   },
+   {
+    "t": "h2",
+    "text": "18. INDEMNIFICATION"
+   },
+   {
+    "t": "p",
+    "text": "To the fullest extent permitted by applicable law, you agree to indemnify and hold harmless SunnyDayz, Inc. and its owners, directors, officers, employees, agents, affiliates, contractors, licensors, and service providers from claims, liabilities, damages, losses, and reasonable costs and expenses arising from your unlawful or unauthorized use of the Website or Services, your User Content, or your material violation of these Terms.",
+    "html": "To the fullest extent permitted by applicable law, you agree to indemnify and hold harmless SunnyDayz, Inc. and its owners, directors, officers, employees, agents, affiliates, contractors, licensors, and service providers from claims, liabilities, damages, losses, and reasonable costs and expenses arising from your unlawful or unauthorized use of the Website or Services, your User Content, or your material violation of these Terms."
+   },
+   {
+    "t": "h2",
+    "text": "19. PRIVACY"
+   },
+   {
+    "t": "p",
+    "text": "Your use of the Website and Services is also subject to the SunnyDayz Privacy Policy.",
+    "html": "Your use of the Website and Services is also subject to the SunnyDayz Privacy Policy."
+   },
+   {
+    "t": "p",
+    "text": "Information collected through the Website will be handled as described in our Privacy Policy and as otherwise required by applicable law.",
+    "html": "Information collected through the Website will be handled as described in our Privacy Policy and as otherwise required by applicable law."
+   },
+   {
+    "t": "p",
+    "text": "Third-party services integrated into or linked through the Website may separately collect and process information under their own privacy policies.",
+    "html": "Third-party services integrated into or linked through the Website may separately collect and process information under their own privacy policies."
+   },
+   {
+    "t": "h2",
+    "text": "20. GOVERNING LAW"
+   },
+   {
+    "t": "p",
+    "text": "These Terms and your use of the Website will be governed by the laws of the Commonwealth of Massachusetts , without regard to conflict-of-law principles, except to the extent otherwise required by applicable law.",
+    "html": "These Terms and your use of the Website will be governed by the laws of the <strong>Commonwealth of Massachusetts</strong>, without regard to conflict-of-law principles, except to the extent otherwise required by applicable law."
+   },
+   {
+    "t": "p",
+    "text": "Any dispute arising from these Terms or the Website will be subject to the jurisdiction of the courts having jurisdiction in the Commonwealth of Massachusetts, except where applicable law provides otherwise.",
+    "html": "Any dispute arising from these Terms or the Website will be subject to the jurisdiction of the courts having jurisdiction in the Commonwealth of Massachusetts, except where applicable law provides otherwise."
+   },
+   {
+    "t": "h2",
+    "text": "21. SEVERABILITY"
+   },
+   {
+    "t": "p",
+    "text": "If any provision of these Terms is determined to be invalid, illegal, or unenforceable, the remaining provisions will remain in full force and effect to the fullest extent permitted by law.",
+    "html": "If any provision of these Terms is determined to be invalid, illegal, or unenforceable, the remaining provisions will remain in full force and effect to the fullest extent permitted by law."
+   },
+   {
+    "t": "h2",
+    "text": "22. NO WAIVER"
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz's failure to enforce any provision of these Terms will not constitute a waiver of that provision or of our right to enforce it in the future.",
+    "html": "SunnyDayz's failure to enforce any provision of these Terms will not constitute a waiver of that provision or of our right to enforce it in the future."
+   },
+   {
+    "t": "h2",
+    "text": "23. CHANGES TO THESE TERMS"
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz may update or modify these Terms periodically to reflect changes to our Website, Services, business practices, or applicable legal or regulatory requirements.",
+    "html": "SunnyDayz may update or modify these Terms periodically to reflect changes to our Website, Services, business practices, or applicable legal or regulatory requirements."
+   },
+   {
+    "t": "p",
+    "text": "When these Terms are updated, the \"Last Updated\" date at the top of this page will be revised.",
+    "html": "When these Terms are updated, the \"Last Updated\" date at the top of this page will be revised."
+   },
+   {
+    "t": "p",
+    "text": "Your continued use of the Website following the effective date of updated Terms constitutes your acceptance of the revised Terms to the extent permitted by applicable law.",
+    "html": "Your continued use of the Website following the effective date of updated Terms constitutes your acceptance of the revised Terms to the extent permitted by applicable law."
+   },
+   {
+    "t": "h2",
+    "text": "24. ENTIRE AGREEMENT"
+   },
+   {
+    "t": "p",
+    "text": "These Terms, together with our Privacy Policy and any additional terms applicable to specific SunnyDayz programs or Services, constitute the agreement between you and SunnyDayz concerning your use of the Website and Services.",
+    "html": "These Terms, together with our Privacy Policy and any additional terms applicable to specific SunnyDayz programs or Services, constitute the agreement between you and SunnyDayz concerning your use of the Website and Services."
+   },
+   {
+    "t": "h2",
+    "text": "25. CONTACT US"
+   },
+   {
+    "t": "p",
+    "text": "If you have questions regarding these Terms and Conditions, please contact:",
+    "html": "If you have questions regarding these Terms and Conditions, please contact:"
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz, Inc. 105 Greenfield Road South Deerfield, Massachusetts 01373 Email: info@sunnydayzcannabis.com Website: www.sunnydayzcannabis.com",
+    "html": "<strong>SunnyDayz, Inc.</strong><br>105 Greenfield Road<br>South Deerfield, Massachusetts 01373<br><strong>Email:</strong> <a href=\"mailto:info@sunnydayzcannabis.com\" rel=\"noopener\">info@sunnydayzcannabis.com</a><br><strong>Website:</strong> <a href=\"http://www.sunnydayzcannabis.com/\" rel=\"noopener\">www.sunnydayzcannabis.com</a>"
+   }
+  ],
+  "faqs": [],
+  "forms": [],
+  "iframes": [],
+  "buttons": [],
+  "links": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "www.sunnydayzcannabis.com",
+    "href": "http://www.sunnydayzcannabis.com/"
+   },
+   {
+    "label": "info@sunnydayzcannabis.com",
+    "href": "mailto:info@sunnydayzcannabis.com"
+   },
+   {
+    "label": "www.sunnydayzcannabis.com",
+    "href": "http://www.sunnydayzcannabis.com/"
+   }
+  ],
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": ""
+      },
+      "position": 2
+     }
+    ]
+   }
+  ]
+ }
+}

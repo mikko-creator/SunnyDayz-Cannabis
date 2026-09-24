@@ -1,0 +1,179 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/collection/extract/badder",
+ "slug": "collection-extract-badder",
+ "type": "collection",
+ "title": "BADDER",
+ "seoTitle": "BADDER",
+ "model": {
+  "kind": "collection",
+  "level": "subcategory",
+  "path": "/collection/extract/badder",
+  "category": "extract",
+  "subcategory": "badder",
+  "parentPath": "/collection/extract",
+  "sortParam": null,
+  "capture": {
+   "matchesUrl": true,
+   "signal": null,
+   "observed": null
+  },
+  "h1": "BADDER",
+  "banner": {
+   "title": "BADDER",
+   "description": "Best BADDER",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMq5bqstJ9-D0W_CategoriesBanner-29.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMrJbqstJ9-D0X_CategoriesBanner-28.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "BADDER",
+    "href": null
+   }
+  ],
+  "categoryLinks": [],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "empty",
+  "emptyState": {
+   "heading": "No search results found",
+   "text": "No results match the filter criteria. Remove a filter or clear all filters to search again"
+  },
+  "cards": [],
+  "productCount": 2,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/harbor-house-harbor-house-lemon-cherry-sherbert-1g-badder-1-g-extract-1-grams",
+    "name": "Harbor House - Lemon Cherry Sherbert - 1G Badder",
+    "brand": "HARBOR HOUSE",
+    "description": "Harbor House delivers premium concentrate craftsmanship with their Lemon Cherry Sherbert 1G Badder. This velvety extract showcases a delightful fusion of zesty lemon, sweet cherry, and creamy sherbet notes that dance across the palate. The badder consistency offers easy handling and versatile dabbing for concentrate enthusiasts seeking potent, flavorful sessions. Lemon Cherry Sherbert is known for delivering balanced effects that inspire creativity and euphoria while maintaining relaxation—perfect for unwinding after a long day or enhancing social gatherings. Each dab reveals complex terpene profiles with bright citrus top notes complemented by fruity cherry undertones and a smooth, creamy finish. Harbor House's meticulous extraction process preserves the strain's natural essence, resulting in a concentrate that's as flavorful as it is effective. Ideal for experienced users who appreciate quality extracts with exceptional taste and reliable potency.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/9416d0d3-3263-4252-b095-809019186104",
+     "alt": "Harbor House - Lemon Cherry Sherbert - 1G Badder"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/harbor-house-harbor-house-super-silver-haze-x-albarino-1g-badder-1-g-extract-1-grams",
+    "name": "Harbor House - Super Silver Haze x Albarino - 1G Badder",
+    "brand": "HARBOR HOUSE",
+    "description": "Harbor House presents Super Silver Haze x Albarino Badder, a premium 1g cannabis extract that combines two legendary genetics into one exceptional concentrate. This collaboration merges the uplifting, energetic qualities of Super Silver Haze with the unique aromatic profile of Albarino, creating a badder with a creamy, whipped texture that's perfect for dabbing. Expect a complex flavor profile featuring citrus, earthy, and herbal notes that dance across the palate with each session. The concentrate delivers focused, creative effects ideal for daytime use or social activities. Harbor House's expert extraction process preserves the full spectrum of cannabinoids and terpenes, ensuring maximum potency and flavor in every dab. This 1g badder offers cannabis connoisseurs a premium experience that showcases the craftsmanship and quality Harbor House is known for.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d57d7d27-c09d-4587-8cd2-52271ce0a93c",
+     "alt": "Harbor House - Super Silver Haze x Albarino - 1G Badder"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/shop",
+       "name": "Menu"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "BADDER"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "HARBOR HOUSE",
+       "description": "Harbor House delivers premium concentrate craftsmanship with their Lemon Cherry Sherbert 1G Badder. This velvety extract showcases a delightful fusion of zesty lemon, sweet cherry, and creamy sherbet notes that dance across the palate. The badder consistency offers easy handling and versatile dabbing for concentrate enthusiasts seeking potent, flavorful sessions. Lemon Cherry Sherbert is known for delivering balanced effects that inspire creativity and euphoria while maintaining relaxation—perfect for unwinding after a long day or enhancing social gatherings. Each dab reveals complex terpene profiles with bright citrus top notes complemented by fruity cherry undertones and a smooth, creamy finish. Harbor House&apos;s meticulous extraction process preserves the strain&apos;s natural essence, resulting in a concentrate that&apos;s as flavorful as it is effective. Ideal for experienced users who appreciate quality extracts with exceptional taste and reliable potency.",
+       "name": "Harbor House - Lemon Cherry Sherbert - 1G Badder",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/harbor-house-harbor-house-lemon-cherry-sherbert-1g-badder-1-g-extract-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/9416d0d3-3263-4252-b095-809019186104"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "HARBOR HOUSE",
+       "description": "Harbor House presents Super Silver Haze x Albarino Badder, a premium 1g cannabis extract that combines two legendary genetics into one exceptional concentrate. This collaboration merges the uplifting, energetic qualities of Super Silver Haze with the unique aromatic profile of Albarino, creating a badder with a creamy, whipped texture that&apos;s perfect for dabbing. Expect a complex flavor profile featuring citrus, earthy, and herbal notes that dance across the palate with each session. The concentrate delivers focused, creative effects ideal for daytime use or social activities. Harbor House&apos;s expert extraction process preserves the full spectrum of cannabinoids and terpenes, ensuring maximum potency and flavor in every dab. This 1g badder offers cannabis connoisseurs a premium experience that showcases the craftsmanship and quality Harbor House is known for.",
+       "name": "Harbor House - Super Silver Haze x Albarino - 1G Badder",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/harbor-house-harbor-house-super-silver-haze-x-albarino-1g-badder-1-g-extract-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d57d7d27-c09d-4587-8cd2-52271ce0a93c"
+      },
+      "position": "2"
+     }
+    ]
+   }
+  ]
+ }
+}

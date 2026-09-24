@@ -1,0 +1,114 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-pink-cones-shorty-53mm-one-size-merch",
+ "slug": "product-blazy-susan-blazy-susan-pink-cones-shorty-53mm-one-size-merch",
+ "type": "product",
+ "title": "BLAZY SUSAN - Blazy Susan - Cones - Shorty 53mm",
+ "seoTitle": "BLAZY SUSAN - Blazy Susan - Cones - Shorty 53mm",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Merch",
+    "href": "/collection/merch"
+   },
+   {
+    "label": "Blazy Susan - Cones - Shorty 53mm",
+    "href": null
+   }
+  ],
+  "h1": "Blazy Susan - Cones - Shorty 53mm",
+  "name": "Blazy Susan - Cones - Shorty 53mm",
+  "brand": {
+   "label": "BLAZY SUSAN",
+   "href": "/brand/blazy-susan"
+  },
+  "badges": [],
+  "strainType": null,
+  "category": {
+   "label": "Merch",
+   "href": "/collection/merch"
+  },
+  "subcategories": [
+   {
+    "label": "ROLLING PAPERS",
+    "href": "/collection/merch/rolling-papers"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/944d7468-b62a-4179-b39f-e761d840a085?w=3840&q=100",
+   "alt": "Blazy Susan - Cones - Shorty 53mm"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/944d7468-b62a-4179-b39f-e761d840a085?w=3840&q=100",
+    "alt": "Blazy Susan - Cones - Shorty 53mm"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": null,
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [],
+  "disclaimer": null,
+  "description": "Blazy Susan Cones in Shorty 53mm size deliver a smooth, convenient smoking experience for cannabis enthusiasts who appreciate quality rolling papers. These pre-rolled cones make packing your favorite flower quick and effortless—no rolling skills required. Crafted for consistency and even burn, each cone features premium materials designed to enhance the natural flavors and aromas of your cannabis without interference. Perfect for on-the-go sessions or sharing with friends, these shorty cones offer a compact, portable solution that fits easily in your pocket or bag. Whether you're enjoying earthy, fruity, or pine-forward strains, Blazy Susan ensures a clean, reliable smoke every time. Ideal for both seasoned smokers and newcomers seeking hassle-free enjoyment.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "BLAZY SUSAN",
+    "href": "/brand/blazy-susan"
+   },
+   {
+    "label": "Package Info",
+    "value": "Blazy Susan Pink Cones Shorty 53 Mm One Size"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

@@ -1,0 +1,133 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-watermelon-go-betty-go-50-mg-10-pack-edible-50-milligrams",
+ "slug": "product-betty-s-eddies-betty-s-eddies-watermelon-go-betty-go-50-mg-10-pack-edible-50-milligrams",
+ "type": "product",
+ "title": "BETTY'S EDDIES - Betty's Eddies | Watermelon | Go Betty Go",
+ "seoTitle": "BETTY'S EDDIES - Betty's Eddies | Watermelon | Go Betty Go",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Betty's Eddies | Watermelon | Go Betty Go",
+    "href": null
+   }
+  ],
+  "h1": "Betty's Eddies | Watermelon | Go Betty Go",
+  "name": "Betty's Eddies | Watermelon | Go Betty Go",
+  "brand": {
+   "label": "BETTY'S EDDIES",
+   "href": "/brand/bettys-eddies"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Sativa",
+   "key": "sativa",
+   "ariaLabel": "Flower type: Sativa"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "CHEW",
+    "href": "/collection/edible/chew"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/aac165c8-9370-4567-a962-41de2ca6ece2?w=3840&q=100",
+   "alt": "Betty's Eddies | Watermelon | Go Betty Go"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/aac165c8-9370-4567-a962-41de2ca6ece2?w=3840&q=100",
+    "alt": "Betty's Eddies | Watermelon | Go Betty Go"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "50MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Betty's Eddies brings you Go Betty Go Watermelon chews—a delicious hybrid edible crafted for balanced effects and refreshing flavor. Each package contains 50mg of THC, delivering a perfect blend of relaxation and uplift in every bite. These watermelon-flavored chews offer a sweet, juicy taste that makes dosing enjoyable and convenient. Hybrid strains are known for combining the best of both worlds, providing gentle euphoria alongside soothing calm. Ideal for those seeking relief without sedation or a creative boost without overstimulation. Betty's Eddies uses quality ingredients to ensure consistent potency and delightful flavor in every chew. Perfect for social occasions, creative pursuits, or unwinding after a long day. Experience the refreshing taste of watermelon paired with the balanced effects of a thoughtfully crafted hybrid edible. Go Betty Go delivers happiness and relaxation in one irresistible treat.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "BETTYS EDDIES",
+    "href": "/brand/bettys-eddies"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Sativa",
+    "href": "/strain/Sativa"
+   },
+   {
+    "label": "THC",
+    "value": "50MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Bettys Eddies Watermelon Go Betty Go 50 Mg 10 Pack"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

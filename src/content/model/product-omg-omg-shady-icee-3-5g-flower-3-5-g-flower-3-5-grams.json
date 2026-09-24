@@ -1,0 +1,199 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/omg-omg-shady-icee-3-5g-flower-3-5-g-flower-3-5-grams",
+ "slug": "product-omg-omg-shady-icee-3-5g-flower-3-5-g-flower-3-5-grams",
+ "type": "product",
+ "title": "OMG - OMG - Shady Icee - 3.5G Flower",
+ "seoTitle": "OMG - OMG - Shady Icee - 3.5G Flower",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Flower",
+    "href": "/collection/flower"
+   },
+   {
+    "label": "OMG - Shady Icee - 3.5G Flower",
+    "href": null
+   }
+  ],
+  "h1": "OMG - Shady Icee - 3.5G Flower",
+  "name": "OMG - Shady Icee - 3.5G Flower",
+  "brand": {
+   "label": "OMG",
+   "href": "/brand/omg"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Flower",
+   "href": "/collection/flower"
+  },
+  "subcategories": [
+   {
+    "label": "PRE-PACK",
+    "href": "/collection/flower/pre-pack"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/be5e7ed0-924d-4ee9-8c9b-62d1d57abcf9?w=3840&q=100",
+   "alt": "OMG - Shady Icee - 3.5G Flower"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/be5e7ed0-924d-4ee9-8c9b-62d1d57abcf9?w=3840&q=100",
+    "alt": "OMG - Shady Icee - 3.5G Flower"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": "Warning",
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": "Cannabinoids"
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "21.576%",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "OMG brings you Shady Icee, a premium hybrid flower that delivers the perfect balance of relaxation and uplift in a convenient 3.5g pre-pack. This carefully cultivated strain combines the best of both worlds, offering effects that ease tension while keeping your mind clear and focused. Shady Icee delights the senses with frosty, resinous buds that showcase vibrant colors and exceptional quality. The flavor profile features refreshing notes of citrus and sweet tropical fruit with subtle earthy undertones, creating a smooth and enjoyable experience from first inhale to last. Ideal for any time of day, this hybrid provides a euphoric, happy high that promotes creativity and social connection without overwhelming sedation. Whether you're unwinding after work or sparking inspiration for your next project, OMG's Shady Icee delivers consistent quality and potent effects. Perfect for both seasoned enthusiasts and those seeking a well-rounded cannabis experience.",
+  "warnings": [
+   {
+    "title": "Proposition 65 Warning for California Consumers",
+    "collapsed": true,
+    "toggleIcon": "angle-down",
+    "toggleAriaLabel": "Expand content",
+    "label": "WARNING:",
+    "lines": [
+     "This product can expose you to chemicals including β-myrcene and cannabis smoke, which are known to the State of California to cause cancer, and chemicals including cannabis smoke and 9-tetrahydrocannabinol, which are known to the State of California to cause birth defects or other reproductive harm."
+    ],
+    "moreInfo": {
+     "text": "For more information go to",
+     "label": "www.P65Warnings.ca.gov",
+     "href": "https://www.P65Warnings.ca.gov"
+    },
+    "links": []
+   }
+  ],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "3.5g",
+    "price": "$40",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$40",
+   "original": null,
+   "ariaLabel": "Product price: $40"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add OMG - Shady Icee - 3.5G Flower to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add OMG - Shady Icee - 3.5G Flower to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "OMG",
+    "href": "/brand/omg"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "21.576%"
+   },
+   {
+    "label": "Package Info",
+    "value": "Omg Shady Icee 3 5 G Flower 3 5 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "3.5g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [
+   {
+    "group": "THC",
+    "items": [
+     {
+      "name": "THCA",
+      "value": "23.7949%"
+     },
+     {
+      "name": "THC",
+      "value": "21.576%"
+     }
+    ]
+   }
+  ],
+  "jsonld": null
+ }
+}

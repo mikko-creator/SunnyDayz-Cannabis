@@ -1,0 +1,221 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/nature-s-heritage-nature-s-heritage-grape-diamonds-5g-live-sauce-dispo-0-5-g-cartridge-0-5-grams",
+ "slug": "product-nature-s-heritage-nature-s-heritage-grape-diamonds-5g-live-sauce-dispo-0-5-g-cartridge-0-5-grams",
+ "type": "product",
+ "title": "NATURE'S HERITAGE - Nature's Heritage - Grape Diamonds - .5G Live Sauce - Dispo",
+ "seoTitle": "NATURE'S HERITAGE - Nature's Heritage - Grape Diamonds - .5G Live Sauce - Dispo",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Cartridge",
+    "href": "/collection/cartridge"
+   },
+   {
+    "label": "Nature's Heritage - Grape Diamonds - .5G Live Sauce - Dispo",
+    "href": null
+   }
+  ],
+  "h1": "Nature's Heritage - Grape Diamonds - .5G Live Sauce - Dispo",
+  "name": "Nature's Heritage - Grape Diamonds - .5G Live Sauce - Dispo",
+  "brand": {
+   "label": "NATURE'S HERITAGE",
+   "href": "/brand/natures-heritage"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Indica",
+   "key": "indica",
+   "ariaLabel": "Flower type: Indica"
+  },
+  "category": {
+   "label": "Cartridge",
+   "href": "/collection/cartridge"
+  },
+  "subcategories": [
+   {
+    "label": "ALL-IN-ONE",
+    "href": "/collection/cartridge/all-in-one"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/dc9645e9-7547-487d-b151-9b7c3e27f44c?w=3840&q=100",
+   "alt": "Nature's Heritage - Grape Diamonds - .5G Live Sauce - Dispo"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/dc9645e9-7547-487d-b151-9b7c3e27f44c?w=3840&q=100",
+    "alt": "Nature's Heritage - Grape Diamonds - .5G Live Sauce - Dispo"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": "Warning",
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": "Cannabinoids"
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "72.8%",
+    "icon": "vector"
+   },
+   {
+    "label": "CBD",
+    "value": "0.3%",
+    "icon": "water_drop_black"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Nature's Heritage Grape Diamonds .5g Live Sauce All-In-One cartridge delivers a premium vaping experience with bold, fruity flavor in a convenient, ready-to-use format. This disposable device features live sauce extract, preserving the plant's natural terpene profile for an authentic, strain-specific taste. Expect rich grape and sweet berry notes with hints of earthy undertones that create a smooth, flavorful draw from first puff to last. The live sauce consistency ensures robust flavor and potent effects in every session. Ideal for on-the-go enjoyment, this .5g all-in-one requires no charging or separate battery—simply inhale and savor the concentrated cannabis experience. Nature's Heritage brings quality craftsmanship to this portable cartridge, making it perfect for both seasoned enthusiasts and newcomers seeking hassle-free convenience without compromising on taste or potency.",
+  "warnings": [
+   {
+    "title": "Proposition 65 Warning for California Consumers",
+    "collapsed": true,
+    "toggleIcon": "angle-down",
+    "toggleAriaLabel": "Expand content",
+    "label": "WARNING:",
+    "lines": [
+     "This product can expose you to chemicals including β-myrcene and cannabis smoke, which are known to the State of California to cause cancer, and chemicals including cannabis smoke and 9-tetrahydrocannabinol, which are known to the State of California to cause birth defects or other reproductive harm."
+    ],
+    "moreInfo": {
+     "text": "For more information go to",
+     "label": "www.P65Warnings.ca.gov",
+     "href": "https://www.P65Warnings.ca.gov"
+    },
+    "links": []
+   }
+  ],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "0.5g",
+    "price": "$20",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$20",
+   "original": null,
+   "ariaLabel": "Product price: $20"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Nature's Heritage - Grape Diamonds - .5G Live Sauce - Dispo to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Nature's Heritage - Grape Diamonds - .5G Live Sauce - Dispo to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "NATURES HERITAGE",
+    "href": "/brand/natures-heritage"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Indica",
+    "href": "/strain/Indica"
+   },
+   {
+    "label": "THC",
+    "value": "72.8%"
+   },
+   {
+    "label": "CBD",
+    "value": "0.3%"
+   },
+   {
+    "label": "Package Info",
+    "value": "Natures Heritage Grape Diamonds 5 G Live Sauce Dispo 0 5 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "0.5g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [
+   {
+    "group": "THC",
+    "items": [
+     {
+      "name": "THC",
+      "value": "72.8%"
+     }
+    ]
+   },
+   {
+    "group": "CBD",
+    "items": [
+     {
+      "name": "CBG",
+      "value": "2.2%"
+     },
+     {
+      "name": "CBD",
+      "value": "0.3%"
+     },
+     {
+      "name": "CBN",
+      "value": "0.3%"
+     }
+    ]
+   }
+  ],
+  "jsonld": null
+ }
+}

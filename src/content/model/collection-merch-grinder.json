@@ -1,0 +1,139 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/collection/merch/grinder",
+ "slug": "collection-merch-grinder",
+ "type": "collection",
+ "title": "GRINDER",
+ "seoTitle": "GRINDER",
+ "model": {
+  "kind": "collection",
+  "level": "subcategory",
+  "path": "/collection/merch/grinder",
+  "category": "merch",
+  "subcategory": "grinder",
+  "parentPath": "/collection/merch",
+  "sortParam": null,
+  "capture": {
+   "matchesUrl": true,
+   "signal": null,
+   "observed": null
+  },
+  "h1": "GRINDER",
+  "banner": {
+   "title": "GRINDER",
+   "description": "Best GRINDER",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMq5bqstJ9-D0W_CategoriesBanner-29.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMrJbqstJ9-D0X_CategoriesBanner-28.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "GRINDER",
+    "href": null
+   }
+  ],
+  "categoryLinks": [],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "loading",
+  "emptyState": null,
+  "cards": [],
+  "productCount": 1,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/hg-aluminum-grinder-black-2-5-inch-one-size-merch",
+    "name": "HG - Aluminum Grinder - Black 2.5 Inch",
+    "brand": null,
+    "description": "Elevate your grinding experience with the HG Aluminum Grinder in sleek black, a durable 2.5-inch essential for any cannabis enthusiast. This precision-engineered merch piece features aircraft-grade aluminum construction that ensures consistent, fluffy grinds every time. The compact size makes it perfect for on-the-go use while still offering ample capacity for your favorite flower. Sharp, diamond-shaped teeth effortlessly break down dense buds while preserving trichomes and terpenes. The smooth-turning design and secure magnetic lid provide mess-free grinding and storage. Whether you're preparing flower for rolling, vaping, or packing a bowl, this reliable grinder delivers professional results. Its scratch-resistant black finish maintains its premium look session after session, making it both a functional tool and a stylish addition to your collection. An indispensable accessory for anyone serious about their cannabis preparation.",
+    "price": "$15",
+    "priceAmount": 15,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/ea840c77-9c1f-4cd1-b8b3-a75d130c5b30",
+     "alt": "HG - Aluminum Grinder - Black 2.5 Inch"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/shop",
+       "name": "Menu"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "GRINDER"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "",
+       "description": "Elevate your grinding experience with the HG Aluminum Grinder in sleek black, a durable 2.5-inch essential for any cannabis enthusiast. This precision-engineered merch piece features aircraft-grade aluminum construction that ensures consistent, fluffy grinds every time. The compact size makes it perfect for on-the-go use while still offering ample capacity for your favorite flower. Sharp, diamond-shaped teeth effortlessly break down dense buds while preserving trichomes and terpenes. The smooth-turning design and secure magnetic lid provide mess-free grinding and storage. Whether you&apos;re preparing flower for rolling, vaping, or packing a bowl, this reliable grinder delivers professional results. Its scratch-resistant black finish maintains its premium look session after session, making it both a functional tool and a stylish addition to your collection. An indispensable accessory for anyone serious about their cannabis preparation.",
+       "name": "HG - Aluminum Grinder  - Black 2.5 Inch ",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "15",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/hg-aluminum-grinder-black-2-5-inch-one-size-merch"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/ea840c77-9c1f-4cd1-b8b3-a75d130c5b30"
+      },
+      "position": "1"
+     }
+    ]
+   }
+  ]
+ }
+}

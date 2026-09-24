@@ -1,0 +1,145 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-filter-tips-book-pink-ultra-wide-one-size-merch",
+ "slug": "product-blazy-susan-blazy-susan-filter-tips-book-pink-ultra-wide-one-size-merch",
+ "type": "product",
+ "title": "BLAZY SUSAN - Blazy Susan - Filter Tips - Book - Pink Ultra Wide",
+ "seoTitle": "BLAZY SUSAN - Blazy Susan - Filter Tips - Book - Pink Ultra Wide",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Merch",
+    "href": "/collection/merch"
+   },
+   {
+    "label": "Blazy Susan - Filter Tips - Book - Pink Ultra Wide",
+    "href": null
+   }
+  ],
+  "h1": "Blazy Susan - Filter Tips - Book - Pink Ultra Wide",
+  "name": "Blazy Susan - Filter Tips - Book - Pink Ultra Wide",
+  "brand": {
+   "label": "BLAZY SUSAN",
+   "href": "/brand/blazy-susan"
+  },
+  "badges": [],
+  "strainType": null,
+  "category": {
+   "label": "Merch",
+   "href": "/collection/merch"
+  },
+  "subcategories": [
+   {
+    "label": "ROLLING PAPERS",
+    "href": "/collection/merch/rolling-papers"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/20c02e3c-995c-495b-9606-8a9cdf23e189?w=3840&q=100",
+   "alt": "Blazy Susan - Filter Tips - Book - Pink Ultra Wide"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/20c02e3c-995c-495b-9606-8a9cdf23e189?w=3840&q=100",
+    "alt": "Blazy Susan - Filter Tips - Book - Pink Ultra Wide"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": null,
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [],
+  "disclaimer": null,
+  "description": "Blazy Susan Filter Tips Book in Ultra Wide brings effortless rolling to your sessions with premium, unbleached perforated tips that deliver smooth, clean draws every time. This book of filter tips from Blazy Susan features an ultra-wide format perfect for larger rolls, ensuring even airflow and optimal filtration without restricting your experience. Crafted from natural materials, these rolling papers accessories provide a pure, unaltered taste while keeping unwanted debris at bay. The convenient book format keeps your tips organized and ready whenever inspiration strikes. Whether you're a seasoned roller or just starting out, these ultra-wide filter tips offer the perfect balance of structure and flexibility for a superior smoke. Elevate your rolling game with Blazy Susan's commitment to quality and functionality in every tear.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "",
+    "price": "$2",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$2",
+   "original": null,
+   "ariaLabel": "Product price: $2"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Blazy Susan - Filter Tips - Book - Pink Ultra Wide to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Blazy Susan - Filter Tips - Book - Pink Ultra Wide to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "BLAZY SUSAN",
+    "href": "/brand/blazy-susan"
+   },
+   {
+    "label": "Package Info",
+    "value": "Blazy Susan Filter Tips Book Pink Ultra Wide One Size"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

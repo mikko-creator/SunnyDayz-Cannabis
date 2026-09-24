@@ -1,0 +1,353 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/brand/mass-yield",
+ "slug": "brand-mass-yield",
+ "type": "brand",
+ "title": "MASS YIELD",
+ "seoTitle": "MASS YIELD",
+ "model": {
+  "kind": "brand",
+  "path": "/brand/mass-yield",
+  "slug": "mass-yield",
+  "name": "MASS YIELD",
+  "h1": "MASS YIELD",
+  "logo": null,
+  "banner": {
+   "title": "MASS YIELD",
+   "description": "Shop cannabis products from MASS YIELD at a dispensary near you",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Brands",
+    "href": "/brands"
+   },
+   {
+    "label": "MASS YIELD",
+    "href": null
+   }
+  ],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "loading",
+  "emptyState": null,
+  "cards": [],
+  "productCount": 7,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/mass-yield-mass-yield-inzane-in-the-membrane-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "Mass Yield - Inzane in the Membrane - 1G Pre-roll",
+    "brand": "MASS YIELD",
+    "description": "Mass Yield presents Inzane in the Membrane, a premium 1g sativa pre-roll designed to energize and inspire. This expertly crafted flower pre-roll delivers an uplifting cerebral experience perfect for daytime activities, creative pursuits, or social gatherings. As a sativa-dominant strain, Inzane in the Membrane offers focused, euphoric effects that enhance productivity while keeping your mind clear and engaged. The pre-roll format provides convenient, ready-to-enjoy consumption with no grinding or rolling required. Mass Yield's commitment to quality ensures a smooth, flavorful smoke with every session. Whether you're looking to boost creativity, stay motivated, or simply elevate your day, this 1g pre-roll delivers consistent sativa effects in a portable, discreet package. Perfect for on-the-go cannabis enthusiasts seeking energetic, uplifting experiences.",
+    "price": "$8",
+    "priceAmount": 8,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/ba5c8300-eb79-41e6-b145-4f656099d779",
+     "alt": "Mass Yield - Inzane in the Membrane - 1G Pre-roll"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/mass-yield-mass-yield-inzane-in-the-membrane-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Mass Yield - Inzane in the Membrane - 3.5G Flower",
+    "brand": "MASS YIELD",
+    "description": "Mass Yield's Inzane in the Membrane delivers premium sativa flower in a convenient 3.5g pre-pack format. This energizing strain is designed for those seeking creative inspiration and an uplifted, focused experience throughout the day. The flower showcases vibrant buds with a complex aroma profile featuring citrus, earthy, and pine notes that translate beautifully into its flavor. Perfect for daytime use, Inzane in the Membrane offers the classic sativa effects cannabis enthusiasts crave—expect euphoric sensations, enhanced focus, and a burst of creative energy. Whether you're tackling projects, socializing with friends, or simply looking to elevate your mood, this strain delivers consistent, quality results. Mass Yield's commitment to premium cultivation shines through in every bud, ensuring a satisfying experience from first spark to final exhale.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a269b3b6-3bca-4af3-ba84-37f088dd0d6e",
+     "alt": "Mass Yield - Inzane in the Membrane - 3.5G Flower"
+    }
+   },
+   {
+    "position": 3,
+    "url": "/product/mass-yield-mass-yield-el-jefe-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "Mass Yield - El Jefe - 1G Pre-roll",
+    "brand": "MASS YIELD",
+    "description": "Mass Yield presents El Jefe, a premium 1g hybrid preroll designed for balanced cannabis enthusiasts. This expertly crafted preroll delivers the best of both worlds—combining uplifting cerebral effects with soothing physical relaxation. El Jefe's hybrid profile makes it ideal for any time of day, whether you're seeking creative focus or unwinding after work. The flower showcases a complex flavor profile with earthy, spicy notes complemented by subtle hints of pine and pepper. Expect a smooth, satisfying smoke that delivers euphoric and relaxed effects without overwhelming sedation. Perfect for solo sessions or sharing with friends, this convenient preroll requires no grinding or rolling—just light and enjoy. Mass Yield's commitment to quality ensures consistent potency and flavor in every puff. El Jefe is your go-to choice for versatile hybrid effects in a ready-to-smoke format.",
+    "price": "$8",
+    "priceAmount": 8,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/ba5c8300-eb79-41e6-b145-4f656099d779",
+     "alt": "Mass Yield - El Jefe - 1G Pre-roll"
+    }
+   },
+   {
+    "position": 4,
+    "url": "/product/mass-yield-mass-yield-rasta-pie-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Mass Yield - Rasta Pie - 3.5G Flower",
+    "brand": "MASS YIELD",
+    "description": "Mass Yield presents Rasta Pie, a premium indica flower that delivers deep relaxation and tranquil vibes in every 3.5g jar. This hand-selected pre-pack showcases dense, resinous buds with a captivating aroma profile blending sweet tropical notes with earthy undertones and hints of spice. Rasta Pie's indica dominance makes it ideal for evening use, promoting full-body relaxation, relief from tension, and a peaceful sense of calm that melts away stress. Users can expect euphoric yet grounding effects that ease both mind and body into a state of pure contentment. The rich, complex flavor delivers smooth herbal notes with sweet, fruity accents on the exhale. Perfect for unwinding after a long day or enhancing quiet moments of reflection, this strain offers the quality and consistency Mass Yield is known for. Each 3.5g package preserves peak freshness and potency, ensuring an exceptional cannabis experience from first spark to last.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/bccc2791-9420-46b1-89c1-94e914c89f14",
+     "alt": "Mass Yield - Rasta Pie - 3.5G Flower"
+    }
+   },
+   {
+    "position": 5,
+    "url": "/product/mass-yield-mass-yield-peanut-butter-gelato-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Mass Yield - Peanut Butter Gelato - 3.5G Flower",
+    "brand": "MASS YIELD",
+    "description": "Mass Yield's Peanut Butter Gelato delivers premium indica flower in a convenient 3.5g pre-pack, perfect for evening relaxation and unwinding. This strain combines rich, nutty peanut butter notes with sweet, creamy gelato undertones, creating a dessert-like aroma and flavor profile that's truly indulgent. As an indica-dominant flower, Peanut Butter Gelato is known for promoting deep relaxation, stress relief, and a calm, euphoric body high that melts tension away. The dense, resinous buds showcase quality cultivation, making this pre-pack ideal for experienced consumers seeking potent effects or anyone looking to ease into a peaceful night. Whether you're managing discomfort or simply seeking restorative relaxation, this 3.5g jar from Mass Yield offers consistent quality and satisfying effects in every session.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/863e717b-7296-43f3-b97b-8cb1e918e9d7",
+     "alt": "Mass Yield - Peanut Butter Gelato - 3.5G Flower"
+    }
+   },
+   {
+    "position": 6,
+    "url": "/product/mass-yield-mass-yield-rasta-pie-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "Mass Yield - Rasta Pie - 1G Pre-roll",
+    "brand": "MASS YIELD",
+    "description": "Mass Yield presents Rasta Pie, a 1g pre-roll showcasing premium indica flower for those seeking deep relaxation and tranquility. This convenient preroll delivers the classic indica experience with rich, earthy flavors complemented by subtle tropical and spicy notes that make each session memorable. Rasta Pie is ideal for evening use, offering calming effects that ease tension and promote restful sleep. Whether you're unwinding after a long day or settling in for the night, this expertly crafted preroll provides consistent quality and potency in a ready-to-enjoy format. Mass Yield's commitment to excellence ensures smooth, flavorful smoke from start to finish, making Rasta Pie your go-to choice for stress relief and full-body relaxation.",
+    "price": "$8",
+    "priceAmount": 8,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/ba5c8300-eb79-41e6-b145-4f656099d779",
+     "alt": "Mass Yield - Rasta Pie - 1G Pre-roll"
+    }
+   },
+   {
+    "position": 7,
+    "url": "/product/mass-yield-mass-yield-peanut-butter-gelato-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "Mass Yield - Peanut Butter Gelato - 1G Pre-roll",
+    "brand": "MASS YIELD",
+    "description": "Mass Yield presents Peanut Butter Gelato, a premium 1g pre-roll showcasing exceptional indica genetics. This convenient flower preroll delivers the distinctive characteristics indica enthusiasts seek—deep relaxation and soothing effects perfect for unwinding after a long day. Peanut Butter Gelato delights the senses with a rich, nutty aroma complemented by sweet, creamy undertones and subtle earthy notes. Each pre-roll is expertly crafted for consistent burn and smooth flavor delivery from start to finish. Whether you're seeking relief from daily stress or preparing for restful sleep, this strain's calming properties make it an ideal evening companion. Experience the quality and potency Mass Yield is known for in this ready-to-enjoy format—no grinding or rolling required. Simply light up and savor the relaxing journey this indica preroll provides.",
+    "price": "$8",
+    "priceAmount": 8,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e13b94fe-7ec2-4d53-98f5-d80ec2f48f04",
+     "alt": "Mass Yield - Peanut Butter Gelato - 1G Pre-roll"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/brands",
+       "name": "Brands"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "MASS YIELD"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "MASS YIELD",
+       "description": "Mass Yield presents Inzane in the Membrane, a premium 1g sativa pre-roll designed to energize and inspire. This expertly crafted flower pre-roll delivers an uplifting cerebral experience perfect for daytime activities, creative pursuits, or social gatherings. As a sativa-dominant strain, Inzane in the Membrane offers focused, euphoric effects that enhance productivity while keeping your mind clear and engaged. The pre-roll format provides convenient, ready-to-enjoy consumption with no grinding or rolling required. Mass Yield&apos;s commitment to quality ensures a smooth, flavorful smoke with every session. Whether you&apos;re looking to boost creativity, stay motivated, or simply elevate your day, this 1g pre-roll delivers consistent sativa effects in a portable, discreet package. Perfect for on-the-go cannabis enthusiasts seeking energetic, uplifting experiences.",
+       "name": "Mass Yield - Inzane in the Membrane - 1G Pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "8",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-inzane-in-the-membrane-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/ba5c8300-eb79-41e6-b145-4f656099d779"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "MASS YIELD",
+       "description": "Mass Yield&apos;s Inzane in the Membrane delivers premium sativa flower in a convenient 3.5g pre-pack format. This energizing strain is designed for those seeking creative inspiration and an uplifted, focused experience throughout the day. The flower showcases vibrant buds with a complex aroma profile featuring citrus, earthy, and pine notes that translate beautifully into its flavor. Perfect for daytime use, Inzane in the Membrane offers the classic sativa effects cannabis enthusiasts crave—expect euphoric sensations, enhanced focus, and a burst of creative energy. Whether you&apos;re tackling projects, socializing with friends, or simply looking to elevate your mood, this strain delivers consistent, quality results. Mass Yield&apos;s commitment to premium cultivation shines through in every bud, ensuring a satisfying experience from first spark to final exhale.",
+       "name": "Mass Yield - Inzane in the Membrane - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-inzane-in-the-membrane-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a269b3b6-3bca-4af3-ba84-37f088dd0d6e"
+      },
+      "position": "2"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "MASS YIELD",
+       "description": "Mass Yield presents El Jefe, a premium 1g hybrid preroll designed for balanced cannabis enthusiasts. This expertly crafted preroll delivers the best of both worlds—combining uplifting cerebral effects with soothing physical relaxation. El Jefe&apos;s hybrid profile makes it ideal for any time of day, whether you&apos;re seeking creative focus or unwinding after work. The flower showcases a complex flavor profile with earthy, spicy notes complemented by subtle hints of pine and pepper. Expect a smooth, satisfying smoke that delivers euphoric and relaxed effects without overwhelming sedation. Perfect for solo sessions or sharing with friends, this convenient preroll requires no grinding or rolling—just light and enjoy. Mass Yield&apos;s commitment to quality ensures consistent potency and flavor in every puff. El Jefe is your go-to choice for versatile hybrid effects in a ready-to-smoke format.",
+       "name": "Mass Yield - El Jefe - 1G Pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "8",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-el-jefe-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/ba5c8300-eb79-41e6-b145-4f656099d779"
+      },
+      "position": "3"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "MASS YIELD",
+       "description": "Mass Yield presents Rasta Pie, a premium indica flower that delivers deep relaxation and tranquil vibes in every 3.5g jar. This hand-selected pre-pack showcases dense, resinous buds with a captivating aroma profile blending sweet tropical notes with earthy undertones and hints of spice. Rasta Pie&apos;s indica dominance makes it ideal for evening use, promoting full-body relaxation, relief from tension, and a peaceful sense of calm that melts away stress. Users can expect euphoric yet grounding effects that ease both mind and body into a state of pure contentment. The rich, complex flavor delivers smooth herbal notes with sweet, fruity accents on the exhale. Perfect for unwinding after a long day or enhancing quiet moments of reflection, this strain offers the quality and consistency Mass Yield is known for. Each 3.5g package preserves peak freshness and potency, ensuring an exceptional cannabis experience from first spark to last.",
+       "name": "Mass Yield - Rasta Pie - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-rasta-pie-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/bccc2791-9420-46b1-89c1-94e914c89f14"
+      },
+      "position": "4"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "MASS YIELD",
+       "description": "Mass Yield&apos;s Peanut Butter Gelato delivers premium indica flower in a convenient 3.5g pre-pack, perfect for evening relaxation and unwinding. This strain combines rich, nutty peanut butter notes with sweet, creamy gelato undertones, creating a dessert-like aroma and flavor profile that&apos;s truly indulgent. As an indica-dominant flower, Peanut Butter Gelato is known for promoting deep relaxation, stress relief, and a calm, euphoric body high that melts tension away. The dense, resinous buds showcase quality cultivation, making this pre-pack ideal for experienced consumers seeking potent effects or anyone looking to ease into a peaceful night. Whether you&apos;re managing discomfort or simply seeking restorative relaxation, this 3.5g jar from Mass Yield offers consistent quality and satisfying effects in every session.",
+       "name": "Mass Yield - Peanut Butter Gelato - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-peanut-butter-gelato-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/863e717b-7296-43f3-b97b-8cb1e918e9d7"
+      },
+      "position": "5"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "MASS YIELD",
+       "description": "Mass Yield presents Rasta Pie, a 1g pre-roll showcasing premium indica flower for those seeking deep relaxation and tranquility. This convenient preroll delivers the classic indica experience with rich, earthy flavors complemented by subtle tropical and spicy notes that make each session memorable. Rasta Pie is ideal for evening use, offering calming effects that ease tension and promote restful sleep. Whether you&apos;re unwinding after a long day or settling in for the night, this expertly crafted preroll provides consistent quality and potency in a ready-to-enjoy format. Mass Yield&apos;s commitment to excellence ensures smooth, flavorful smoke from start to finish, making Rasta Pie your go-to choice for stress relief and full-body relaxation.",
+       "name": "Mass Yield - Rasta Pie - 1G Pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "8",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-rasta-pie-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/ba5c8300-eb79-41e6-b145-4f656099d779"
+      },
+      "position": "6"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "MASS YIELD",
+       "description": "Mass Yield presents Peanut Butter Gelato, a premium 1g pre-roll showcasing exceptional indica genetics. This convenient flower preroll delivers the distinctive characteristics indica enthusiasts seek—deep relaxation and soothing effects perfect for unwinding after a long day. Peanut Butter Gelato delights the senses with a rich, nutty aroma complemented by sweet, creamy undertones and subtle earthy notes. Each pre-roll is expertly crafted for consistent burn and smooth flavor delivery from start to finish. Whether you&apos;re seeking relief from daily stress or preparing for restful sleep, this strain&apos;s calming properties make it an ideal evening companion. Experience the quality and potency Mass Yield is known for in this ready-to-enjoy format—no grinding or rolling required. Simply light up and savor the relaxing journey this indica preroll provides.",
+       "name": "Mass Yield - Peanut Butter Gelato - 1G Pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "8",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/mass-yield-mass-yield-peanut-butter-gelato-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e13b94fe-7ec2-4d53-98f5-d80ec2f48f04"
+      },
+      "position": "7"
+     }
+    ]
+   }
+  ]
+ }
+}

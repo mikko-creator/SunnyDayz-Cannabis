@@ -1,0 +1,114 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/grav-classic-spoon-green-hand-pipe-one-size-merch",
+ "slug": "product-grav-classic-spoon-green-hand-pipe-one-size-merch",
+ "type": "product",
+ "title": "GRAV - Classic Spoon - Green - Hand Pipe",
+ "seoTitle": "GRAV - Classic Spoon - Green - Hand Pipe",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Merch",
+    "href": "/collection/merch"
+   },
+   {
+    "label": "Classic Spoon - Green - Hand Pipe",
+    "href": null
+   }
+  ],
+  "h1": "Classic Spoon - Green - Hand Pipe",
+  "name": "Classic Spoon - Green - Hand Pipe",
+  "brand": {
+   "label": "GRAV",
+   "href": "/brand/grav"
+  },
+  "badges": [],
+  "strainType": null,
+  "category": {
+   "label": "Merch",
+   "href": "/collection/merch"
+  },
+  "subcategories": [
+   {
+    "label": "PIPE",
+    "href": "/collection/merch/pipe"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0f62da60-7529-4123-b753-e3d832432886?w=3840&q=100",
+   "alt": "Classic Spoon - Green - Hand Pipe"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0f62da60-7529-4123-b753-e3d832432886?w=3840&q=100",
+    "alt": "Classic Spoon - Green - Hand Pipe"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": null,
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [],
+  "disclaimer": null,
+  "description": "The GRAV Classic Spoon in Green is a timeless hand pipe that combines iconic design with exceptional functionality. Crafted by GRAV, a trusted name in premium smoking accessories, this durable glass pipe features a classic spoon shape that fits comfortably in your hand for smooth, enjoyable sessions. The vibrant green color adds a bold aesthetic while the thoughtfully engineered bowl delivers consistent airflow and even burning. Built from high-quality borosilicate glass, this merch piece offers both durability and easy maintenance. Whether you're a seasoned enthusiast or new to the experience, the Classic Spoon provides reliable performance in a compact, portable design. Perfect for solo sessions or sharing with friends, this versatile hand pipe is an essential addition to any collection.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "GRAV",
+    "href": "/brand/grav"
+   },
+   {
+    "label": "Package Info",
+    "value": "Classic Spoon Green Hand Pipe One Size"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

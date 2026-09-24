@@ -1,0 +1,127 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/harbor-house-harbor-house-lemon-cherry-sherbert-1g-badder-1-g-extract-1-grams",
+ "slug": "product-harbor-house-harbor-house-lemon-cherry-sherbert-1g-badder-1-g-extract-1-grams",
+ "type": "product",
+ "title": "HARBOR HOUSE - Harbor House - Lemon Cherry Sherbert - 1G Badder",
+ "seoTitle": "HARBOR HOUSE - Harbor House - Lemon Cherry Sherbert - 1G Badder",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Extract",
+    "href": "/collection/extract"
+   },
+   {
+    "label": "Harbor House - Lemon Cherry Sherbert - 1G Badder",
+    "href": null
+   }
+  ],
+  "h1": "Harbor House - Lemon Cherry Sherbert - 1G Badder",
+  "name": "Harbor House - Lemon Cherry Sherbert - 1G Badder",
+  "brand": {
+   "label": "HARBOR HOUSE",
+   "href": "/brand/harbor-house"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Indica",
+   "key": "indica",
+   "ariaLabel": "Flower type: Indica"
+  },
+  "category": {
+   "label": "Extract",
+   "href": "/collection/extract"
+  },
+  "subcategories": [
+   {
+    "label": "BADDER",
+    "href": "/collection/extract/badder"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/9416d0d3-3263-4252-b095-809019186104?w=3840&q=100",
+   "alt": "Harbor House - Lemon Cherry Sherbert - 1G Badder"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/9416d0d3-3263-4252-b095-809019186104?w=3840&q=100",
+    "alt": "Harbor House - Lemon Cherry Sherbert - 1G Badder"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": null,
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [],
+  "disclaimer": null,
+  "description": "Harbor House delivers premium concentrate craftsmanship with their Lemon Cherry Sherbert 1G Badder. This velvety extract showcases a delightful fusion of zesty lemon, sweet cherry, and creamy sherbet notes that dance across the palate. The badder consistency offers easy handling and versatile dabbing for concentrate enthusiasts seeking potent, flavorful sessions. Lemon Cherry Sherbert is known for delivering balanced effects that inspire creativity and euphoria while maintaining relaxation—perfect for unwinding after a long day or enhancing social gatherings. Each dab reveals complex terpene profiles with bright citrus top notes complemented by fruity cherry undertones and a smooth, creamy finish. Harbor House's meticulous extraction process preserves the strain's natural essence, resulting in a concentrate that's as flavorful as it is effective. Ideal for experienced users who appreciate quality extracts with exceptional taste and reliable potency.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "HARBOR HOUSE",
+    "href": "/brand/harbor-house"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Indica",
+    "href": "/strain/Indica"
+   },
+   {
+    "label": "Package Info",
+    "value": "Harbor House Lemon Cherry Sherbert 1 G Badder 1 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "1g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

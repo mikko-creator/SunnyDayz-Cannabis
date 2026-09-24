@@ -1,0 +1,504 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/brand/tower-three",
+ "slug": "brand-tower-three",
+ "type": "brand",
+ "title": "TOWER THREE",
+ "seoTitle": "TOWER THREE",
+ "model": {
+  "kind": "brand",
+  "path": "/brand/tower-three",
+  "slug": "tower-three",
+  "name": "TOWER THREE",
+  "h1": "TOWER THREE",
+  "logo": null,
+  "banner": {
+   "title": "TOWER THREE",
+   "description": "Shop cannabis products from TOWER THREE at a dispensary near you",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Brands",
+    "href": "/brands"
+   },
+   {
+    "label": "TOWER THREE",
+    "href": null
+   }
+  ],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "empty",
+  "emptyState": {
+   "heading": "No search results found",
+   "text": "No results match the filter criteria. Remove a filter or clear all filters to search again"
+  },
+  "cards": [],
+  "productCount": 11,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/tower-three-tower-three-florida-freeze-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Tower Three - Florida Freeze - 3.5G Flower",
+    "brand": "TOWER THREE",
+    "description": "Tower Three presents Florida Freeze, a premium 3.5g flower offering that delivers a refreshing cannabis experience. This carefully cultivated bud showcases frosty trichomes and a vibrant appearance that lives up to its chilly name. The aroma profile bursts with citrus and tropical notes, complemented by sweet undertones that entice the senses. Each nug is hand-selected to ensure quality and potency, making this flower ideal for discerning consumers seeking authentic cannabis enjoyment. Whether you're looking to unwind after a long day or enhance your creative pursuits, Florida Freeze provides a smooth, flavorful smoke that captures the essence of quality craftsmanship. This 3.5g jar offers the perfect amount for exploring this unique strain's characteristics and discovering your favorite consumption method.",
+    "price": "$45",
+    "priceAmount": 45,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/04379419-08d4-4139-866c-8383d3f53765",
+     "alt": "Tower Three - Florida Freeze - 3.5G Flower"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/tower-three-tower-three-maple-butter-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Tower Three - Maple Butter - 3.5G Flower ",
+    "brand": "TOWER THREE",
+    "description": "Tower Three presents Maple Butter, a premium 3.5g flower offering that brings together rich, indulgent flavor with quality cannabis. This expertly cultivated flower delivers smooth, sweet maple notes complemented by creamy, buttery undertones that create a uniquely satisfying aromatic experience. Each bud is carefully hand-trimmed and cured to preserve terpene integrity and cannabinoid potency. The flavor profile unfolds with warm maple sweetness on the inhale, followed by smooth, buttery richness that lingers pleasantly. Perfect for cannabis enthusiasts seeking distinctive flavor alongside quality effects. Tower Three's commitment to cultivation excellence shines through in every jar, delivering consistent potency and exceptional taste. Whether you're unwinding after a long day or exploring new flavor profiles, Maple Butter offers a memorable experience that stands out from typical flower options. This 3.5g size provides the perfect amount to enjoy and share.",
+    "price": "$45",
+    "priceAmount": 45,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7183191d-a596-44ee-a0bd-235387cd8cf0",
+     "alt": "Tower Three - Maple Butter - 3.5G Flower "
+    }
+   },
+   {
+    "position": 3,
+    "url": "/product/tower-three-tower-three-florida-freeze-pre-roll-1-g-preroll-1-grams",
+    "name": "Tower Three - Florida Freeze - Pre-roll",
+    "brand": "TOWER THREE",
+    "description": "Tower Three presents Florida Freeze, a convenient 1g pre-roll ready to deliver a refreshing cannabis experience. This expertly crafted preroll showcases frosty, citrus-forward flavors reminiscent of tangy orange and tropical fruit, balanced with subtle earthy undertones that make each session smooth and enjoyable. Perfect for those seeking a flavorful, hassle-free option, Florida Freeze offers an uplifting and relaxed vibe ideal for unwinding after a long day or enhancing social gatherings. The pre-roll format provides ultimate convenience—no grinding, no rolling, just light and enjoy. Tower Three's commitment to quality ensures consistent potency and flavor in every puff, making Florida Freeze a standout choice for both seasoned enthusiasts and newcomers alike. Grab this 1g pre-roll and discover why Florida Freeze is quickly becoming a fan favorite.",
+    "price": "$12",
+    "priceAmount": 12,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/1f08fc6c-1b66-4252-8526-d6b64e82eed3",
+     "alt": "Tower Three - Florida Freeze - Pre-roll"
+    }
+   },
+   {
+    "position": 4,
+    "url": "/product/tower-three-tower-three-butterstuff-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Tower Three - Butterstuff - 3.5G Flower",
+    "brand": "TOWER THREE",
+    "description": "Tower Three presents Butterstuff, a premium 3.5g flower offering that delivers an indulgent cannabis experience. This carefully cultivated bud showcases dense, resinous flowers with a distinctively rich aroma profile. True to its name, Butterstuff enchants the senses with creamy, buttery notes complemented by sweet undertones and subtle earthy accents. Each nug is expertly trimmed and cured to preserve its natural terpenes and potency. Whether you're unwinding after a long day or exploring new strains, this flower provides a smooth, flavorful smoke that cannabis enthusiasts appreciate. The 3.5g jar ensures freshness while offering the perfect amount for personal enjoyment or sharing with friends. Tower Three's commitment to quality shines through in every aspect of Butterstuff, from cultivation to packaging, making it a standout choice for discerning consumers seeking exceptional flower.",
+    "price": "$45",
+    "priceAmount": 45,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/ff8e97ee-7df9-41fc-97d5-831f10b65e5a",
+     "alt": "Tower Three - Butterstuff - 3.5G Flower"
+    }
+   },
+   {
+    "position": 5,
+    "url": "/product/tower-three-tower-three-dosido-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Tower Three - Dosido - 3.5G Flower",
+    "brand": "TOWER THREE",
+    "description": "Tower Three brings you Dosido, a premium cannabis flower known for its exceptional quality and distinctive characteristics. This 3.5g jar delivers a potent experience that cannabis enthusiasts appreciate. Dosido, a beloved strain crossing Girl Scout Cookies with Face Off OG, offers a complex flavor profile featuring sweet, earthy notes with hints of pine and spice. The aroma is equally captivating, blending pungent diesel undertones with a subtle sweetness that lingers. Users often report feeling relaxed and euphoric, making it an excellent choice for unwinding after a long day or easing into a peaceful evening. The dense, frosty buds showcase the careful cultivation behind this flower, promising both visual appeal and satisfying effects. Whether you're seeking relief or simply exploring quality cannabis, Tower Three's Dosido delivers a memorable experience that showcases why this strain has earned its reputation in the cannabis community.",
+    "price": "$45",
+    "priceAmount": 45,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0732cd8b-701c-4dce-9b40-163026f3cdb5",
+     "alt": "Tower Three - Dosido - 3.5G Flower"
+    }
+   },
+   {
+    "position": 6,
+    "url": "/product/tower-three-tower-three-last-dance-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "Tower Three - Last Dance - 1G pre-roll",
+    "brand": "TOWER THREE",
+    "description": "Tower Three presents Last Dance, a premium 1g pre-roll crafted for cannabis enthusiasts seeking convenience and quality. This expertly rolled preroll delivers a smooth, consistent experience from start to finish, perfect for both solo sessions and social moments. Last Dance offers a balanced blend that appeals to a wide range of preferences, making it an ideal choice whether you're unwinding after a long day or enhancing creative pursuits. The 1g size provides the perfect amount for sharing or savoring at your own pace. Tower Three's commitment to quality ensures every puff is packed with flavor and potency. Ready to light and enjoy, this pre-roll eliminates the need for grinding or rolling—just spark up and let Last Dance take the lead. Discover why Tower Three continues to set the standard for premium cannabis prerolls.",
+    "price": "$12",
+    "priceAmount": 12,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/fec28fc4-b561-442a-9a7b-0f664f308d12",
+     "alt": "Tower Three - Last Dance - 1G pre-roll"
+    }
+   },
+   {
+    "position": 7,
+    "url": "/product/tower-three-tower-three-og-kush-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "Tower Three - OG Kush - 1G pre-roll",
+    "brand": "TOWER THREE",
+    "description": "Tower Three brings you the legendary OG Kush in a convenient 1g pre-roll format, perfect for cannabis enthusiasts seeking a classic experience. This premium preroll showcases one of the most iconic strains in cannabis history, celebrated for its complex flavor profile and well-balanced effects. OG Kush delivers a distinctive blend of earthy, pine, and woody aromas with hints of fuel and spice that seasoned connoisseurs have cherished for decades. Whether you're unwinding after a long day or enjoying time with friends, this ready-to-smoke preroll offers relaxing and euphoric effects that promote happiness and stress relief. The 1g size provides an ideal single-session experience without waste. Tower Three's commitment to quality ensures consistent potency and smooth smoke in every preroll. Simply light up and enjoy the timeless appeal of OG Kush—no grinding or rolling required.",
+    "price": "$12",
+    "priceAmount": 12,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/9dbaedc7-f299-4e4f-84f4-af81d78dafd2",
+     "alt": "Tower Three - OG Kush - 1G pre-roll"
+    }
+   },
+   {
+    "position": 8,
+    "url": "/product/tower-three-tower-three-deadhead-og-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Tower Three - Deadhead OG - 3.5G Flower",
+    "brand": "TOWER THREE",
+    "description": "Tower Three presents Deadhead OG, a premium 3.5g flower offering that delivers a potent, memorable experience. This legendary strain is renowned for its powerful effects that combine deep relaxation with euphoric uplift, making it a favorite among discerning cannabis enthusiasts. Deadhead OG's distinctive aroma profile features earthy, pine, and diesel notes with a pungent undertone that speaks to its quality and potency. The dense, resinous buds showcase careful cultivation and curing, ensuring optimal freshness and cannabinoid preservation. Whether you're unwinding after a long day or seeking relief, this classic strain provides a well-rounded experience that honors its celebrated lineage. Perfect for evening use, Deadhead OG from Tower Three brings craft-quality flower to your collection in a convenient eighth-ounce format.",
+    "price": "$45",
+    "priceAmount": 45,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/cb1cd7ef-0d5e-4b67-bc8d-42f388f06ea6",
+     "alt": "Tower Three - Deadhead OG - 3.5G Flower"
+    }
+   },
+   {
+    "position": 9,
+    "url": "/product/tower-three-tower-three-half-pint-4-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Tower Three - Half Pint 4 - 3.5G Flower",
+    "brand": "TOWER THREE",
+    "description": "Tower Three presents Half Pint 4, a premium 3.5g flower offering that delivers quality cannabis in a convenient eighth-ounce format. This carefully cultivated flower showcases the brand's commitment to excellence, providing a versatile experience suitable for any time of day. Each bud is hand-selected and expertly cured to preserve natural terpenes and cannabinoids, ensuring optimal potency and flavor. The flower features a complex aroma profile with earthy, herbal notes complemented by subtle sweet undertones. Whether you're rolling your own or packing a bowl, this 3.5g jar provides the perfect amount for personal enjoyment or sharing with friends. Tower Three's dedication to quality cultivation practices shines through in every nug, delivering smooth smoke and satisfying effects. Ideal for both seasoned enthusiasts and newcomers exploring premium flower options.",
+    "price": "$45",
+    "priceAmount": 45,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5c3ca99f-1554-4910-b255-87d9b9352778",
+     "alt": "Tower Three - Half Pint 4 - 3.5G Flower"
+    }
+   },
+   {
+    "position": 10,
+    "url": "/product/tower-three-tower-three-moonbutter-1g-pre-roll-1-g-preroll-1-grams",
+    "name": "Tower Three - Moonbutter - 1G pre-roll",
+    "brand": "TOWER THREE",
+    "description": "Tower Three presents Moonbutter, a premium 1G pre-roll crafted for cannabis enthusiasts seeking quality and convenience. This expertly rolled preroll delivers a smooth, flavorful smoking experience from first light to final draw. Moonbutter's rich, creamy profile blends buttery smoothness with subtle earthy undertones, creating a luxurious flavor that lingers on the palate. Perfect for both seasoned consumers and those exploring the preroll category, this single-unit offering provides a hassle-free way to enjoy premium flower without the need for grinding or rolling. Tower Three's commitment to quality ensures consistent potency and burn throughout your session. Whether unwinding after a long day or sharing with friends, Moonbutter delivers a satisfying experience that showcases the brand's dedication to excellence. Each 1G pre-roll is carefully packaged to preserve freshness and potency, making it an ideal choice for on-the-go enjoyment or relaxed home sessions.",
+    "price": "$12",
+    "priceAmount": 12,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/44a84a46-a0ba-4619-b059-b2ff84487497",
+     "alt": "Tower Three - Moonbutter - 1G pre-roll"
+    }
+   },
+   {
+    "position": 11,
+    "url": "/product/tower-three-tower-three-fruity-pebbles-og-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "Tower Three - Fruity Pebbles OG - 3.5G Flower",
+    "brand": "TOWER THREE",
+    "description": "Tower Three brings you Fruity Pebbles OG in a convenient 3.5g flower jar, delivering a nostalgic and flavorful cannabis experience. This premium flower captures the essence of the beloved breakfast cereal with sweet, fruity notes complemented by tropical and berry undertones. Each bud is carefully cultivated to preserve its vibrant terpene profile and potency. Fruity Pebbles OG is known for inducing euphoric and relaxed effects, making it perfect for unwinding after a long day or enjoying creative pursuits. The aroma bursts with a medley of fruity sweetness and earthy depth that translates beautifully into smooth, flavorful smoke. Whether you're a seasoned enthusiast or exploring new strains, this 3.5g offering from Tower Three provides quality and consistency in every session. Experience the playful flavors and balanced effects that have made Fruity Pebbles OG a favorite among cannabis connoisseurs.",
+    "price": "$45",
+    "priceAmount": 45,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/388fadc2-a2ba-4807-bd1e-4173602c1ad3",
+     "alt": "Tower Three - Fruity Pebbles OG - 3.5G Flower"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/brands",
+       "name": "Brands"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "TOWER THREE"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TOWER THREE",
+       "description": "Tower Three presents Florida Freeze, a premium 3.5g flower offering that delivers a refreshing cannabis experience. This carefully cultivated bud showcases frosty trichomes and a vibrant appearance that lives up to its chilly name. The aroma profile bursts with citrus and tropical notes, complemented by sweet undertones that entice the senses. Each nug is hand-selected to ensure quality and potency, making this flower ideal for discerning consumers seeking authentic cannabis enjoyment. Whether you&apos;re looking to unwind after a long day or enhance your creative pursuits, Florida Freeze provides a smooth, flavorful smoke that captures the essence of quality craftsmanship. This 3.5g jar offers the perfect amount for exploring this unique strain&apos;s characteristics and discovering your favorite consumption method.",
+       "name": "Tower Three - Florida Freeze - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "45",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-florida-freeze-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/04379419-08d4-4139-866c-8383d3f53765"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TOWER THREE",
+       "description": "Tower Three presents Maple Butter, a premium 3.5g flower offering that brings together rich, indulgent flavor with quality cannabis. This expertly cultivated flower delivers smooth, sweet maple notes complemented by creamy, buttery undertones that create a uniquely satisfying aromatic experience. Each bud is carefully hand-trimmed and cured to preserve terpene integrity and cannabinoid potency. The flavor profile unfolds with warm maple sweetness on the inhale, followed by smooth, buttery richness that lingers pleasantly. Perfect for cannabis enthusiasts seeking distinctive flavor alongside quality effects. Tower Three&apos;s commitment to cultivation excellence shines through in every jar, delivering consistent potency and exceptional taste. Whether you&apos;re unwinding after a long day or exploring new flavor profiles, Maple Butter offers a memorable experience that stands out from typical flower options. This 3.5g size provides the perfect amount to enjoy and share.",
+       "name": "Tower Three - Maple Butter - 3.5G Flower ",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "45",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-maple-butter-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7183191d-a596-44ee-a0bd-235387cd8cf0"
+      },
+      "position": "2"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TOWER THREE",
+       "description": "Tower Three presents Florida Freeze, a convenient 1g pre-roll ready to deliver a refreshing cannabis experience. This expertly crafted preroll showcases frosty, citrus-forward flavors reminiscent of tangy orange and tropical fruit, balanced with subtle earthy undertones that make each session smooth and enjoyable. Perfect for those seeking a flavorful, hassle-free option, Florida Freeze offers an uplifting and relaxed vibe ideal for unwinding after a long day or enhancing social gatherings. The pre-roll format provides ultimate convenience—no grinding, no rolling, just light and enjoy. Tower Three&apos;s commitment to quality ensures consistent potency and flavor in every puff, making Florida Freeze a standout choice for both seasoned enthusiasts and newcomers alike. Grab this 1g pre-roll and discover why Florida Freeze is quickly becoming a fan favorite.",
+       "name": "Tower Three - Florida Freeze - Pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "12",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-florida-freeze-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/1f08fc6c-1b66-4252-8526-d6b64e82eed3"
+      },
+      "position": "3"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TOWER THREE",
+       "description": "Tower Three presents Butterstuff, a premium 3.5g flower offering that delivers an indulgent cannabis experience. This carefully cultivated bud showcases dense, resinous flowers with a distinctively rich aroma profile. True to its name, Butterstuff enchants the senses with creamy, buttery notes complemented by sweet undertones and subtle earthy accents. Each nug is expertly trimmed and cured to preserve its natural terpenes and potency. Whether you&apos;re unwinding after a long day or exploring new strains, this flower provides a smooth, flavorful smoke that cannabis enthusiasts appreciate. The 3.5g jar ensures freshness while offering the perfect amount for personal enjoyment or sharing with friends. Tower Three&apos;s commitment to quality shines through in every aspect of Butterstuff, from cultivation to packaging, making it a standout choice for discerning consumers seeking exceptional flower.",
+       "name": "Tower Three - Butterstuff - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "45",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-butterstuff-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/ff8e97ee-7df9-41fc-97d5-831f10b65e5a"
+      },
+      "position": "4"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TOWER THREE",
+       "description": "Tower Three brings you Dosido, a premium cannabis flower known for its exceptional quality and distinctive characteristics. This 3.5g jar delivers a potent experience that cannabis enthusiasts appreciate. Dosido, a beloved strain crossing Girl Scout Cookies with Face Off OG, offers a complex flavor profile featuring sweet, earthy notes with hints of pine and spice. The aroma is equally captivating, blending pungent diesel undertones with a subtle sweetness that lingers. Users often report feeling relaxed and euphoric, making it an excellent choice for unwinding after a long day or easing into a peaceful evening. The dense, frosty buds showcase the careful cultivation behind this flower, promising both visual appeal and satisfying effects. Whether you&apos;re seeking relief or simply exploring quality cannabis, Tower Three&apos;s Dosido delivers a memorable experience that showcases why this strain has earned its reputation in the cannabis community.",
+       "name": "Tower Three - Dosido - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "45",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-dosido-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0732cd8b-701c-4dce-9b40-163026f3cdb5"
+      },
+      "position": "5"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TOWER THREE",
+       "description": "Tower Three presents Last Dance, a premium 1g pre-roll crafted for cannabis enthusiasts seeking convenience and quality. This expertly rolled preroll delivers a smooth, consistent experience from start to finish, perfect for both solo sessions and social moments. Last Dance offers a balanced blend that appeals to a wide range of preferences, making it an ideal choice whether you&apos;re unwinding after a long day or enhancing creative pursuits. The 1g size provides the perfect amount for sharing or savoring at your own pace. Tower Three&apos;s commitment to quality ensures every puff is packed with flavor and potency. Ready to light and enjoy, this pre-roll eliminates the need for grinding or rolling—just spark up and let Last Dance take the lead. Discover why Tower Three continues to set the standard for premium cannabis prerolls.",
+       "name": "Tower Three - Last Dance - 1G pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "12",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-last-dance-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/fec28fc4-b561-442a-9a7b-0f664f308d12"
+      },
+      "position": "6"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TOWER THREE",
+       "description": "Tower Three brings you the legendary OG Kush in a convenient 1g pre-roll format, perfect for cannabis enthusiasts seeking a classic experience. This premium preroll showcases one of the most iconic strains in cannabis history, celebrated for its complex flavor profile and well-balanced effects. OG Kush delivers a distinctive blend of earthy, pine, and woody aromas with hints of fuel and spice that seasoned connoisseurs have cherished for decades. Whether you&apos;re unwinding after a long day or enjoying time with friends, this ready-to-smoke preroll offers relaxing and euphoric effects that promote happiness and stress relief. The 1g size provides an ideal single-session experience without waste. Tower Three&apos;s commitment to quality ensures consistent potency and smooth smoke in every preroll. Simply light up and enjoy the timeless appeal of OG Kush—no grinding or rolling required.",
+       "name": "Tower Three - OG Kush - 1G pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "12",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-og-kush-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/9dbaedc7-f299-4e4f-84f4-af81d78dafd2"
+      },
+      "position": "7"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TOWER THREE",
+       "description": "Tower Three presents Deadhead OG, a premium 3.5g flower offering that delivers a potent, memorable experience. This legendary strain is renowned for its powerful effects that combine deep relaxation with euphoric uplift, making it a favorite among discerning cannabis enthusiasts. Deadhead OG&apos;s distinctive aroma profile features earthy, pine, and diesel notes with a pungent undertone that speaks to its quality and potency. The dense, resinous buds showcase careful cultivation and curing, ensuring optimal freshness and cannabinoid preservation. Whether you&apos;re unwinding after a long day or seeking relief, this classic strain provides a well-rounded experience that honors its celebrated lineage. Perfect for evening use, Deadhead OG from Tower Three brings craft-quality flower to your collection in a convenient eighth-ounce format.",
+       "name": "Tower Three - Deadhead OG - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "45",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-deadhead-og-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/cb1cd7ef-0d5e-4b67-bc8d-42f388f06ea6"
+      },
+      "position": "8"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TOWER THREE",
+       "description": "Tower Three presents Half Pint 4, a premium 3.5g flower offering that delivers quality cannabis in a convenient eighth-ounce format. This carefully cultivated flower showcases the brand&apos;s commitment to excellence, providing a versatile experience suitable for any time of day. Each bud is hand-selected and expertly cured to preserve natural terpenes and cannabinoids, ensuring optimal potency and flavor. The flower features a complex aroma profile with earthy, herbal notes complemented by subtle sweet undertones. Whether you&apos;re rolling your own or packing a bowl, this 3.5g jar provides the perfect amount for personal enjoyment or sharing with friends. Tower Three&apos;s dedication to quality cultivation practices shines through in every nug, delivering smooth smoke and satisfying effects. Ideal for both seasoned enthusiasts and newcomers exploring premium flower options.",
+       "name": "Tower Three - Half Pint 4 - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "45",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-half-pint-4-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5c3ca99f-1554-4910-b255-87d9b9352778"
+      },
+      "position": "9"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TOWER THREE",
+       "description": "Tower Three presents Moonbutter, a premium 1G pre-roll crafted for cannabis enthusiasts seeking quality and convenience. This expertly rolled preroll delivers a smooth, flavorful smoking experience from first light to final draw. Moonbutter&apos;s rich, creamy profile blends buttery smoothness with subtle earthy undertones, creating a luxurious flavor that lingers on the palate. Perfect for both seasoned consumers and those exploring the preroll category, this single-unit offering provides a hassle-free way to enjoy premium flower without the need for grinding or rolling. Tower Three&apos;s commitment to quality ensures consistent potency and burn throughout your session. Whether unwinding after a long day or sharing with friends, Moonbutter delivers a satisfying experience that showcases the brand&apos;s dedication to excellence. Each 1G pre-roll is carefully packaged to preserve freshness and potency, making it an ideal choice for on-the-go enjoyment or relaxed home sessions.",
+       "name": "Tower Three - Moonbutter - 1G pre-roll",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "12",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-moonbutter-1g-pre-roll-1-g-preroll-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/44a84a46-a0ba-4619-b059-b2ff84487497"
+      },
+      "position": "10"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TOWER THREE",
+       "description": "Tower Three brings you Fruity Pebbles OG in a convenient 3.5g flower jar, delivering a nostalgic and flavorful cannabis experience. This premium flower captures the essence of the beloved breakfast cereal with sweet, fruity notes complemented by tropical and berry undertones. Each bud is carefully cultivated to preserve its vibrant terpene profile and potency. Fruity Pebbles OG is known for inducing euphoric and relaxed effects, making it perfect for unwinding after a long day or enjoying creative pursuits. The aroma bursts with a medley of fruity sweetness and earthy depth that translates beautifully into smooth, flavorful smoke. Whether you&apos;re a seasoned enthusiast or exploring new strains, this 3.5g offering from Tower Three provides quality and consistency in every session. Experience the playful flavors and balanced effects that have made Fruity Pebbles OG a favorite among cannabis connoisseurs.",
+       "name": "Tower Three - Fruity Pebbles OG - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "45",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-fruity-pebbles-og-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/388fadc2-a2ba-4807-bd1e-4173602c1ad3"
+      },
+      "position": "11"
+     }
+    ]
+   }
+  ]
+ }
+}

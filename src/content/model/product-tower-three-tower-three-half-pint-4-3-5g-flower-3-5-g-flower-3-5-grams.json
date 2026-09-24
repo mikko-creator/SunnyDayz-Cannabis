@@ -1,0 +1,208 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-half-pint-4-3-5g-flower-3-5-g-flower-3-5-grams",
+ "slug": "product-tower-three-tower-three-half-pint-4-3-5g-flower-3-5-g-flower-3-5-grams",
+ "type": "product",
+ "title": "TOWER THREE - Tower Three - Half Pint 4 - 3.5G Flower",
+ "seoTitle": "TOWER THREE - Tower Three - Half Pint 4 - 3.5G Flower",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Flower",
+    "href": "/collection/flower"
+   },
+   {
+    "label": "Tower Three - Half Pint 4 - 3.5G Flower",
+    "href": null
+   }
+  ],
+  "h1": "Tower Three - Half Pint 4 - 3.5G Flower",
+  "name": "Tower Three - Half Pint 4 - 3.5G Flower",
+  "brand": {
+   "label": "TOWER THREE",
+   "href": "/brand/tower-three"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Flower",
+   "href": "/collection/flower"
+  },
+  "subcategories": [
+   {
+    "label": "PRE-PACK",
+    "href": "/collection/flower/pre-pack"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5c3ca99f-1554-4910-b255-87d9b9352778?w=3840&q=100",
+   "alt": "Tower Three - Half Pint 4 - 3.5G Flower"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5c3ca99f-1554-4910-b255-87d9b9352778?w=3840&q=100",
+    "alt": "Tower Three - Half Pint 4 - 3.5G Flower"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": "Warning",
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": "Cannabinoids"
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "24.6%",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Tower Three presents Half Pint 4, a premium 3.5g flower offering that delivers quality cannabis in a convenient eighth-ounce format. This carefully cultivated flower showcases the brand's commitment to excellence, providing a versatile experience suitable for any time of day. Each bud is hand-selected and expertly cured to preserve natural terpenes and cannabinoids, ensuring optimal potency and flavor. The flower features a complex aroma profile with earthy, herbal notes complemented by subtle sweet undertones. Whether you're rolling your own or packing a bowl, this 3.5g jar provides the perfect amount for personal enjoyment or sharing with friends. Tower Three's dedication to quality cultivation practices shines through in every nug, delivering smooth smoke and satisfying effects. Ideal for both seasoned enthusiasts and newcomers exploring premium flower options.",
+  "warnings": [
+   {
+    "title": "Proposition 65 Warning for California Consumers",
+    "collapsed": true,
+    "toggleIcon": "angle-down",
+    "toggleAriaLabel": "Expand content",
+    "label": "WARNING:",
+    "lines": [
+     "This product can expose you to chemicals including β-myrcene and cannabis smoke, which are known to the State of California to cause cancer, and chemicals including cannabis smoke and 9-tetrahydrocannabinol, which are known to the State of California to cause birth defects or other reproductive harm."
+    ],
+    "moreInfo": {
+     "text": "For more information go to",
+     "label": "www.P65Warnings.ca.gov",
+     "href": "https://www.P65Warnings.ca.gov"
+    },
+    "links": []
+   }
+  ],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "3.5g",
+    "price": "$45",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$45",
+   "original": null,
+   "ariaLabel": "Product price: $45"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Tower Three - Half Pint 4 - 3.5G Flower to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Tower Three - Half Pint 4 - 3.5G Flower to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "TOWER THREE",
+    "href": "/brand/tower-three"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "24.6%"
+   },
+   {
+    "label": "Package Info",
+    "value": "Tower Three Half Pint 4 3 5 G Flower 3 5 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "3.5g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [
+   {
+    "group": "THC",
+    "items": [
+     {
+      "name": "THCA",
+      "value": "27.2%"
+     },
+     {
+      "name": "THC",
+      "value": "24.6%"
+     }
+    ]
+   },
+   {
+    "group": "CBD",
+    "items": [
+     {
+      "name": "CBG",
+      "value": "0.3%"
+     }
+    ]
+   }
+  ],
+  "jsonld": null
+ }
+}

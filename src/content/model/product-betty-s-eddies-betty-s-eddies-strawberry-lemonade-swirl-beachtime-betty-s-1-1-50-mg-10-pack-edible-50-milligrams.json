@@ -1,0 +1,133 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-strawberry-lemonade-swirl-beachtime-betty-s-1-1-50-mg-10-pack-edible-50-milligrams",
+ "slug": "product-betty-s-eddies-betty-s-eddies-strawberry-lemonade-swirl-beachtime-betty-s-1-1-50-mg-10-pack-edible-50-milligrams",
+ "type": "product",
+ "title": "BETTY'S EDDIES - Betty's Eddies | Strawberry Lemonade Swirl | Beachtime Betty's | 1:1",
+ "seoTitle": "BETTY'S EDDIES - Betty's Eddies | Strawberry Lemonade Swirl | Beachtime Betty's | 1:1",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Betty's Eddies | Strawberry Lemonade Swirl | Beachtime Betty's | 1:1",
+    "href": null
+   }
+  ],
+  "h1": "Betty's Eddies | Strawberry Lemonade Swirl | Beachtime Betty's | 1:1",
+  "name": "Betty's Eddies | Strawberry Lemonade Swirl | Beachtime Betty's | 1:1",
+  "brand": {
+   "label": "BETTY'S EDDIES",
+   "href": "/brand/bettys-eddies"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "CHEW",
+    "href": "/collection/edible/chew"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/beeaf7f6-9811-4a3d-8eae-2e261788c05d?w=3840&q=100",
+   "alt": "Betty's Eddies | Strawberry Lemonade Swirl | Beachtime Betty's | 1:1"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/beeaf7f6-9811-4a3d-8eae-2e261788c05d?w=3840&q=100",
+    "alt": "Betty's Eddies | Strawberry Lemonade Swirl | Beachtime Betty's | 1:1"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "50MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Betty's Eddies Strawberry Lemonade Swirl Beachtime Betty's 1:1 THC:CBG chews deliver a perfectly balanced hybrid experience with 50mg total. Each edible offers an equal ratio of THC and CBD, making them ideal for those seeking both uplifting and relaxing effects. The sweet strawberry and tart lemon flavors swirl together in every bite, creating a refreshing tropical taste that's perfect for any occasion. This balanced 1:1 formulation promotes a harmonious experience that's both social and focused, while providing gentle relief without overwhelming intensity. Betty's Eddies are crafted for consistency and quality, ensuring each chew delivers a reliable, enjoyable experience. Whether you're looking to unwind after a long day or enhance your creative pursuits, these strawberry lemonade chews offer a delicious and effective way to find your perfect balance.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "BETTYS EDDIES",
+    "href": "/brand/bettys-eddies"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "50MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Bettys Eddies Strawberry Lemonade Swirl Beachtime Bettys 1 1 50 Mg 10 Pack"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

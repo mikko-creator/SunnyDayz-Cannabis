@@ -1,0 +1,133 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/coast-coast-blissful-blueberry-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+ "slug": "product-coast-coast-blissful-blueberry-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+ "type": "product",
+ "title": "COAST - Coast - Blissful Blueberry - Gummy - 5:5:5",
+ "seoTitle": "COAST - Coast - Blissful Blueberry - Gummy - 5:5:5",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Coast - Blissful Blueberry - Gummy - 5:5:5",
+    "href": null
+   }
+  ],
+  "h1": "Coast - Blissful Blueberry - Gummy - 5:5:5",
+  "name": "Coast - Blissful Blueberry - Gummy - 5:5:5",
+  "brand": {
+   "label": "COAST",
+   "href": "/brand/coast"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Indica",
+   "key": "indica",
+   "ariaLabel": "Flower type: Indica"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "GUMMY",
+    "href": "/collection/edible/gummy"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5f344554-b9a9-47b9-be81-c2b3615732b7?w=3840&q=100",
+   "alt": "Coast - Blissful Blueberry - Gummy - 5:5:5"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5f344554-b9a9-47b9-be81-c2b3615732b7?w=3840&q=100",
+    "alt": "Coast - Blissful Blueberry - Gummy - 5:5:5"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "100MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Coast Blissful Blueberry Gummies deliver a perfectly balanced 5:5:5 ratio of THC:CBN:CBC cannabinoids in a delicious 100mg edible. These indica-dominant gummies combine sweet blueberry flavor with calming effects designed to promote relaxation and ease. Each gummy offers a consistent dose, making it simple to find your ideal experience whether you're unwinding after a long day or seeking restful sleep. The natural blueberry taste creates a fruity, enjoyable consumption method without any harsh cannabis flavor. Coast crafts these gummies for those who appreciate quality edibles that deliver reliable results. Perfect for evening use, these treats may help you feel relaxed, happy, and ready to melt into your favorite spot. The convenient gummy format makes dosing straightforward and discreet, ideal for both new and experienced cannabis consumers seeking the therapeutic benefits of indica effects paired with delightful berry sweetness.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "COAST",
+    "href": "/brand/coast"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Indica",
+    "href": "/strain/Indica"
+   },
+   {
+    "label": "THC",
+    "value": "100MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Coast Blissful Blueberry Gummy 5 5 5 100 Mg 20 Pack"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

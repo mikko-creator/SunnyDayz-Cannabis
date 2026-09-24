@@ -1,0 +1,164 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/coast-coast-cookies-cream-white-chocolate-bar-100-mg-edible-100-milligrams",
+ "slug": "product-coast-coast-cookies-cream-white-chocolate-bar-100-mg-edible-100-milligrams",
+ "type": "product",
+ "title": "COAST - Coast - Cookies & Cream White Chocolate Bar - 100mg",
+ "seoTitle": "COAST - Coast - Cookies & Cream White Chocolate Bar - 100mg",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Coast - Cookies & Cream White Chocolate Bar - 100mg",
+    "href": null
+   }
+  ],
+  "h1": "Coast - Cookies & Cream White Chocolate Bar - 100mg",
+  "name": "Coast - Cookies & Cream White Chocolate Bar - 100mg",
+  "brand": {
+   "label": "COAST",
+   "href": "/brand/coast"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "CHOCOLATE",
+    "href": "/collection/edible/chocolate"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5d281096-7ab7-4c81-95b8-a98d6473ce70?w=3840&q=100",
+   "alt": "Coast - Cookies & Cream White Chocolate Bar - 100mg"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5d281096-7ab7-4c81-95b8-a98d6473ce70?w=3840&q=100",
+    "alt": "Coast - Cookies & Cream White Chocolate Bar - 100mg"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "100MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Coast Cookies & Cream White Chocolate Bar delivers 100mg of THC in a decadent edible experience that chocolate lovers crave. This premium chocolate bar blends smooth white chocolate with crunchy cookies and cream pieces, creating a sweet, creamy indulgence with every bite. Coast crafts each bar with precision dosing, making it easy to enjoy your preferred experience whether you're seeking relaxation after a long day or enhancing social moments with friends. The rich, velvety texture melts on your tongue while delivering consistent effects. Perfect for sharing or savoring solo, this 100mg bar offers versatile dosing options—break off a piece for a mild experience or enjoy more for deeper effects. The familiar cookies and cream flavor profile makes this edible approachable for both newcomers and seasoned consumers. Coast combines quality ingredients with reliable potency, ensuring each square provides the same delicious taste and predictable results every time.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "each",
+    "price": "$20",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$20",
+   "original": null,
+   "ariaLabel": "Product price: $20"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Coast - Cookies & Cream White Chocolate Bar - 100mg to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Coast - Cookies & Cream White Chocolate Bar - 100mg to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "COAST",
+    "href": "/brand/coast"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "100MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Coast Cookies Cream White Chocolate Bar 100 Mg"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

@@ -1,0 +1,145 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/grav-classic-spoon-amber-hand-pipe-one-size-merch",
+ "slug": "product-grav-classic-spoon-amber-hand-pipe-one-size-merch",
+ "type": "product",
+ "title": "GRAV - Classic Spoon - Amber - Hand Pipe",
+ "seoTitle": "GRAV - Classic Spoon - Amber - Hand Pipe",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Merch",
+    "href": "/collection/merch"
+   },
+   {
+    "label": "Classic Spoon - Amber - Hand Pipe",
+    "href": null
+   }
+  ],
+  "h1": "Classic Spoon - Amber - Hand Pipe",
+  "name": "Classic Spoon - Amber - Hand Pipe",
+  "brand": {
+   "label": "GRAV",
+   "href": "/brand/grav"
+  },
+  "badges": [],
+  "strainType": null,
+  "category": {
+   "label": "Merch",
+   "href": "/collection/merch"
+  },
+  "subcategories": [
+   {
+    "label": "PIPE",
+    "href": "/collection/merch/pipe"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/77caf090-7bcb-4d57-988c-743238a8196c?w=3840&q=100",
+   "alt": "Classic Spoon - Amber - Hand Pipe"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/77caf090-7bcb-4d57-988c-743238a8196c?w=3840&q=100",
+    "alt": "Classic Spoon - Amber - Hand Pipe"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": null,
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [],
+  "disclaimer": null,
+  "description": "The Grav Classic Spoon in Amber is a timeless hand pipe that combines form and function for everyday enjoyment. Crafted from durable borosilicate glass, this sleek amber-colored piece features Grav's signature quality and attention to detail. The ergonomic spoon design fits comfortably in your hand, while the deep bowl provides ample space for your favorite flower. A strategically placed carb hole allows for smooth, controlled airflow and easy clearing. The Classic Spoon's compact size makes it perfect for on-the-go sessions or relaxing at home. Easy to clean and built to last, this hand pipe delivers consistently smooth hits with minimal effort. Whether you're new to smoking or a seasoned enthusiast, the Grav Classic Spoon offers reliable performance in a beautifully simple design that never goes out of style.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "",
+    "price": "$20",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$20",
+   "original": null,
+   "ariaLabel": "Product price: $20"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Classic Spoon - Amber - Hand Pipe to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Classic Spoon - Amber - Hand Pipe to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "GRAV",
+    "href": "/brand/grav"
+   },
+   {
+    "label": "Package Info",
+    "value": "Classic Spoon Amber Hand Pipe One Size"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

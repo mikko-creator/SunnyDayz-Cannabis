@@ -1,0 +1,279 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/brand/omg",
+ "slug": "brand-omg",
+ "type": "brand",
+ "title": "OMG",
+ "seoTitle": "OMG",
+ "model": {
+  "kind": "brand",
+  "path": "/brand/omg",
+  "slug": "omg",
+  "name": "OMG",
+  "h1": "OMG",
+  "logo": null,
+  "banner": {
+   "title": "OMG",
+   "description": "Shop cannabis products from OMG at a dispensary near you",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Brands",
+    "href": "/brands"
+   },
+   {
+    "label": "OMG",
+    "href": null
+   }
+  ],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "loading",
+  "emptyState": null,
+  "cards": [],
+  "productCount": 5,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/omg-omg-shady-icee-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "OMG - Shady Icee - 3.5G Flower",
+    "brand": "OMG",
+    "description": "OMG brings you Shady Icee, a premium hybrid flower that delivers the perfect balance of relaxation and uplift in a convenient 3.5g pre-pack. This carefully cultivated strain combines the best of both worlds, offering effects that ease tension while keeping your mind clear and focused. Shady Icee delights the senses with frosty, resinous buds that showcase vibrant colors and exceptional quality. The flavor profile features refreshing notes of citrus and sweet tropical fruit with subtle earthy undertones, creating a smooth and enjoyable experience from first inhale to last. Ideal for any time of day, this hybrid provides a euphoric, happy high that promotes creativity and social connection without overwhelming sedation. Whether you're unwinding after work or sparking inspiration for your next project, OMG's Shady Icee delivers consistent quality and potent effects. Perfect for both seasoned enthusiasts and those seeking a well-rounded cannabis experience.",
+    "price": "$40",
+    "priceAmount": 40,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/be5e7ed0-924d-4ee9-8c9b-62d1d57abcf9",
+     "alt": "OMG - Shady Icee - 3.5G Flower"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/omg-omg-mac-1-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "OMG - Mac 1 - 3.5G Flower",
+    "brand": "OMG",
+    "description": "OMG brings you Mac 1, a premium hybrid flower that's earned legendary status among cannabis connoisseurs. This 3.5g jar showcases dense, frosty buds with a captivating aroma profile blending citrus, earthy, and diesel notes. Mac 1 delivers a beautifully balanced hybrid experience—expect uplifted euphoria paired with deep relaxation that soothes both mind and body. Creative and focused energy makes it perfect for daytime inspiration or unwinding after work. The flavor profile is equally impressive, offering sweet citrus and herbal undertones with a smooth, satisfying finish. Whether you're seeking creative flow, social vibes, or simply relief from daily stress, Mac 1's well-rounded effects make it a versatile choice for any occasion. OMG's commitment to quality ensures each eighth delivers consistent potency and exceptional freshness in every bud.",
+    "price": "$40",
+    "priceAmount": 40,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5c618d1-a8e1-48f9-ae31-0d8afbd94f69",
+     "alt": "OMG - Mac 1 - 3.5G Flower"
+    }
+   },
+   {
+    "position": 3,
+    "url": "/product/omg-omg-pink-runtz-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "OMG - Pink Runtz - 3.5G Flower",
+    "brand": "OMG",
+    "description": "OMG brings you Pink Runtz, a highly sought-after hybrid flower that delivers the perfect balance of uplifting euphoria and soothing relaxation. This 3.5g pre-pack showcases dense, colorful buds with a sweet, fruity aroma reminiscent of tropical candy with hints of berry and citrus. Known for its delicious flavor profile, Pink Runtz offers a smooth, creamy smoke with notes of sweet fruit and earthy undertones. Perfect for social gatherings or creative pursuits, this hybrid strain promotes a happy, focused mindset while easing tension throughout the body. Whether you're looking to elevate your mood or unwind after a long day, OMG Pink Runtz flower delivers a flavorful, well-rounded experience that's become a favorite among cannabis enthusiasts seeking quality and consistency in every session.",
+    "price": "$40",
+    "priceAmount": 40,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/639272a9-83fc-4480-b4e4-b0025def2089",
+     "alt": "OMG - Pink Runtz - 3.5G Flower"
+    }
+   },
+   {
+    "position": 4,
+    "url": "/product/omg-omg-honey-berriez-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "OMG - Honey Berriez - 3.5G Flower",
+    "brand": "OMG",
+    "description": "OMG Honey Berriez brings together the best of both worlds in this premium 3.5g hybrid flower. Perfectly balanced to deliver a harmonious blend of uplifting and relaxing effects, this strain offers a sweet, berry-forward flavor profile with honey-like undertones that make every session a treat. The vibrant buds showcase quality cultivation, providing smooth, flavorful smoke that appeals to both seasoned enthusiasts and newcomers alike. Expect a euphoric head high paired with gentle body relaxation—ideal for social gatherings, creative pursuits, or unwinding after a long day. The enticing aroma of fresh berries and sweet honey fills the air, making Honey Berriez a standout choice for those seeking flavorful, well-rounded cannabis. This pre-packaged flower maintains peak freshness and potency, ready to enjoy right out of the eighth.",
+    "price": "$40",
+    "priceAmount": 40,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a8829b94-2543-47dc-bfd3-3997f1488f3e",
+     "alt": "OMG - Honey Berriez - 3.5G Flower"
+    }
+   },
+   {
+    "position": 5,
+    "url": "/product/omg-omg-chocolate-og-3-5g-flower-3-5-g-flower-3-5-grams",
+    "name": "OMG - Chocolate OG - 3.5G Flower",
+    "brand": "OMG",
+    "description": "OMG brings you Chocolate OG, a premium indica flower that delivers deep relaxation in every bud of this 3.5g pre-pack. This classic strain is renowned for its rich, indulgent profile that combines earthy chocolate notes with subtle hints of coffee and sweet vanilla undertones. As an indica-dominant flower, Chocolate OG offers a soothing experience perfect for unwinding after a long day, promoting relaxation and calm. The dense, frosty buds showcase the quality and care OMG puts into every pre-packaged eighth. Whether you're seeking relief from stress or simply looking to melt into your couch, this strain's euphoric yet grounding effects make it an ideal choice for evening enjoyment. Experience the decadent flavor and powerful relaxation that has made Chocolate OG a beloved favorite among indica enthusiasts.",
+    "price": "$40",
+    "priceAmount": 40,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/63db6fde-0b02-496f-8c5c-a3d8bd256517",
+     "alt": "OMG - Chocolate OG - 3.5G Flower"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/brands",
+       "name": "Brands"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "OMG"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "OMG",
+       "description": "OMG brings you Shady Icee, a premium hybrid flower that delivers the perfect balance of relaxation and uplift in a convenient 3.5g pre-pack. This carefully cultivated strain combines the best of both worlds, offering effects that ease tension while keeping your mind clear and focused. Shady Icee delights the senses with frosty, resinous buds that showcase vibrant colors and exceptional quality. The flavor profile features refreshing notes of citrus and sweet tropical fruit with subtle earthy undertones, creating a smooth and enjoyable experience from first inhale to last. Ideal for any time of day, this hybrid provides a euphoric, happy high that promotes creativity and social connection without overwhelming sedation. Whether you&apos;re unwinding after work or sparking inspiration for your next project, OMG&apos;s Shady Icee delivers consistent quality and potent effects. Perfect for both seasoned enthusiasts and those seeking a well-rounded cannabis experience.",
+       "name": "OMG - Shady Icee - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/omg-omg-shady-icee-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/be5e7ed0-924d-4ee9-8c9b-62d1d57abcf9"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "OMG",
+       "description": "OMG brings you Mac 1, a premium hybrid flower that&apos;s earned legendary status among cannabis connoisseurs. This 3.5g jar showcases dense, frosty buds with a captivating aroma profile blending citrus, earthy, and diesel notes. Mac 1 delivers a beautifully balanced hybrid experience—expect uplifted euphoria paired with deep relaxation that soothes both mind and body. Creative and focused energy makes it perfect for daytime inspiration or unwinding after work. The flavor profile is equally impressive, offering sweet citrus and herbal undertones with a smooth, satisfying finish. Whether you&apos;re seeking creative flow, social vibes, or simply relief from daily stress, Mac 1&apos;s well-rounded effects make it a versatile choice for any occasion. OMG&apos;s commitment to quality ensures each eighth delivers consistent potency and exceptional freshness in every bud.",
+       "name": "OMG - Mac 1 - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/omg-omg-mac-1-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5c618d1-a8e1-48f9-ae31-0d8afbd94f69"
+      },
+      "position": "2"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "OMG",
+       "description": "OMG brings you Pink Runtz, a highly sought-after hybrid flower that delivers the perfect balance of uplifting euphoria and soothing relaxation. This 3.5g pre-pack showcases dense, colorful buds with a sweet, fruity aroma reminiscent of tropical candy with hints of berry and citrus. Known for its delicious flavor profile, Pink Runtz offers a smooth, creamy smoke with notes of sweet fruit and earthy undertones. Perfect for social gatherings or creative pursuits, this hybrid strain promotes a happy, focused mindset while easing tension throughout the body. Whether you&apos;re looking to elevate your mood or unwind after a long day, OMG Pink Runtz flower delivers a flavorful, well-rounded experience that&apos;s become a favorite among cannabis enthusiasts seeking quality and consistency in every session.",
+       "name": "OMG - Pink Runtz - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/omg-omg-pink-runtz-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/639272a9-83fc-4480-b4e4-b0025def2089"
+      },
+      "position": "3"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "OMG",
+       "description": "OMG Honey Berriez brings together the best of both worlds in this premium 3.5g hybrid flower. Perfectly balanced to deliver a harmonious blend of uplifting and relaxing effects, this strain offers a sweet, berry-forward flavor profile with honey-like undertones that make every session a treat. The vibrant buds showcase quality cultivation, providing smooth, flavorful smoke that appeals to both seasoned enthusiasts and newcomers alike. Expect a euphoric head high paired with gentle body relaxation—ideal for social gatherings, creative pursuits, or unwinding after a long day. The enticing aroma of fresh berries and sweet honey fills the air, making Honey Berriez a standout choice for those seeking flavorful, well-rounded cannabis. This pre-packaged flower maintains peak freshness and potency, ready to enjoy right out of the eighth.",
+       "name": "OMG - Honey Berriez - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/omg-omg-honey-berriez-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a8829b94-2543-47dc-bfd3-3997f1488f3e"
+      },
+      "position": "4"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "OMG",
+       "description": "OMG brings you Chocolate OG, a premium indica flower that delivers deep relaxation in every bud of this 3.5g pre-pack. This classic strain is renowned for its rich, indulgent profile that combines earthy chocolate notes with subtle hints of coffee and sweet vanilla undertones. As an indica-dominant flower, Chocolate OG offers a soothing experience perfect for unwinding after a long day, promoting relaxation and calm. The dense, frosty buds showcase the quality and care OMG puts into every pre-packaged eighth. Whether you&apos;re seeking relief from stress or simply looking to melt into your couch, this strain&apos;s euphoric yet grounding effects make it an ideal choice for evening enjoyment. Experience the decadent flavor and powerful relaxation that has made Chocolate OG a beloved favorite among indica enthusiasts.",
+       "name": "OMG - Chocolate OG - 3.5G Flower",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/omg-omg-chocolate-og-3-5g-flower-3-5-g-flower-3-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/63db6fde-0b02-496f-8c5c-a3d8bd256517"
+      },
+      "position": "5"
+     }
+    ]
+   }
+  ]
+ }
+}

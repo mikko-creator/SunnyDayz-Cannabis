@@ -1,0 +1,133 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/coast-coast-milk-chocolate-bar-100-mg-edible-100-milligrams",
+ "slug": "product-coast-coast-milk-chocolate-bar-100-mg-edible-100-milligrams",
+ "type": "product",
+ "title": "COAST - Coast - Milk Chocolate Bar - 100mg",
+ "seoTitle": "COAST - Coast - Milk Chocolate Bar - 100mg",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Coast - Milk Chocolate Bar - 100mg",
+    "href": null
+   }
+  ],
+  "h1": "Coast - Milk Chocolate Bar - 100mg",
+  "name": "Coast - Milk Chocolate Bar - 100mg",
+  "brand": {
+   "label": "COAST",
+   "href": "/brand/coast"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "CHOCOLATE",
+    "href": "/collection/edible/chocolate"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0d788732-7c76-4e4b-b0a8-cfcabe874fae?w=3840&q=100",
+   "alt": "Coast - Milk Chocolate Bar - 100mg"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0d788732-7c76-4e4b-b0a8-cfcabe874fae?w=3840&q=100",
+    "alt": "Coast - Milk Chocolate Bar - 100mg"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "100MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Coast Milk Chocolate Bar delivers 100mg of hybrid cannabis in a deliciously smooth, premium chocolate edible. This indulgent treat combines rich, creamy chocolate flavor with balanced hybrid effects that promote both relaxation and uplift. Perfect for those seeking a versatile experience, each bar offers precise dosing and convenient portability. The Coast brand is known for quality edibles that merge great taste with reliable potency. Whether you're unwinding after a long day or enhancing a social gathering, this milk chocolate bar provides a happy, euphoric experience with every bite. The 100mg total THC allows for customizable dosing—break off a piece for a milder effect or enjoy more for deeper relaxation. Ideal for chocolate lovers who appreciate the perfect balance of flavor and function in their cannabis edibles.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "COAST",
+    "href": "/brand/coast"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "100MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Coast Milk Chocolate Bar 100 Mg"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

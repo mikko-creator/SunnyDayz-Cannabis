@@ -1,0 +1,211 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/nature-s-heritage-nature-s-heritage-tropical-citrus-x-early-lemon-berry-5g-2pk-pre-roll-1-g-preroll-1-grams",
+ "slug": "product-nature-s-heritage-nature-s-heritage-tropical-citrus-x-early-lemon-berry-5g-2pk-pre-roll-1-g-preroll-1-grams",
+ "type": "product",
+ "title": "NATURE'S HERITAGE - Nature's Heritage - Tropical & Citrus x Early Lemon Berry - .5G 2pk Pre-roll - Sample",
+ "seoTitle": "NATURE'S HERITAGE - Nature's Heritage - Tropical & Citrus x Early Lemon Berry - .5G 2pk Pre-roll - Sample",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Preroll",
+    "href": "/collection/preroll"
+   },
+   {
+    "label": "Nature's Heritage - Tropical & Citrus x Early Lemon Berry - .5G 2pk Pre-roll - Sample",
+    "href": null
+   }
+  ],
+  "h1": "Nature's Heritage - Tropical & Citrus x Early Lemon Berry - .5G 2pk Pre-roll - Sample",
+  "name": "Nature's Heritage - Tropical & Citrus x Early Lemon Berry - .5G 2pk Pre-roll - Sample",
+  "brand": {
+   "label": "NATURE'S HERITAGE",
+   "href": "/brand/natures-heritage"
+  },
+  "badges": [],
+  "strainType": null,
+  "category": {
+   "label": "Preroll",
+   "href": "/collection/preroll"
+  },
+  "subcategories": [
+   {
+    "label": "FLOWER",
+    "href": "/collection/preroll/flower"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/73e328ce-7e4e-44d7-9650-ed5a1fcdfc49?w=3840&q=100",
+   "alt": "Nature's Heritage - Tropical & Citrus x Early Lemon Berry - .5G 2pk Pre-roll - Sample"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/73e328ce-7e4e-44d7-9650-ed5a1fcdfc49?w=3840&q=100",
+    "alt": "Nature's Heritage - Tropical & Citrus x Early Lemon Berry - .5G 2pk Pre-roll - Sample"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": "Warning",
+   "about": "About this product",
+   "terpenes": "Terpenes",
+   "cannabinoids": "Cannabinoids"
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "21.29%",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Nature's Heritage brings you Tropical & Citrus x Early Lemon Berry pre-rolls, a convenient 2-pack totaling 1g of premium flower. This exciting cross delivers a vibrant fusion of tropical fruit notes with bright citrus and zesty lemon berry undertones that awaken the senses. Each .5g pre-roll is expertly crafted for smooth, flavorful sessions whether you're at home or on the go. The exotic flavor profile features layers of sweet tropical fruits complemented by tangy citrus and refreshing lemon, creating a uniquely satisfying smoke. Perfect for cannabis enthusiasts seeking quality and convenience in one package, these pre-rolls showcase Nature's Heritage's commitment to premium flower and exceptional taste. Ideal for sharing or enjoying solo, this sample pack lets you experience bold, citrus-forward flavor with the trusted quality Nature's Heritage is known for.",
+  "warnings": [
+   {
+    "title": "Proposition 65 Warning for California Consumers",
+    "collapsed": true,
+    "toggleIcon": "angle-down",
+    "toggleAriaLabel": "Expand content",
+    "label": "WARNING:",
+    "lines": [
+     "This product can expose you to chemicals including β-myrcene and cannabis smoke, which are known to the State of California to cause cancer, and chemicals including cannabis smoke and 9-tetrahydrocannabinol, which are known to the State of California to cause birth defects or other reproductive harm."
+    ],
+    "moreInfo": {
+     "text": "For more information go to",
+     "label": "www.P65Warnings.ca.gov",
+     "href": "https://www.P65Warnings.ca.gov"
+    },
+    "links": []
+   }
+  ],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "NATURES HERITAGE",
+    "href": "/brand/natures-heritage"
+   },
+   {
+    "label": "THC",
+    "value": "21.29%"
+   },
+   {
+    "label": "Package Info",
+    "value": "Natures Heritage Tropical Citrus X Early Lemon Berry 5 G 2 Pk Pre Roll 1 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "1g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [
+   {
+    "name": "Limonene",
+    "value": "0.605 %",
+    "aroma": "Citrus",
+    "effects": "Elevated mood, anti-anxiety"
+   },
+   {
+    "name": "Beta Myrcene",
+    "value": "0.5 %",
+    "aroma": "Herbal",
+    "effects": "Relaxing, Sedation, Heaviness, Couch Lock"
+   },
+   {
+    "name": "Beta Caryophyllene",
+    "value": "0.243 %",
+    "aroma": "Peppery",
+    "effects": "Anti-inflammatory, analgesic, calming"
+   },
+   {
+    "name": "Beta Pinene",
+    "value": "0.115 %",
+    "aroma": "Pine",
+    "effects": "Focus, Relief, Alert, Balanced"
+   },
+   {
+    "name": "Alpha Humulene",
+    "value": "0.099 %",
+    "aroma": "Hoppy",
+    "effects": "Pain relief, appetite suppression"
+   },
+   {
+    "name": "Alpha Pinene",
+    "value": "0.071 %",
+    "aroma": "Pine",
+    "effects": "Focus, Relief, Alert, Balanced"
+   },
+   {
+    "name": "Alpha Bisabolol",
+    "value": "0.029 %",
+    "aroma": "Floral",
+    "effects": "Soothing, Anti-inflammatory"
+   }
+  ],
+  "cannabinoids": [
+   {
+    "group": "THC",
+    "items": [
+     {
+      "name": "THCA",
+      "value": "24.048%"
+     },
+     {
+      "name": "THC",
+      "value": "21.2901%"
+     }
+    ]
+   },
+   {
+    "group": "CBD",
+    "items": [
+     {
+      "name": "CBG",
+      "value": "0.106%"
+     }
+    ]
+   }
+  ],
+  "jsonld": null
+ }
+}

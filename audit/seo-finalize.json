@@ -1,0 +1,63 @@
+{
+ "schema": "sunnydayz/seo-finalize@1",
+ "generated": "2026-09-24T01:40:48.548Z",
+ "siteUrl": "https://www.sunnydayzcannabis.com",
+ "note": "sitemap.xml + llms.txt rewritten after sr-seo --apply: <loc> = each page's canonical, noindex pages excluded, URLs percent-encoded, every <loc> resolved to a built file.",
+ "before": {
+  "locs": 250,
+  "htmlSuffixed": 249,
+  "withRawSpace": 2
+ },
+ "after": {
+  "locs": 240,
+  "htmlSuffixed": 0
+ },
+ "excluded": [
+  {
+   "file": "Small Batch, Real Farmers, Real Flavor..html",
+   "why": "noindex"
+  },
+  {
+   "file": "all-products.html",
+   "why": "noindex"
+  },
+  {
+   "file": "collection/extract/sugar.html",
+   "why": "noindex"
+  },
+  {
+   "file": "collection/flower/bulk-flower.html",
+   "why": "noindex"
+  },
+  {
+   "file": "collection/merch/hoodie.html",
+   "why": "noindex"
+  },
+  {
+   "file": "collection/pill.html",
+   "why": "noindex"
+  },
+  {
+   "file": "collection/preroll/infused.html",
+   "why": "noindex"
+  },
+  {
+   "file": "daily-specials.html",
+   "why": "noindex"
+  },
+  {
+   "file": "strain/S I.html",
+   "why": "noindex"
+  },
+  {
+   "file": "strain/si.html",
+   "why": "source canonical names a URL neither site serves: https://www.sunnydayzcannabis.com/strain/s/i"
+  }
+ ],
+ "sourceDefects": [
+  {
+   "file": "strain/si.html",
+   "canonical": "https://www.sunnydayzcannabis.com/strain/s/i"
+  }
+ ]
+}

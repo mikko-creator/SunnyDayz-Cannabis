@@ -1,0 +1,57 @@
+{
+ "schema": "sunnydayz/model-report@1",
+ "generated": "2026-09-23T05:52:22.596Z",
+ "min": 0.98,
+ "byType": {
+  "blog-post": {
+   "pages": 6,
+   "errors": 0,
+   "below": 0,
+   "minCoverage": 1
+  }
+ },
+ "pages": [
+  {
+   "url": "https://www.sunnydayzcannabis.com/blog/camino-gummies-ranked-by-customer-reviews",
+   "type": "blog-post",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/blog/quiz-toasties-classic-and-toasties-bold--which-toa",
+   "type": "blog-post",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/blog/cannabinoids-and-the-body--all-new-products",
+   "type": "blog-post",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/blog/whats-the-best-vape-pen-for-you",
+   "type": "blog-post",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/blog/the-best-strains-for-the-summer",
+   "type": "blog-post",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  },
+  {
+   "url": "https://www.sunnydayzcannabis.com/blog/purple-wookie-strain",
+   "type": "blog-post",
+   "coverage": 1,
+   "missing": [],
+   "missingCount": 0
+  }
+ ]
+}

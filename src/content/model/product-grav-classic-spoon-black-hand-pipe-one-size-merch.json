@@ -1,0 +1,114 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/grav-classic-spoon-black-hand-pipe-one-size-merch",
+ "slug": "product-grav-classic-spoon-black-hand-pipe-one-size-merch",
+ "type": "product",
+ "title": "GRAV - Classic Spoon - Black - Hand Pipe",
+ "seoTitle": "GRAV - Classic Spoon - Black - Hand Pipe",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Merch",
+    "href": "/collection/merch"
+   },
+   {
+    "label": "Classic Spoon - Black - Hand Pipe",
+    "href": null
+   }
+  ],
+  "h1": "Classic Spoon - Black - Hand Pipe",
+  "name": "Classic Spoon - Black - Hand Pipe",
+  "brand": {
+   "label": "GRAV",
+   "href": "/brand/grav"
+  },
+  "badges": [],
+  "strainType": null,
+  "category": {
+   "label": "Merch",
+   "href": "/collection/merch"
+  },
+  "subcategories": [
+   {
+    "label": "PIPE",
+    "href": "/collection/merch/pipe"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a8395c55-5940-45dc-8dfe-6fae983a274f?w=3840&q=100",
+   "alt": "Classic Spoon - Black - Hand Pipe"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a8395c55-5940-45dc-8dfe-6fae983a274f?w=3840&q=100",
+    "alt": "Classic Spoon - Black - Hand Pipe"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": null,
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [],
+  "disclaimer": null,
+  "description": "The GRAV Classic Spoon in sleek black is a timeless hand pipe designed for smooth, reliable sessions. Crafted by GRAV, a trusted name in premium smoking accessories, this pipe features durable borosilicate glass construction that delivers clean, flavorful hits every time. Its classic spoon design fits comfortably in your hand and pocket, making it perfect for on-the-go use or relaxed home sessions. The deep bowl accommodates generous amounts while the built-in carb hole allows for precise airflow control. Easy to clean and built to last, this one-size pipe combines function with understated style. Whether you're a seasoned smoker or new to hand pipes, the GRAV Classic Spoon offers exceptional quality and performance in a compact, portable design that never goes out of style.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "GRAV",
+    "href": "/brand/grav"
+   },
+   {
+    "label": "Package Info",
+    "value": "Classic Spoon Black Hand Pipe One Size"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

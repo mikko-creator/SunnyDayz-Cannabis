@@ -1,0 +1,133 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/keef-keef-original-cola-5-mg-beverage-5-milligrams",
+ "slug": "product-keef-keef-original-cola-5-mg-beverage-5-milligrams",
+ "type": "product",
+ "title": "KEEF - Keef | Original Cola",
+ "seoTitle": "KEEF - Keef | Original Cola",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Beverage",
+    "href": "/collection/beverage"
+   },
+   {
+    "label": "Keef | Original Cola",
+    "href": null
+   }
+  ],
+  "h1": "Keef | Original Cola",
+  "name": "Keef | Original Cola",
+  "brand": {
+   "label": "KEEF",
+   "href": "/brand/keef"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Beverage",
+   "href": "/collection/beverage"
+  },
+  "subcategories": [
+   {
+    "label": "OTHER",
+    "href": "/collection/beverage/other"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/13af6a26-e337-425d-9aea-c2dca2ba5bf1?w=3840&q=100",
+   "alt": "Keef | Original Cola"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/13af6a26-e337-425d-9aea-c2dca2ba5bf1?w=3840&q=100",
+    "alt": "Keef | Original Cola"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "5MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Keef Original Cola brings the classic soda experience to the cannabis beverage space with a perfectly balanced hybrid twist. This 5 mg THC-infused refreshment delivers the iconic cola flavor you know and love—sweet, crisp, and effervescent—while offering a gentle, approachable dose ideal for both newcomers and seasoned enthusiasts. As a hybrid beverage, it promotes a harmonious blend of uplifting and relaxing effects, making it perfect for social gatherings, creative pursuits, or simply unwinding after a long day. Keef has crafted a fast-acting formula that lets you feel the effects quickly, so you can enjoy your experience without the wait. Whether you're looking to stay social and happy or find a moment of calm relaxation, this cannabis-infused soda offers a delicious, discreet, and convenient way to elevate your day.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "KEEF",
+    "href": "/brand/keef"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "5MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Keef Original Cola 5 Mg"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

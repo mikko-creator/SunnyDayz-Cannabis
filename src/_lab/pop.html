@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lab — depth system</title>
+<link rel="stylesheet" href="/styles/tokens.css">
+<link rel="stylesheet" href="/styles/base.css">
+<link rel="stylesheet" href="/styles/neumorph.css">
+<style>
+  .lab-grid { display: grid; gap: 64px 40px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr)); align-items: end; }
+  .lab-tile { text-decoration: none; color: inherit; display: block; }
+  .lab-tile h3 { margin-top: 22px; font-size: var(--step-2); }
+</style>
+</head>
+<body>
+<main class="section">
+  <span class="tex-contour"></span>
+  <div class="sun-orb" style="--orb:360px; right:-80px; top:-60px"></div>
+  <div class="shell stack" style="--stack:48px">
+    <div>
+      <span class="eyebrow">Depth system</span>
+      <h1>Small Batch, <span class="italic-accent">Real Farmers,</span> Real Flavor.</h1>
+      <p class="lede">Lab page for the pop-out frames, neumorphic surfaces and textures.</p>
+      <div class="cluster"><a class="btn btn--sun" href="#">Shop all</a><a class="btn btn--pine" href="#">Get to know us</a><a class="btn" href="#">See all</a><a class="btn btn--ghost" href="#">Ghost</a></div>
+    </div>
+    <div class="lab-grid">
+      <a class="lab-tile" href="#">
+        <figure class="pop" style="--pop-ratio:1600/1211; --pop-top:40%; --pop-origin:50% 60%">
+          <span class="pop__outline"></span><span class="pop__floor"></span>
+          <img class="pop__back" src="/assets/img/gen/flower-800.webp" alt="">
+          <span class="pop__frame"></span>
+          <img class="pop__cut" src="/assets/img/gen/flower-cutout-800.webp" alt="">
+        </figure>
+        <h3>Flower</h3>
+      </a>
+      <a class="lab-tile" href="#">
+        <figure class="pop" style="--pop-ratio:1600/1211; --pop-top:42%; --pop-origin:55% 60%">
+          <span class="pop__outline"></span><span class="pop__floor"></span>
+          <img class="pop__back" src="/assets/img/gen/edibles-800.webp" alt="">
+          <span class="pop__frame"></span>
+          <img class="pop__cut" src="/assets/img/gen/edibles-cutout-800.webp" alt="">
+        </figure>
+        <h3>Edibles</h3>
+      </a>
+      <a class="lab-tile" href="#">
+        <figure class="pop" style="--pop-ratio:1600/2115; --pop-top:46%; --pop-origin:50% 80%">
+          <span class="pop__outline"></span><span class="pop__floor"></span>
+          <img class="pop__back" src="/assets/img/gen/vapes-cartridges-800.webp" alt="">
+          <span class="pop__frame"></span>
+          <img class="pop__cut" src="/assets/img/gen/vapes-cartridges-cutout-800.webp" alt="">
+        </figure>
+        <h3>Vapes &amp; Cartridges</h3>
+      </a>
+    </div>
+    <div class="cluster">
+      <span class="strain strain--indica">Indica</span><span class="strain strain--sativa">Sativa</span><span class="strain strain--hybrid">Hybrid</span><span class="strain strain--cbd">CBD</span>
+      <span class="metric"><b>THC</b> 22.39%</span><span class="metric"><b>TAC</b> 26.6%</span><span class="chip chip--brand">Mass Yield</span>
+    </div>
+    <div class="lab-grid">
+      <div class="neu stacked" style="padding:32px"><h3>Stacked card</h3><p>Two ghost layers behind a raised clay card.</p></div>
+      <div class="neu--inset" style="padding:32px; border-radius:var(--radius)"><h3>Inset well</h3><p>Pressed surface for data panels.</p></div>
+      <div class="neu--glass" style="padding:32px; border-radius:var(--radius)"><h3>Glass</h3><p>Frosted clay over layered textures.</p></div>
+    </div>
+  </div>
+</main>
+</body>
+</html>

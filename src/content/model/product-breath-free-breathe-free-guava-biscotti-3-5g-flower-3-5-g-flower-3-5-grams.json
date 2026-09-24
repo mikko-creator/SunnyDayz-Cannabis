@@ -1,0 +1,204 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/breath-free-breathe-free-guava-biscotti-3-5g-flower-3-5-g-flower-3-5-grams",
+ "slug": "product-breath-free-breathe-free-guava-biscotti-3-5g-flower-3-5-g-flower-3-5-grams",
+ "type": "product",
+ "title": "BREATH FREE - Breathe Free - Guava Biscotti - 3.5G Flower",
+ "seoTitle": "BREATH FREE - Breathe Free - Guava Biscotti - 3.5G Flower",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Flower",
+    "href": "/collection/flower"
+   },
+   {
+    "label": "Breathe Free - Guava Biscotti - 3.5G Flower",
+    "href": null
+   }
+  ],
+  "h1": "Breathe Free - Guava Biscotti - 3.5G Flower",
+  "name": "Breathe Free - Guava Biscotti - 3.5G Flower",
+  "brand": {
+   "label": "BREATH FREE",
+   "href": "/brand/breath-free"
+  },
+  "badges": [],
+  "strainType": null,
+  "category": {
+   "label": "Flower",
+   "href": "/collection/flower"
+  },
+  "subcategories": [
+   {
+    "label": "PRE-PACK",
+    "href": "/collection/flower/pre-pack"
+   }
+  ],
+  "image": {
+   "src": "",
+   "alt": "Breathe Free - Guava Biscotti - 3.5G Flower",
+   "placeholder": true
+  },
+  "images": [
+   {
+    "src": "",
+    "alt": "Breathe Free - Guava Biscotti - 3.5G Flower",
+    "placeholder": true
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": true,
+  "stockPhotoLabel": "Stock photo",
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": "Warning",
+   "about": "About this product",
+   "terpenes": "Terpenes",
+   "cannabinoids": "Cannabinoids"
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "32.987%",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Breathe Free presents Guava Biscotti, a premium 3.5g flower that delivers an exotic sensory experience. This carefully cultivated cannabis flower combines sweet tropical guava notes with rich, nutty biscotti undertones, creating a uniquely indulgent aroma and flavor profile. The dense, resinous buds showcase expert craftsmanship and attention to quality. Guava Biscotti offers a balanced experience that cannabis enthusiasts will appreciate for its distinctive terpene profile and smooth smoke. Whether you're exploring new strains or seeking something memorable, this pre-packed flower provides convenience without compromising quality. Each 3.5g package preserves freshness and potency, making it perfect for those who value both flavor and effect in their cannabis selection.",
+  "warnings": [
+   {
+    "title": "Proposition 65 Warning for California Consumers",
+    "collapsed": true,
+    "toggleIcon": "angle-down",
+    "toggleAriaLabel": "Expand content",
+    "label": "WARNING:",
+    "lines": [
+     "This product can expose you to chemicals including β-myrcene and cannabis smoke, which are known to the State of California to cause cancer, and chemicals including cannabis smoke and 9-tetrahydrocannabinol, which are known to the State of California to cause birth defects or other reproductive harm."
+    ],
+    "moreInfo": {
+     "text": "For more information go to",
+     "label": "www.P65Warnings.ca.gov",
+     "href": "https://www.P65Warnings.ca.gov"
+    },
+    "links": []
+   }
+  ],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "BREATH FREE",
+    "href": "/brand/breath-free"
+   },
+   {
+    "label": "THC",
+    "value": "32.987%"
+   },
+   {
+    "label": "Package Info",
+    "value": "Breathe Free Guava Biscotti 3 5 G Flower 3 5 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "3.5g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [
+   {
+    "name": "Limonene",
+    "value": "0.752 %",
+    "aroma": "Citrus",
+    "effects": "Elevated mood, anti-anxiety"
+   },
+   {
+    "name": "Beta Caryophyllene",
+    "value": "0.565 %",
+    "aroma": "Peppery",
+    "effects": "Anti-inflammatory, analgesic, calming"
+   },
+   {
+    "name": "Beta Myrcene",
+    "value": "0.338 %",
+    "aroma": "Herbal",
+    "effects": "Relaxing, Sedation, Heaviness, Couch Lock"
+   },
+   {
+    "name": "Alpha Humulene",
+    "value": "0.179 %",
+    "aroma": "Hoppy",
+    "effects": "Pain relief, appetite suppression"
+   },
+   {
+    "name": "Beta Pinene",
+    "value": "0.148 %",
+    "aroma": "Pine",
+    "effects": "Focus, Relief, Alert, Balanced"
+   },
+   {
+    "name": "Alpha Pinene",
+    "value": "0.105 %",
+    "aroma": "Pine",
+    "effects": "Focus, Relief, Alert, Balanced"
+   },
+   {
+    "name": "Alpha Bisabolol",
+    "value": "0.063 %",
+    "aroma": "Floral",
+    "effects": "Soothing, Anti-inflammatory"
+   }
+  ],
+  "cannabinoids": [
+   {
+    "group": "THC",
+    "items": [
+     {
+      "name": "THCA",
+      "value": "37.166%"
+     },
+     {
+      "name": "THC",
+      "value": "32.9866%"
+     }
+    ]
+   }
+  ],
+  "jsonld": null
+ }
+}

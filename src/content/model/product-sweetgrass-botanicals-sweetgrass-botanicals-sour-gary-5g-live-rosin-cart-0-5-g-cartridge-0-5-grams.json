@@ -1,0 +1,158 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-sour-gary-5g-live-rosin-cart-0-5-g-cartridge-0-5-grams",
+ "slug": "product-sweetgrass-botanicals-sweetgrass-botanicals-sour-gary-5g-live-rosin-cart-0-5-g-cartridge-0-5-grams",
+ "type": "product",
+ "title": "SWEETGRASS BOTANICALS - Sweetgrass Botanicals - Sour Gary - .5G Live Rosin Cart",
+ "seoTitle": "SWEETGRASS BOTANICALS - Sweetgrass Botanicals - Sour Gary - .5G Live Rosin Cart",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Cartridge",
+    "href": "/collection/cartridge"
+   },
+   {
+    "label": "Sweetgrass Botanicals - Sour Gary - .5G Live Rosin Cart",
+    "href": null
+   }
+  ],
+  "h1": "Sweetgrass Botanicals - Sour Gary - .5G Live Rosin Cart",
+  "name": "Sweetgrass Botanicals - Sour Gary - .5G Live Rosin Cart",
+  "brand": {
+   "label": "SWEETGRASS BOTANICALS",
+   "href": "/brand/sweetgrass-botanicals"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "S/I",
+   "key": "si",
+   "ariaLabel": "Flower type: S I"
+  },
+  "category": {
+   "label": "Cartridge",
+   "href": "/collection/cartridge"
+  },
+  "subcategories": [
+   {
+    "label": "510 THREAD",
+    "href": "/collection/cartridge/510-thread"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/aa2b7c85-71a4-4291-a6c3-332e60f9e3a4?w=3840&q=100",
+   "alt": "Sweetgrass Botanicals - Sour Gary - .5G Live Rosin Cart"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/aa2b7c85-71a4-4291-a6c3-332e60f9e3a4?w=3840&q=100",
+    "alt": "Sweetgrass Botanicals - Sour Gary - .5G Live Rosin Cart"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": null,
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [],
+  "disclaimer": null,
+  "description": "Sweetgrass Botanicals presents Sour Gary, a premium .5g live rosin cartridge that delivers exceptional purity and potency in a convenient 510 thread format. Crafted using solventless extraction methods, this live rosin cart preserves the full spectrum of cannabinoids and cannabis-derived terpenes for an authentic, strain-specific experience. Sour Gary's flavor profile combines tangy citrus notes with earthy, diesel undertones and a distinct sour punch that lingers on the palate. The terpene-rich vapor provides smooth, flavorful draws from start to finish. This cartridge offers potent effects perfect for those seeking quality and convenience in their concentrate experience. Compatible with any standard 510 thread battery, Sweetgrass Botanicals' Sour Gary cart represents craft cannabis extraction at its finest, delivering powerful flavor and effects in every session.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "0.5g",
+    "price": "$40",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$40",
+   "original": null,
+   "ariaLabel": "Product price: $40"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Sweetgrass Botanicals - Sour Gary - .5G Live Rosin Cart to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Sweetgrass Botanicals - Sour Gary - .5G Live Rosin Cart to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "SWEETGRASS BOTANICALS",
+    "href": "/brand/sweetgrass-botanicals"
+   },
+   {
+    "label": "Flower Type",
+    "value": "S/I",
+    "href": "/strain/S%20I"
+   },
+   {
+    "label": "Package Info",
+    "value": "Sweetgrass Botanicals Sour Gary 5 G Live Rosin Cart 0 5 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "0.5g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

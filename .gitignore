@@ -1,0 +1,22 @@
+node_modules/
+.DS_Store
+Thumbs.db
+/.tmp/
+
+# ---- kept in the local workspace, not in the repository ----
+# (every path below is anchored with a leading '/': a bare 'assets/' also matches dist/assets/ and
+#  src/assets/, which ARE the site's images, fonts and film)
+# scratch: QA probes, screenshots, image cache, preview builds (~4 GB)
+/tmp/
+# the harvested source files (~650 MB: images, the client's film). src/build.mjs reads them, so a
+# rebuild needs this folder from the workspace; dist/ in this repo is the built result.
+/assets/
+# the raw live-site capture (HTML, screenshots, per-page renders) — the evidence behind audit/*.json
+/audit/raw/
+/audit/screens/
+/audit/capture/
+/audit/rendered/
+# internal record of how the harvest was authorized
+/facts/authorization.json
+# handoff bundles are built from this tree (sr-package), not versioned in it
+/*.zip

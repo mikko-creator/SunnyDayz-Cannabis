@@ -1,0 +1,236 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-haley-s-comet-haze-1g-pre-roll-1-g-preroll-1-grams",
+ "slug": "product-breathe-free-breathe-free-haley-s-comet-haze-1g-pre-roll-1-g-preroll-1-grams",
+ "type": "product",
+ "title": "BREATHE FREE - Breathe Free - Haley's Comet Haze - 1G Pre-roll",
+ "seoTitle": "BREATHE FREE - Breathe Free - Haley's Comet Haze - 1G Pre-roll",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Preroll",
+    "href": "/collection/preroll"
+   },
+   {
+    "label": "Breathe Free - Haley's Comet Haze - 1G Pre-roll",
+    "href": null
+   }
+  ],
+  "h1": "Breathe Free - Haley's Comet Haze - 1G Pre-roll",
+  "name": "Breathe Free - Haley's Comet Haze - 1G Pre-roll",
+  "brand": {
+   "label": "BREATHE FREE",
+   "href": "/brand/breathe-free"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Sativa",
+   "key": "sativa",
+   "ariaLabel": "Flower type: Sativa"
+  },
+  "category": {
+   "label": "Preroll",
+   "href": "/collection/preroll"
+  },
+  "subcategories": [
+   {
+    "label": "FLOWER",
+    "href": "/collection/preroll/flower"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/bf152e4b-2697-4444-9ead-7044e047193b?w=3840&q=100",
+   "alt": "Breathe Free - Haley's Comet Haze - 1G Pre-roll"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/bf152e4b-2697-4444-9ead-7044e047193b?w=3840&q=100",
+    "alt": "Breathe Free - Haley's Comet Haze - 1G Pre-roll"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": "Warning",
+   "about": "About this product",
+   "terpenes": "Terpenes",
+   "cannabinoids": "Cannabinoids"
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "30.647%",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Breathe Free presents Haley's Comet Haze, a premium 1g preroll crafted for cannabis enthusiasts seeking quality and convenience. This expertly rolled flower preroll delivers a smooth, consistent smoking experience from first light to final puff. Haley's Comet Haze offers an inviting aroma profile with herbal and earthy notes that hint at its rich terpene content. Whether you're looking to unwind after a long day or enhance a social gathering, this preroll provides reliable effects that cannabis lovers appreciate. The 1-gram format is perfect for solo sessions or sharing with friends, offering excellent value and portability. Breathe Free's commitment to quality ensures every preroll is carefully prepared using premium flower, delivering the authentic cannabis experience you deserve. Convenient, ready-to-enjoy, and crafted with care—Haley's Comet Haze makes it easy to elevate your moments.",
+  "warnings": [
+   {
+    "title": "Proposition 65 Warning for California Consumers",
+    "collapsed": true,
+    "toggleIcon": "angle-down",
+    "toggleAriaLabel": "Expand content",
+    "label": "WARNING:",
+    "lines": [
+     "This product can expose you to chemicals including β-myrcene and cannabis smoke, which are known to the State of California to cause cancer, and chemicals including cannabis smoke and 9-tetrahydrocannabinol, which are known to the State of California to cause birth defects or other reproductive harm."
+    ],
+    "moreInfo": {
+     "text": "For more information go to",
+     "label": "www.P65Warnings.ca.gov",
+     "href": "https://www.P65Warnings.ca.gov"
+    },
+    "links": []
+   }
+  ],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "1g",
+    "price": "$8",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$8",
+   "original": null,
+   "ariaLabel": "Product price: $8"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Breathe Free - Haley's Comet Haze - 1G Pre-roll to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Breathe Free - Haley's Comet Haze - 1G Pre-roll to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "BREATHE FREE",
+    "href": "/brand/breathe-free"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Sativa",
+    "href": "/strain/Sativa"
+   },
+   {
+    "label": "THC",
+    "value": "30.647%"
+   },
+   {
+    "label": "Package Info",
+    "value": "Breathe Free Haleys Comet Haze 1 G Pre Roll 1 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "1g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [
+   {
+    "name": "Beta Myrcene",
+    "value": "2.73 %",
+    "aroma": "Herbal",
+    "effects": "Relaxing, Sedation, Heaviness, Couch Lock"
+   },
+   {
+    "name": "Beta Caryophyllene",
+    "value": "0.347 %",
+    "aroma": "Peppery",
+    "effects": "Anti-inflammatory, analgesic, calming"
+   },
+   {
+    "name": "Limonene",
+    "value": "0.174 %",
+    "aroma": "Citrus",
+    "effects": "Elevated mood, anti-anxiety"
+   },
+   {
+    "name": "Alpha Humulene",
+    "value": "0.161 %",
+    "aroma": "Hoppy",
+    "effects": "Pain relief, appetite suppression"
+   },
+   {
+    "name": "Beta Pinene",
+    "value": "0.046 %",
+    "aroma": "Pine",
+    "effects": "Focus, Relief, Alert, Balanced"
+   },
+   {
+    "name": "Alpha Bisabolol",
+    "value": "0.035 %",
+    "aroma": "Floral",
+    "effects": "Soothing, Anti-inflammatory"
+   }
+  ],
+  "cannabinoids": [
+   {
+    "group": "THC",
+    "items": [
+     {
+      "name": "THCA",
+      "value": "34.3872%"
+     },
+     {
+      "name": "THC",
+      "value": "30.6466%"
+     }
+    ]
+   }
+  ],
+  "jsonld": null
+ }
+}

@@ -1,0 +1,16 @@
+{
+  "schema": "site-reforge/source-cms@1",
+  "generated": "2026-09-23T04:25:46.545Z",
+  "detected": [
+    {
+      "id": "nextjs",
+      "label": "Next.js",
+      "matchedPatterns": 1,
+      "evidence": [
+        "/\\/_next\\/static\\//i"
+      ],
+      "pages": 264
+    }
+  ],
+  "note": "Every id listed here MUST be absent from dist/ before packaging. sr-decontaminate.mjs enforces it."
+}

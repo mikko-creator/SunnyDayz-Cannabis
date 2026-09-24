@@ -1,0 +1,164 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-raspberry-rosin-revive-chocolate-100-mg-edible-100-milligrams",
+ "slug": "product-ahh-moments-ahh-moments-raspberry-rosin-revive-chocolate-100-mg-edible-100-milligrams",
+ "type": "product",
+ "title": "AHH MOMENTS - Ahh Moments | Raspberry Rosin Revive | Chocolate",
+ "seoTitle": "AHH MOMENTS - Ahh Moments | Raspberry Rosin Revive | Chocolate",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Ahh Moments | Raspberry Rosin Revive | Chocolate",
+    "href": null
+   }
+  ],
+  "h1": "Ahh Moments | Raspberry Rosin Revive | Chocolate",
+  "name": "Ahh Moments | Raspberry Rosin Revive | Chocolate",
+  "brand": {
+   "label": "AHH MOMENTS",
+   "href": "/brand/ahh-moments"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Sativa",
+   "key": "sativa",
+   "ariaLabel": "Flower type: Sativa"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "CHOCOLATE",
+    "href": "/collection/edible/chocolate"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f7f0d907-442e-45bf-92f6-88067d7f8622?w=3840&q=100",
+   "alt": "Ahh Moments | Raspberry Rosin Revive | Chocolate"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f7f0d907-442e-45bf-92f6-88067d7f8622?w=3840&q=100",
+    "alt": "Ahh Moments | Raspberry Rosin Revive | Chocolate"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "100MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Ahh Moments Raspberry Rosin Revive Chocolate delivers an uplifting sativa experience wrapped in delicious raspberry-infused chocolate. This 100mg edible combines premium rosin extract with rich, creamy chocolate for a treat that energizes your day while satisfying your sweet tooth. Each piece features vibrant raspberry flavor notes that complement the smooth chocolate base, creating a luxurious taste experience. Perfect for those seeking creative focus and an energetic lift, this sativa chocolate offers a delicious way to elevate your mood and spark inspiration. The rosin extraction preserves natural terpenes and cannabinoids for enhanced effects and authentic flavor. Whether you're tackling creative projects or enjoying social gatherings, Raspberry Rosin Revive provides the perfect blend of taste and effect to help you find your ahh moment.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "each",
+    "price": "$25",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$25",
+   "original": null,
+   "ariaLabel": "Product price: $25"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Ahh Moments | Raspberry Rosin Revive | Chocolate to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Ahh Moments | Raspberry Rosin Revive | Chocolate to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "AHH MOMENTS",
+    "href": "/brand/ahh-moments"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Sativa",
+    "href": "/strain/Sativa"
+   },
+   {
+    "label": "THC",
+    "value": "100MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Ahh Moments Raspberry Rosin Revive Chocolate 100 Mg"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

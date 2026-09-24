@@ -1,0 +1,168 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-moonbutter-1g-pre-roll-1-g-preroll-1-grams",
+ "slug": "product-tower-three-tower-three-moonbutter-1g-pre-roll-1-g-preroll-1-grams",
+ "type": "product",
+ "title": "TOWER THREE - Tower Three - Moonbutter - 1G pre-roll",
+ "seoTitle": "TOWER THREE - Tower Three - Moonbutter - 1G pre-roll",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Preroll",
+    "href": "/collection/preroll"
+   },
+   {
+    "label": "Tower Three - Moonbutter - 1G pre-roll",
+    "href": null
+   }
+  ],
+  "h1": "Tower Three - Moonbutter - 1G pre-roll",
+  "name": "Tower Three - Moonbutter - 1G pre-roll",
+  "brand": {
+   "label": "TOWER THREE",
+   "href": "/brand/tower-three"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Indica",
+   "key": "indica",
+   "ariaLabel": "Flower type: Indica"
+  },
+  "category": {
+   "label": "Preroll",
+   "href": "/collection/preroll"
+  },
+  "subcategories": [
+   {
+    "label": "FLOWER",
+    "href": "/collection/preroll/flower"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/44a84a46-a0ba-4619-b059-b2ff84487497?w=3840&q=100",
+   "alt": "Tower Three - Moonbutter - 1G pre-roll"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/44a84a46-a0ba-4619-b059-b2ff84487497?w=3840&q=100",
+    "alt": "Tower Three - Moonbutter - 1G pre-roll"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": "Warning",
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": "Cannabinoids"
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "27.871%",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Tower Three presents Moonbutter, a premium 1G pre-roll crafted for cannabis enthusiasts seeking quality and convenience. This expertly rolled preroll delivers a smooth, flavorful smoking experience from first light to final draw. Moonbutter's rich, creamy profile blends buttery smoothness with subtle earthy undertones, creating a luxurious flavor that lingers on the palate. Perfect for both seasoned consumers and those exploring the preroll category, this single-unit offering provides a hassle-free way to enjoy premium flower without the need for grinding or rolling. Tower Three's commitment to quality ensures consistent potency and burn throughout your session. Whether unwinding after a long day or sharing with friends, Moonbutter delivers a satisfying experience that showcases the brand's dedication to excellence. Each 1G pre-roll is carefully packaged to preserve freshness and potency, making it an ideal choice for on-the-go enjoyment or relaxed home sessions.",
+  "warnings": [
+   {
+    "title": "Proposition 65 Warning for California Consumers",
+    "collapsed": true,
+    "toggleIcon": "angle-down",
+    "toggleAriaLabel": "Expand content",
+    "label": "WARNING:",
+    "lines": [
+     "This product can expose you to chemicals including β-myrcene and cannabis smoke, which are known to the State of California to cause cancer, and chemicals including cannabis smoke and 9-tetrahydrocannabinol, which are known to the State of California to cause birth defects or other reproductive harm."
+    ],
+    "moreInfo": {
+     "text": "For more information go to",
+     "label": "www.P65Warnings.ca.gov",
+     "href": "https://www.P65Warnings.ca.gov"
+    },
+    "links": []
+   }
+  ],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "TOWER THREE",
+    "href": "/brand/tower-three"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Indica",
+    "href": "/strain/Indica"
+   },
+   {
+    "label": "THC",
+    "value": "27.871%"
+   },
+   {
+    "label": "Package Info",
+    "value": "Tower Three Moonbutter 1 G Pre Roll 1 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "1g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [
+   {
+    "group": "THC",
+    "items": [
+     {
+      "name": "THCA",
+      "value": "31.5218%"
+     },
+     {
+      "name": "THC",
+      "value": "27.8708%"
+     }
+    ]
+   }
+  ],
+  "jsonld": null
+ }
+}

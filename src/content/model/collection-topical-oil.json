@@ -1,0 +1,139 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/collection/topical/oil",
+ "slug": "collection-topical-oil",
+ "type": "collection",
+ "title": "OIL",
+ "seoTitle": "OIL",
+ "model": {
+  "kind": "collection",
+  "level": "subcategory",
+  "path": "/collection/topical/oil",
+  "category": "topical",
+  "subcategory": "oil",
+  "parentPath": "/collection/topical",
+  "sortParam": null,
+  "capture": {
+   "matchesUrl": true,
+   "signal": null,
+   "observed": null
+  },
+  "h1": "OIL",
+  "banner": {
+   "title": "OIL",
+   "description": "Best OIL",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMq5bqstJ9-D0W_CategoriesBanner-29.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMrJbqstJ9-D0X_CategoriesBanner-28.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "OIL",
+    "href": null
+   }
+  ],
+  "categoryLinks": [],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "loading",
+  "emptyState": null,
+  "cards": [],
+  "productCount": 1,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-massage-oil-500mg-500-mg-topical-500-milligrams",
+    "name": "Sweetgrass Botanicals - Massage Oil - 500mg",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals Massage Oil delivers 500mg of premium cannabis extract designed to soothe tired muscles and melt away tension. This luxurious topical oil blends seamlessly into skin, providing targeted relief exactly where you need it most. Perfect for post-workout recovery or unwinding after a long day, this massage oil offers relaxing, anti-inflammatory benefits without any psychoactive effects. The silky formula absorbs quickly while nourishing your skin, making it ideal for full-body massage or spot treatment of sore areas. Whether you're seeking relief from everyday aches or simply want to elevate your self-care routine, this 500mg massage oil combines therapeutic cannabis with skin-loving botanicals for a truly restorative experience.",
+    "price": "$70",
+    "priceAmount": 70,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a2017c68-19e3-42f0-8a85-41a45633c25c",
+     "alt": "Sweetgrass Botanicals - Massage Oil - 500mg"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/shop",
+       "name": "Menu"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "OIL"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals Massage Oil delivers 500mg of premium cannabis extract designed to soothe tired muscles and melt away tension. This luxurious topical oil blends seamlessly into skin, providing targeted relief exactly where you need it most. Perfect for post-workout recovery or unwinding after a long day, this massage oil offers relaxing, anti-inflammatory benefits without any psychoactive effects. The silky formula absorbs quickly while nourishing your skin, making it ideal for full-body massage or spot treatment of sore areas. Whether you&apos;re seeking relief from everyday aches or simply want to elevate your self-care routine, this 500mg massage oil combines therapeutic cannabis with skin-loving botanicals for a truly restorative experience.",
+       "name": "Sweetgrass Botanicals - Massage Oil - 500mg",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "70",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-massage-oil-500mg-500-mg-topical-500-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a2017c68-19e3-42f0-8a85-41a45633c25c"
+      },
+      "position": "1"
+     }
+    ]
+   }
+  ]
+ }
+}

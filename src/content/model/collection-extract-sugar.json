@@ -1,0 +1,27 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/collection/extract/sugar",
+ "slug": "collection-extract-sugar",
+ "type": "notfound",
+ "title": "404",
+ "seoTitle": "404",
+ "model": {
+  "h1": "Oops! Page not found.",
+  "blocks": [
+   {
+    "t": "h1",
+    "text": "Oops! Page not found."
+   },
+   {
+    "t": "p",
+    "text": "Sorry! We are out of stock right now. Please shop our other products.",
+    "html": "Sorry! We are out of stock right now. Please shop our other products."
+   }
+  ],
+  "links": [],
+  "buttons": [
+   "GO BACK",
+   "SHOP NOW"
+  ],
+  "softNotFound": true
+ }
+}

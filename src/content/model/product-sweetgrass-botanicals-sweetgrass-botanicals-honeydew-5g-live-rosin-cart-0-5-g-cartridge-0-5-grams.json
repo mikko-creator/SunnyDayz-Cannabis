@@ -1,0 +1,158 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-honeydew-5g-live-rosin-cart-0-5-g-cartridge-0-5-grams",
+ "slug": "product-sweetgrass-botanicals-sweetgrass-botanicals-honeydew-5g-live-rosin-cart-0-5-g-cartridge-0-5-grams",
+ "type": "product",
+ "title": "SWEETGRASS BOTANICALS - Sweetgrass Botanicals - Honeydew - .5G Live Rosin Cart",
+ "seoTitle": "SWEETGRASS BOTANICALS - Sweetgrass Botanicals - Honeydew - .5G Live Rosin Cart",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Cartridge",
+    "href": "/collection/cartridge"
+   },
+   {
+    "label": "Sweetgrass Botanicals - Honeydew - .5G Live Rosin Cart",
+    "href": null
+   }
+  ],
+  "h1": "Sweetgrass Botanicals - Honeydew - .5G Live Rosin Cart",
+  "name": "Sweetgrass Botanicals - Honeydew - .5G Live Rosin Cart",
+  "brand": {
+   "label": "SWEETGRASS BOTANICALS",
+   "href": "/brand/sweetgrass-botanicals"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Cartridge",
+   "href": "/collection/cartridge"
+  },
+  "subcategories": [
+   {
+    "label": "510 THREAD",
+    "href": "/collection/cartridge/510-thread"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5f29bfc7-4f9e-4edc-be9c-6e699ccf8bb8?w=3840&q=100",
+   "alt": "Sweetgrass Botanicals - Honeydew - .5G Live Rosin Cart"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5f29bfc7-4f9e-4edc-be9c-6e699ccf8bb8?w=3840&q=100",
+    "alt": "Sweetgrass Botanicals - Honeydew - .5G Live Rosin Cart"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": null,
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [],
+  "disclaimer": null,
+  "description": "Sweetgrass Botanicals Honeydew 0.5g Rosin Cart delivers exceptional purity and potency in a convenient 510 thread cartridge. This premium rosin vape features solventless extraction that preserves the full spectrum of cannabinoids and terpenes for an authentic, clean-hitting experience. The Honeydew strain offers a deliciously sweet melon flavor profile with refreshing fruity notes that delight the palate from first draw to last. Strain-specific and crafted from high-quality rosin, this cartridge provides smooth vapor and rich flavor without any additives or cutting agents. Perfect for cannabis connoisseurs seeking natural terpenes and full-bodied effects, this half-gram cart fits any standard 510 battery for ultimate portability. Sweetgrass Botanicals combines artisan extraction techniques with premium flower to create a vaping experience that's both flavorful and potent, making Honeydew an ideal choice for those who appreciate quality rosin cartridges.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "0.5g",
+    "price": "$40",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$40",
+   "original": null,
+   "ariaLabel": "Product price: $40"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Sweetgrass Botanicals - Honeydew - .5G Live Rosin Cart to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Sweetgrass Botanicals - Honeydew - .5G Live Rosin Cart to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "SWEETGRASS BOTANICALS",
+    "href": "/brand/sweetgrass-botanicals"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "Package Info",
+    "value": "Sweetgrass Botanicals Honeydew 5 G Live Rosin Cart 0 5 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "0.5g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

@@ -1,0 +1,211 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/bountiful-farms-bountiful-candy-fumez-3-5g-flower-3-5-g-flower-3-5-grams",
+ "slug": "product-bountiful-farms-bountiful-candy-fumez-3-5g-flower-3-5-g-flower-3-5-grams",
+ "type": "product",
+ "title": "BOUNTIFUL FARMS - Bountiful - Candy Fumez - 3.5G Flower",
+ "seoTitle": "BOUNTIFUL FARMS - Bountiful - Candy Fumez - 3.5G Flower",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Flower",
+    "href": "/collection/flower"
+   },
+   {
+    "label": "Bountiful - Candy Fumez - 3.5G Flower",
+    "href": null
+   }
+  ],
+  "h1": "Bountiful - Candy Fumez - 3.5G Flower",
+  "name": "Bountiful - Candy Fumez - 3.5G Flower",
+  "brand": {
+   "label": "BOUNTIFUL FARMS",
+   "href": "/brand/bountiful-farms"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Flower",
+   "href": "/collection/flower"
+  },
+  "subcategories": [
+   {
+    "label": "PRE-PACK",
+    "href": "/collection/flower/pre-pack"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2e2209b1-f899-4b50-a806-fcb021932ecd?w=3840&q=100",
+   "alt": "Bountiful - Candy Fumez - 3.5G Flower"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2e2209b1-f899-4b50-a806-fcb021932ecd?w=3840&q=100",
+    "alt": "Bountiful - Candy Fumez - 3.5G Flower"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": "Warning",
+   "about": "About this product",
+   "terpenes": "Terpenes",
+   "cannabinoids": "Cannabinoids"
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "31.129%",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Bountiful Farms presents Candy Fumez, a premium hybrid flower delivering the best of balanced effects in a convenient 3.5g pre-pack. This carefully cultivated strain combines uplifting cerebral energy with soothing body relaxation, making it ideal for any time of day. Candy Fumez delights the senses with sweet, fruity aromas complemented by subtle earthy undertones that create a smooth, flavorful smoking experience. Perfect for both seasoned enthusiasts and newcomers exploring hybrid varieties, this flower offers a euphoric and creative boost while maintaining clarity and focus. The 3.5g size provides excellent value and freshness, sealed to preserve optimal potency and flavor. Whether you're unwinding after work or seeking creative inspiration, Candy Fumez delivers consistent quality and satisfaction. Experience the craftsmanship of Bountiful Farms with this exceptional hybrid that brings together sweet flavor and versatile effects in every session.",
+  "warnings": [
+   {
+    "title": "Proposition 65 Warning for California Consumers",
+    "collapsed": true,
+    "toggleIcon": "angle-down",
+    "toggleAriaLabel": "Expand content",
+    "label": "WARNING:",
+    "lines": [
+     "This product can expose you to chemicals including β-myrcene and cannabis smoke, which are known to the State of California to cause cancer, and chemicals including cannabis smoke and 9-tetrahydrocannabinol, which are known to the State of California to cause birth defects or other reproductive harm."
+    ],
+    "moreInfo": {
+     "text": "For more information go to",
+     "label": "www.P65Warnings.ca.gov",
+     "href": "https://www.P65Warnings.ca.gov"
+    },
+    "links": []
+   }
+  ],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "BOUNTIFUL FARMS",
+    "href": "/brand/bountiful-farms"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "31.129%"
+   },
+   {
+    "label": "Package Info",
+    "value": "Bountiful Candy Fumez 3 5 G Flower 3 5 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "3.5g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [
+   {
+    "name": "Limonene",
+    "value": "0.836 %",
+    "aroma": "Citrus",
+    "effects": "Elevated mood, anti-anxiety"
+   },
+   {
+    "name": "Beta Caryophyllene",
+    "value": "0.407 %",
+    "aroma": "Peppery",
+    "effects": "Anti-inflammatory, analgesic, calming"
+   },
+   {
+    "name": "Alpha Pinene",
+    "value": "0.206 %",
+    "aroma": "Pine",
+    "effects": "Focus, Relief, Alert, Balanced"
+   },
+   {
+    "name": "Alpha Humulene",
+    "value": "0.185 %",
+    "aroma": "Hoppy",
+    "effects": "Pain relief, appetite suppression"
+   },
+   {
+    "name": "Beta Pinene",
+    "value": "0.173 %",
+    "aroma": "Pine",
+    "effects": "Focus, Relief, Alert, Balanced"
+   },
+   {
+    "name": "Alpha Bisabolol",
+    "value": "0.065 %",
+    "aroma": "Floral",
+    "effects": "Soothing, Anti-inflammatory"
+   },
+   {
+    "name": "Beta Myrcene",
+    "value": "0.056 %",
+    "aroma": "Herbal",
+    "effects": "Relaxing, Sedation, Heaviness, Couch Lock"
+   }
+  ],
+  "cannabinoids": [
+   {
+    "group": "THC",
+    "items": [
+     {
+      "name": "THCA",
+      "value": "34.834%"
+     },
+     {
+      "name": "THC",
+      "value": "31.1294%"
+     }
+    ]
+   }
+  ],
+  "jsonld": null
+ }
+}

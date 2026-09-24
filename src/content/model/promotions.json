@@ -1,0 +1,59 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/promotions",
+ "slug": "promotions",
+ "type": "listing",
+ "title": "Promotions Page",
+ "seoTitle": "Promotions Page",
+ "model": {
+  "kind": "promotions",
+  "path": "/promotions",
+  "theme": null,
+  "capture": {
+   "matchesUrl": null,
+   "signal": null,
+   "observed": null
+  },
+  "h1": null,
+  "banner": null,
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Promotions Page",
+    "href": null
+   }
+  ],
+  "promoCarousel": null,
+  "filters": null,
+  "gridState": null,
+  "emptyState": null,
+  "cards": [],
+  "productCount": 0,
+  "products": [],
+  "search": [
+   {
+    "name": "searchBox",
+    "placeholder": "Search",
+    "ariaLabel": "Search",
+    "buttonAriaLabel": "Search"
+   }
+  ],
+  "notice": {
+   "heading": "Promotion not found.",
+   "text": "Click",
+   "link": {
+    "label": "here to visit the Shop Page.",
+    "href": "/shop"
+   }
+  },
+  "galleries": [],
+  "stores": [],
+  "storeListToggleAriaLabel": null,
+  "map": null,
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": []
+ }
+}

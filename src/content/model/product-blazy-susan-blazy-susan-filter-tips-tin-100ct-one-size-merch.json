@@ -1,0 +1,145 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-filter-tips-tin-100ct-one-size-merch",
+ "slug": "product-blazy-susan-blazy-susan-filter-tips-tin-100ct-one-size-merch",
+ "type": "product",
+ "title": "BLAZY SUSAN - Blazy Susan - Filter Tips - Tin 100ct",
+ "seoTitle": "BLAZY SUSAN - Blazy Susan - Filter Tips - Tin 100ct",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Merch",
+    "href": "/collection/merch"
+   },
+   {
+    "label": "Blazy Susan - Filter Tips - Tin 100ct",
+    "href": null
+   }
+  ],
+  "h1": "Blazy Susan - Filter Tips - Tin 100ct",
+  "name": "Blazy Susan - Filter Tips - Tin 100ct",
+  "brand": {
+   "label": "BLAZY SUSAN",
+   "href": "/brand/blazy-susan"
+  },
+  "badges": [],
+  "strainType": null,
+  "category": {
+   "label": "Merch",
+   "href": "/collection/merch"
+  },
+  "subcategories": [
+   {
+    "label": "ROLLING PAPERS",
+    "href": "/collection/merch/rolling-papers"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/4ac10327-d838-4396-a365-4f40eb84aa37?w=3840&q=100",
+   "alt": "Blazy Susan - Filter Tips - Tin 100ct"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/4ac10327-d838-4396-a365-4f40eb84aa37?w=3840&q=100",
+    "alt": "Blazy Susan - Filter Tips - Tin 100ct"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": null,
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [],
+  "disclaimer": null,
+  "description": "Blazy Susan Filter Tips in a convenient 100-count tin deliver smooth, consistent rolling sessions every time. This premium merch essential from Blazy Susan combines quality construction with practical design, perfect for cannabis enthusiasts who value clean, flavorful smoke. Each filter tip is crafted to enhance your rolling experience, ensuring even airflow and preventing unwanted plant material from reaching your lips. The durable tin keeps your tips fresh and organized, making it ideal for on-the-go use or home storage. Whether you're rolling joints or blunts, these filter tips provide reliable performance and help you maximize every session. Elevate your rolling game with Blazy Susan's trusted quality and enjoy smoother, more enjoyable sessions from start to finish.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "",
+    "price": "$10",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$10",
+   "original": null,
+   "ariaLabel": "Product price: $10"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add  Blazy Susan - Filter Tips - Tin 100ct to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add  Blazy Susan - Filter Tips - Tin 100ct to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "BLAZY SUSAN",
+    "href": "/brand/blazy-susan"
+   },
+   {
+    "label": "Package Info",
+    "value": "Blazy Susan Filter Tips Tin 100 Ct One Size"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

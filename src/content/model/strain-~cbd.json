@@ -1,0 +1,143 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/strain/Cbd",
+ "slug": "strain-~cbd",
+ "type": "strain",
+ "title": "CBD",
+ "seoTitle": "CBD",
+ "model": {
+  "urlPath": "/strain/Cbd",
+  "urlKey": "Cbd",
+  "urlCaseVariant": true,
+  "urlLowercasePath": "/strain/cbd",
+  "h1": "CBD",
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "CBD",
+    "href": null
+   }
+  ],
+  "banner": {
+   "lines": [
+    "CBD"
+   ],
+   "description": "Shop our selection of strains",
+   "image": {
+    "desktop": {
+     "src": "https://images.prismic.io/sunny-dayz/Z5vMp5bqstJ9-D0S_CategoriesBanner-35.png?auto=format%2Ccompress&fit=max&w=3840",
+     "alt": "Banner"
+    },
+    "mobile": {
+     "src": "https://images.prismic.io/sunny-dayz/Z5vMqJbqstJ9-D0T_CategoriesBanner-34.png?auto=format%2Ccompress&fit=max&w=3840",
+     "alt": "Banner"
+    }
+   }
+  },
+  "seoBlocks": [],
+  "toolbar": {
+   "filterLabel": "FILTER",
+   "activeFilters": [],
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortOptions": []
+  },
+  "grid": {
+   "state": "empty",
+   "placeholderCount": 0,
+   "emptyState": {
+    "title": "No search results found",
+    "message": "No results match the filter criteria. Remove a filter or clear all filters to search again"
+   },
+   "cards": [],
+   "pagination": null
+  },
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/the-healing-rose-healing-rose-lemon-ginger-200mg-cbd-cbg-8x-200-mg-cbd-200-milligrams",
+    "name": "Healing Rose - Lemon Ginger - 200mg - CBD CBG - 8x",
+    "brand": "THE HEALING ROSE",
+    "description": "The Healing Rose Lemon Ginger CBD Topical delivers 200mg of premium CBD and CBG in a soothing, fast-acting formula designed for targeted relief. This pack includes 8 units, each infused with refreshing lemon and warming ginger aromas that invigorate the senses while providing anti-inflammatory benefits. Perfect for those seeking natural, plant-based wellness, this topical combines the calming properties of CBD with the balancing effects of CBG to support relaxation and comfort. The bright citrus notes of lemon blend harmoniously with spicy, herbal ginger undertones, creating an uplifting aromatherapeutic experience. Ideal for daily use, this topical absorbs quickly into the skin, offering localized support where you need it most. The Healing Rose crafts premium CBD products that prioritize quality and efficacy, making this Lemon Ginger topical a go-to choice for anyone looking to enhance their self-care routine with the restorative power of cannabinoids.",
+    "price": "$20",
+    "priceValue": 20,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/79f7a243-a871-43bf-aa25-5301870583f5",
+     "alt": "Healing Rose - Lemon Ginger - 200mg - CBD CBG - 8x"
+    }
+   }
+  ],
+  "productCount": 1,
+  "_ui": {
+   "filterDrawerId": "filters-treez-drawer",
+   "emptyStateIcon": "search"
+  },
+  "_jsonld": {
+   "breadcrumbList": {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/shop",
+       "name": "Menu"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "CBD"
+      },
+      "position": 3
+     }
+    ]
+   },
+   "itemList": {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "THE HEALING ROSE",
+       "description": "The Healing Rose Lemon Ginger CBD Topical delivers 200mg of premium CBD and CBG in a soothing, fast-acting formula designed for targeted relief. This pack includes 8 units, each infused with refreshing lemon and warming ginger aromas that invigorate the senses while providing anti-inflammatory benefits. Perfect for those seeking natural, plant-based wellness, this topical combines the calming properties of CBD with the balancing effects of CBG to support relaxation and comfort. The bright citrus notes of lemon blend harmoniously with spicy, herbal ginger undertones, creating an uplifting aromatherapeutic experience. Ideal for daily use, this topical absorbs quickly into the skin, offering localized support where you need it most. The Healing Rose crafts premium CBD products that prioritize quality and efficacy, making this Lemon Ginger topical a go-to choice for anyone looking to enhance their self-care routine with the restorative power of cannabinoids.",
+       "name": "Healing Rose - Lemon Ginger - 200mg - CBD CBG - 8x",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/the-healing-rose-healing-rose-lemon-ginger-200mg-cbd-cbg-8x-200-mg-cbd-200-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/79f7a243-a871-43bf-aa25-5301870583f5"
+      },
+      "position": "1"
+     }
+    ]
+   }
+  }
+ }
+}

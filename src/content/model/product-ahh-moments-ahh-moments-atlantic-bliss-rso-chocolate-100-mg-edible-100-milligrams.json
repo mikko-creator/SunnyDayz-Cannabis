@@ -1,0 +1,164 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-atlantic-bliss-rso-chocolate-100-mg-edible-100-milligrams",
+ "slug": "product-ahh-moments-ahh-moments-atlantic-bliss-rso-chocolate-100-mg-edible-100-milligrams",
+ "type": "product",
+ "title": "AHH MOMENTS - Ahh Moments | Atlantic Bliss RSO | Chocolate",
+ "seoTitle": "AHH MOMENTS - Ahh Moments | Atlantic Bliss RSO | Chocolate",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Ahh Moments | Atlantic Bliss RSO | Chocolate",
+    "href": null
+   }
+  ],
+  "h1": "Ahh Moments | Atlantic Bliss RSO | Chocolate",
+  "name": "Ahh Moments | Atlantic Bliss RSO | Chocolate",
+  "brand": {
+   "label": "AHH MOMENTS",
+   "href": "/brand/ahh-moments"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "CHOCOLATE",
+    "href": "/collection/edible/chocolate"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/22ff79a0-23fa-4ad6-8cb1-3a81bb3844e7?w=3840&q=100",
+   "alt": "Ahh Moments | Atlantic Bliss RSO | Chocolate"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/22ff79a0-23fa-4ad6-8cb1-3a81bb3844e7?w=3840&q=100",
+    "alt": "Ahh Moments | Atlantic Bliss RSO | Chocolate"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "100MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Ahh Moments Atlantic Bliss RSO Chocolate delivers 100mg of hybrid cannabis in a delicious chocolate edible that balances the best of both worlds. This RSO-infused treat combines rich, velvety chocolate flavor with the full-spectrum benefits of Rick Simpson Oil, offering a potent and well-rounded experience. As a hybrid, Atlantic Bliss provides balanced effects that may leave you feeling relaxed yet uplifted, making it ideal for unwinding after a long day or enhancing creative moments. The smooth chocolate coating masks any cannabis taste while delivering precise, reliable dosing. Whether you're seeking relief, relaxation, or simply a euphoric escape, this 100mg chocolate bar offers a convenient and discreet way to enjoy cannabis. Perfect for experienced users who appreciate the therapeutic potential of RSO combined with the indulgent pleasure of premium chocolate.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "each",
+    "price": "$25",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$25",
+   "original": null,
+   "ariaLabel": "Product price: $25"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Ahh Moments | Atlantic Bliss RSO | Chocolate to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Ahh Moments | Atlantic Bliss RSO | Chocolate to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "AHH MOMENTS",
+    "href": "/brand/ahh-moments"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "100MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Ahh Moments Atlantic Bliss Rso Chocolate 100 Mg"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

@@ -1,0 +1,133 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/coast-coast-strawberry-lemonade-gummy-10-5-5-100-mg-20-pack-edible-100-milligrams",
+ "slug": "product-coast-coast-strawberry-lemonade-gummy-10-5-5-100-mg-20-pack-edible-100-milligrams",
+ "type": "product",
+ "title": "COAST - Coast - Strawberry Lemonade - Gummy - 10:5:5",
+ "seoTitle": "COAST - Coast - Strawberry Lemonade - Gummy - 10:5:5",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Coast - Strawberry Lemonade - Gummy - 10:5:5",
+    "href": null
+   }
+  ],
+  "h1": "Coast - Strawberry Lemonade - Gummy - 10:5:5",
+  "name": "Coast - Strawberry Lemonade - Gummy - 10:5:5",
+  "brand": {
+   "label": "COAST",
+   "href": "/brand/coast"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Sativa",
+   "key": "sativa",
+   "ariaLabel": "Flower type: Sativa"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "GUMMY",
+    "href": "/collection/edible/gummy"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/66b70385-bdf1-4475-88d8-1ddfd4e49e79?w=3840&q=100",
+   "alt": "Coast - Strawberry Lemonade - Gummy - 10:5:5"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/66b70385-bdf1-4475-88d8-1ddfd4e49e79?w=3840&q=100",
+    "alt": "Coast - Strawberry Lemonade - Gummy - 10:5:5"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "100MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Coast Strawberry Lemonade Gummies deliver a refreshing twist on cannabis edibles with a unique CBG:CBC:THC 10:5:5 cannabinoid ratio and 100mg total potency. This sativa-inspired gummy combines the sweet taste of ripe strawberries with zesty lemonade for a bright, fruity flavor experience. Perfect for those seeking an uplifting, energetic effect, these gummies offer a balanced approach to cannabis consumption. The carefully crafted formula provides a happy, focused experience ideal for daytime use or social occasions. Each gummy features a tart, citrus profile that makes dosing both enjoyable and convenient. Coast blends quality ingredients with precision dosing to create edibles that taste as good as they perform. Whether you're looking for creative inspiration or simply want to elevate your mood, these Strawberry Lemonade Gummies from Coast offer a delicious, reliable way to enjoy sativa effects in a portable, discreet format.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "COAST",
+    "href": "/brand/coast"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Sativa",
+    "href": "/strain/Sativa"
+   },
+   {
+    "label": "THC",
+    "value": "100MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Coast Strawberry Lemonade Gummy 10 5 5 100 Mg 20 Pack"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

@@ -1,0 +1,3779 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/",
+ "slug": "index",
+ "type": "home",
+ "title": "Welcome to our online store",
+ "seoTitle": "Welcome to our online store",
+ "model": {
+  "h1": null,
+  "sections": [
+   {
+    "kind": "video-embed",
+    "ariaLabel": null,
+    "padding": "small",
+    "provider": "cloudinary",
+    "src": "https://player.cloudinary.com/embed/?cloud_name=vuu4jci5&public_id=output-3&player%5Baspect_ratio%5D=984%3A443&player%5Bcrop_mode%5D=fill&player%5Bfluid%5D=true&player%5Bautoplay%5D=true&player%5Bloop%5D=true&player%5Bmuted%5D=true&player%5Bcontrols%5D=false",
+    "cloudName": "vuu4jci5",
+    "publicId": "output-3",
+    "aspectRatio": "984:443",
+    "aspectPaddingBottom": "45%",
+    "player": {
+     "aspect_ratio": "984:443",
+     "crop_mode": "fill",
+     "fluid": "true",
+     "autoplay": "true",
+     "loop": "true",
+     "muted": "true",
+     "controls": "false"
+    },
+    "allowFullscreen": true,
+    "title": null
+   },
+   {
+    "kind": "separator",
+    "ariaLabel": null,
+    "padding": null,
+    "overlapPrevious": true,
+    "image": "https://images.prismic.io/sunny-dayz/agctKaYofJOwHRuE_separetormainbanner.png?auto=format,compress",
+    "vars": {
+     "padding-top": "5.729166666666666%",
+     "bg-color": "transparent",
+     "bg-image": "url(https://images.prismic.io/sunny-dayz/agctKaYofJOwHRuE_separetormainbanner.png?auto=format,compress)",
+     "bg-size": "cover",
+     "bg-position": "left center",
+     "top": "0px",
+     "offset": "0px",
+     "rotation": "0deg",
+     "z-index": "3"
+    }
+   },
+   {
+    "kind": "category-tiles",
+    "ariaLabel": "Categories carousel",
+    "padding": "medium",
+    "spacingBottom": true,
+    "title": "Categories",
+    "shopAll": {
+     "label": "SHOP ALL",
+     "href": "/shop"
+    },
+    "controls": {
+     "ariaLabel": "Categories carousel navigation",
+     "prev": {
+      "label": "Previous",
+      "ariaLabel": "Previous slide",
+      "disabled": true
+     },
+     "next": {
+      "label": "Next",
+      "ariaLabel": "Next slide",
+      "disabled": false
+     }
+    },
+    "tiles": [
+     {
+      "label": "FLOWER",
+      "href": "/collection/flower",
+      "image": {
+       "src": "https://images.prismic.io/sunny-dayz/D9KtxlM_3PlvoZcg_Flower---Category.png?auto=format%2Ccompress&rect=0%2C0%2C934%2C934&w=3840&fit=max",
+       "alt": "Category image",
+       "title": "FLOWER"
+      }
+     },
+     {
+      "label": "PRE-ROLLS",
+      "href": "/collection/preroll",
+      "image": {
+       "src": "https://images.prismic.io/sunny-dayz/M32GBFApaFwPq2XD_Pre-Roll-Category.png?auto=format%2Ccompress&rect=0%2C0%2C368%2C368&w=3840&fit=max",
+       "alt": "Category image",
+       "title": "PRE-ROLLS"
+      }
+     },
+     {
+      "label": "CONCENTRATES",
+      "href": "/collection/concentrates",
+      "image": {
+       "src": "https://images.prismic.io/sunny-dayz/5lCIKzhlDrAkAeqF_Concentrates---Categories.png?auto=format%2Ccompress&rect=0%2C0%2C924%2C924&w=3840&fit=max",
+       "alt": "Category image",
+       "title": "CONCENTRATES"
+      }
+     },
+     {
+      "label": "VAPES & CARTRIDGES",
+      "href": "/collection/cartridge",
+      "image": {
+       "src": "https://images.prismic.io/sunny-dayz/ArrlDKv99E5xmrQ-_Vapes_Carts-Category.png?auto=format%2Ccompress&rect=0%2C0%2C1254%2C1254&w=3840&fit=max",
+       "alt": "Category image",
+       "title": "VAPES & CARTRIDGES"
+      }
+     },
+     {
+      "label": "TINTURES",
+      "href": "/collection/tincture",
+      "image": {
+       "src": "https://images.prismic.io/sunny-dayz/UgQKL4uN1nTjVMzD_Tinctures.png?auto=format%2Ccompress&rect=0%2C0%2C1254%2C1254&w=3840&fit=max",
+       "alt": "Category image",
+       "title": "TINTURES"
+      }
+     },
+     {
+      "label": "EDIBLES",
+      "href": "/collection/edible",
+      "image": {
+       "src": "https://images.prismic.io/sunny-dayz/LyX_8RtQHsDAIEHN_Edibles-Category.png?auto=format%2Ccompress&rect=0%2C0%2C1254%2C1254&w=3840&fit=max",
+       "alt": "Category image",
+       "title": "EDIBLES"
+      }
+     },
+     {
+      "label": "BEVERAGES",
+      "href": "/collection/beverage",
+      "image": {
+       "src": "https://images.prismic.io/sunny-dayz/NPKd77GTuZupwcQx_Beverages.png?auto=format%2Ccompress&rect=0%2C0%2C1254%2C1254&w=3840&fit=max",
+       "alt": "Category image",
+       "title": "BEVERAGES"
+      }
+     },
+     {
+      "label": "TOPICALS",
+      "href": "/collection/topical",
+      "image": {
+       "src": "https://images.prismic.io/sunny-dayz/fCPlTfkzGLk2FEAe_Topicals-Category.png?auto=format%2Ccompress&rect=0%2C0%2C1254%2C1254&w=3840&fit=max",
+       "alt": "Category image",
+       "title": "TOPICALS"
+      }
+     },
+     {
+      "label": "ACCESSORIES",
+      "href": "/collection/merch",
+      "image": {
+       "src": "https://images.prismic.io/sunny-dayz/OtUikc5QwMwyjqb5_Apparel-Category.png?auto=format%2Ccompress&rect=0%2C0%2C1254%2C1254&w=3840&fit=max",
+       "alt": "Category image",
+       "title": "ACCESSORIES"
+      }
+     },
+     {
+      "label": "CBD",
+      "href": "/collection/cbd",
+      "image": {
+       "src": "https://images.prismic.io/sunny-dayz/ZHD0GdCPC44inoa4_CBD-Category.png?auto=format%2Ccompress&rect=0%2C0%2C1224%2C1254&w=3840&fit=max",
+       "alt": "Category image",
+       "title": "CBD"
+      }
+     }
+    ]
+   },
+   {
+    "kind": "product-carousel",
+    "ariaLabel": "Flower carousel",
+    "padding": "medium",
+    "spacingBottom": true,
+    "title": "Flower",
+    "collection": "flower",
+    "seeAll": {
+     "label": "See All",
+     "href": "/collection/flower",
+     "ariaLabel": "Go to /collection/flower"
+    },
+    "shopAllSlide": {
+     "label": "See All",
+     "href": "/collection/flower",
+     "ariaLabel": "Go to /collection/flower"
+    },
+    "controls": {
+     "ariaLabel": "Flower carousel navigation",
+     "prev": {
+      "label": "Previous",
+      "ariaLabel": "Previous slide",
+      "disabled": true
+     },
+     "next": {
+      "label": "Next",
+      "ariaLabel": "Next slide",
+      "disabled": false
+     }
+    },
+    "slideCount": 21,
+    "cards": [
+     {
+      "url": "/product/mass-yield-mass-yield-peanut-butter-gelato-3-5g-flower-3-5-g-flower-3-5-grams",
+      "name": "Mass Yield - Peanut Butter Gelato - 3.5G Flower",
+      "brand": "MASS YIELD",
+      "price": "$25",
+      "weight": "3.5g",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "22.39%",
+      "tac": "26.6%",
+      "cbd": null,
+      "badges": [
+       "MASS YIELD",
+       "Indica",
+       "THC: 22.39%",
+       "TAC: 26.6%",
+       "PRE PACK"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Mass Yield - Peanut Butter Gelato - 3.5G Flower",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/mass-yield-mass-yield-inzane-in-the-membrane-3-5g-flower-3-5-g-flower-3-5-grams",
+      "name": "Mass Yield - Inzane in the Membrane - 3.5G Flower",
+      "brand": "MASS YIELD",
+      "price": "$25",
+      "weight": "3.5g",
+      "strain": "Sativa",
+      "strainKey": "sativa",
+      "thc": "22.73%",
+      "tac": "27.66%",
+      "cbd": null,
+      "badges": [
+       "MASS YIELD",
+       "Sativa",
+       "THC: 22.73%",
+       "TAC: 27.66%",
+       "PRE PACK"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Mass Yield - Inzane in the Membrane - 3.5G Flower",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/the-fresh-connection-the-fresh-connection-dante-s-inferno-3-5g-flower-3-5-g-flower-3-5-grams",
+      "name": "The Fresh Connection - Dante's Inferno - 3.5G Flower",
+      "brand": "THE FRESH CONNECTION",
+      "price": "$30",
+      "weight": "3.5g",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "22.98%",
+      "tac": "27.76%",
+      "cbd": null,
+      "badges": [
+       "THE FRESH CONNECTION",
+       "Hybrid",
+       "THC: 22.98%",
+       "TAC: 27.76%",
+       "PRE PACK"
+      ],
+      "image": {
+       "src": "",
+       "alt": "The Fresh Connection - Dante's Inferno - 3.5G Flower",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/impressed-impressed-apples-and-banana-3-5g-flower-3-5-g-flower-3-5-grams",
+      "name": "Impressed - Apples and Banana - 3.5G Flower",
+      "brand": "IMPRESSED",
+      "price": "$25",
+      "weight": "3.5g",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "22.09%",
+      "tac": "26.15%",
+      "cbd": null,
+      "badges": [
+       "IMPRESSED",
+       "Hybrid",
+       "THC: 22.09%",
+       "TAC: 26.15%",
+       "PRE PACK"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Impressed - Apples and Banana - 3.5G Flower",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/tower-three-tower-three-maple-butter-3-5g-flower-3-5-g-flower-3-5-grams",
+      "name": "Tower Three - Maple Butter - 3.5G Flower",
+      "brand": "TOWER THREE",
+      "price": "$45",
+      "weight": "3.5g",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "24.50%",
+      "tac": null,
+      "cbd": "0.10%",
+      "badges": [
+       "TOWER THREE",
+       "Hybrid",
+       "THC: 24.50%",
+       "CBD: 0.10%",
+       "PRE PACK"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Tower Three - Maple Butter - 3.5G Flower ",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/tower-three-tower-three-half-pint-4-3-5g-flower-3-5-g-flower-3-5-grams",
+      "name": "Tower Three - Half Pint 4 - 3.5G Flower",
+      "brand": "TOWER THREE",
+      "price": "$45",
+      "weight": "3.5g",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "24.60%",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "TOWER THREE",
+       "Hybrid",
+       "THC: 24.60%",
+       "PRE PACK"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Tower Three - Half Pint 4 - 3.5G Flower",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/tower-three-tower-three-fruity-pebbles-og-3-5g-flower-3-5-g-flower-3-5-grams",
+      "name": "Tower Three - Fruity Pebbles OG - 3.5G Flower",
+      "brand": "TOWER THREE",
+      "price": "$45",
+      "weight": "3.5g",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "20.30%",
+      "tac": null,
+      "cbd": "0.50%",
+      "badges": [
+       "TOWER THREE",
+       "Hybrid",
+       "THC: 20.30%",
+       "CBD: 0.50%",
+       "PRE PACK"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Tower Three - Fruity Pebbles OG - 3.5G Flower",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/tower-three-tower-three-dosido-3-5g-flower-3-5-g-flower-3-5-grams",
+      "name": "Tower Three - Dosido - 3.5G Flower",
+      "brand": "TOWER THREE",
+      "price": "$45",
+      "weight": "3.5g",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "24.20%",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "TOWER THREE",
+       "Indica",
+       "THC: 24.20%",
+       "PRE PACK"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Tower Three - Dosido - 3.5G Flower",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/tower-three-tower-three-butterstuff-3-5g-flower-3-5-g-flower-3-5-grams",
+      "name": "Tower Three - Butterstuff - 3.5G Flower",
+      "brand": "TOWER THREE",
+      "price": "$45",
+      "weight": "3.5g",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "23.88%",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "TOWER THREE",
+       "Hybrid",
+       "THC: 23.88%",
+       "PRE PACK"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Tower Three - Butterstuff - 3.5G Flower",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/tower-three-tower-three-deadhead-og-3-5g-flower-3-5-g-flower-3-5-grams",
+      "name": "Tower Three - Deadhead OG - 3.5G Flower",
+      "brand": "TOWER THREE",
+      "price": "$45",
+      "weight": "3.5g",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "30.90%",
+      "tac": null,
+      "cbd": "0.09%",
+      "badges": [
+       "TOWER THREE",
+       "Indica",
+       "THC: 30.90%",
+       "CBD: 0.09%",
+       "PRE PACK"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Tower Three - Deadhead OG - 3.5G Flower",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/breath-free-breathe-free-guava-biscotti-3-5g-flower-3-5-g-flower-3-5-grams",
+      "name": "Breathe Free - Guava Biscotti - 3.5G Flower",
+      "brand": "BREATH FREE",
+      "price": "$35",
+      "weight": "3.5g",
+      "strain": null,
+      "strainKey": null,
+      "thc": "32.98%",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "BREATH FREE",
+       "THC: 32.98%",
+       "PRE PACK"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Breathe Free - Guava Biscotti - 3.5G Flower",
+       "placeholder": true
+      },
+      "stockPhoto": true,
+      "stockPhotoLabel": "Stock photo",
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/doja-doja-confetti-3-5g-flower-3-5-g-flower-3-5-grams",
+      "name": "Doja Confetti - 3.5G Flower",
+      "brand": "DOJA",
+      "price": "$40",
+      "weight": "3.5g",
+      "strain": null,
+      "strainKey": null,
+      "thc": "24%",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "DOJA",
+       "THC: 24%",
+       "PRE PACK"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Doja Confetti - 3.5G Flower",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/tower-three-tower-three-florida-freeze-3-5g-flower-3-5-g-flower-3-5-grams",
+      "name": "Tower Three - Florida Freeze - 3.5G Flower",
+      "brand": "TOWER THREE",
+      "price": "$45",
+      "weight": "3.5g",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "21.70%",
+      "tac": null,
+      "cbd": "0.10%",
+      "badges": [
+       "TOWER THREE",
+       "Hybrid",
+       "THC: 21.70%",
+       "CBD: 0.10%",
+       "PRE PACK"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Tower Three - Florida Freeze - 3.5G Flower",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/mass-yield-mass-yield-rasta-pie-3-5g-flower-3-5-g-flower-3-5-grams",
+      "name": "Mass Yield - Rasta Pie - 3.5G Flower",
+      "brand": "MASS YIELD",
+      "price": "$25",
+      "weight": "3.5g",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "25.51%",
+      "tac": "30.85%",
+      "cbd": null,
+      "badges": [
+       "MASS YIELD",
+       "Indica",
+       "THC: 25.51%",
+       "TAC: 30.85%",
+       "PRE PACK"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Mass Yield - Rasta Pie - 3.5G Flower",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/the-fresh-connection-the-fresh-connection-mucho-melon-3-5g-flower-3-5-g-flower-3-5-grams",
+      "name": "The Fresh Connection - Mucho Melon - 3.5G Flower",
+      "brand": "THE FRESH CONNECTION",
+      "price": "$30",
+      "weight": "3.5g",
+      "strain": "Sativa",
+      "strainKey": "sativa",
+      "thc": "30.02%",
+      "tac": "36.17%",
+      "cbd": null,
+      "badges": [
+       "THE FRESH CONNECTION",
+       "Sativa",
+       "THC: 30.02%",
+       "TAC: 36.17%",
+       "PRE PACK"
+      ],
+      "image": {
+       "src": "",
+       "alt": "The Fresh Connection - Mucho Melon - 3.5G Flower",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/omg-omg-chocolate-og-3-5g-flower-3-5-g-flower-3-5-grams",
+      "name": "OMG - Chocolate OG - 3.5G Flower",
+      "brand": "OMG",
+      "price": "$40",
+      "weight": "3.5g",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "19.80%",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "OMG",
+       "Indica",
+       "THC: 19.80%",
+       "PRE PACK"
+      ],
+      "image": {
+       "src": "",
+       "alt": "OMG - Chocolate OG - 3.5G Flower",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/omg-omg-honey-berriez-3-5g-flower-3-5-g-flower-3-5-grams",
+      "name": "OMG - Honey Berriez - 3.5G Flower",
+      "brand": "OMG",
+      "price": "$40",
+      "weight": "3.5g",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "28.82%",
+      "tac": "30.26%",
+      "cbd": null,
+      "badges": [
+       "OMG",
+       "Hybrid",
+       "THC: 28.82%",
+       "TAC: 30.26%",
+       "PRE PACK"
+      ],
+      "image": {
+       "src": "",
+       "alt": "OMG - Honey Berriez - 3.5G Flower",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/omg-omg-mac-1-3-5g-flower-3-5-g-flower-3-5-grams",
+      "name": "OMG - Mac 1 - 3.5G Flower",
+      "brand": "OMG",
+      "price": "$40",
+      "weight": "3.5g",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "23.61%",
+      "tac": "25.62%",
+      "cbd": "0.37%",
+      "badges": [
+       "OMG",
+       "Hybrid",
+       "THC: 23.61%",
+       "CBD: 0.37%",
+       "TAC: 25.62%",
+       "PRE PACK"
+      ],
+      "image": {
+       "src": "",
+       "alt": "OMG - Mac 1 - 3.5G Flower",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/omg-omg-pink-runtz-3-5g-flower-3-5-g-flower-3-5-grams",
+      "name": "OMG - Pink Runtz - 3.5G Flower",
+      "brand": "OMG",
+      "price": "$40",
+      "weight": "3.5g",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "22.29%",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "OMG",
+       "Hybrid",
+       "THC: 22.29%",
+       "PRE PACK"
+      ],
+      "image": {
+       "src": "",
+       "alt": "OMG - Pink Runtz - 3.5G Flower",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/omg-omg-shady-icee-3-5g-flower-3-5-g-flower-3-5-grams",
+      "name": "OMG - Shady Icee - 3.5G Flower",
+      "brand": "OMG",
+      "price": "$40",
+      "weight": "3.5g",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "21.57%",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "OMG",
+       "Hybrid",
+       "THC: 21.57%",
+       "PRE PACK"
+      ],
+      "image": {
+       "src": "",
+       "alt": "OMG - Shady Icee - 3.5G Flower",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     }
+    ],
+    "arrowStyle": {
+     "color": null,
+     "border": null,
+     "hoverColor": null,
+     "disabledColor": null
+    }
+   },
+   {
+    "kind": "deals-carousel",
+    "ariaLabel": "Promotions carousel: Today's Deals, 0 promotions available",
+    "padding": "large",
+    "title": "Today's Deals",
+    "titleSrText": "- 0 promotions available",
+    "titleColor": "rgb(107, 145, 83)",
+    "seeAll": {
+     "label": "See All Text",
+     "href": "/See%20All%20Link",
+     "ariaLabel": "Go to See All Text, 0 promotions available",
+     "hrefRaw": "See All Link",
+     "hrefSuspect": true,
+     "count": "(0)",
+     "text": "See All Text(0)",
+     "color": "rgb(46, 66, 34)"
+    },
+    "controls": {
+     "ariaLabel": "Today's Deals carousel navigation",
+     "prev": {
+      "label": "Previous",
+      "ariaLabel": "Previous slide",
+      "disabled": true
+     },
+     "next": {
+      "label": "Next",
+      "ariaLabel": "Next slide",
+      "disabled": false
+     }
+    },
+    "promotions": [],
+    "placeholderSlides": 15,
+    "backgroundColor": "rgb(79, 120, 54)",
+    "arrowStyle": {
+     "color": "#2E4520",
+     "border": "1px solid transparent",
+     "hoverColor": "#2E4520",
+     "disabledColor": "#3E6327"
+    }
+   },
+   {
+    "kind": "product-carousel",
+    "ariaLabel": "Vapes carousel",
+    "padding": "medium",
+    "title": "Vapes",
+    "collection": "cartridge",
+    "seeAll": {
+     "label": "See All",
+     "href": "/collection/cartridge",
+     "ariaLabel": "Go to /collection/cartridge"
+    },
+    "shopAllSlide": {
+     "label": "See All",
+     "href": "/collection/cartridge",
+     "ariaLabel": "Go to /collection/cartridge"
+    },
+    "controls": {
+     "ariaLabel": "Vapes carousel navigation",
+     "prev": {
+      "label": "Previous",
+      "ariaLabel": "Previous slide",
+      "disabled": true
+     },
+     "next": {
+      "label": "Next",
+      "ariaLabel": "Next slide",
+      "disabled": false
+     }
+    },
+    "slideCount": 13,
+    "cards": [
+     {
+      "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-sour-gary-5g-live-rosin-cart-0-5-g-cartridge-0-5-grams",
+      "name": "Sweetgrass Botanicals - Sour Gary - .5G Live Rosin Cart",
+      "brand": "SWEETGRASS BOTANICALS",
+      "price": "$40",
+      "weight": "0.5g",
+      "strain": "S/I",
+      "strainKey": "si",
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "SWEETGRASS BOTANICALS",
+       "S/I",
+       "510 THREAD"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Sweetgrass Botanicals - Sour Gary - .5G Live Rosin Cart",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-honeydew-5g-live-rosin-cart-0-5-g-cartridge-0-5-grams",
+      "name": "Sweetgrass Botanicals - Honeydew - .5G Live Rosin Cart",
+      "brand": "SWEETGRASS BOTANICALS",
+      "price": "$40",
+      "weight": "0.5g",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "SWEETGRASS BOTANICALS",
+       "Hybrid",
+       "510 THREAD"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Sweetgrass Botanicals - Honeydew - .5G Live Rosin Cart",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-dante-s-lemons-5g-live-rosin-cart-0-5-g-cartridge-0-5-grams",
+      "name": "Sweetgrass Botanicals - Dante's Lemons - .5G Live Rosin Cart",
+      "brand": "SWEETGRASS BOTANICALS",
+      "price": "$40",
+      "weight": "0.5g",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "75.08%",
+      "tac": "80.391%",
+      "cbd": null,
+      "badges": [
+       "SWEETGRASS BOTANICALS",
+       "Hybrid",
+       "THC: 75.08%",
+       "TAC: 80.391%",
+       "510 THREAD"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Sweetgrass Botanicals - Dante's Lemons - .5G Live Rosin Cart",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/harbor-house-harbor-house-bajah-blast-5g-cartridge-distillate-0-5-g-cartridge-0-5-grams",
+      "name": "Harbor House - Bajah Blast - .5G Cartridge - Distillate",
+      "brand": "HARBOR HOUSE",
+      "price": "$20",
+      "weight": "0.5g",
+      "strain": "Sativa",
+      "strainKey": "sativa",
+      "thc": "82.83%",
+      "tac": "86.592%",
+      "cbd": null,
+      "badges": [
+       "HARBOR HOUSE",
+       "Sativa",
+       "THC: 82.83%",
+       "TAC: 86.592%",
+       "510 THREAD"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Harbor House - Bajah Blast - .5G Cartridge - Distillate",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/treeworks-treeworks-007up-5g-live-hash-rosin-0-5-g-cartridge-0-5-grams",
+      "name": "Treeworks - 007up - .5G - Live Hash Rosin",
+      "brand": "TREEWORKS",
+      "price": "$40",
+      "weight": "0.5g",
+      "strain": "Sativa",
+      "strainKey": "sativa",
+      "thc": "76.37%",
+      "tac": "79.794%",
+      "cbd": null,
+      "badges": [
+       "TREEWORKS",
+       "Sativa",
+       "THC: 76.37%",
+       "TAC: 79.794%",
+       "510 THREAD"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Treeworks - 007up - .5G - Live Hash Rosin",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/in-house-in-house-maui-wowie-1g-dispo-1-g-cartridge-1-grams",
+      "name": "In House - Maui Wowie- 1G Dispo - 1 g",
+      "brand": "IN HOUSE",
+      "price": "$25",
+      "weight": "1g",
+      "strain": "Sativa",
+      "strainKey": "sativa",
+      "thc": "79.50%",
+      "tac": null,
+      "cbd": "0.20%",
+      "badges": [
+       "IN HOUSE",
+       "Sativa",
+       "THC: 79.50%",
+       "CBD: 0.20%",
+       "ALL IN ONE"
+      ],
+      "image": {
+       "src": "",
+       "alt": "In House - Maui Wowie- 1G Dispo - 1 g",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/sugaree-sugaree-strawana-1g-cart-melted-diamonds-1-g-cartridge-1-grams",
+      "name": "Sugaree - Strawana - 1G Cart - Melted Diamonds",
+      "brand": "SUGAREE",
+      "price": "$20",
+      "weight": "1g",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "SUGAREE",
+       "Hybrid",
+       "510 THREAD"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Sugaree - Strawana - 1G Cart - Melted Diamonds",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/nature-s-heritage-nature-s-heritage-grape-diamonds-5g-live-sauce-dispo-0-5-g-cartridge-0-5-grams",
+      "name": "Nature's Heritage - Grape Diamonds - .5G Live Sauce - Dispo",
+      "brand": "NATURE'S HERITAGE",
+      "price": "$20",
+      "weight": "0.5g",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "72.80%",
+      "tac": null,
+      "cbd": "0.30%",
+      "badges": [
+       "NATURE'S HERITAGE",
+       "Indica",
+       "THC: 72.80%",
+       "CBD: 0.30%",
+       "ALL IN ONE"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Nature's Heritage - Grape Diamonds - .5G Live Sauce - Dispo",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/sugaree-sugaree-clementine-1g-cart-melted-diamonds-1-g-cartridge-1-grams",
+      "name": "Sugaree - Clementine - 1G Cart - Melted Diamonds",
+      "brand": "SUGAREE",
+      "price": "$20",
+      "weight": "1g",
+      "strain": "Sativa",
+      "strainKey": "sativa",
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "SUGAREE",
+       "Sativa",
+       "510 THREAD"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Sugaree - Clementine - 1G Cart - Melted Diamonds",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/sugaree-sugaree-gelato-1g-cart-melted-diamonds-1-g-cartridge-1-grams",
+      "name": "Sugaree - Gelato - 1G Cart - Melted Diamonds",
+      "brand": "SUGAREE",
+      "price": "$20",
+      "weight": "1g",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "SUGAREE",
+       "Indica",
+       "510 THREAD"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Sugaree - Gelato - 1G Cart - Melted Diamonds",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/treeworks-treeworks-superboof-5g-live-hash-rosin-0-5-g-cartridge-0-5-grams",
+      "name": "Treeworks - Superboof - .5G - Live Hash Rosin",
+      "brand": "TREEWORKS",
+      "price": "$40",
+      "weight": "0.5g",
+      "strain": "Sativa",
+      "strainKey": "sativa",
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "TREEWORKS",
+       "Sativa",
+       "510 THREAD"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Treeworks - Superboof - .5G - Live Hash Rosin",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/in-house-in-house-biscotti-1g-dispo-1-g-cartridge-1-grams",
+      "name": "In House - Biscotti - 1G Dispo",
+      "brand": "IN HOUSE",
+      "price": "$25",
+      "weight": "1g",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "86.60%",
+      "tac": null,
+      "cbd": "0.30%",
+      "badges": [
+       "IN HOUSE",
+       "Indica",
+       "THC: 86.60%",
+       "CBD: 0.30%",
+       "ALL IN ONE"
+      ],
+      "image": {
+       "src": "",
+       "alt": "In House - Biscotti - 1G Dispo",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     }
+    ],
+    "arrowStyle": {
+     "color": null,
+     "border": null,
+     "hoverColor": null,
+     "disabledColor": null
+    }
+   },
+   {
+    "kind": "product-carousel",
+    "ariaLabel": "Pre-rolls carousel",
+    "padding": "medium",
+    "title": "Pre-rolls",
+    "collection": "preroll",
+    "seeAll": {
+     "label": "See All",
+     "href": "/collection/preroll",
+     "ariaLabel": "Go to /collection/preroll"
+    },
+    "shopAllSlide": {
+     "label": "See All",
+     "href": "/collection/preroll",
+     "ariaLabel": "Go to /collection/preroll"
+    },
+    "controls": {
+     "ariaLabel": "Pre-rolls carousel navigation",
+     "prev": {
+      "label": "Previous",
+      "ariaLabel": "Previous slide",
+      "disabled": true
+     },
+     "next": {
+      "label": "Next",
+      "ariaLabel": "Next slide",
+      "disabled": false
+     }
+    },
+    "slideCount": 21,
+    "cards": [
+     {
+      "url": "/product/mass-yield-mass-yield-inzane-in-the-membrane-1g-pre-roll-1-g-preroll-1-grams",
+      "name": "Mass Yield - Inzane in the Membrane - 1G Pre-roll",
+      "brand": "MASS YIELD",
+      "price": "$8",
+      "weight": "1g",
+      "strain": "Sativa",
+      "strainKey": "sativa",
+      "thc": "22.73%",
+      "tac": "27.66%",
+      "cbd": null,
+      "badges": [
+       "MASS YIELD",
+       "Sativa",
+       "THC: 22.73%",
+       "TAC: 27.66%",
+       "FLOWER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Mass Yield - Inzane in the Membrane - 1G Pre-roll",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/mass-yield-mass-yield-peanut-butter-gelato-1g-pre-roll-1-g-preroll-1-grams",
+      "name": "Mass Yield - Peanut Butter Gelato - 1G Pre-roll",
+      "brand": "MASS YIELD",
+      "price": "$8",
+      "weight": "1g",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "22.39%",
+      "tac": "26.6%",
+      "cbd": null,
+      "badges": [
+       "MASS YIELD",
+       "Indica",
+       "THC: 22.39%",
+       "TAC: 26.6%",
+       "FLOWER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Mass Yield - Peanut Butter Gelato - 1G Pre-roll",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/mass-yield-mass-yield-rasta-pie-1g-pre-roll-1-g-preroll-1-grams",
+      "name": "Mass Yield - Rasta Pie - 1G Pre-roll",
+      "brand": "MASS YIELD",
+      "price": "$8",
+      "weight": "1g",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "25.51%",
+      "tac": "30.85%",
+      "cbd": null,
+      "badges": [
+       "MASS YIELD",
+       "Indica",
+       "THC: 25.51%",
+       "TAC: 30.85%",
+       "FLOWER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Mass Yield - Rasta Pie - 1G Pre-roll",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/the-fresh-connection-the-fresh-connection-perfect-pair-1g-pre-roll-1-g-preroll-1-grams",
+      "name": "The Fresh Connection - Perfect Pair - 1G Pre-roll",
+      "brand": "THE FRESH CONNECTION",
+      "price": "$8",
+      "weight": "1g",
+      "strain": "Sativa",
+      "strainKey": "sativa",
+      "thc": "26.97%",
+      "tac": "33.26%",
+      "cbd": null,
+      "badges": [
+       "THE FRESH CONNECTION",
+       "Sativa",
+       "THC: 26.97%",
+       "TAC: 33.26%",
+       "FLOWER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "The Fresh Connection - Perfect Pair - 1G Pre-roll",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/tower-three-tower-three-moonbutter-1g-pre-roll-1-g-preroll-1-grams",
+      "name": "Tower Three - Moonbutter - 1G pre-roll",
+      "brand": "TOWER THREE",
+      "price": "$12",
+      "weight": "1g",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "27.87%",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "TOWER THREE",
+       "Indica",
+       "THC: 27.87%",
+       "FLOWER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Tower Three - Moonbutter - 1G pre-roll",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/mass-yield-mass-yield-el-jefe-1g-pre-roll-1-g-preroll-1-grams",
+      "name": "Mass Yield - El Jefe - 1G Pre-roll",
+      "brand": "MASS YIELD",
+      "price": "$8",
+      "weight": "1g",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "27.04%",
+      "tac": "32.25%",
+      "cbd": null,
+      "badges": [
+       "MASS YIELD",
+       "Indica",
+       "THC: 27.04%",
+       "TAC: 32.25%",
+       "FLOWER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Mass Yield - El Jefe - 1G Pre-roll",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/the-fresh-connection-the-fresh-connection-mucho-melon-1g-pre-roll-1-g-preroll-1-grams",
+      "name": "The Fresh Connection - Mucho Melon - 1G Pre-roll",
+      "brand": "THE FRESH CONNECTION",
+      "price": "$8",
+      "weight": "1g",
+      "strain": "Sativa",
+      "strainKey": "sativa",
+      "thc": "30.02%",
+      "tac": "36.17%",
+      "cbd": null,
+      "badges": [
+       "THE FRESH CONNECTION",
+       "Sativa",
+       "THC: 30.02%",
+       "TAC: 36.17%",
+       "FLOWER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "The Fresh Connection - Mucho Melon - 1G Pre-roll",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/tower-three-tower-three-last-dance-1g-pre-roll-1-g-preroll-1-grams",
+      "name": "Tower Three - Last Dance - 1G pre-roll",
+      "brand": "TOWER THREE",
+      "price": "$12",
+      "weight": "1g",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "25.50%",
+      "tac": null,
+      "cbd": "0.10%",
+      "badges": [
+       "TOWER THREE",
+       "Hybrid",
+       "THC: 25.50%",
+       "CBD: 0.10%",
+       "FLOWER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Tower Three - Last Dance - 1G pre-roll",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/impressed-impressed-zangria-1g-pre-roll-1-g-preroll-1-grams",
+      "name": "Impressed - Zangria - 1G Pre-roll",
+      "brand": "IMPRESSED",
+      "price": "$8",
+      "weight": "1g",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "24.43%",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "IMPRESSED",
+       "Indica",
+       "THC: 24.43%",
+       "FLOWER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Impressed - Zangria - 1G Pre-roll ",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/the-fresh-connection-the-fresh-connection-mac-31-1g-pre-roll-1-g-preroll-1-grams",
+      "name": "The Fresh Connection - MAC 31 - 1G Pre-roll",
+      "brand": "THE FRESH CONNECTION",
+      "price": "$8",
+      "weight": "1g",
+      "strain": "Sativa",
+      "strainKey": "sativa",
+      "thc": "21.42%",
+      "tac": "25.99%",
+      "cbd": "0.11%",
+      "badges": [
+       "THE FRESH CONNECTION",
+       "Sativa",
+       "THC: 21.42%",
+       "CBD: 0.11%",
+       "TAC: 25.99%",
+       "FLOWER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "The Fresh Connection - MAC 31 - 1G Pre-roll",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/harbor-house-harbor-house-orange-43-1g-pre-roll-1-g-preroll-1-grams",
+      "name": "Harbor House - Orange 43 - 1G Pre-roll",
+      "brand": "HARBOR HOUSE",
+      "price": "$10",
+      "weight": "1g",
+      "strain": "Sativa",
+      "strainKey": "sativa",
+      "thc": "23.98%",
+      "tac": "27.9%",
+      "cbd": null,
+      "badges": [
+       "HARBOR HOUSE",
+       "Sativa",
+       "THC: 23.98%",
+       "TAC: 27.9%",
+       "FLOWER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Harbor House - Orange 43 - 1G Pre-roll",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/tower-three-tower-three-florida-freeze-pre-roll-1-g-preroll-1-grams",
+      "name": "Tower Three - Florida Freeze - Pre-roll",
+      "brand": "TOWER THREE",
+      "price": "$12",
+      "weight": "1g",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "21.70%",
+      "tac": null,
+      "cbd": "0.10%",
+      "badges": [
+       "TOWER THREE",
+       "Hybrid",
+       "THC: 21.70%",
+       "CBD: 0.10%",
+       "FLOWER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Tower Three - Florida Freeze - Pre-roll",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/nature-s-heritage-nature-s-heritage-tropical-citrus-x-early-lemon-berry-5g-2pk-pre-roll-1-g-preroll-1-grams",
+      "name": "Nature's Heritage - Tropical & Citrus x Early Lemon Berry - .5G 2pk Pre-roll - Sample",
+      "brand": "NATURE'S HERITAGE",
+      "price": "$8",
+      "weight": "1g",
+      "strain": null,
+      "strainKey": null,
+      "thc": "21.29%",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "NATURE'S HERITAGE",
+       "THC: 21.29%",
+       "FLOWER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Nature's Heritage - Tropical & Citrus x Early Lemon Berry - .5G 2pk Pre-roll - Sample",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/tower-three-tower-three-og-kush-1g-pre-roll-1-g-preroll-1-grams",
+      "name": "Tower Three - OG Kush - 1G pre-roll",
+      "brand": "TOWER THREE",
+      "price": "$12",
+      "weight": "1g",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "27.30%",
+      "tac": "31.74%",
+      "cbd": null,
+      "badges": [
+       "TOWER THREE",
+       "Indica",
+       "THC: 27.30%",
+       "TAC: 31.74%",
+       "FLOWER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Tower Three - OG Kush - 1G pre-roll",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/impressed-impressed-gelonade-1g-pre-roll-1-g-preroll-1-grams",
+      "name": "Impressed - Gelonade - 1G Pre-roll",
+      "brand": "IMPRESSED",
+      "price": "$8",
+      "weight": "1g",
+      "strain": "Sativa",
+      "strainKey": "sativa",
+      "thc": "24.75%",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "IMPRESSED",
+       "Sativa",
+       "THC: 24.75%",
+       "FLOWER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Impressed - Gelonade - 1G Pre-roll",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/harbor-house-harbor-house-gmo-1g-pre-roll-1-g-preroll-1-grams",
+      "name": "Harbor House - GMO - 1G Pre-roll",
+      "brand": "HARBOR HOUSE",
+      "price": "$10",
+      "weight": "1g",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "29.05%",
+      "tac": "34.25%",
+      "cbd": null,
+      "badges": [
+       "HARBOR HOUSE",
+       "Indica",
+       "THC: 29.05%",
+       "TAC: 34.25%",
+       "FLOWER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Harbor House - GMO - 1G Pre-roll",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/impressed-impressed-rainbow-belts-1g-pre-roll-1-g-preroll-1-grams",
+      "name": "Impressed - Rainbow Belts - 1G Pre-roll",
+      "brand": "IMPRESSED",
+      "price": "$8",
+      "weight": "1g",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "22.86%",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "IMPRESSED",
+       "Indica",
+       "THC: 22.86%",
+       "FLOWER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Impressed - Rainbow Belts - 1G Pre-roll ",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/the-fresh-connection-the-fresh-connection-dante-s-inferno-1g-pre-roll-1-g-preroll-1-grams",
+      "name": "The Fresh Connection - Dante's Inferno - 1G Pre-roll",
+      "brand": "THE FRESH CONNECTION",
+      "price": "$8",
+      "weight": "1g",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "22.98%",
+      "tac": "27.76%",
+      "cbd": null,
+      "badges": [
+       "THE FRESH CONNECTION",
+       "Hybrid",
+       "THC: 22.98%",
+       "TAC: 27.76%",
+       "FLOWER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "The Fresh Connection - Dante's Inferno - 1G Pre-roll",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/breathe-free-breathe-free-blueberry-n-strawberry-1g-pre-roll-3-pack-3-g-preroll-3-grams",
+      "name": "Breathe Free - Blueberry N' Strawberry - 3pk 1G Pre-rolls",
+      "brand": "BREATHE FREE",
+      "price": "$20",
+      "weight": "3g",
+      "strain": "Sativa",
+      "strainKey": "sativa",
+      "thc": "22.43%",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "BREATHE FREE",
+       "Sativa",
+       "THC: 22.43%",
+       "FLOWER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Breathe Free - Blueberry N' Strawberry - 3pk 1G Pre-rolls",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/breathe-free-breathe-free-lemongrass-gas-1g-pre-roll-3-pack-3-g-preroll-3-grams",
+      "name": "Breathe Free - Lemongrass Gas - 3pk 1G Pre-rolls",
+      "brand": "BREATHE FREE",
+      "price": "$20",
+      "weight": "3g",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "27.66%",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "BREATHE FREE",
+       "Indica",
+       "THC: 27.66%",
+       "FLOWER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Breathe Free - Lemongrass Gas - 3pk 1G Pre-rolls",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     }
+    ],
+    "arrowStyle": {
+     "color": null,
+     "border": null,
+     "hoverColor": null,
+     "disabledColor": null
+    }
+   },
+   {
+    "kind": "product-carousel",
+    "ariaLabel": "Extracts carousel",
+    "padding": "medium",
+    "title": "Extracts",
+    "collection": "extract",
+    "seeAll": {
+     "label": "See All",
+     "href": "/collection/extract",
+     "ariaLabel": "Go to /collection/extract"
+    },
+    "shopAllSlide": {
+     "label": "See All",
+     "href": "/collection/extract",
+     "ariaLabel": "Go to /collection/extract"
+    },
+    "controls": {
+     "ariaLabel": "Extracts carousel navigation",
+     "prev": {
+      "label": "Previous",
+      "ariaLabel": "Previous slide",
+      "disabled": true
+     },
+     "next": {
+      "label": "Next",
+      "ariaLabel": "Next slide",
+      "disabled": false
+     }
+    },
+    "slideCount": 10,
+    "cards": [
+     {
+      "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-cherry-whip-1g-dry-sift-1-g-extract-1-grams",
+      "name": "Sweetgrass Botanicals - Cherry Whip - 1G Dry Sift",
+      "brand": "SWEETGRASS BOTANICALS",
+      "price": "$40",
+      "weight": "1g",
+      "strain": null,
+      "strainKey": null,
+      "thc": "57.50%",
+      "tac": null,
+      "cbd": "0.17%",
+      "badges": [
+       "SWEETGRASS BOTANICALS",
+       "THC: 57.50%",
+       "CBD: 0.17%",
+       "KIEF"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Sweetgrass Botanicals - Cherry Whip - 1G Dry Sift",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-honeydew-1g-live-rosin-1-g-extract-1-grams",
+      "name": "Sweetgrass Botanicals - Honeydew - 1G - Live Rosin",
+      "brand": "SWEETGRASS BOTANICALS",
+      "price": "$60",
+      "weight": "1g",
+      "strain": "Sativa",
+      "strainKey": "sativa",
+      "thc": "72.94%",
+      "tac": "75.002%",
+      "cbd": null,
+      "badges": [
+       "SWEETGRASS BOTANICALS",
+       "Sativa",
+       "THC: 72.94%",
+       "TAC: 75.002%",
+       "LIVE ROSIN"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Sweetgrass Botanicals - Honeydew - 1G - Live Rosin",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-slurricane-1g-live-rosin-1-g-extract-1-grams",
+      "name": "Sweetgrass Botanicals - Slurricane - 1G - Live Rosin",
+      "brand": "SWEETGRASS BOTANICALS",
+      "price": "$60",
+      "weight": "1g",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "67.39%",
+      "tac": "72.735%",
+      "cbd": null,
+      "badges": [
+       "SWEETGRASS BOTANICALS",
+       "Indica",
+       "THC: 67.39%",
+       "TAC: 72.735%",
+       "LIVE ROSIN"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Sweetgrass Botanicals - Slurricane - 1G - Live Rosin",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-gary-payton-x-apple-mints-1g-live-rosin-1-g-extract-1-grams",
+      "name": "Sweetgrass Botanicals - Gary Payton x Apple Mints - 1G - Live Rosin",
+      "brand": "SWEETGRASS BOTANICALS",
+      "price": "$60",
+      "weight": "1g",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "69.54%",
+      "tac": "71.22%",
+      "cbd": null,
+      "badges": [
+       "SWEETGRASS BOTANICALS",
+       "Indica",
+       "THC: 69.54%",
+       "TAC: 71.22%",
+       "LIVE ROSIN"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Sweetgrass Botanicals - Gary Payton x Apple Mints - 1G - Live Rosin",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-superboof-1g-live-rosin-1-g-extract-1-grams",
+      "name": "Sweetgrass Botanicals - Superboof - 1G - Live Rosin",
+      "brand": "SWEETGRASS BOTANICALS",
+      "price": "$60",
+      "weight": "1g",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "72.59%",
+      "tac": "76.656%",
+      "cbd": null,
+      "badges": [
+       "SWEETGRASS BOTANICALS",
+       "Hybrid",
+       "THC: 72.59%",
+       "TAC: 76.656%",
+       "LIVE ROSIN"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Sweetgrass Botanicals - Superboof - 1G - Live Rosin",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-dante-s-lemons-1g-live-rosin-1-g-extract-1-grams",
+      "name": "Sweetgrass Botanicals - Dante's Lemons - 1G - Live Rosin",
+      "brand": "SWEETGRASS BOTANICALS",
+      "price": "$60",
+      "weight": "1g",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "71.77%",
+      "tac": "77.371%",
+      "cbd": null,
+      "badges": [
+       "SWEETGRASS BOTANICALS",
+       "Hybrid",
+       "THC: 71.77%",
+       "TAC: 77.371%",
+       "LIVE ROSIN"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Sweetgrass Botanicals - Dante's Lemons - 1G - Live Rosin",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-cereal-milk-1g-live-rosin-1-g-extract-1-grams",
+      "name": "Sweetgrass Botanicals - Cereal Milk - 1G - Live Rosin",
+      "brand": "SWEETGRASS BOTANICALS",
+      "price": "$60",
+      "weight": "1g",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "70.61%",
+      "tac": "73.102%",
+      "cbd": null,
+      "badges": [
+       "SWEETGRASS BOTANICALS",
+       "Hybrid",
+       "THC: 70.61%",
+       "TAC: 73.102%",
+       "LIVE ROSIN"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Sweetgrass Botanicals - Cereal Milk - 1G - Live Rosin",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/harbor-house-harbor-house-lemon-cherry-sherbert-1g-badder-1-g-extract-1-grams",
+      "name": "Harbor House - Lemon Cherry Sherbert - 1G Badder",
+      "brand": "HARBOR HOUSE",
+      "price": "$25",
+      "weight": "1g",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "HARBOR HOUSE",
+       "Indica",
+       "BADDER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Harbor House - Lemon Cherry Sherbert - 1G Badder",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/harbor-house-harbor-house-super-silver-haze-x-albarino-1g-badder-1-g-extract-1-grams",
+      "name": "Harbor House - Super Silver Haze x Albarino - 1G Badder",
+      "brand": "HARBOR HOUSE",
+      "price": "$25",
+      "weight": "1g",
+      "strain": "Sativa",
+      "strainKey": "sativa",
+      "thc": "72.39%",
+      "tac": "84.337%",
+      "cbd": null,
+      "badges": [
+       "HARBOR HOUSE",
+       "Sativa",
+       "THC: 72.39%",
+       "TAC: 84.337%",
+       "BADDER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Harbor House - Super Silver Haze x Albarino - 1G Badder",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     }
+    ],
+    "arrowStyle": {
+     "color": null,
+     "border": null,
+     "hoverColor": null,
+     "disabledColor": null
+    }
+   },
+   {
+    "kind": "product-carousel",
+    "ariaLabel": "Drinks carousel",
+    "padding": "medium",
+    "title": "Drinks",
+    "collection": "beverage",
+    "seeAll": null,
+    "shopAllSlide": {
+     "label": "See All",
+     "href": "/collection/beverage",
+     "ariaLabel": "Go to /collection/beverage"
+    },
+    "controls": null,
+    "slideCount": 4,
+    "cards": [
+     {
+      "url": "/product/keef-keef-orange-soda-5-mg-beverage-5-milligrams",
+      "name": "Keef | Orange Soda",
+      "brand": "KEEF",
+      "price": "$7",
+      "weight": "each",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "5MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "KEEF",
+       "Hybrid",
+       "THC: 5MG",
+       "OTHER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Keef | Orange Soda",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/keef-keef-original-cola-5-mg-beverage-5-milligrams",
+      "name": "Keef | Original Cola",
+      "brand": "KEEF",
+      "price": "$7",
+      "weight": "each",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "5MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "KEEF",
+       "Hybrid",
+       "THC: 5MG",
+       "OTHER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Keef | Original Cola",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/keef-keef-root-beer-soda-5-mg-beverage-5-milligrams",
+      "name": "Keef | Root Beer Soda",
+      "brand": "KEEF",
+      "price": "$7",
+      "weight": "each",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "5MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "KEEF",
+       "Hybrid",
+       "THC: 5MG",
+       "OTHER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Keef | Root Beer Soda",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     }
+    ],
+    "arrowStyle": {
+     "color": null,
+     "border": null,
+     "hoverColor": null,
+     "disabledColor": null
+    }
+   },
+   {
+    "kind": "product-carousel",
+    "ariaLabel": "Edibles carousel",
+    "padding": "medium",
+    "title": "Edibles",
+    "collection": "edible",
+    "seeAll": {
+     "label": "See All",
+     "href": "/collection/edible",
+     "ariaLabel": "Go to /collection/edible"
+    },
+    "shopAllSlide": {
+     "label": "See All",
+     "href": "/collection/edible",
+     "ariaLabel": "Go to /collection/edible"
+    },
+    "controls": {
+     "ariaLabel": "Edibles carousel navigation",
+     "prev": {
+      "label": "Previous",
+      "ariaLabel": "Previous slide",
+      "disabled": true
+     },
+     "next": {
+      "label": "Next",
+      "ariaLabel": "Next slide",
+      "disabled": false
+     }
+    },
+    "slideCount": 21,
+    "cards": [
+     {
+      "url": "/product/ahh-moments-ahh-moments-caramel-crush-calm-rosin-chocolate-100-mg-edible-100-milligrams",
+      "name": "Ahh Moments | Caramel Crush Calm Rosin | Chocolate",
+      "brand": "AHH MOMENTS",
+      "price": "$25",
+      "weight": "each",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "100MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "AHH MOMENTS",
+       "Indica",
+       "THC: 100MG",
+       "CHOCOLATE"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Ahh Moments | Caramel Crush Calm Rosin | Chocolate",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/kanha-kanha-belts-cherry-limeade-live-rosin-100-mg-10-pack-edible-100-milligrams",
+      "name": "Kanha Belts - Cherry Limeade - Live Rosin",
+      "brand": "KANHA",
+      "price": "$20",
+      "weight": "each",
+      "strain": "Sativa",
+      "strainKey": "sativa",
+      "thc": "100MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "KANHA",
+       "Sativa",
+       "THC: 100MG",
+       "GUMMY"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Kanha Belts - Cherry Limeade - Live Rosin",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/kanha-kanha-belts-blueberry-lemon-drop-live-rosin-100-mg-10-pack-edible-100-milligrams",
+      "name": "Kanha Belts - Blueberry Lemon Drop - Live Rosin",
+      "brand": "KANHA",
+      "price": "$20",
+      "weight": "each",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "100MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "KANHA",
+       "Hybrid",
+       "THC: 100MG",
+       "GUMMY"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Kanha Belts - Blueberry Lemon Drop - Live Rosin",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/claravita-claravita-apple-cider-gummies-live-rosin-1-1-100-mg-20-pack-edible-100-milligrams",
+      "name": "Claravita - Apple Cider Gummies - Live Rosin - 1:1",
+      "brand": "CLARAVITA",
+      "price": "$16",
+      "weight": "each",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "100MG",
+      "tac": null,
+      "cbd": "100MG",
+      "badges": [
+       "CLARAVITA",
+       "Hybrid",
+       "THC: 100MG",
+       "CBD: 100MG",
+       "GUMMY"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Claravita - Apple Cider Gummies - Live Rosin - 1:1",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/ahh-moments-ahh-moments-strawberry-cream-party-rosin-chocolate-100-mg-edible-100-milligrams",
+      "name": "Ahh Moments | Strawberry Cream Party Rosin | Chocolate",
+      "brand": "AHH MOMENTS",
+      "price": "$25",
+      "weight": "each",
+      "strain": "Sativa",
+      "strainKey": "sativa",
+      "thc": "100MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "AHH MOMENTS",
+       "Sativa",
+       "THC: 100MG",
+       "CHOCOLATE"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Ahh Moments | Strawberry Cream Party Rosin | Chocolate",
+       "placeholder": true
+      },
+      "stockPhoto": true,
+      "stockPhotoLabel": "Stock photo",
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/betty-s-eddies-betty-s-eddies-raspberry-creme-bedtime-betty-s-1-2-1-50-mg-10-pack-edible-50-milligrams",
+      "name": "Betty's Eddies | Raspberry Creme | Bedtime Betty's | 1:2:1",
+      "brand": "BETTY'S EDDIES",
+      "price": "$20",
+      "weight": "each",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "50MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "BETTY'S EDDIES",
+       "Indica",
+       "THC: 50MG",
+       "CHEW"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Betty's Eddies | Raspberry Creme | Bedtime Betty's | 1:2:1",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/betty-s-eddies-betty-s-eddies-orange-creme-ache-away-pm-1-1-1-50-mg-10-pack-edible-50-milligrams",
+      "name": "Betty's Eddies | Orange Creme | Ache Away PM | 1:1:1",
+      "brand": "BETTY'S EDDIES",
+      "price": "$20",
+      "weight": "each",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "50MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "BETTY'S EDDIES",
+       "Indica",
+       "THC: 50MG",
+       "CHEW"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Betty's Eddies | Orange Creme | Ache Away PM | 1:1:1",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/betty-s-eddies-betty-s-eddies-lemon-agave-bedtime-betty-s-50-mg-10-pack-edible-50-milligrams",
+      "name": "Betty's Eddies | Lemon Agave | Bedtime Betty's",
+      "brand": "BETTY'S EDDIES",
+      "price": "$20",
+      "weight": "each",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "50MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "BETTY'S EDDIES",
+       "Hybrid",
+       "THC: 50MG",
+       "CHEW"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Betty's Eddies | Lemon Agave | Bedtime Betty's",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/betty-s-eddies-betty-s-eddies-watermelon-go-betty-go-50-mg-10-pack-edible-50-milligrams",
+      "name": "Betty's Eddies | Watermelon | Go Betty Go",
+      "brand": "BETTY'S EDDIES",
+      "price": "$20",
+      "weight": "each",
+      "strain": "Sativa",
+      "strainKey": "sativa",
+      "thc": "50MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "BETTY'S EDDIES",
+       "Sativa",
+       "THC: 50MG",
+       "CHEW"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Betty's Eddies | Watermelon | Go Betty Go",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/betty-s-eddies-betty-s-eddies-strawberry-lemonade-swirl-beachtime-betty-s-1-1-50-mg-10-pack-edible-50-milligrams",
+      "name": "Betty's Eddies | Strawberry Lemonade Swirl | Beachtime Betty's | 1:1",
+      "brand": "BETTY'S EDDIES",
+      "price": "$20",
+      "weight": "each",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "50MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "BETTY'S EDDIES",
+       "Hybrid",
+       "THC: 50MG",
+       "CHEW"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Betty's Eddies | Strawberry Lemonade Swirl | Beachtime Betty's | 1:1",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/betty-s-eddies-betty-s-eddies-tropical-smoothie-chews-1-6-50-mg-10-pack-edible-50-milligrams",
+      "name": "Betty's Eddies | Tropical Smoothie | Chews | 1:6",
+      "brand": "BETTY'S EDDIES",
+      "price": "$20",
+      "weight": "each",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "50MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "BETTY'S EDDIES",
+       "Hybrid",
+       "THC: 50MG",
+       "CHEW"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Betty's Eddies | Tropical Smoothie | Chews | 1:6",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/betty-s-eddies-betty-s-eddies-cherry-ache-away-eddies-1-4-1-50-mg-10-pack-edible-50-milligrams",
+      "name": "Betty's Eddies | Cherry | Ache Away Eddies | 1:4:1",
+      "brand": "BETTY'S EDDIES",
+      "price": "$20",
+      "weight": "each",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "50MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "BETTY'S EDDIES",
+       "Hybrid",
+       "THC: 50MG",
+       "CHEW"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Betty's Eddies | Cherry | Ache Away Eddies | 1:4:1",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/coast-coast-blissful-blueberry-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+      "name": "Coast - Blissful Blueberry - Gummy - 5:5:5",
+      "brand": "COAST",
+      "price": "$25",
+      "weight": "each",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "100MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "COAST",
+       "Indica",
+       "THC: 100MG",
+       "GUMMY"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Coast - Blissful Blueberry - Gummy - 5:5:5",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/coast-coast-tangerine-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+      "name": "Coast - Tangerine - Gummy - 5:5:5",
+      "brand": "COAST",
+      "price": "$25",
+      "weight": "each",
+      "strain": "Sativa",
+      "strainKey": "sativa",
+      "thc": "100MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "COAST",
+       "Sativa",
+       "THC: 100MG",
+       "GUMMY"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Coast - Tangerine - Gummy - 5:5:5",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/coast-coast-raspberry-lime-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+      "name": "Coast - Raspberry Lime - Gummy - 5:5:5",
+      "brand": "COAST",
+      "price": "$25",
+      "weight": "each",
+      "strain": "Sativa",
+      "strainKey": "sativa",
+      "thc": "100MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "COAST",
+       "Sativa",
+       "THC: 100MG",
+       "GUMMY"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Coast - Raspberry Lime - Gummy - 5:5:5",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/bubby-s-bubby-s-pumpkin-bites-baked-goods-5mg-5-mg-edible-5-milligrams",
+      "name": "Bubby's - Pumpkin Bites Baked Goods - 5mg",
+      "brand": "BUBBY'S",
+      "price": "$10",
+      "weight": "each",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "5MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "BUBBY'S",
+       "Hybrid",
+       "THC: 5MG",
+       "BAKED GOOD"
+      ],
+      "image": {
+       "src": "",
+       "alt": " Bubby's - Pumpkin Bites Baked Goods - 5mg",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-goodnight-hash-caps-thc-cbn-100-mg-20-pack-edible-100-milligrams",
+      "name": "Sweetgrass Botanicals - GoodNight - Hash Caps - THC/CBN",
+      "brand": "SWEETGRASS BOTANICALS",
+      "price": "$25",
+      "weight": "each",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "100MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "SWEETGRASS BOTANICALS",
+       "Indica",
+       "THC: 100MG",
+       "OTHER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Sweetgrass Botanicals - GoodNight - Hash Caps - THC/CBN",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-infused-olive-oil-250mg-250-mg-edible-250-milligrams",
+      "name": "Sweetgrass Botanicals - Infused Olive Oil - 250mg",
+      "brand": "SWEETGRASS BOTANICALS",
+      "price": "$30",
+      "weight": "each",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "250MG",
+      "tac": "0.28%",
+      "cbd": null,
+      "badges": [
+       "SWEETGRASS BOTANICALS",
+       "Hybrid",
+       "THC: 250MG",
+       "TAC: 0.28%",
+       "OIL"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Sweetgrass Botanicals - Infused Olive Oil - 250mg",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/coast-coast-dark-chocolate-sea-salt-bar-100-mg-edible-100-milligrams",
+      "name": "Coast - Dark Chocolate Sea Salt Bar - 100mg",
+      "brand": "COAST",
+      "price": "$20",
+      "weight": "each",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "100MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "COAST",
+       "Hybrid",
+       "THC: 100MG",
+       "CHOCOLATE"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Coast - Dark Chocolate Sea Salt Bar - 100mg",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/coast-coast-strawberry-lemonade-gummy-10-5-5-100-mg-20-pack-edible-100-milligrams",
+      "name": "Coast - Strawberry Lemonade - Gummy - 10:5:5",
+      "brand": "COAST",
+      "price": "$25",
+      "weight": "each",
+      "strain": "Sativa",
+      "strainKey": "sativa",
+      "thc": "100MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "COAST",
+       "Sativa",
+       "THC: 100MG",
+       "GUMMY"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Coast - Strawberry Lemonade - Gummy - 10:5:5",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     }
+    ],
+    "arrowStyle": {
+     "color": null,
+     "border": null,
+     "hoverColor": null,
+     "disabledColor": null
+    }
+   },
+   {
+    "kind": "product-carousel",
+    "ariaLabel": "Tinctures carousel",
+    "padding": "medium",
+    "title": "Tinctures",
+    "collection": "tincture",
+    "seeAll": {
+     "label": "See All",
+     "href": "/collection/tincture",
+     "ariaLabel": "Go to /collection/tincture"
+    },
+    "shopAllSlide": {
+     "label": "See All",
+     "href": "/collection/tincture",
+     "ariaLabel": "Go to /collection/tincture"
+    },
+    "controls": {
+     "ariaLabel": "Tinctures carousel navigation",
+     "prev": {
+      "label": "Previous",
+      "ariaLabel": "Previous slide",
+      "disabled": true
+     },
+     "next": {
+      "label": "Next",
+      "ariaLabel": "Next slide",
+      "disabled": false
+     }
+    },
+    "slideCount": 8,
+    "cards": [
+     {
+      "url": "/product/levia-levia-celebrate-drops-tincture-500-mg-tincture-500-milligrams",
+      "name": "Levia | Celebrate Drops | Tincture",
+      "brand": "LEVIA",
+      "price": "$40",
+      "weight": "each",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "500MG",
+      "tac": "2.147%",
+      "cbd": null,
+      "badges": [
+       "LEVIA",
+       "Hybrid",
+       "THC: 500MG",
+       "TAC: 2.147%",
+       "OTHER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Levia | Celebrate Drops | Tincture",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/levia-levia-dream-drops-tincture-500-mg-tincture-500-milligrams",
+      "name": "Levia | Dream Drops | Tincture",
+      "brand": "LEVIA",
+      "price": "$40",
+      "weight": "each",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "500MG",
+      "tac": "1.984%",
+      "cbd": null,
+      "badges": [
+       "LEVIA",
+       "Indica",
+       "THC: 500MG",
+       "TAC: 1.984%",
+       "OTHER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Levia | Dream Drops | Tincture",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/levia-levia-achieve-drops-tincture-500-mg-tincture-500-milligrams",
+      "name": "Levia | Achieve Drops | Tincture",
+      "brand": "LEVIA",
+      "price": "$40",
+      "weight": "each",
+      "strain": "Sativa",
+      "strainKey": "sativa",
+      "thc": "500MG",
+      "tac": "2.12%",
+      "cbd": null,
+      "badges": [
+       "LEVIA",
+       "Sativa",
+       "THC: 500MG",
+       "TAC: 2.12%",
+       "OTHER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Levia | Achieve Drops | Tincture",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/treeworks-treeworks-purist-drops-2000mg-2000-mg-tincture-2000-milligrams",
+      "name": "Treeworks - Purist Drops - 2000MG",
+      "brand": "TREEWORKS",
+      "price": "$70",
+      "weight": "each",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "2000MG",
+      "tac": "4.344%",
+      "cbd": null,
+      "badges": [
+       "TREEWORKS",
+       "Hybrid",
+       "THC: 2000MG",
+       "TAC: 4.344%",
+       "OTHER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Treeworks - Purist Drops - 2000MG",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/ahh-moments-ahh-moments-cherry-berry-shot-sleepy-1-1-20-mg-tincture-20-milligrams",
+      "name": "Ahh Moments | Cherry Berry Shot | Sleepy | 1:1",
+      "brand": "AHH MOMENTS",
+      "price": "$15",
+      "weight": "each",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "20MG",
+      "tac": "0.13%",
+      "cbd": null,
+      "badges": [
+       "AHH MOMENTS",
+       "Indica",
+       "THC: 20MG",
+       "TAC: 0.13%",
+       "OTHER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Ahh Moments | Cherry Berry Shot | Sleepy | 1:1",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/treeworks-treeworks-gentle-drops-990mg-990-mg-tincture-990-milligrams",
+      "name": "Treeworks- Gentle Drops - 990MG",
+      "brand": "TREEWORKS",
+      "price": "$50",
+      "weight": "each",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "990MG",
+      "tac": "2.141%",
+      "cbd": null,
+      "badges": [
+       "TREEWORKS",
+       "Hybrid",
+       "THC: 990MG",
+       "TAC: 2.141%",
+       "OTHER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Treeworks- Gentle Drops - 990MG",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-amplify-1350mg-cbd-cbg-thc-tincture-1350-mg-tincture-1350-milligrams",
+      "name": "Sweetgrass Botanicals - Amplify 1350mg CBD/CBG/THC Tincture",
+      "brand": "SWEETGRASS BOTANICALS",
+      "price": "$70",
+      "weight": "each",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "1350MG",
+      "tac": "4.779%",
+      "cbd": null,
+      "badges": [
+       "SWEETGRASS BOTANICALS",
+       "Hybrid",
+       "THC: 1350MG",
+       "TAC: 4.779%",
+       "OTHER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Sweetgrass Botanicals - Amplify 1350mg CBD/CBG/THC Tincture",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     }
+    ],
+    "arrowStyle": {
+     "color": null,
+     "border": null,
+     "hoverColor": null,
+     "disabledColor": null
+    }
+   },
+   {
+    "kind": "product-carousel",
+    "ariaLabel": "Topicals carousel",
+    "padding": "medium",
+    "title": "Topicals",
+    "collection": "topical",
+    "seeAll": null,
+    "shopAllSlide": {
+     "label": "See All",
+     "href": "/collection/topical",
+     "ariaLabel": "Go to /collection/topical"
+    },
+    "controls": null,
+    "slideCount": 5,
+    "cards": [
+     {
+      "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-personal-lubricant-500mg-500-mg-topical-500-milligrams",
+      "name": "Sweetgrass Botanicals - Personal Lubricant - 500mg",
+      "brand": "SWEETGRASS BOTANICALS",
+      "price": "$50",
+      "weight": "each",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "500MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "SWEETGRASS BOTANICALS",
+       "Hybrid",
+       "THC: 500MG",
+       "LUBRICANT"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Sweetgrass Botanicals - Personal Lubricant - 500mg",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-massage-oil-500mg-500-mg-topical-500-milligrams",
+      "name": "Sweetgrass Botanicals - Massage Oil - 500mg",
+      "brand": "SWEETGRASS BOTANICALS",
+      "price": "$70",
+      "weight": "each",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "500MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "SWEETGRASS BOTANICALS",
+       "Hybrid",
+       "THC: 500MG",
+       "OIL"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Sweetgrass Botanicals - Massage Oil - 500mg",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-muscle-salve-300mg-300-mg-topical-300-milligrams",
+      "name": "Sweetgrass Botanicals - Muscle Salve - 300mg",
+      "brand": "SWEETGRASS BOTANICALS",
+      "price": "$60",
+      "weight": "each",
+      "strain": "Hybrid",
+      "strainKey": "hybrid",
+      "thc": "300MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "SWEETGRASS BOTANICALS",
+       "Hybrid",
+       "THC: 300MG",
+       "OTHER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Sweetgrass Botanicals - Muscle Salve - 300mg ",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     },
+     {
+      "url": "/product/treeworks-treeworks-canna-cream-rso-1000mg-1000-mg-topical-1000-milligrams",
+      "name": "Treeworks - Canna Cream RSO - 1000MG",
+      "brand": "TREEWORKS",
+      "price": "$50",
+      "weight": "each",
+      "strain": "Indica",
+      "strainKey": "indica",
+      "thc": "1000MG",
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "TREEWORKS",
+       "Indica",
+       "THC: 1000MG",
+       "CREAM"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Treeworks - Canna Cream RSO - 1000MG",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": "/"
+     }
+    ],
+    "arrowStyle": {
+     "color": null,
+     "border": null,
+     "hoverColor": null,
+     "disabledColor": null
+    }
+   },
+   {
+    "kind": "product-carousel",
+    "ariaLabel": "Accessories carousel",
+    "padding": "medium",
+    "spacingBottom": true,
+    "title": "Accessories",
+    "collection": "merch",
+    "seeAll": {
+     "label": "See All",
+     "href": "/collection/merch",
+     "ariaLabel": "Go to /collection/merch"
+    },
+    "shopAllSlide": {
+     "label": "See All",
+     "href": "/collection/merch",
+     "ariaLabel": "Go to /collection/merch"
+    },
+    "controls": {
+     "ariaLabel": "Accessories carousel navigation",
+     "prev": {
+      "label": "Previous",
+      "ariaLabel": "Previous slide",
+      "disabled": true
+     },
+     "next": {
+      "label": "Next",
+      "ariaLabel": "Next slide",
+      "disabled": false
+     }
+    },
+    "slideCount": 21,
+    "cards": [
+     {
+      "url": "/product/raw-raw-classic-cones-dog-walker-single-70-24-one-size-merch",
+      "name": "Raw - Classic Cones - Dog Walker - Single - 70/24",
+      "brand": "RAW",
+      "price": "$8",
+      "weight": null,
+      "strain": null,
+      "strainKey": null,
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "RAW",
+       "ROLLING PAPERS"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Raw - Classic Cones - Dog Walker - Single - 70/24",
+       "placeholder": true
+      },
+      "stockPhoto": true,
+      "stockPhotoLabel": "Stock photo",
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": null
+     },
+     {
+      "url": "/product/sunnydayz-sunnydayz-battery-one-size-merch",
+      "name": "Sunnydayz Battery",
+      "brand": "SUNNYDAYZ",
+      "price": "$10",
+      "weight": null,
+      "strain": null,
+      "strainKey": null,
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "SUNNYDAYZ",
+       "BATTERY"
+      ],
+      "image": {
+       "src": "",
+       "alt": " Sunnydayz Battery",
+       "placeholder": true
+      },
+      "stockPhoto": true,
+      "stockPhotoLabel": "Stock photo",
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": null
+     },
+     {
+      "url": "/product/blazy-susan-blazy-susan-filter-tips-book-purple-ultra-wide-one-size-merch",
+      "name": "Blazy Susan - Filter Tips - Book - Purple Ultra Wide",
+      "brand": "BLAZY SUSAN",
+      "price": "$2",
+      "weight": null,
+      "strain": null,
+      "strainKey": null,
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "BLAZY SUSAN",
+       "ROLLING PAPERS"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Blazy Susan - Filter Tips - Book - Purple Ultra Wide",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": null
+     },
+     {
+      "url": "/product/raw-raw-organic-rolling-papers-black-1-1-4-one-size-merch",
+      "name": "Raw - Organic Rolling Papers - Black - 1 1/4",
+      "brand": "RAW",
+      "price": "$2.50",
+      "weight": null,
+      "strain": null,
+      "strainKey": null,
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "RAW",
+       "ROLLING PAPERS"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Raw - Organic Rolling Papers - Black - 1 1/4",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": null
+     },
+     {
+      "url": "/product/sunnydayz-sunnydayz-hat-one-size-merch",
+      "name": "SunnyDayz - Hat - One Size",
+      "brand": "SUNNYDAYZ",
+      "price": "$35",
+      "weight": null,
+      "strain": null,
+      "strainKey": null,
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "SUNNYDAYZ",
+       "HAT"
+      ],
+      "image": {
+       "src": "",
+       "alt": "SunnyDayz - Hat - One Size",
+       "placeholder": true
+      },
+      "stockPhoto": true,
+      "stockPhotoLabel": "Stock photo",
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": null
+     },
+     {
+      "url": "/product/sunnydayz-sunnydayz-t-shirt-one-size-merch",
+      "name": "SunnyDayz - T Shirt",
+      "brand": "SUNNYDAYZ",
+      "price": "$25",
+      "weight": null,
+      "strain": null,
+      "strainKey": null,
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "SUNNYDAYZ",
+       "T SHIRT"
+      ],
+      "image": {
+       "src": "",
+       "alt": "SunnyDayz - T Shirt",
+       "placeholder": true
+      },
+      "stockPhoto": true,
+      "stockPhotoLabel": "Stock photo",
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": null
+     },
+     {
+      "url": "/product/bic-bic-lighter-black-one-size-merch",
+      "name": "Bic Lighter - Black",
+      "brand": "BIC",
+      "price": "$3",
+      "weight": null,
+      "strain": null,
+      "strainKey": null,
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "BIC",
+       "LIGHTER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Bic Lighter - Black",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": null
+     },
+     {
+      "url": "/product/bic-bic-lighter-color-one-size-merch",
+      "name": "Bic Lighter - Color",
+      "brand": "BIC",
+      "price": "$3",
+      "weight": null,
+      "strain": null,
+      "strainKey": null,
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "BIC",
+       "LIGHTER"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Bic Lighter - Color",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": null
+     },
+     {
+      "url": "/product/blazy-susan-blazy-susan-filter-tips-book-pink-ultra-wide-one-size-merch",
+      "name": "Blazy Susan - Filter Tips - Book - Pink Ultra Wide",
+      "brand": "BLAZY SUSAN",
+      "price": "$2",
+      "weight": null,
+      "strain": null,
+      "strainKey": null,
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "BLAZY SUSAN",
+       "ROLLING PAPERS"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Blazy Susan - Filter Tips - Book - Pink Ultra Wide",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": null
+     },
+     {
+      "url": "/product/blazy-susan-blazy-susan-filter-tips-tin-100ct-one-size-merch",
+      "name": "Blazy Susan - Filter Tips - Tin 100ct",
+      "brand": "BLAZY SUSAN",
+      "price": "$10",
+      "weight": null,
+      "strain": null,
+      "strainKey": null,
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "BLAZY SUSAN",
+       "ROLLING PAPERS"
+      ],
+      "image": {
+       "src": "",
+       "alt": " Blazy Susan - Filter Tips - Tin 100ct",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": null
+     },
+     {
+      "url": "/product/blazy-susan-blazy-susan-pink-cones-shorty-53mm-one-size-merch",
+      "name": "Blazy Susan - Cones - Shorty 53mm",
+      "brand": "BLAZY SUSAN",
+      "price": "$8",
+      "weight": null,
+      "strain": null,
+      "strainKey": null,
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "BLAZY SUSAN",
+       "ROLLING PAPERS"
+      ],
+      "image": {
+       "src": "",
+       "alt": " Blazy Susan - Cones - Shorty 53mm",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": null
+     },
+     {
+      "url": "/product/blazy-susan-blazy-susan-purple-cones-1-1-4-one-size-merch",
+      "name": "Blazy Susan - Purple - Cones - 1 1/4",
+      "brand": "BLAZY SUSAN",
+      "price": "$8",
+      "weight": null,
+      "strain": null,
+      "strainKey": null,
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "BLAZY SUSAN",
+       "ROLLING PAPERS"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Blazy Susan - Purple - Cones - 1 1/4",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": null
+     },
+     {
+      "url": "/product/blazy-susan-blazy-susan-purple-rolling-papers-1-1-4-one-size-merch",
+      "name": "Blazy Susan - Purple - Rolling Papers - 1 1/4",
+      "brand": "BLAZY SUSAN",
+      "price": "$2",
+      "weight": null,
+      "strain": null,
+      "strainKey": null,
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "BLAZY SUSAN",
+       "ROLLING PAPERS"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Blazy Susan - Purple - Rolling Papers - 1 1/4",
+       "placeholder": true
+      },
+      "stockPhoto": true,
+      "stockPhotoLabel": "Stock photo",
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": null
+     },
+     {
+      "url": "/product/blazy-susan-blazy-susan-purple-rolling-papers-king-slim-one-size-merch",
+      "name": "Blazy Susan - Purple - Rolling Papers - King Slim",
+      "brand": "BLAZY SUSAN",
+      "price": "$2",
+      "weight": null,
+      "strain": null,
+      "strainKey": null,
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "BLAZY SUSAN",
+       "ROLLING PAPERS"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Blazy Susan - Purple - Rolling Papers - King Slim",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": null
+     },
+     {
+      "url": "/product/grav-classic-spoon-amber-hand-pipe-one-size-merch",
+      "name": "Classic Spoon - Amber - Hand Pipe",
+      "brand": "GRAV",
+      "price": "$20",
+      "weight": null,
+      "strain": null,
+      "strainKey": null,
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "GRAV",
+       "PIPE"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Classic Spoon - Amber - Hand Pipe",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": null
+     },
+     {
+      "url": "/product/grav-classic-spoon-black-hand-pipe-one-size-merch",
+      "name": "Classic Spoon - Black - Hand Pipe",
+      "brand": "GRAV",
+      "price": "$20",
+      "weight": null,
+      "strain": null,
+      "strainKey": null,
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "GRAV",
+       "PIPE"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Classic Spoon - Black - Hand Pipe",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": null
+     },
+     {
+      "url": "/product/grav-classic-spoon-blue-hand-pipe-one-size-merch",
+      "name": "Classic Spoon - Blue - Hand Pipe",
+      "brand": "GRAV",
+      "price": "$20",
+      "weight": null,
+      "strain": null,
+      "strainKey": null,
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "GRAV",
+       "PIPE"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Classic Spoon - Blue - Hand Pipe",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": null
+     },
+     {
+      "url": "/product/grav-classic-spoon-green-hand-pipe-one-size-merch",
+      "name": "Classic Spoon - Green - Hand Pipe",
+      "brand": "GRAV",
+      "price": "$20",
+      "weight": null,
+      "strain": null,
+      "strainKey": null,
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "GRAV",
+       "PIPE"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Classic Spoon - Green - Hand Pipe",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": null
+     },
+     {
+      "url": "/product/grav-classic-spoon-pink-hand-pipe-one-size-merch",
+      "name": "Classic Spoon - Pink - Hand Pipe",
+      "brand": "GRAV",
+      "price": "$20",
+      "weight": null,
+      "strain": null,
+      "strainKey": null,
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "GRAV",
+       "PIPE"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Classic Spoon - Pink - Hand Pipe",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": null
+     },
+     {
+      "url": "/product/elements-elements-rolling-papers-1-1-4-one-size-merch",
+      "name": "Elements - Rolling Papers - 1 1/4",
+      "brand": "ELEMENTS",
+      "price": "$2",
+      "weight": null,
+      "strain": null,
+      "strainKey": null,
+      "thc": null,
+      "tac": null,
+      "cbd": null,
+      "badges": [
+       "ELEMENTS",
+       "ROLLING PAPERS"
+      ],
+      "image": {
+       "src": "",
+       "alt": "Elements - Rolling Papers - 1 1/4",
+       "placeholder": true
+      },
+      "stockPhoto": false,
+      "stockPhotoLabel": null,
+      "addToCartLabel": "Add To Cart",
+      "weightSeparator": null
+     }
+    ],
+    "arrowStyle": {
+     "color": null,
+     "border": null,
+     "hoverColor": null,
+     "disabledColor": null
+    }
+   },
+   {
+    "kind": "image-link-banner",
+    "ariaLabel": null,
+    "padding": "large",
+    "link": {
+     "label": "",
+     "href": "https://app.treezloyalty.com/getpass/kranNR",
+     "external": true,
+     "target": "_blank",
+     "rel": "noopener noreferrer"
+    },
+    "image": {
+     "src": "https://res.cloudinary.com/vuu4jci5/image/upload/v1788439380/FINAL_LOYALTY_PROGRAM-1-2.jpg",
+     "alt": "Sun Club"
+    },
+    "aspectPaddingBottom": "45%",
+    "objectFit": "cover"
+   },
+   {
+    "kind": "marquee",
+    "ariaLabel": "Content marquee carousel",
+    "padding": "small",
+    "items": [
+     {
+      "label": "Small Batch, Real Farmers, Real Flavor.",
+      "href": "/shop",
+      "ariaLabel": "Small Batch, Real Farmers, Real Flavor.",
+      "image": null,
+      "withCaption": true,
+      "textOnly": true
+     },
+     {
+      "label": "Small Batch, Real Farmers, Real Flavor.",
+      "href": "/shop",
+      "ariaLabel": "Small Batch, Real Farmers, Real Flavor.",
+      "image": null,
+      "withCaption": true,
+      "textOnly": true
+     },
+     {
+      "label": "",
+      "href": "/Small%20Batch,%20Real%20Farmers,%20Real%20Flavor.",
+      "ariaLabel": "Marquee item",
+      "hrefRaw": "/Small Batch, Real Farmers, Real Flavor.",
+      "hrefSuspect": true,
+      "image": null,
+      "withCaption": false,
+      "textOnly": false
+     },
+     {
+      "label": "Small Batch, Real Farmers, Real Flavor.",
+      "href": "/shop",
+      "ariaLabel": "Small Batch, Real Farmers, Real Flavor.",
+      "image": null,
+      "withCaption": true,
+      "textOnly": true
+     },
+     {
+      "label": "Small Batch, Real Farmers, Real Flavor.",
+      "href": "/shop",
+      "ariaLabel": "Small Batch, Real Farmers, Real Flavor.",
+      "image": null,
+      "withCaption": true,
+      "textOnly": true
+     },
+     {
+      "label": "Small Batch, Real Farmers, Real Flavor.",
+      "href": "/shop",
+      "ariaLabel": "Small Batch, Real Farmers, Real Flavor.",
+      "image": null,
+      "withCaption": true,
+      "textOnly": true
+     }
+    ],
+    "copies": 2,
+    "copiesA11y": [
+     {
+      "ariaHidden": false,
+      "inert": false
+     },
+     {
+      "ariaHidden": true,
+      "inert": true
+     }
+    ],
+    "style": {
+     "--cmc-item-h-sm": "24px",
+     "--cmc-item-h-lg": "32px",
+     "--cmc-label-color": "#231F20",
+     "background": "#F9E200",
+     "--cmc-marquee-duration": "100s",
+     "--cmc-marquee-gap-desktop": "6px",
+     "--cmc-marquee-gap-mobile": "6px"
+    }
+   },
+   {
+    "kind": "side-by-side",
+    "ariaLabel": null,
+    "padding": null,
+    "withPadding": true,
+    "title": "About us",
+    "blocks": [
+     {
+      "t": "p",
+      "text": "SunnyDayz is an independently owned, vertically integrated craft cannabis company built around a simple belief: how cannabis is grown, made, and sold matters.",
+      "html": "SunnyDayz is an independently owned, vertically integrated craft cannabis company built around a simple belief: how cannabis is grown, made, and sold matters."
+     },
+     {
+      "t": "p",
+      "text": "We cultivate in organic soil, hand water, hand trim, and select genetics for rich terpene profiles, flavor, and overall quality—not THC% alone. That same philosophy extends to our dispensary, where every product is carefully curated and selected, with a focus on craft brands that share our standards and ethos.",
+      "html": "We cultivate in organic soil, hand water, hand trim, and select genetics for rich terpene profiles, flavor, and overall quality—not THC% alone.&nbsp;That same philosophy extends to our dispensary, where every product is carefully curated and selected, with a focus on craft brands that share our standards and&nbsp;ethos."
+     },
+     {
+      "t": "p",
+      "text": "Our deli-style Bud Bar brings transparency back to buying cannabis, giving customers the opportunity to see, smell, learn about, and choose their flower with confidence.",
+      "html": "Our <strong>deli-style Bud Bar</strong>&nbsp;brings transparency back to buying cannabis, giving customers the opportunity to see, smell, learn about, and choose their flower with confidence."
+     },
+     {
+      "t": "p",
+      "text": "At SunnyDayz, we’re doing things differently.",
+      "html": "<strong>At SunnyDayz, we’re doing things differently.&nbsp;</strong>"
+     },
+     {
+      "t": "p",
+      "text": "Small Batch, Real farmers. Real flavor.",
+      "html": "<strong>Small Batch, Real farmers. Real flavor.&nbsp;</strong>"
+     }
+    ],
+    "cta": {
+     "label": "Get to know us",
+     "href": "/about-us",
+     "ariaLabel": "Go to Get to know us",
+     "title": "Get to know us",
+     "target": "_self"
+    },
+    "image": {
+     "src": "https://images.prismic.io/sunny-dayz/_DktzfZi16WXxGd2_Lifestyle_Fishing_SunnyDayz.jpg?auto=format%2Ccompress&rect=13%2C0%2C1744%2C1444&w=3840&fit=max",
+     "alt": "Image"
+    },
+    "imageMobile": {
+     "src": "https://images.prismic.io/sunny-dayz/_DktzfZi16WXxGd2_Lifestyle_Fishing_SunnyDayz.jpg?auto=format%2Ccompress&rect=0%2C68%2C1770%2C1308&w=3840&fit=max",
+     "alt": "Image"
+    },
+    "contentSide": "left",
+    "textAlign": "left"
+   }
+  ]
+ }
+}

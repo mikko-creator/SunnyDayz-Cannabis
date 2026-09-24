@@ -1,0 +1,164 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-strawberry-classic-gummy-100-mg-10-pack-edible-100-milligrams",
+ "slug": "product-kanha-kanha-strawberry-classic-gummy-100-mg-10-pack-edible-100-milligrams",
+ "type": "product",
+ "title": "KANHA - Kanha - Strawberry - Classic Gummy",
+ "seoTitle": "KANHA - Kanha - Strawberry - Classic Gummy",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Kanha - Strawberry - Classic Gummy",
+    "href": null
+   }
+  ],
+  "h1": "Kanha - Strawberry - Classic Gummy",
+  "name": "Kanha - Strawberry - Classic Gummy",
+  "brand": {
+   "label": "KANHA",
+   "href": "/brand/kanha"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Indica",
+   "key": "indica",
+   "ariaLabel": "Flower type: Indica"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "GUMMY",
+    "href": "/collection/edible/gummy"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/6911d2c3-df30-4d63-9f77-afeac40dd6a3?w=3840&q=100",
+   "alt": "Kanha - Strawberry - Classic Gummy"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/6911d2c3-df30-4d63-9f77-afeac40dd6a3?w=3840&q=100",
+    "alt": "Kanha - Strawberry - Classic Gummy"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "100MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Kanha Strawberry Classic Gummy delivers 100mg of indica-infused relaxation in delicious, fruit-forward bites. Each gummy from this trusted edible brand combines authentic strawberry flavor with calming effects perfect for unwinding after a long day. Kanha's precise dosing and consistent quality make these indica gummies ideal for experienced users seeking deep relaxation, restful sleep, and full-body relief. The sweet, berry-kissed taste masks any cannabis flavor while the indica classification provides the soothing, tranquil experience you crave. Whether you're looking to melt away stress, ease into evening relaxation, or enjoy a peaceful night's rest, these strawberry gummies offer a delicious pathway to calm. Kanha's commitment to quality ensures every bite delivers the reliable, relaxing effects that make this classic edible a go-to choice for indica enthusiasts.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "each",
+    "price": "$15",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$15",
+   "original": null,
+   "ariaLabel": "Product price: $15"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Kanha - Strawberry - Classic Gummy to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Kanha - Strawberry - Classic Gummy to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "KANHA",
+    "href": "/brand/kanha"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Indica",
+    "href": "/strain/Indica"
+   },
+   {
+    "label": "THC",
+    "value": "100MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Kanha Strawberry Classic Gummy 100 Mg 10 Pack"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

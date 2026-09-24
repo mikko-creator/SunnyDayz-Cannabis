@@ -1,0 +1,133 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-massage-oil-500mg-500-mg-topical-500-milligrams",
+ "slug": "product-sweetgrass-botanicals-sweetgrass-botanicals-massage-oil-500mg-500-mg-topical-500-milligrams",
+ "type": "product",
+ "title": "SWEETGRASS BOTANICALS - Sweetgrass Botanicals - Massage Oil - 500mg",
+ "seoTitle": "SWEETGRASS BOTANICALS - Sweetgrass Botanicals - Massage Oil - 500mg",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Topical",
+    "href": "/collection/topical"
+   },
+   {
+    "label": "Sweetgrass Botanicals - Massage Oil - 500mg",
+    "href": null
+   }
+  ],
+  "h1": "Sweetgrass Botanicals - Massage Oil - 500mg",
+  "name": "Sweetgrass Botanicals - Massage Oil - 500mg",
+  "brand": {
+   "label": "SWEETGRASS BOTANICALS",
+   "href": "/brand/sweetgrass-botanicals"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Topical",
+   "href": "/collection/topical"
+  },
+  "subcategories": [
+   {
+    "label": "OIL",
+    "href": "/collection/topical/oil"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a2017c68-19e3-42f0-8a85-41a45633c25c?w=3840&q=100",
+   "alt": "Sweetgrass Botanicals - Massage Oil - 500mg"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a2017c68-19e3-42f0-8a85-41a45633c25c?w=3840&q=100",
+    "alt": "Sweetgrass Botanicals - Massage Oil - 500mg"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "500MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Sweetgrass Botanicals Massage Oil delivers 500mg of premium cannabis extract designed to soothe tired muscles and melt away tension. This luxurious topical oil blends seamlessly into skin, providing targeted relief exactly where you need it most. Perfect for post-workout recovery or unwinding after a long day, this massage oil offers relaxing, anti-inflammatory benefits without any psychoactive effects. The silky formula absorbs quickly while nourishing your skin, making it ideal for full-body massage or spot treatment of sore areas. Whether you're seeking relief from everyday aches or simply want to elevate your self-care routine, this 500mg massage oil combines therapeutic cannabis with skin-loving botanicals for a truly restorative experience.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "SWEETGRASS BOTANICALS",
+    "href": "/brand/sweetgrass-botanicals"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "500MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Sweetgrass Botanicals Massage Oil 500 Mg 500 Mg"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

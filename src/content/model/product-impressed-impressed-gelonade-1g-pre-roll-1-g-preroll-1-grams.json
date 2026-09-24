@@ -1,0 +1,168 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/impressed-impressed-gelonade-1g-pre-roll-1-g-preroll-1-grams",
+ "slug": "product-impressed-impressed-gelonade-1g-pre-roll-1-g-preroll-1-grams",
+ "type": "product",
+ "title": "IMPRESSED - Impressed - Gelonade - 1G Pre-roll",
+ "seoTitle": "IMPRESSED - Impressed - Gelonade - 1G Pre-roll",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Preroll",
+    "href": "/collection/preroll"
+   },
+   {
+    "label": "Impressed - Gelonade - 1G Pre-roll",
+    "href": null
+   }
+  ],
+  "h1": "Impressed - Gelonade - 1G Pre-roll",
+  "name": "Impressed - Gelonade - 1G Pre-roll",
+  "brand": {
+   "label": "IMPRESSED",
+   "href": "/brand/impressed"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Sativa",
+   "key": "sativa",
+   "ariaLabel": "Flower type: Sativa"
+  },
+  "category": {
+   "label": "Preroll",
+   "href": "/collection/preroll"
+  },
+  "subcategories": [
+   {
+    "label": "FLOWER",
+    "href": "/collection/preroll/flower"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/23eaacfb-517b-4413-b9a3-9afff8e1f5d8?w=3840&q=100",
+   "alt": "Impressed - Gelonade - 1G Pre-roll"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/23eaacfb-517b-4413-b9a3-9afff8e1f5d8?w=3840&q=100",
+    "alt": "Impressed - Gelonade - 1G Pre-roll"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": "Warning",
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": "Cannabinoids"
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "24.757%",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Impressed brings you Gelonade, a premium 1g pre-roll that's ready to spark up whenever you need it. This expertly crafted preroll showcases the signature citrus-forward profile that Gelonade is known for, delivering bright lemon and lime notes with a sweet, refreshing finish. The Impressed brand focuses on quality flower and convenient formats, making this single-gram option perfect for solo sessions or on-the-go enjoyment. Expect uplifting and energetic effects that can enhance creativity and focus, ideal for daytime use or social gatherings. The vibrant flavor profile combines tropical and fruity aromas with hints of earthy undertones, creating a well-rounded smoking experience. Each pre-roll is carefully packed to ensure an even burn and consistent potency from start to finish. Whether you're new to cannabis or a seasoned enthusiast, this Gelonade pre-roll offers a flavorful and reliable way to enjoy premium flower without the hassle of grinding or rolling yourself.",
+  "warnings": [
+   {
+    "title": "Proposition 65 Warning for California Consumers",
+    "collapsed": true,
+    "toggleIcon": "angle-down",
+    "toggleAriaLabel": "Expand content",
+    "label": "WARNING:",
+    "lines": [
+     "This product can expose you to chemicals including β-myrcene and cannabis smoke, which are known to the State of California to cause cancer, and chemicals including cannabis smoke and 9-tetrahydrocannabinol, which are known to the State of California to cause birth defects or other reproductive harm."
+    ],
+    "moreInfo": {
+     "text": "For more information go to",
+     "label": "www.P65Warnings.ca.gov",
+     "href": "https://www.P65Warnings.ca.gov"
+    },
+    "links": []
+   }
+  ],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "IMPRESSED",
+    "href": "/brand/impressed"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Sativa",
+    "href": "/strain/Sativa"
+   },
+   {
+    "label": "THC",
+    "value": "24.757%"
+   },
+   {
+    "label": "Package Info",
+    "value": "Impressed Gelonade 1 G Pre Roll 1 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "1g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [
+   {
+    "group": "THC",
+    "items": [
+     {
+      "name": "THCA",
+      "value": "27.6102%"
+     },
+     {
+      "name": "THC",
+      "value": "24.7565%"
+     }
+    ]
+   }
+  ],
+  "jsonld": null
+ }
+}

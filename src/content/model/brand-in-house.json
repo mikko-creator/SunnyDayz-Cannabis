@@ -1,0 +1,168 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/brand/in-house",
+ "slug": "brand-in-house",
+ "type": "brand",
+ "title": "IN HOUSE",
+ "seoTitle": "IN HOUSE",
+ "model": {
+  "kind": "brand",
+  "path": "/brand/in-house",
+  "slug": "in-house",
+  "name": "IN HOUSE",
+  "h1": "IN HOUSE",
+  "logo": null,
+  "banner": {
+   "title": "IN HOUSE",
+   "description": "Shop cannabis products from IN HOUSE at a dispensary near you",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Brands",
+    "href": "/brands"
+   },
+   {
+    "label": "IN HOUSE",
+    "href": null
+   }
+  ],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "loading",
+  "emptyState": null,
+  "cards": [],
+  "productCount": 2,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/in-house-in-house-maui-wowie-1g-dispo-1-g-cartridge-1-grams",
+    "name": "In House - Maui Wowie- 1G Dispo - 1 g",
+    "brand": "IN HOUSE",
+    "description": "In House brings you the legendary Maui Wowie in a convenient 1g All-In-One disposable cartridge, capturing the essence of this iconic tropical sativa. Known for its uplifting and energetic effects, Maui Wowie delivers a blissful experience that sparks creativity and happiness while keeping you focused throughout the day. This strain's vibrant flavor profile features sweet pineapple, citrus, and tropical notes that transport you straight to the Hawaiian islands with every puff. The disposable vape format offers ultimate portability and ease of use—no charging, no refilling, just pure enjoyment. Perfect for daytime adventures, social gatherings, or creative pursuits, this 1g cartridge provides smooth, flavorful vapor from start to finish. Experience the island vibes and euphoric effects that have made Maui Wowie a timeless favorite among cannabis enthusiasts.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5e72ff6-46f8-4deb-aeb7-13f1d5057367",
+     "alt": "In House - Maui Wowie- 1G Dispo - 1 g"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/in-house-in-house-biscotti-1g-dispo-1-g-cartridge-1-grams",
+    "name": "In House - Biscotti - 1G Dispo",
+    "brand": "IN HOUSE",
+    "description": "Experience the premium quality of In House with the Biscotti 1G Dispo, a convenient all-in-one cartridge delivering exceptional flavor and potency in every draw. This 1g disposable vape captures the essence of the beloved Biscotti strain, known for its rich, dessert-like profile featuring sweet, buttery notes with hints of nuttiness and spice. The sleek, portable design requires no charging or setup—simply inhale and enjoy smooth, satisfying vapor wherever life takes you. Perfect for both seasoned enthusiasts and newcomers seeking hassle-free convenience, this disposable cartridge offers consistent performance from first puff to last. In House brings you strain-specific quality in a user-friendly format that fits seamlessly into your lifestyle. Whether you're relaxing at home or on the go, the Biscotti 1G Dispo delivers authentic cannabis flavor and effects in one compact, ready-to-use device.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5e72ff6-46f8-4deb-aeb7-13f1d5057367",
+     "alt": "In House - Biscotti - 1G Dispo"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/brands",
+       "name": "Brands"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "IN HOUSE"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "IN HOUSE",
+       "description": "In House brings you the legendary Maui Wowie in a convenient 1g All-In-One disposable cartridge, capturing the essence of this iconic tropical sativa. Known for its uplifting and energetic effects, Maui Wowie delivers a blissful experience that sparks creativity and happiness while keeping you focused throughout the day. This strain&apos;s vibrant flavor profile features sweet pineapple, citrus, and tropical notes that transport you straight to the Hawaiian islands with every puff. The disposable vape format offers ultimate portability and ease of use—no charging, no refilling, just pure enjoyment. Perfect for daytime adventures, social gatherings, or creative pursuits, this 1g cartridge provides smooth, flavorful vapor from start to finish. Experience the island vibes and euphoric effects that have made Maui Wowie a timeless favorite among cannabis enthusiasts.",
+       "name": "In House - Maui Wowie- 1G Dispo - 1 g",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/in-house-in-house-maui-wowie-1g-dispo-1-g-cartridge-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5e72ff6-46f8-4deb-aeb7-13f1d5057367"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "IN HOUSE",
+       "description": "Experience the premium quality of In House with the Biscotti 1G Dispo, a convenient all-in-one cartridge delivering exceptional flavor and potency in every draw. This 1g disposable vape captures the essence of the beloved Biscotti strain, known for its rich, dessert-like profile featuring sweet, buttery notes with hints of nuttiness and spice. The sleek, portable design requires no charging or setup—simply inhale and enjoy smooth, satisfying vapor wherever life takes you. Perfect for both seasoned enthusiasts and newcomers seeking hassle-free convenience, this disposable cartridge offers consistent performance from first puff to last. In House brings you strain-specific quality in a user-friendly format that fits seamlessly into your lifestyle. Whether you&apos;re relaxing at home or on the go, the Biscotti 1G Dispo delivers authentic cannabis flavor and effects in one compact, ready-to-use device.",
+       "name": "In House - Biscotti - 1G Dispo",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/in-house-in-house-biscotti-1g-dispo-1-g-cartridge-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e5e72ff6-46f8-4deb-aeb7-13f1d5057367"
+      },
+      "position": "2"
+     }
+    ]
+   }
+  ]
+ }
+}

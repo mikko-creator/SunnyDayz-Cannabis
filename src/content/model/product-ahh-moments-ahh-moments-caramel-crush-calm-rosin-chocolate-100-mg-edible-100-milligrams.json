@@ -1,0 +1,164 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-caramel-crush-calm-rosin-chocolate-100-mg-edible-100-milligrams",
+ "slug": "product-ahh-moments-ahh-moments-caramel-crush-calm-rosin-chocolate-100-mg-edible-100-milligrams",
+ "type": "product",
+ "title": "AHH MOMENTS - Ahh Moments | Caramel Crush Calm Rosin | Chocolate",
+ "seoTitle": "AHH MOMENTS - Ahh Moments | Caramel Crush Calm Rosin | Chocolate",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Ahh Moments | Caramel Crush Calm Rosin | Chocolate",
+    "href": null
+   }
+  ],
+  "h1": "Ahh Moments | Caramel Crush Calm Rosin | Chocolate",
+  "name": "Ahh Moments | Caramel Crush Calm Rosin | Chocolate",
+  "brand": {
+   "label": "AHH MOMENTS",
+   "href": "/brand/ahh-moments"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Indica",
+   "key": "indica",
+   "ariaLabel": "Flower type: Indica"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "CHOCOLATE",
+    "href": "/collection/edible/chocolate"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d607993a-19f9-4fbe-8952-f32885425ca4?w=3840&q=100",
+   "alt": "Ahh Moments | Caramel Crush Calm Rosin | Chocolate"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d607993a-19f9-4fbe-8952-f32885425ca4?w=3840&q=100",
+    "alt": "Ahh Moments | Caramel Crush Calm Rosin | Chocolate"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "100MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Ahh Moments Caramel Crush Calm Rosin Chocolate delivers 100mg of pure relaxation in every indulgent bite. This indica-dominant edible combines rich, velvety chocolate with luxurious caramel notes, creating a decadent treat that melts stress away. Crafted with premium rosin extract, this chocolate offers a clean, full-spectrum experience that honors the plant's natural profile. Perfect for unwinding after a long day, Caramel Crush promotes calming, relaxed effects that soothe both body and mind. The smooth, sweet caramel flavor pairs beautifully with premium chocolate, making each dose a moment worth savoring. Whether you're seeking relief from tension or simply craving a peaceful evening, this 100mg chocolate edible transforms relaxation into an art form. Ahh Moments brings quality and consistency to every piece, ensuring your calm comes with incredible flavor.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "each",
+    "price": "$25",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$25",
+   "original": null,
+   "ariaLabel": "Product price: $25"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Ahh Moments | Caramel Crush Calm Rosin | Chocolate to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Ahh Moments | Caramel Crush Calm Rosin | Chocolate to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "AHH MOMENTS",
+    "href": "/brand/ahh-moments"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Indica",
+    "href": "/strain/Indica"
+   },
+   {
+    "label": "THC",
+    "value": "100MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Ahh Moments Caramel Crush Calm Rosin Chocolate 100 Mg"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/store-locator",
+ "slug": "store-locator",
+ "type": "listing",
+ "title": "Store Locator",
+ "seoTitle": "Store Locator",
+ "model": {
+  "kind": "store-locator",
+  "path": "/store-locator",
+  "theme": null,
+  "capture": {
+   "matchesUrl": null,
+   "signal": null,
+   "observed": null
+  },
+  "h1": "Our Stores",
+  "banner": null,
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Our Stores",
+    "href": null
+   }
+  ],
+  "promoCarousel": null,
+  "filters": null,
+  "gridState": null,
+  "emptyState": null,
+  "cards": [],
+  "productCount": 0,
+  "products": [],
+  "search": [
+   {
+    "name": "searchBox",
+    "placeholder": "Search",
+    "ariaLabel": "Search",
+    "buttonAriaLabel": "Search"
+   },
+   {
+    "name": "searchBox2",
+    "placeholder": "Search",
+    "ariaLabel": "Search",
+    "buttonAriaLabel": "Search"
+   }
+  ],
+  "notice": null,
+  "galleries": [],
+  "stores": [
+   {
+    "name": "Sunny Dayz",
+    "href": "/dispensary/sunny-dayz",
+    "detailsAriaLabel": "View Sunny Dayz location details",
+    "address": {
+     "text": "105 Greenfield Rd, South Deerfield, MA 01373",
+     "mapsHref": "https://maps.google.com/?q=42.486377,-72.6137382",
+     "ariaLabel": "View the address 105 Greenfield Rd, South Deerfield, MA 01373 on Google Maps (opens in new tab)",
+     "lat": 42.486377,
+     "lng": -72.6137382
+    },
+    "phone": {
+     "label": "+1 (413) 350-5034",
+     "href": "tel: 4133505034",
+     "ariaLabel": "Call +1 (413) 350-5034"
+    },
+    "customerTypes": [
+     "ADULT"
+    ],
+    "customerTypesAriaLabel": "Store services: ADULT",
+    "status": {
+     "badge": "CLOSED",
+     "message": "until 10:00 AM ET",
+     "ariaLabel": "Store status: CLOSED"
+    },
+    "image": {
+     "src": "",
+     "alt": "Sunny Dayz location",
+     "placeholder": true
+    }
+   }
+  ],
+  "storeListToggleAriaLabel": "Close",
+  "map": {
+   "multiLocation": true,
+   "markers": [
+    {
+     "name": "Sunny Dayz",
+     "lat": 42.486377,
+     "lng": -72.6137382
+    }
+   ]
+  },
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "Our Stores"
+      },
+      "position": 2
+     }
+    ]
+   }
+  ]
+ }
+}

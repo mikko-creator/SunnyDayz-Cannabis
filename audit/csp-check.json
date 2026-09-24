@@ -1,0 +1,92 @@
+{
+ "schema": "sunnydayz/csp-check@1",
+ "generated": "2026-09-23T08:06:45.553Z",
+ "policy": "default-src 'self'; script-src 'self' 'sha256-jEKeIZhl4a389+P5khwn9QmdZoDUXNSlnXFcMMiAgKE='; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; media-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'self'",
+ "headerInjectedOn": 10,
+ "pages": [
+  {
+   "path": "/",
+   "violations": [],
+   "js": true,
+   "storeStatus": false,
+   "hasStoreWidget": false
+  },
+  {
+   "path": "/shop",
+   "violations": [],
+   "js": true,
+   "storeStatus": false,
+   "hasStoreWidget": false
+  },
+  {
+   "path": "/collection/flower",
+   "violations": [],
+   "js": true,
+   "storeStatus": false,
+   "hasStoreWidget": false
+  },
+  {
+   "path": "/product/ahh-moments-ahh-moments-atlantic-bliss-rso-chocolate-100-mg-edible-100-milligrams",
+   "violations": [],
+   "js": true,
+   "storeStatus": false,
+   "hasStoreWidget": false
+  },
+  {
+   "path": "/brands",
+   "violations": [],
+   "js": true,
+   "storeStatus": false,
+   "hasStoreWidget": false
+  },
+  {
+   "path": "/blog/purple-wookie-strain",
+   "violations": [],
+   "js": true,
+   "storeStatus": false,
+   "hasStoreWidget": false
+  },
+  {
+   "path": "/strain/indica",
+   "violations": [],
+   "js": true,
+   "storeStatus": false,
+   "hasStoreWidget": false
+  },
+  {
+   "path": "/store-locator",
+   "violations": [],
+   "js": true,
+   "storeStatus": true,
+   "hasStoreWidget": true
+  },
+  {
+   "path": "/contact-us",
+   "violations": [],
+   "js": true,
+   "storeStatus": false,
+   "hasStoreWidget": false
+  },
+  {
+   "path": "/dispensary/sunny-dayz",
+   "violations": [],
+   "js": true,
+   "storeStatus": true,
+   "hasStoreWidget": true
+  }
+ ],
+ "control": {
+  "policy": "same, inline-script hash removed",
+  "result": {
+   "path": "/",
+   "violations": [
+    "script-src-elem inline http://127.0.0.1:8793/:6"
+   ],
+   "js": true,
+   "storeStatus": false,
+   "hasStoreWidget": false
+  },
+  "fired": true
+ },
+ "pass": true
+}

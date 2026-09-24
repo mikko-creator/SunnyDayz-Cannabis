@@ -1,0 +1,220 @@
+{
+ "schema": "sunnydayz/fabrication-trace@1",
+ "generated": "2026-09-24T01:41:12.048Z",
+ "findings": 12,
+ "traced": 12,
+ "untraced": 0,
+ "method": "Each sr-fabrication claim window split into its text nodes; each node looked up in the static source text and in the browser-rendered live pages.",
+ "items": [
+  {
+   "code": "fabrication:superlative",
+   "file": "blog/the-best-strains-for-the-summer.html",
+   "claim": "Best Flower See all Indica MASS YIELD",
+   "traced": true,
+   "wholeWindowOnLiveSite": null,
+   "pieces": [
+    {
+     "text": "Best Flower",
+     "found": "static"
+    },
+    {
+     "text": "See all",
+     "found": "static"
+    },
+    {
+     "text": "Indica",
+     "found": "static"
+    },
+    {
+     "text": "MASS YIELD",
+     "found": "static"
+    }
+   ]
+  },
+  {
+   "code": "fabrication:price",
+   "file": "brand/keef.html",
+   "claim": "$7 / each",
+   "traced": true,
+   "wholeWindowOnLiveSite": "audit/rendered/index.json",
+   "pieces": [
+    {
+     "text": "$7 / each",
+     "found": "rendered",
+     "evidence": "audit/rendered/index.json",
+     "url": "https://www.sunnydayzcannabis.com/"
+    }
+   ]
+  },
+  {
+   "code": "fabrication:price",
+   "file": "collection/beverage/index.html",
+   "claim": "$7 / each",
+   "traced": true,
+   "wholeWindowOnLiveSite": "audit/rendered/index.json",
+   "pieces": [
+    {
+     "text": "$7 / each",
+     "found": "rendered",
+     "evidence": "audit/rendered/index.json",
+     "url": "https://www.sunnydayzcannabis.com/"
+    }
+   ]
+  },
+  {
+   "code": "fabrication:price",
+   "file": "collection/beverage/other.html",
+   "claim": "$7 / each",
+   "traced": true,
+   "wholeWindowOnLiveSite": "audit/rendered/index.json",
+   "pieces": [
+    {
+     "text": "$7 / each",
+     "found": "rendered",
+     "evidence": "audit/rendered/index.json",
+     "url": "https://www.sunnydayzcannabis.com/"
+    }
+   ]
+  },
+  {
+   "code": "fabrication:superlative",
+   "file": "dispensary/sunny-dayz.html",
+   "claim": "Best Seller See All Hybrid T",
+   "traced": true,
+   "wholeWindowOnLiveSite": null,
+   "pieces": [
+    {
+     "text": "Best Seller",
+     "found": "static"
+    },
+    {
+     "text": "See All",
+     "found": "static"
+    },
+    {
+     "text": "Hybrid",
+     "found": "static"
+    },
+    {
+     "text": "T",
+     "found": "static"
+    }
+   ]
+  },
+  {
+   "code": "fabrication:price",
+   "file": "index.html",
+   "claim": "$7 / each",
+   "traced": true,
+   "wholeWindowOnLiveSite": "audit/rendered/index.json",
+   "pieces": [
+    {
+     "text": "$7 / each",
+     "found": "rendered",
+     "evidence": "audit/rendered/index.json",
+     "url": "https://www.sunnydayzcannabis.com/"
+    }
+   ]
+  },
+  {
+   "code": "fabrication:price",
+   "file": "product/keef-keef-orange-soda-5-mg-beverage-5-milligrams.html",
+   "claim": "$7 / each",
+   "traced": true,
+   "wholeWindowOnLiveSite": "audit/rendered/index.json",
+   "pieces": [
+    {
+     "text": "$7 / each",
+     "found": "rendered",
+     "evidence": "audit/rendered/index.json",
+     "url": "https://www.sunnydayzcannabis.com/"
+    }
+   ]
+  },
+  {
+   "code": "fabrication:price",
+   "file": "product/keef-keef-original-cola-5-mg-beverage-5-milligrams.html",
+   "claim": "$7 / each",
+   "traced": true,
+   "wholeWindowOnLiveSite": "audit/rendered/index.json",
+   "pieces": [
+    {
+     "text": "$7 / each",
+     "found": "rendered",
+     "evidence": "audit/rendered/index.json",
+     "url": "https://www.sunnydayzcannabis.com/"
+    }
+   ]
+  },
+  {
+   "code": "fabrication:price",
+   "file": "product/keef-keef-root-beer-soda-5-mg-beverage-5-milligrams.html",
+   "claim": "$7 / each",
+   "traced": true,
+   "wholeWindowOnLiveSite": "audit/rendered/index.json",
+   "pieces": [
+    {
+     "text": "$7 / each",
+     "found": "rendered",
+     "evidence": "audit/rendered/index.json",
+     "url": "https://www.sunnydayzcannabis.com/"
+    }
+   ]
+  },
+  {
+   "code": "fabrication:price",
+   "file": "strain/hybrid.html",
+   "claim": "$7 / each",
+   "traced": true,
+   "wholeWindowOnLiveSite": "audit/rendered/index.json",
+   "pieces": [
+    {
+     "text": "$7 / each",
+     "found": "rendered",
+     "evidence": "audit/rendered/index.json",
+     "url": "https://www.sunnydayzcannabis.com/"
+    }
+   ]
+  },
+  {
+   "code": "fabrication:superlative",
+   "file": "strain/hybrid.html",
+   "claim": "The Best Fusion of Effects and Flavors Shop our selectio",
+   "traced": true,
+   "wholeWindowOnLiveSite": null,
+   "pieces": [
+    {
+     "text": "The Best Fusion of Effects and Flavors",
+     "found": "rendered",
+     "evidence": "audit/rendered/strain-Hybrid.json",
+     "url": "https://www.sunnydayzcannabis.com/strain/hybrid"
+    },
+    {
+     "text": "Shop our selectio",
+     "found": "static"
+    }
+   ]
+  },
+  {
+   "code": "fabrication:superlative",
+   "file": "weed-delivery/dispensary-in-glendale.html",
+   "claim": "Best Flower in Glendale See All Ind",
+   "traced": true,
+   "wholeWindowOnLiveSite": null,
+   "pieces": [
+    {
+     "text": "Best Flower in Glendale",
+     "found": "static"
+    },
+    {
+     "text": "See All",
+     "found": "static"
+    },
+    {
+     "text": "Ind",
+     "found": "static"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,2053 @@
+{
+  "schema": "site-reforge/sweep-findings@1",
+  "generated": "2026-09-24T01:47:56.299Z",
+  "sweeps": 72,
+  "widths": [
+    390,
+    768,
+    1024,
+    1440
+  ],
+  "baselineWidths": [
+    390,
+    768,
+    1024,
+    1440
+  ],
+  "dimensions": [
+    {
+      "name": "Page-level",
+      "findings": [
+        {
+          "severity": "nit",
+          "title": "Heading level skipped",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > div.split > div.stack.reveal:nth-of-type(1) > div.prose > h5",
+          "value": "h2 -> h5",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1024px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1024px",
+          "value": "180px in 126px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1440px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1440px",
+          "value": "180px in 124px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 390px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 390px",
+          "value": "180px in 151px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 768px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 768px",
+          "value": "180px in 149px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1024px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(3) > div.shell > div.grid:nth-of-type(2) > a.post-card.reveal:nth-of-type(3) > span.well.post-card__media > img @ 1024px",
+          "value": "921px natural vs 298px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1024px",
+          "value": "180px in 126px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1440px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1440px",
+          "value": "180px in 124px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 390px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 390px",
+          "value": "180px in 151px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 768px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 768px",
+          "value": "180px in 149px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1024px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1024px",
+          "value": "180px in 126px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1440px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1440px",
+          "value": "180px in 124px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 390px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 390px",
+          "value": "180px in 151px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 768px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 768px",
+          "value": "180px in 149px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Page-level",
+      "findings": [
+        {
+          "severity": "nit",
+          "title": "Heading level skipped",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid.products-grid:nth-of-type(2) > article.pcard.reveal:nth-of-type(1) > div.pcard__body:nth-of-type(2) > h3.pcard__name",
+          "value": "h1 -> h3",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1024px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1024px",
+          "value": "180px in 126px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1440px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1440px",
+          "value": "180px in 124px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 390px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 390px",
+          "value": "180px in 151px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 768px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 768px",
+          "value": "180px in 149px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1024px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(1) > span.brand-tile__logo > img @ 1024px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(2) > span.brand-tile__logo > img @ 1024px",
+          "value": "225px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(5) > span.brand-tile__logo > img @ 1024px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(7) > span.brand-tile__logo > img @ 1024px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(14) > span.brand-tile__logo > img @ 1024px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(15) > span.brand-tile__logo > img @ 1024px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(17) > span.brand-tile__logo > img @ 1024px",
+          "value": "225px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(18) > span.brand-tile__logo > img @ 1024px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(19) > span.brand-tile__logo > img @ 1024px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(20) > span.brand-tile__logo > img @ 1024px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1024px",
+          "value": "180px in 126px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1440px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(1) > span.brand-tile__logo > img @ 1440px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(2) > span.brand-tile__logo > img @ 1440px",
+          "value": "225px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(5) > span.brand-tile__logo > img @ 1440px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(7) > span.brand-tile__logo > img @ 1440px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(14) > span.brand-tile__logo > img @ 1440px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(15) > span.brand-tile__logo > img @ 1440px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(17) > span.brand-tile__logo > img @ 1440px",
+          "value": "225px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(18) > span.brand-tile__logo > img @ 1440px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(19) > span.brand-tile__logo > img @ 1440px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(20) > span.brand-tile__logo > img @ 1440px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1440px",
+          "value": "180px in 124px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 390px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(1) > span.brand-tile__logo > img @ 390px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(2) > span.brand-tile__logo > img @ 390px",
+          "value": "225px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(5) > span.brand-tile__logo > img @ 390px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(7) > span.brand-tile__logo > img @ 390px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(14) > span.brand-tile__logo > img @ 390px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(15) > span.brand-tile__logo > img @ 390px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(17) > span.brand-tile__logo > img @ 390px",
+          "value": "225px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(18) > span.brand-tile__logo > img @ 390px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(19) > span.brand-tile__logo > img @ 390px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(20) > span.brand-tile__logo > img @ 390px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 390px",
+          "value": "180px in 151px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 768px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(1) > span.brand-tile__logo > img @ 768px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(2) > span.brand-tile__logo > img @ 768px",
+          "value": "225px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(5) > span.brand-tile__logo > img @ 768px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(7) > span.brand-tile__logo > img @ 768px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(14) > span.brand-tile__logo > img @ 768px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(15) > span.brand-tile__logo > img @ 768px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(17) > span.brand-tile__logo > img @ 768px",
+          "value": "225px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(18) > span.brand-tile__logo > img @ 768px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(19) > span.brand-tile__logo > img @ 768px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.grid:nth-of-type(1) > a.brand-tile.reveal:nth-of-type(20) > span.brand-tile__logo > img @ 768px",
+          "value": "256px natural vs 84px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 768px",
+          "value": "180px in 149px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1024px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1024px",
+          "value": "180px in 126px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1440px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1440px",
+          "value": "180px in 124px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 390px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 390px",
+          "value": "180px in 151px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 768px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 768px",
+          "value": "180px in 149px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1024px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(1) > img @ 1024px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link.is-current:nth-of-type(2) > img @ 1024px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(3) > img @ 1024px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(4) > img @ 1024px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(5) > img @ 1024px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(6) > img @ 1024px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(7) > img @ 1024px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(8) > img @ 1024px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(9) > img @ 1024px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(10) > img @ 1024px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(11) > img @ 1024px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1024px",
+          "value": "180px in 126px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1440px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(1) > img @ 1440px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link.is-current:nth-of-type(2) > img @ 1440px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(3) > img @ 1440px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(4) > img @ 1440px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(5) > img @ 1440px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(6) > img @ 1440px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(7) > img @ 1440px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(8) > img @ 1440px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(9) > img @ 1440px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(10) > img @ 1440px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(11) > img @ 1440px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1440px",
+          "value": "180px in 124px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 390px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(1) > img @ 390px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link.is-current:nth-of-type(2) > img @ 390px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(3) > img @ 390px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(4) > img @ 390px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 390px",
+          "value": "180px in 151px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 768px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(1) > img @ 768px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link.is-current:nth-of-type(2) > img @ 768px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(3) > img @ 768px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(4) > img @ 768px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(5) > img @ 768px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(6) > img @ 768px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(7) > img @ 768px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(8) > img @ 768px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(9) > img @ 768px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(10) > img @ 768px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > nav.cat-links.reveal > a.cat-link:nth-of-type(11) > img @ 768px",
+          "value": "100px natural vs 28px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 768px",
+          "value": "180px in 149px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1024px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1024px",
+          "value": "180px in 126px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1440px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1440px",
+          "value": "180px in 124px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 390px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 390px",
+          "value": "180px in 151px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 768px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 768px",
+          "value": "180px in 149px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1024px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1024px",
+          "value": "180px in 126px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1440px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1440px",
+          "value": "180px in 124px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 390px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 390px",
+          "value": "180px in 151px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 768px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 768px",
+          "value": "180px in 149px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1024px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1024px",
+          "value": "180px in 126px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1440px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1440px",
+          "value": "180px in 124px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 390px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 390px",
+          "value": "180px in 151px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 768px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 768px",
+          "value": "180px in 149px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1024px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(1) > img @ 1024px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(2) > img @ 1024px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(3) > img @ 1024px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(4) > img @ 1024px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(5) > img @ 1024px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(6) > img @ 1024px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(7) > img @ 1024px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(8) > img @ 1024px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(9) > img @ 1024px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(10) > img @ 1024px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(11) > img @ 1024px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1024px",
+          "value": "180px in 126px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1440px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(1) > img @ 1440px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(2) > img @ 1440px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(3) > img @ 1440px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(4) > img @ 1440px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(5) > img @ 1440px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(6) > img @ 1440px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(7) > img @ 1440px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(8) > img @ 1440px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(9) > img @ 1440px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(10) > img @ 1440px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(11) > img @ 1440px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1440px",
+          "value": "180px in 124px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 390px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(1) > img @ 390px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(2) > img @ 390px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(3) > img @ 390px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(4) > img @ 390px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(5) > img @ 390px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(6) > img @ 390px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(7) > img @ 390px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(8) > img @ 390px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(9) > img @ 390px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(10) > img @ 390px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(11) > img @ 390px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 390px",
+          "value": "180px in 151px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 768px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(1) > img @ 768px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(2) > img @ 768px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(3) > img @ 768px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(4) > img @ 768px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(5) > img @ 768px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(6) > img @ 768px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(7) > img @ 768px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(8) > img @ 768px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(9) > img @ 768px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(10) > img @ 768px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Image far larger than its display size",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(5) > div.shell > nav.cat-grid > a.cat-link.reveal:nth-of-type(11) > img @ 768px",
+          "value": "160px natural vs 40px displayed",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 768px",
+          "value": "180px in 149px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1024px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "#main > section.hero:nth-of-type(1) > div.hero__stage:nth-of-type(1) > div.hero__controls:nth-of-type(3) > button.icon-btn.hero__toggle > span.sr-only:nth-of-type(3) @ 1024px",
+          "value": "27px in 1px",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "#main > a.tagline-band @ 1024px",
+          "value": "698px in 157px",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body.is-home > footer.site-footer > div.shell > a.express.magnet @ 1024px",
+          "value": "180px in 126px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1440px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "#main > section.hero:nth-of-type(1) > div.hero__stage:nth-of-type(1) > div.hero__controls:nth-of-type(3) > button.icon-btn.hero__toggle > span.sr-only:nth-of-type(3) @ 1440px",
+          "value": "28px in 1px",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "#main > a.tagline-band @ 1440px",
+          "value": "784px in 181px",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body.is-home > footer.site-footer > div.shell > a.express.magnet @ 1440px",
+          "value": "180px in 124px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 390px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "#main > section.hero:nth-of-type(1) > div.hero__stage:nth-of-type(1) > div.hero__controls:nth-of-type(3) > button.icon-btn.hero__toggle > span.sr-only:nth-of-type(3) @ 390px",
+          "value": "26px in 1px",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "#main > a.tagline-band @ 390px",
+          "value": "756px in 156px",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body.is-home > footer.site-footer > div.shell > a.express.magnet @ 390px",
+          "value": "180px in 151px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 768px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "#main > section.hero:nth-of-type(1) > div.hero__stage:nth-of-type(1) > div.hero__controls:nth-of-type(3) > button.icon-btn.hero__toggle > span.sr-only:nth-of-type(3) @ 768px",
+          "value": "26px in 1px",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "#main > a.tagline-band @ 768px",
+          "value": "615px in 133px",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body.is-home > footer.site-footer > div.shell > a.express.magnet @ 768px",
+          "value": "180px in 149px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1024px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1024px",
+          "value": "180px in 126px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1440px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1440px",
+          "value": "180px in 124px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 390px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 390px",
+          "value": "180px in 151px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 768px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 768px",
+          "value": "180px in 149px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1024px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1024px",
+          "value": "180px in 126px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1440px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1440px",
+          "value": "180px in 124px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 390px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 390px",
+          "value": "180px in 151px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 768px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 768px",
+          "value": "180px in 149px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1024px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.deals.neu > div:nth-of-type(2) > p.sr-only @ 1024px",
+          "value": "27px in 1px",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1024px",
+          "value": "180px in 126px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1440px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.deals.neu > div:nth-of-type(2) > p.sr-only @ 1440px",
+          "value": "28px in 1px",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1440px",
+          "value": "180px in 124px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 390px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.deals.neu > div:nth-of-type(2) > p.sr-only @ 390px",
+          "value": "26px in 1px",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 390px",
+          "value": "180px in 151px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 768px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "#main > section.section.section--tight:nth-of-type(2) > div.shell > div.deals.neu > div:nth-of-type(2) > p.sr-only @ 768px",
+          "value": "26px in 1px",
+          "inherited": false
+        },
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 768px",
+          "value": "180px in 149px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1024px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1024px",
+          "value": "180px in 126px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1440px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1440px",
+          "value": "180px in 124px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 390px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 390px",
+          "value": "180px in 151px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 768px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 768px",
+          "value": "180px in 149px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1024px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1024px",
+          "value": "180px in 126px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1440px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1440px",
+          "value": "180px in 124px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 390px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 390px",
+          "value": "180px in 151px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 768px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 768px",
+          "value": "180px in 149px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1024px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1024px",
+          "value": "180px in 126px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 1440px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 1440px",
+          "value": "180px in 124px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 390px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 390px",
+          "value": "180px in 151px",
+          "inherited": false
+        }
+      ]
+    },
+    {
+      "name": "Viewport 768px",
+      "findings": [
+        {
+          "severity": "minor",
+          "title": "Text clipped by overflow:hidden",
+          "detail": "",
+          "location": "html.js > body > footer.site-footer > div.shell > a.express.magnet @ 768px",
+          "value": "180px in 149px",
+          "inherited": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/bic-bic-lighter-black-one-size-merch",
+ "slug": "product-bic-bic-lighter-black-one-size-merch",
+ "type": "product",
+ "title": "BIC - Bic Lighter - Black",
+ "seoTitle": "BIC - Bic Lighter - Black",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Merch",
+    "href": "/collection/merch"
+   },
+   {
+    "label": "Bic Lighter - Black",
+    "href": null
+   }
+  ],
+  "h1": "Bic Lighter - Black",
+  "name": "Bic Lighter - Black",
+  "brand": {
+   "label": "BIC",
+   "href": "/brand/bic"
+  },
+  "badges": [],
+  "strainType": null,
+  "category": {
+   "label": "Merch",
+   "href": "/collection/merch"
+  },
+  "subcategories": [
+   {
+    "label": "LIGHTER",
+    "href": "/collection/merch/lighter"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/6b0078ad-b092-4de0-8268-cb7c61ac1870?w=3840&q=100",
+   "alt": "Bic Lighter - Black"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/6b0078ad-b092-4de0-8268-cb7c61ac1870?w=3840&q=100",
+    "alt": "Bic Lighter - Black"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": null,
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [],
+  "disclaimer": null,
+  "description": "Light up your sessions with the Bic Lighter in classic black. This essential merch piece delivers reliable flame every time you need it. Featuring Bic's iconic design and dependable performance, this lighter is a must-have accessory for any cannabis enthusiast. The sleek black finish keeps things discreet and stylish, while the durable construction ensures long-lasting use. Compact enough to slip into any pocket or bag, it's perfect for on-the-go convenience. Whether you're lighting flower, prerolls, or simply need a trustworthy flame, this Bic Lighter combines functionality with timeless appeal. An affordable, practical addition to your smoking accessories that you'll reach for again and again.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "",
+    "price": "$3",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$3",
+   "original": null,
+   "ariaLabel": "Product price: $3"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Bic Lighter - Black to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Bic Lighter - Black to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "BIC",
+    "href": "/brand/bic"
+   },
+   {
+    "label": "Package Info",
+    "value": "Bic Lighter Black One Size"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

@@ -1,0 +1,1008 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/privacy-policy",
+ "slug": "privacy-policy",
+ "type": "page",
+ "title": "Privacy Policy",
+ "seoTitle": "Privacy Policy",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   }
+  ],
+  "h1": "PRIVACY POLICY",
+  "bannerImage": null,
+  "blocks": [
+   {
+    "t": "h1",
+    "text": "PRIVACY POLICY"
+   },
+   {
+    "t": "p",
+    "text": "Last Updated: September 18, 2026",
+    "html": "<strong>Last Updated: September 18, 2026</strong>"
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz, Inc. (\"SunnyDayz,\" \"we,\" \"us,\" or \"our\") respects your privacy and is committed to protecting the personal information you provide to us.",
+    "html": "SunnyDayz, Inc. (\"SunnyDayz,\" \"we,\" \"us,\" or \"our\") respects your privacy and is committed to protecting the personal information you provide to us."
+   },
+   {
+    "t": "p",
+    "text": "This Privacy Policy describes how SunnyDayz collects, uses, discloses, and protects information when you visit www.sunnydayzcannabis.com (the \"Website\"), use our online ordering or menu services, create an account, participate in the Sun Club loyalty program, communicate with us, or otherwise interact with our digital services (collectively, the \"Services\").",
+    "html": "This Privacy Policy describes how SunnyDayz collects, uses, discloses, and protects information when you visit <a href=\"http://www.sunnydayzcannabis.com/\" rel=\"noopener\"><strong>www.sunnydayzcannabis.com</strong></a> (the \"Website\"), use our online ordering or menu services, create an account, participate in the Sun Club loyalty program, communicate with us, or otherwise interact with our digital services (collectively, the \"Services\")."
+   },
+   {
+    "t": "p",
+    "text": "By using our Website or Services, you acknowledge the practices described in this Privacy Policy.",
+    "html": "By using our Website or Services, you acknowledge the practices described in this Privacy Policy."
+   },
+   {
+    "t": "h2",
+    "text": "1. AGE RESTRICTION"
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz is an adult-use cannabis business, and our Website and Services are intended for individuals 21 years of age or older .",
+    "html": "SunnyDayz is an adult-use cannabis business, and our Website and Services are intended for individuals <strong>21 years of age or older</strong>."
+   },
+   {
+    "t": "p",
+    "text": "We do not knowingly collect personal information from individuals under the age of 21 through Services intended for adult-use cannabis consumers.",
+    "html": "We do not knowingly collect personal information from individuals under the age of 21 through Services intended for adult-use cannabis consumers."
+   },
+   {
+    "t": "p",
+    "text": "Our Website may use an age-verification or age-gate mechanism requiring visitors to confirm that they are at least 21 years old before accessing cannabis-related Website content.",
+    "html": "Our Website may use an age-verification or age-gate mechanism requiring visitors to confirm that they are at least 21 years old before accessing cannabis-related Website content."
+   },
+   {
+    "t": "p",
+    "text": "If we become aware that information has been collected from an individual under 21 in circumstances where it should not have been collected, we may delete that information as appropriate.",
+    "html": "If we become aware that information has been collected from an individual under 21 in circumstances where it should not have been collected, we may delete that information as appropriate."
+   },
+   {
+    "t": "h2",
+    "text": "2. INFORMATION WE COLLECT"
+   },
+   {
+    "t": "p",
+    "text": "The information we collect depends on how you interact with SunnyDayz and our Services.",
+    "html": "The information we collect depends on how you interact with SunnyDayz and our Services."
+   },
+   {
+    "t": "h3",
+    "text": "Information You Provide to Us"
+   },
+   {
+    "t": "p",
+    "text": "You may voluntarily provide information to SunnyDayz when you:",
+    "html": "You may voluntarily provide information to SunnyDayz when you:"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "text": "Create an online account;",
+      "html": "Create an online account;"
+     },
+     {
+      "text": "Place or reserve an online order;",
+      "html": "Place or reserve an online order;"
+     },
+     {
+      "text": "Join the Sun Club loyalty program;",
+      "html": "Join the Sun Club loyalty program;"
+     },
+     {
+      "text": "Sign up for email or text communications;",
+      "html": "Sign up for email or text communications;"
+     },
+     {
+      "text": "Contact us with a question or request;",
+      "html": "Contact us with a question or request;"
+     },
+     {
+      "text": "Participate in a survey, event, or promotion;",
+      "html": "Participate in a survey, event, or promotion;"
+     },
+     {
+      "text": "Submit feedback or other content; or",
+      "html": "Submit feedback or other content; or"
+     },
+     {
+      "text": "Otherwise interact with SunnyDayz.",
+      "html": "Otherwise interact with SunnyDayz."
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "text": "This information may include:",
+    "html": "This information may include:"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "text": "First and last name;",
+      "html": "First and last name;"
+     },
+     {
+      "text": "Email address;",
+      "html": "Email address;"
+     },
+     {
+      "text": "Mobile telephone number;",
+      "html": "Mobile telephone number;"
+     },
+     {
+      "text": "Date of birth or age-verification information;",
+      "html": "Date of birth or age-verification information;"
+     },
+     {
+      "text": "Account username or login information;",
+      "html": "Account username or login information;"
+     },
+     {
+      "text": "Loyalty account information;",
+      "html": "Loyalty account information;"
+     },
+     {
+      "text": "Order and purchase history;",
+      "html": "Order and purchase history;"
+     },
+     {
+      "text": "Product preferences;",
+      "html": "Product preferences;"
+     },
+     {
+      "text": "Communications with SunnyDayz;",
+      "html": "Communications with SunnyDayz;"
+     },
+     {
+      "text": "Marketing preferences; and",
+      "html": "Marketing preferences; and"
+     },
+     {
+      "text": "Other information you voluntarily provide.",
+      "html": "Other information you voluntarily provide."
+     }
+    ]
+   },
+   {
+    "t": "h3",
+    "text": "Transaction Information"
+   },
+   {
+    "t": "p",
+    "text": "When you place an order or make a purchase, information associated with that transaction may be collected, including:",
+    "html": "When you place an order or make a purchase, information associated with that transaction may be collected, including:"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "text": "Products ordered or purchased;",
+      "html": "Products ordered or purchased;"
+     },
+     {
+      "text": "Order date and time;",
+      "html": "Order date and time;"
+     },
+     {
+      "text": "Purchase amount;",
+      "html": "Purchase amount;"
+     },
+     {
+      "text": "Discounts or rewards applied;",
+      "html": "Discounts or rewards applied;"
+     },
+     {
+      "text": "Store or pickup information;",
+      "html": "Store or pickup information;"
+     },
+     {
+      "text": "Transaction history; and",
+      "html": "Transaction history; and"
+     },
+     {
+      "text": "Related account or loyalty information.",
+      "html": "Related account or loyalty information."
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "text": "Payment information may be processed by third-party payment or financial-service providers where applicable. SunnyDayz may not directly receive or store complete payment-card or financial-account credentials when those transactions are handled by third-party providers.",
+    "html": "Payment information may be processed by third-party payment or financial-service providers where applicable. SunnyDayz may not directly receive or store complete payment-card or financial-account credentials when those transactions are handled by third-party providers."
+   },
+   {
+    "t": "h2",
+    "text": "3. IDENTIFICATION AND AGE VERIFICATION"
+   },
+   {
+    "t": "p",
+    "text": "Cannabis purchases are subject to age and identity verification as required by Massachusetts law and applicable Cannabis Control Commission regulations.",
+    "html": "Cannabis purchases are subject to age and identity verification as required by Massachusetts law and applicable Cannabis Control Commission regulations."
+   },
+   {
+    "t": "p",
+    "text": "Customers may be required to present a valid government-issued identification document before entering certain areas of our premises or completing a cannabis purchase.",
+    "html": "Customers may be required to present a valid government-issued identification document before entering certain areas of our premises or completing a cannabis purchase."
+   },
+   {
+    "t": "p",
+    "text": "Information associated with identification or age verification may be processed through SunnyDayz systems or third-party age-verification technology.",
+    "html": "Information associated with identification or age verification may be processed through SunnyDayz systems or third-party age-verification technology."
+   },
+   {
+    "t": "p",
+    "text": "The information collected, retained, or processed in connection with identification verification may depend upon the system being used and applicable legal and regulatory requirements.",
+    "html": "The information collected, retained, or processed in connection with identification verification may depend upon the system being used and applicable legal and regulatory requirements."
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz does not use identification information for purposes unrelated to legitimate business, security, age-verification, regulatory, or legal requirements except with appropriate authorization or as otherwise permitted by law.",
+    "html": "SunnyDayz does not use identification information for purposes unrelated to legitimate business, security, age-verification, regulatory, or legal requirements except with appropriate authorization or as otherwise permitted by law."
+   },
+   {
+    "t": "h2",
+    "text": "4. INFORMATION COLLECTED AUTOMATICALLY"
+   },
+   {
+    "t": "p",
+    "text": "When you visit our Website, certain information may be collected automatically through cookies, pixels, log files, analytics technologies, and similar tools.",
+    "html": "When you visit our Website, certain information may be collected automatically through cookies, pixels, log files, analytics technologies, and similar tools."
+   },
+   {
+    "t": "p",
+    "text": "This information may include:",
+    "html": "This information may include:"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "text": "Internet Protocol (IP) address;",
+      "html": "Internet Protocol (IP) address;"
+     },
+     {
+      "text": "Browser type;",
+      "html": "Browser type;"
+     },
+     {
+      "text": "Device type;",
+      "html": "Device type;"
+     },
+     {
+      "text": "Operating system;",
+      "html": "Operating system;"
+     },
+     {
+      "text": "Approximate geographic location derived from an IP address;",
+      "html": "Approximate geographic location derived from an IP address;"
+     },
+     {
+      "text": "Pages viewed;",
+      "html": "Pages viewed;"
+     },
+     {
+      "text": "Links clicked;",
+      "html": "Links clicked;"
+     },
+     {
+      "text": "Date and time of visits;",
+      "html": "Date and time of visits;"
+     },
+     {
+      "text": "Referring website;",
+      "html": "Referring website;"
+     },
+     {
+      "text": "Time spent on pages;",
+      "html": "Time spent on pages;"
+     },
+     {
+      "text": "Website interactions; and",
+      "html": "Website interactions; and"
+     },
+     {
+      "text": "Other technical information concerning your use of the Website.",
+      "html": "Other technical information concerning your use of the Website."
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "text": "We may use this information to operate and improve our Website, understand how customers interact with our Services, troubleshoot technical issues, measure Website performance, maintain security, and improve the customer experience.",
+    "html": "We may use this information to operate and improve our Website, understand how customers interact with our Services, troubleshoot technical issues, measure Website performance, maintain security, and improve the customer experience."
+   },
+   {
+    "t": "h2",
+    "text": "5. COOKIES AND SIMILAR TECHNOLOGIES"
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz and our service providers may use cookies and similar technologies to operate the Website and understand how it is used.",
+    "html": "SunnyDayz and our service providers may use cookies and similar technologies to operate the Website and understand how it is used."
+   },
+   {
+    "t": "p",
+    "text": "Cookies are small files stored on your device that can help websites remember information about your visit.",
+    "html": "Cookies are small files stored on your device that can help websites remember information about your visit."
+   },
+   {
+    "t": "p",
+    "text": "We may use cookies for purposes including:",
+    "html": "We may use cookies for purposes including:"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "text": "Maintaining Website functionality;",
+      "html": "Maintaining Website functionality;"
+     },
+     {
+      "text": "Remembering user preferences;",
+      "html": "Remembering user preferences;"
+     },
+     {
+      "text": "Maintaining account sessions;",
+      "html": "Maintaining account sessions;"
+     },
+     {
+      "text": "Age-gate functionality;",
+      "html": "Age-gate functionality;"
+     },
+     {
+      "text": "Website security;",
+      "html": "Website security;"
+     },
+     {
+      "text": "Measuring Website traffic and performance;",
+      "html": "Measuring Website traffic and performance;"
+     },
+     {
+      "text": "Understanding customer interactions;",
+      "html": "Understanding customer interactions;"
+     },
+     {
+      "text": "Improving Website functionality; and",
+      "html": "Improving Website functionality; and"
+     },
+     {
+      "text": "Supporting marketing and communications where permitted.",
+      "html": "Supporting marketing and communications where permitted."
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "text": "Your browser may allow you to block or delete cookies. Disabling certain cookies may affect the functionality of portions of the Website.",
+    "html": "Your browser may allow you to block or delete cookies. Disabling certain cookies may affect the functionality of portions of the Website."
+   },
+   {
+    "t": "p",
+    "text": "Where required, we will provide appropriate choices regarding non-essential cookies or similar technologies.",
+    "html": "Where required, we will provide appropriate choices regarding non-essential cookies or similar technologies."
+   },
+   {
+    "t": "h2",
+    "text": "6. HOW WE USE YOUR INFORMATION"
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz may use information we collect to:",
+    "html": "SunnyDayz may use information we collect to:"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "text": "Operate and maintain the Website;",
+      "html": "Operate and maintain the Website;"
+     },
+     {
+      "text": "Provide our products and Services;",
+      "html": "Provide our products and Services;"
+     },
+     {
+      "text": "Create and manage customer accounts;",
+      "html": "Create and manage customer accounts;"
+     },
+     {
+      "text": "Process and manage online orders or reservations;",
+      "html": "Process and manage online orders or reservations;"
+     },
+     {
+      "text": "Verify age and identity where required;",
+      "html": "Verify age and identity where required;"
+     },
+     {
+      "text": "Administer the Sun Club loyalty program;",
+      "html": "Administer the Sun Club loyalty program;"
+     },
+     {
+      "text": "Maintain transaction and order records;",
+      "html": "Maintain transaction and order records;"
+     },
+     {
+      "text": "Respond to customer questions and requests;",
+      "html": "Respond to customer questions and requests;"
+     },
+     {
+      "text": "Provide customer service;",
+      "html": "Provide customer service;"
+     },
+     {
+      "text": "Send transactional communications;",
+      "html": "Send transactional communications;"
+     },
+     {
+      "text": "Send marketing communications when permitted;",
+      "html": "Send marketing communications when permitted;"
+     },
+     {
+      "text": "Provide information requested by customers;",
+      "html": "Provide information requested by customers;"
+     },
+     {
+      "text": "Personalize aspects of the customer experience;",
+      "html": "Personalize aspects of the customer experience;"
+     },
+     {
+      "text": "Understand customer preferences;",
+      "html": "Understand customer preferences;"
+     },
+     {
+      "text": "Improve our products, Website, and Services;",
+      "html": "Improve our products, Website, and Services;"
+     },
+     {
+      "text": "Analyze Website traffic and performance;",
+      "html": "Analyze Website traffic and performance;"
+     },
+     {
+      "text": "Detect and prevent fraud, misuse, and security incidents;",
+      "html": "Detect and prevent fraud, misuse, and security incidents;"
+     },
+     {
+      "text": "Maintain the security of our systems and facilities;",
+      "html": "Maintain the security of our systems and facilities;"
+     },
+     {
+      "text": "Comply with applicable laws and regulations;",
+      "html": "Comply with applicable laws and regulations;"
+     },
+     {
+      "text": "Respond to lawful requests from regulators or government authorities; and",
+      "html": "Respond to lawful requests from regulators or government authorities; and"
+     },
+     {
+      "text": "Establish, exercise, or defend legal rights.",
+      "html": "Establish, exercise, or defend legal rights."
+     }
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "7. SUN CLUB LOYALTY PROGRAM"
+   },
+   {
+    "t": "p",
+    "text": "If you participate in the Sun Club loyalty program, SunnyDayz may collect and maintain information associated with your membership.",
+    "html": "If you participate in the <strong>Sun Club</strong> loyalty program, SunnyDayz may collect and maintain information associated with your membership."
+   },
+   {
+    "t": "p",
+    "text": "This may include your name, email address, mobile telephone number, account information, transaction history, points or rewards information, and communication preferences.",
+    "html": "This may include your name, email address, mobile telephone number, account information, transaction history, points or rewards information, and communication preferences."
+   },
+   {
+    "t": "p",
+    "text": "We use this information to administer the program, maintain your account, provide requested information, communicate with you regarding your membership, and provide other program functionality.",
+    "html": "We use this information to administer the program, maintain your account, provide requested information, communicate with you regarding your membership, and provide other program functionality."
+   },
+   {
+    "t": "p",
+    "text": "Participation in Sun Club is voluntary.",
+    "html": "Participation in Sun Club is voluntary."
+   },
+   {
+    "t": "p",
+    "text": "Where marketing consent is required, joining Sun Club does not automatically constitute consent to receive every form of marketing communication unless you separately provide the required consent.",
+    "html": "Where marketing consent is required, joining Sun Club does not automatically constitute consent to receive every form of marketing communication unless you separately provide the required consent."
+   },
+   {
+    "t": "h2",
+    "text": "8. EMAIL AND TEXT COMMUNICATIONS"
+   },
+   {
+    "t": "p",
+    "text": "If you choose to receive promotional communications from SunnyDayz, we may use your email address or mobile telephone number to send information about SunnyDayz.",
+    "html": "If you choose to receive promotional communications from SunnyDayz, we may use your email address or mobile telephone number to send information about SunnyDayz."
+   },
+   {
+    "t": "p",
+    "text": "Depending upon your preferences and applicable law, these communications may include information regarding:",
+    "html": "Depending upon your preferences and applicable law, these communications may include information regarding:"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "text": "SunnyDayz news;",
+      "html": "SunnyDayz news;"
+     },
+     {
+      "text": "New products;",
+      "html": "New products;"
+     },
+     {
+      "text": "Product drops;",
+      "html": "Product drops;"
+     },
+     {
+      "text": "Events;",
+      "html": "Events;"
+     },
+     {
+      "text": "Educational content;",
+      "html": "Educational content;"
+     },
+     {
+      "text": "Sun Club information;",
+      "html": "Sun Club information;"
+     },
+     {
+      "text": "Store updates; and",
+      "html": "Store updates; and"
+     },
+     {
+      "text": "Other SunnyDayz communications.",
+      "html": "Other SunnyDayz communications."
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "text": "You may unsubscribe from promotional emails using the unsubscribe link included in those messages.",
+    "html": "You may unsubscribe from promotional emails using the unsubscribe link included in those messages."
+   },
+   {
+    "t": "p",
+    "text": "You may opt out of promotional text messages by following the opt-out instructions provided in those messages, such as replying STOP , where applicable.",
+    "html": "You may opt out of promotional text messages by following the opt-out instructions provided in those messages, such as replying <strong>STOP</strong>, where applicable."
+   },
+   {
+    "t": "p",
+    "text": "Consent to receive promotional communications is not a condition of purchasing products from SunnyDayz.",
+    "html": "Consent to receive promotional communications is not a condition of purchasing products from SunnyDayz."
+   },
+   {
+    "t": "p",
+    "text": "We may continue to send non-promotional communications relating to transactions, account security, customer-service requests, or other necessary business matters.",
+    "html": "We may continue to send non-promotional communications relating to transactions, account security, customer-service requests, or other necessary business matters."
+   },
+   {
+    "t": "h2",
+    "text": "9. HOW WE SHARE INFORMATION"
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz does not sell your personal information for money .",
+    "html": "SunnyDayz does <strong>not sell your personal information for money</strong>."
+   },
+   {
+    "t": "p",
+    "text": "We may disclose information to third parties when reasonably necessary to operate our business and provide our Services.",
+    "html": "We may disclose information to third parties when reasonably necessary to operate our business and provide our Services."
+   },
+   {
+    "t": "p",
+    "text": "These third parties may include:",
+    "html": "These third parties may include:"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "text": "Website hosting providers;",
+      "html": "Website hosting providers;"
+     },
+     {
+      "text": "Online menu and ordering providers;",
+      "html": "Online menu and ordering providers;"
+     },
+     {
+      "text": "Point-of-sale and inventory systems;",
+      "html": "Point-of-sale and inventory systems;"
+     },
+     {
+      "text": "Loyalty-program providers;",
+      "html": "Loyalty-program providers;"
+     },
+     {
+      "text": "Email and text-message providers;",
+      "html": "Email and text-message providers;"
+     },
+     {
+      "text": "Website analytics providers;",
+      "html": "Website analytics providers;"
+     },
+     {
+      "text": "IT and cybersecurity providers;",
+      "html": "IT and cybersecurity providers;"
+     },
+     {
+      "text": "Payment and financial-service providers;",
+      "html": "Payment and financial-service providers;"
+     },
+     {
+      "text": "Age and identity verification providers;",
+      "html": "Age and identity verification providers;"
+     },
+     {
+      "text": "Professional advisers;",
+      "html": "Professional advisers;"
+     },
+     {
+      "text": "Government agencies and regulators; and",
+      "html": "Government agencies and regulators; and"
+     },
+     {
+      "text": "Other service providers that support our business operations.",
+      "html": "Other service providers that support our business operations."
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "text": "We may provide these parties with information reasonably necessary for them to perform services on our behalf.",
+    "html": "We may provide these parties with information reasonably necessary for them to perform services on our behalf."
+   },
+   {
+    "t": "p",
+    "text": "Third-party services may also collect information directly from you and may maintain their own privacy policies and practices.",
+    "html": "Third-party services may also collect information directly from you and may maintain their own privacy policies and practices."
+   },
+   {
+    "t": "h2",
+    "text": "10. LEGAL AND REGULATORY DISCLOSURES"
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz operates in a highly regulated industry.",
+    "html": "SunnyDayz operates in a highly regulated industry."
+   },
+   {
+    "t": "p",
+    "text": "We may disclose information when we reasonably believe disclosure is necessary to:",
+    "html": "We may disclose information when we reasonably believe disclosure is necessary to:"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "text": "Comply with applicable laws or regulations;",
+      "html": "Comply with applicable laws or regulations;"
+     },
+     {
+      "text": "Satisfy Cannabis Control Commission requirements;",
+      "html": "Satisfy Cannabis Control Commission requirements;"
+     },
+     {
+      "text": "Respond to a subpoena, court order, warrant, or other lawful process;",
+      "html": "Respond to a subpoena, court order, warrant, or other lawful process;"
+     },
+     {
+      "text": "Respond to requests from law enforcement or government authorities when legally required;",
+      "html": "Respond to requests from law enforcement or government authorities when legally required;"
+     },
+     {
+      "text": "Investigate suspected fraud or unlawful activity;",
+      "html": "Investigate suspected fraud or unlawful activity;"
+     },
+     {
+      "text": "Protect the safety or security of our customers, employees, systems, or property;",
+      "html": "Protect the safety or security of our customers, employees, systems, or property;"
+     },
+     {
+      "text": "Enforce our Terms and Conditions; or",
+      "html": "Enforce our Terms and Conditions; or"
+     },
+     {
+      "text": "Protect SunnyDayz's legal rights.",
+      "html": "Protect SunnyDayz's legal rights."
+     }
+    ]
+   },
+   {
+    "t": "h2",
+    "text": "11. BUSINESS TRANSFERS"
+   },
+   {
+    "t": "p",
+    "text": "If SunnyDayz is involved in a merger, acquisition, financing, restructuring, sale of assets, reorganization, or similar business transaction, information may be disclosed or transferred as part of that transaction, subject to applicable law.",
+    "html": "If SunnyDayz is involved in a merger, acquisition, financing, restructuring, sale of assets, reorganization, or similar business transaction, information may be disclosed or transferred as part of that transaction, subject to applicable law."
+   },
+   {
+    "t": "p",
+    "text": "Any successor entity may continue to use information in accordance with this Privacy Policy unless otherwise disclosed.",
+    "html": "Any successor entity may continue to use information in accordance with this Privacy Policy unless otherwise disclosed."
+   },
+   {
+    "t": "h2",
+    "text": "12. DATA SECURITY"
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz uses reasonable administrative, technical, and physical safeguards designed to protect personal information from unauthorized access, disclosure, alteration, misuse, or destruction.",
+    "html": "SunnyDayz uses reasonable administrative, technical, and physical safeguards designed to protect personal information from unauthorized access, disclosure, alteration, misuse, or destruction."
+   },
+   {
+    "t": "p",
+    "text": "These safeguards may include access controls, password protections, network security, employee procedures, physical security, and other measures appropriate to the nature of the information being protected.",
+    "html": "These safeguards may include access controls, password protections, network security, employee procedures, physical security, and other measures appropriate to the nature of the information being protected."
+   },
+   {
+    "t": "p",
+    "text": "However, no Internet transmission, electronic storage system, or information-security system can be guaranteed to be completely secure.",
+    "html": "However, no Internet transmission, electronic storage system, or information-security system can be guaranteed to be completely secure."
+   },
+   {
+    "t": "p",
+    "text": "You are responsible for maintaining the confidentiality of passwords and account credentials associated with your SunnyDayz account.",
+    "html": "You are responsible for maintaining the confidentiality of passwords and account credentials associated with your SunnyDayz account."
+   },
+   {
+    "t": "p",
+    "text": "If you believe your account or information has been compromised, please contact us promptly.",
+    "html": "If you believe your account or information has been compromised, please contact us promptly."
+   },
+   {
+    "t": "h2",
+    "text": "13. DATA RETENTION"
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz retains personal information for as long as reasonably necessary to fulfill the purposes for which it was collected, operate our business, maintain appropriate business records, administer customer accounts and loyalty programs, comply with legal and regulatory requirements, resolve disputes, maintain security, and enforce our agreements.",
+    "html": "SunnyDayz retains personal information for as long as reasonably necessary to fulfill the purposes for which it was collected, operate our business, maintain appropriate business records, administer customer accounts and loyalty programs, comply with legal and regulatory requirements, resolve disputes, maintain security, and enforce our agreements."
+   },
+   {
+    "t": "p",
+    "text": "Retention periods may vary depending upon the nature of the information and applicable legal or regulatory requirements.",
+    "html": "Retention periods may vary depending upon the nature of the information and applicable legal or regulatory requirements."
+   },
+   {
+    "t": "p",
+    "text": "When information is no longer reasonably necessary, we may delete, anonymize, or securely dispose of it in accordance with our policies and applicable law.",
+    "html": "When information is no longer reasonably necessary, we may delete, anonymize, or securely dispose of it in accordance with our policies and applicable law."
+   },
+   {
+    "t": "h2",
+    "text": "14. YOUR PRIVACY CHOICES"
+   },
+   {
+    "t": "p",
+    "text": "Depending upon how you interact with SunnyDayz, you may have several choices regarding your information.",
+    "html": "Depending upon how you interact with SunnyDayz, you may have several choices regarding your information."
+   },
+   {
+    "t": "p",
+    "text": "You may:",
+    "html": "You may:"
+   },
+   {
+    "t": "ul",
+    "items": [
+     {
+      "text": "Unsubscribe from promotional emails;",
+      "html": "Unsubscribe from promotional emails;"
+     },
+     {
+      "text": "Opt out of promotional text messages;",
+      "html": "Opt out of promotional text messages;"
+     },
+     {
+      "text": "Adjust certain account information;",
+      "html": "Adjust certain account information;"
+     },
+     {
+      "text": "Change certain communication preferences;",
+      "html": "Change certain communication preferences;"
+     },
+     {
+      "text": "Disable or delete certain cookies through your browser;",
+      "html": "Disable or delete certain cookies through your browser;"
+     },
+     {
+      "text": "Request correction of inaccurate information; or",
+      "html": "Request correction of inaccurate information; or"
+     },
+     {
+      "text": "Contact us regarding questions about information associated with you.",
+      "html": "Contact us regarding questions about information associated with you."
+     }
+    ]
+   },
+   {
+    "t": "p",
+    "text": "Certain information may need to be retained despite a request to delete or modify it when retention is required or permitted by law, necessary for regulatory compliance, required for legitimate business records, or necessary to protect legal rights.",
+    "html": "Certain information may need to be retained despite a request to delete or modify it when retention is required or permitted by law, necessary for regulatory compliance, required for legitimate business records, or necessary to protect legal rights."
+   },
+   {
+    "t": "h2",
+    "text": "15. THIRD-PARTY WEBSITES AND SERVICES"
+   },
+   {
+    "t": "p",
+    "text": "Our Website may contain links to or integrations with third-party websites and services.",
+    "html": "Our Website may contain links to or integrations with third-party websites and services."
+   },
+   {
+    "t": "p",
+    "text": "These may include online ordering platforms, payment providers, mapping services, social-media platforms, loyalty services, analytics providers, or other third-party technologies.",
+    "html": "These may include online ordering platforms, payment providers, mapping services, social-media platforms, loyalty services, analytics providers, or other third-party technologies."
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz does not control the privacy practices of independent third parties.",
+    "html": "SunnyDayz does not control the privacy practices of independent third parties."
+   },
+   {
+    "t": "p",
+    "text": "When you interact directly with a third-party service, information collected by that service may be governed by its own privacy policy.",
+    "html": "When you interact directly with a third-party service, information collected by that service may be governed by its own privacy policy."
+   },
+   {
+    "t": "p",
+    "text": "We encourage you to review the privacy policies of third-party services you use.",
+    "html": "We encourage you to review the privacy policies of third-party services you use."
+   },
+   {
+    "t": "h2",
+    "text": "16. SOCIAL MEDIA"
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz may maintain profiles on third-party social-media platforms.",
+    "html": "SunnyDayz may maintain profiles on third-party social-media platforms."
+   },
+   {
+    "t": "p",
+    "text": "If you interact with SunnyDayz through a social-media platform, that platform may collect information about your activity according to its own privacy policy and account settings.",
+    "html": "If you interact with SunnyDayz through a social-media platform, that platform may collect information about your activity according to its own privacy policy and account settings."
+   },
+   {
+    "t": "p",
+    "text": "Information you choose to make public through social media may be visible to SunnyDayz and other users of that platform.",
+    "html": "Information you choose to make public through social media may be visible to SunnyDayz and other users of that platform."
+   },
+   {
+    "t": "h2",
+    "text": "17. CHILDREN'S PRIVACY"
+   },
+   {
+    "t": "p",
+    "text": "The SunnyDayz Website and Services are not intended for children or individuals under 21 in connection with adult-use cannabis.",
+    "html": "The SunnyDayz Website and Services are not intended for children or individuals under 21 in connection with adult-use cannabis."
+   },
+   {
+    "t": "p",
+    "text": "We do not knowingly seek to collect personal information from children through our adult-use cannabis Website or Services.",
+    "html": "We do not knowingly seek to collect personal information from children through our adult-use cannabis Website or Services."
+   },
+   {
+    "t": "p",
+    "text": "If you believe an individual under 21 has provided personal information to SunnyDayz inappropriately, please contact us.",
+    "html": "If you believe an individual under 21 has provided personal information to SunnyDayz inappropriately, please contact us."
+   },
+   {
+    "t": "h2",
+    "text": "18. DO NOT TRACK AND BROWSER CONTROLS"
+   },
+   {
+    "t": "p",
+    "text": "Some Internet browsers provide \"Do Not Track\" or similar privacy signals.",
+    "html": "Some Internet browsers provide \"Do Not Track\" or similar privacy signals."
+   },
+   {
+    "t": "p",
+    "text": "Because standards concerning these signals and their application may continue to evolve, our Website may not respond uniformly to all browser-based signals.",
+    "html": "Because standards concerning these signals and their application may continue to evolve, our Website may not respond uniformly to all browser-based signals."
+   },
+   {
+    "t": "p",
+    "text": "You may use available browser settings and cookie controls to manage certain tracking technologies.",
+    "html": "You may use available browser settings and cookie controls to manage certain tracking technologies."
+   },
+   {
+    "t": "h2",
+    "text": "19. CHANGES TO THIS PRIVACY POLICY"
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz may update this Privacy Policy periodically to reflect changes in our Website, technology, business practices, Services, legal requirements, or regulatory obligations.",
+    "html": "SunnyDayz may update this Privacy Policy periodically to reflect changes in our Website, technology, business practices, Services, legal requirements, or regulatory obligations."
+   },
+   {
+    "t": "p",
+    "text": "When we update this Privacy Policy, we will revise the \"Last Updated\" date at the top of this page.",
+    "html": "When we update this Privacy Policy, we will revise the <strong>\"Last Updated\"</strong> date at the top of this page."
+   },
+   {
+    "t": "p",
+    "text": "Material changes may also be communicated through the Website or by other appropriate means.",
+    "html": "Material changes may also be communicated through the Website or by other appropriate means."
+   },
+   {
+    "t": "p",
+    "text": "We encourage you to review this Privacy Policy periodically.",
+    "html": "We encourage you to review this Privacy Policy periodically."
+   },
+   {
+    "t": "h2",
+    "text": "20. CONTACT US"
+   },
+   {
+    "t": "p",
+    "text": "If you have questions about this Privacy Policy, SunnyDayz's privacy practices, or information associated with you, please contact:",
+    "html": "If you have questions about this Privacy Policy, SunnyDayz's privacy practices, or information associated with you, please contact:"
+   },
+   {
+    "t": "p",
+    "text": "SunnyDayz, Inc. 105 Greenfield Road South Deerfield, Massachusetts 01373 Email: info@sunnydayzcannabis.com Website: www.sunnydayzcannabis.com",
+    "html": "<strong>SunnyDayz, Inc.</strong><br>105 Greenfield Road<br>South Deerfield, Massachusetts 01373<br><strong>Email:</strong> <a href=\"mailto:info@sunnydayzcannabis.com\" rel=\"noopener\">info@sunnydayzcannabis.com</a><br><strong>Website:</strong> <a href=\"http://www.sunnydayzcannabis.com/\" rel=\"noopener\">www.sunnydayzcannabis.com</a>"
+   }
+  ],
+  "faqs": [],
+  "forms": [],
+  "iframes": [],
+  "buttons": [],
+  "links": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "www.sunnydayzcannabis.com",
+    "href": "http://www.sunnydayzcannabis.com/"
+   },
+   {
+    "label": "info@sunnydayzcannabis.com",
+    "href": "mailto:info@sunnydayzcannabis.com"
+   },
+   {
+    "label": "www.sunnydayzcannabis.com",
+    "href": "http://www.sunnydayzcannabis.com/"
+   }
+  ],
+  "jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": ""
+      },
+      "position": 2
+     }
+    ]
+   }
+  ]
+ }
+}

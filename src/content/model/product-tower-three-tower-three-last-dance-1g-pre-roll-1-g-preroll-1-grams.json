@@ -1,0 +1,190 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-last-dance-1g-pre-roll-1-g-preroll-1-grams",
+ "slug": "product-tower-three-tower-three-last-dance-1g-pre-roll-1-g-preroll-1-grams",
+ "type": "product",
+ "title": "TOWER THREE - Tower Three - Last Dance - 1G pre-roll",
+ "seoTitle": "TOWER THREE - Tower Three - Last Dance - 1G pre-roll",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Preroll",
+    "href": "/collection/preroll"
+   },
+   {
+    "label": "Tower Three - Last Dance - 1G pre-roll",
+    "href": null
+   }
+  ],
+  "h1": "Tower Three - Last Dance - 1G pre-roll",
+  "name": "Tower Three - Last Dance - 1G pre-roll",
+  "brand": {
+   "label": "TOWER THREE",
+   "href": "/brand/tower-three"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Preroll",
+   "href": "/collection/preroll"
+  },
+  "subcategories": [
+   {
+    "label": "FLOWER",
+    "href": "/collection/preroll/flower"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/fec28fc4-b561-442a-9a7b-0f664f308d12?w=3840&q=100",
+   "alt": "Tower Three - Last Dance - 1G pre-roll"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/fec28fc4-b561-442a-9a7b-0f664f308d12?w=3840&q=100",
+    "alt": "Tower Three - Last Dance - 1G pre-roll"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": "Warning",
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": "Cannabinoids"
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "25.5%",
+    "icon": "vector"
+   },
+   {
+    "label": "CBD",
+    "value": "0.1%",
+    "icon": "water_drop_black"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Tower Three presents Last Dance, a premium 1g pre-roll crafted for cannabis enthusiasts seeking convenience and quality. This expertly rolled preroll delivers a smooth, consistent experience from start to finish, perfect for both solo sessions and social moments. Last Dance offers a balanced blend that appeals to a wide range of preferences, making it an ideal choice whether you're unwinding after a long day or enhancing creative pursuits. The 1g size provides the perfect amount for sharing or savoring at your own pace. Tower Three's commitment to quality ensures every puff is packed with flavor and potency. Ready to light and enjoy, this pre-roll eliminates the need for grinding or rolling—just spark up and let Last Dance take the lead. Discover why Tower Three continues to set the standard for premium cannabis prerolls.",
+  "warnings": [
+   {
+    "title": "Proposition 65 Warning for California Consumers",
+    "collapsed": true,
+    "toggleIcon": "angle-down",
+    "toggleAriaLabel": "Expand content",
+    "label": "WARNING:",
+    "lines": [
+     "This product can expose you to chemicals including β-myrcene and cannabis smoke, which are known to the State of California to cause cancer, and chemicals including cannabis smoke and 9-tetrahydrocannabinol, which are known to the State of California to cause birth defects or other reproductive harm."
+    ],
+    "moreInfo": {
+     "text": "For more information go to",
+     "label": "www.P65Warnings.ca.gov",
+     "href": "https://www.P65Warnings.ca.gov"
+    },
+    "links": []
+   }
+  ],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "TOWER THREE",
+    "href": "/brand/tower-three"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "25.5%"
+   },
+   {
+    "label": "CBD",
+    "value": "0.1%"
+   },
+   {
+    "label": "Package Info",
+    "value": "Tower Three Last Dance 1 G Pre Roll 1 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "1g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [
+   {
+    "group": "THC",
+    "items": [
+     {
+      "name": "THCA",
+      "value": "28.7%"
+     },
+     {
+      "name": "THC",
+      "value": "25.5%"
+     }
+    ]
+   },
+   {
+    "group": "CBD",
+    "items": [
+     {
+      "name": "CBD",
+      "value": "0.1%"
+     },
+     {
+      "name": "CBDA",
+      "value": "0.1%"
+     }
+    ]
+   }
+  ],
+  "jsonld": null
+ }
+}

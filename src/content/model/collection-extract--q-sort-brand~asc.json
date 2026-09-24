@@ -1,0 +1,549 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/collection/extract?sort=brandAsc",
+ "slug": "collection-extract--q-sort-brand~asc",
+ "type": "collection",
+ "title": "The best extracts | EXTRACT",
+ "seoTitle": "The best extracts | EXTRACT",
+ "model": {
+  "kind": "collection",
+  "level": "category",
+  "path": "/collection/extract",
+  "category": "extract",
+  "subcategory": null,
+  "parentPath": null,
+  "sortParam": "brandAsc",
+  "capture": {
+   "matchesUrl": true,
+   "signal": null,
+   "observed": null
+  },
+  "h1": "Concentrates",
+  "banner": {
+   "title": "Concentrates",
+   "description": null,
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMa5bqstJ9-DzW_CategoriesBanner-23.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMbJbqstJ9-DzX_CategoriesBanner-9.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Concentrates",
+    "href": null
+   }
+  ],
+  "categoryLinks": [
+   {
+    "label": "Deals",
+    "href": "/deals",
+    "ariaLabel": "Go to Deals",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs_KYofJOwHRt1_deals.svg?fit=max&w=128",
+     "alt": "Deals icon"
+    }
+   },
+   {
+    "label": "Flower",
+    "href": "/collection/flower?sort=brandAsc",
+    "ariaLabel": "Go to Flower",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs6aYofJOwHRti_flowers.svg?fit=max&w=128",
+     "alt": "Flower icon"
+    }
+   },
+   {
+    "label": "Vapes",
+    "href": "/collection/cartridge?sort=brandAsc",
+    "ariaLabel": "Go to Vapes",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs9KYofJOwHRtt_vapes.svg?fit=max&w=128",
+     "alt": "Vapes icon"
+    }
+   },
+   {
+    "label": "Pre-Roll",
+    "href": "/collection/preroll?sort=brandAsc",
+    "ariaLabel": "Go to Pre-Roll",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs76YofJOwHRto_rolls.svg?fit=max&w=128",
+     "alt": "Pre-Roll icon"
+    }
+   },
+   {
+    "label": "Edibles",
+    "href": "/collection/edible?sort=priceDesc",
+    "ariaLabel": "Go to Edibles",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs5aYofJOwHRte_edibles.svg?fit=max&w=128",
+     "alt": "Edibles icon"
+    }
+   },
+   {
+    "label": "Extracts",
+    "href": "/collection/extract?sort=brandAsc",
+    "ariaLabel": "Extracts, current page",
+    "current": true,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs6KYofJOwHRth_extracts.svg?fit=max&w=128",
+     "alt": "Extracts icon"
+    }
+   },
+   {
+    "label": "Drinks",
+    "href": "/collection/beverage?sort=brandAsc",
+    "ariaLabel": "Go to Drinks",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs5KYofJOwHRtd_drinks-3.svg?fit=max&w=128",
+     "alt": "Drinks icon"
+    }
+   },
+   {
+    "label": "Tinctures",
+    "href": "/collection/tincture?sort=brandAsc",
+    "ariaLabel": "Go to Tinctures",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs8qYofJOwHRtr_tinctures.svg?fit=max&w=128",
+     "alt": "Tinctures icon"
+    }
+   },
+   {
+    "label": "Capsules",
+    "href": "/collection/pill?sort=brandAsc",
+    "ariaLabel": "Go to Capsules",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs-aYofJOwHRty_capsules.svg?fit=max&w=128",
+     "alt": "Capsules icon"
+    }
+   },
+   {
+    "label": "Topicals",
+    "href": "/collection/topical?sort=brandAsc",
+    "ariaLabel": "Go to Topicals",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs86YofJOwHRts_topicals.svg?fit=max&w=128",
+     "alt": "Topicals icon"
+    }
+   },
+   {
+    "label": "Accessories",
+    "href": "/collection/merch?sort=brandAsc",
+    "ariaLabel": "Go to Accessories",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs9aYofJOwHRtu_accesories.svg?fit=max&w=128",
+     "alt": "Accessories icon"
+    }
+   }
+  ],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": "Brand A to Z",
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "empty",
+  "emptyState": {
+   "heading": "No search results found",
+   "text": "No results match the filter criteria. Remove a filter or clear all filters to search again"
+  },
+  "cards": [],
+  "productCount": 9,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/harbor-house-harbor-house-lemon-cherry-sherbert-1g-badder-1-g-extract-1-grams",
+    "name": "Harbor House - Lemon Cherry Sherbert - 1G Badder",
+    "brand": "HARBOR HOUSE",
+    "description": "Harbor House delivers premium concentrate craftsmanship with their Lemon Cherry Sherbert 1G Badder. This velvety extract showcases a delightful fusion of zesty lemon, sweet cherry, and creamy sherbet notes that dance across the palate. The badder consistency offers easy handling and versatile dabbing for concentrate enthusiasts seeking potent, flavorful sessions. Lemon Cherry Sherbert is known for delivering balanced effects that inspire creativity and euphoria while maintaining relaxation—perfect for unwinding after a long day or enhancing social gatherings. Each dab reveals complex terpene profiles with bright citrus top notes complemented by fruity cherry undertones and a smooth, creamy finish. Harbor House's meticulous extraction process preserves the strain's natural essence, resulting in a concentrate that's as flavorful as it is effective. Ideal for experienced users who appreciate quality extracts with exceptional taste and reliable potency.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/9416d0d3-3263-4252-b095-809019186104",
+     "alt": "Harbor House - Lemon Cherry Sherbert - 1G Badder"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/harbor-house-harbor-house-super-silver-haze-x-albarino-1g-badder-1-g-extract-1-grams",
+    "name": "Harbor House - Super Silver Haze x Albarino - 1G Badder",
+    "brand": "HARBOR HOUSE",
+    "description": "Harbor House presents Super Silver Haze x Albarino Badder, a premium 1g cannabis extract that combines two legendary genetics into one exceptional concentrate. This collaboration merges the uplifting, energetic qualities of Super Silver Haze with the unique aromatic profile of Albarino, creating a badder with a creamy, whipped texture that's perfect for dabbing. Expect a complex flavor profile featuring citrus, earthy, and herbal notes that dance across the palate with each session. The concentrate delivers focused, creative effects ideal for daytime use or social activities. Harbor House's expert extraction process preserves the full spectrum of cannabinoids and terpenes, ensuring maximum potency and flavor in every dab. This 1g badder offers cannabis connoisseurs a premium experience that showcases the craftsmanship and quality Harbor House is known for.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d57d7d27-c09d-4587-8cd2-52271ce0a93c",
+     "alt": "Harbor House - Super Silver Haze x Albarino - 1G Badder"
+    }
+   },
+   {
+    "position": 3,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-cherry-whip-1g-dry-sift-1-g-extract-1-grams",
+    "name": "Sweetgrass Botanicals - Cherry Whip - 1G Dry Sift",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals presents Cherry Whip, a premium 1g dry sift kief extract that delivers concentrated cannabis goodness in its purest form. This finely-sifted kief captures the essence of the Cherry Whip strain, offering sweet cherry flavors with creamy, fruity undertones that delight the palate. As a potent extract, this dry sift provides elevated effects perfect for experienced consumers seeking enhanced relaxation and euphoria. The crystalline texture and rich terpene profile make it ideal for topping bowls, rolling into joints, or pressing into rosin. Each gram showcases Sweetgrass Botanicals' commitment to quality extraction methods that preserve the plant's natural compounds. Whether you're looking to elevate your flower or enjoy kief on its own, Cherry Whip delivers a flavorful, potent experience that captures the full character of this delicious strain in convenient 1g packaging.",
+    "price": "$40",
+    "priceAmount": 40,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5587bbdc-941d-4b48-a30b-e8de0a193131",
+     "alt": "Sweetgrass Botanicals - Cherry Whip - 1G Dry Sift"
+    }
+   },
+   {
+    "position": 4,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-honeydew-1g-live-rosin-1-g-extract-1-grams",
+    "name": "Sweetgrass Botanicals - Honeydew - 1G - Live Rosin",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals delivers premium quality with their Honeydew Live Rosin, a 1g concentrate that showcases the art of solventless extraction. This extract captures the essence of fresh frozen cannabis through ice water hash refinement, preserving the plant's natural terpene profile and full spectrum of cannabinoids. Honeydew offers a refreshing melon-forward flavor with sweet, fruity notes that dance on the palate, complemented by subtle earthy undertones. The live rosin extraction method ensures maximum potency and purity, delivering a clean, flavorful experience that concentrate connoisseurs appreciate. Perfect for dabbing, this premium rosin melts smoothly and provides robust effects ideal for both relaxation and creative pursuits. Sweetgrass Botanicals' commitment to quality shines through in every gram, offering cannabis enthusiasts a sophisticated concentrate experience with exceptional flavor clarity and potent effects.",
+    "price": "$60",
+    "priceAmount": 60,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a9a90392-07e6-4217-9353-34f0fd41002f",
+     "alt": "Sweetgrass Botanicals - Honeydew - 1G - Live Rosin"
+    }
+   },
+   {
+    "position": 5,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-slurricane-1g-live-rosin-1-g-extract-1-grams",
+    "name": "Sweetgrass Botanicals - Slurricane - 1G - Live Rosin",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals presents Slurricane Live Rosin, a premium 1g concentrate that showcases the full essence of this celebrated strain. This extract is crafted using solventless extraction methods, preserving the plant's natural terpene profile and cannabinoids for an authentic, full-spectrum experience. Slurricane delivers a rich, sweet flavor profile with notes of berry, grape, and creamy tropical fruit, complemented by earthy undertones. The aroma is equally captivating, offering a pungent blend of fruity sweetness and subtle spice. Live rosin enthusiasts appreciate this product for its potent effects that promote deep relaxation, euphoria, and relief, making it ideal for unwinding after a long day or easing into restful sleep. The 1g size provides excellent value for dabbing connoisseurs who demand quality and flavor in every session. Experience the difference that solventless craftsmanship brings with Sweetgrass Botanicals Slurricane Live Rosin.",
+    "price": "$60",
+    "priceAmount": 60,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d715ede5-3e1b-4db8-80eb-395166d63d81",
+     "alt": "Sweetgrass Botanicals - Slurricane - 1G - Live Rosin"
+    }
+   },
+   {
+    "position": 6,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-gary-payton-x-apple-mints-1g-live-rosin-1-g-extract-1-grams",
+    "name": "Sweetgrass Botanicals - Gary Payton x Apple Mints - 1G - Live Rosin",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals delivers premium quality with their Gary Payton x Apple Mints Live Rosin, a 1g concentrate that showcases the art of solventless extraction. This extract combines the legendary genetics of Gary Payton with the refreshing Apple Mints, creating a complex flavor profile that blends sweet, fruity apple notes with cool minty undertones and subtle earthy accents. Live rosin is crafted using ice water hash from fresh frozen cannabis, preserving the plant's full spectrum of cannabinoids and cannabis-derived terpenes for an authentic, potent experience. Expect a smooth, flavorful dab that delivers uplifting euphoria paired with focused relaxation. Perfect for concentrate enthusiasts seeking strain-specific terpenes and exceptional purity, this 1g of Gary Payton x Apple Mints offers connoisseur-grade quality in every session. Sweetgrass Botanicals brings craft cannabis to your collection.",
+    "price": "$60",
+    "priceAmount": 60,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a9a90392-07e6-4217-9353-34f0fd41002f",
+     "alt": "Sweetgrass Botanicals - Gary Payton x Apple Mints - 1G - Live Rosin"
+    }
+   },
+   {
+    "position": 7,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-superboof-1g-live-rosin-1-g-extract-1-grams",
+    "name": "Sweetgrass Botanicals - Superboof - 1G - Live Rosin",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals presents Superboof Live Rosin, a premium 1g extract that showcases the art of solventless cannabis craftsmanship. This live rosin is produced using fresh-frozen cannabis through ice water extraction and heat-press techniques, preserving the plant's full terpene profile and potent cannabinoids. Superboof delivers a complex flavor experience with gassy, earthy, and sweet notes that translate into smooth, flavorful dabs. The extract's rich concentrate consistency makes it ideal for experienced consumers seeking maximum potency and authentic cannabis flavor. Whether you're using a dab rig or portable vaporizer, this 1g of Superboof Live Rosin offers a clean, full-spectrum experience that captures the essence of the original flower. Perfect for connoisseurs who appreciate quality craftsmanship and robust effects.",
+    "price": "$60",
+    "priceAmount": 60,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e1395632-3541-4a3c-b611-e0ca0a3ebfaf",
+     "alt": "Sweetgrass Botanicals - Superboof - 1G - Live Rosin"
+    }
+   },
+   {
+    "position": 8,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-dante-s-lemons-1g-live-rosin-1-g-extract-1-grams",
+    "name": "Sweetgrass Botanicals - Dante's Lemons - 1G - Live Rosin",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals presents Dante's Lemons, a premium 1g live rosin extract that captures the essence of fresh-frozen cannabis at its finest. This solventless concentrate showcases the brand's commitment to quality and purity, delivering an authentic terpene-rich experience. Dante's Lemons bursts with bright citrus notes, featuring bold lemon and zesty flavors that dance across the palate. The live rosin extraction process preserves the plant's full cannabinoid and terpene profile, ensuring a potent and flavorful dab every time. Expect an uplifting and euphoric experience that sparks creativity while keeping you focused and energized. Perfect for connoisseurs who appreciate clean, full-spectrum extracts, this 1g jar offers exceptional value and versatility. Whether you're dabbing, adding to flower, or using in vaporizers, Dante's Lemons delivers smooth, flavorful vapor with each use. Sweetgrass Botanicals' meticulous craftsmanship shines through in every golden drop of this exceptional live rosin.",
+    "price": "$60",
+    "priceAmount": 60,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0920c6ce-a93c-49ac-b98b-ed8b216aeba6",
+     "alt": "Sweetgrass Botanicals - Dante's Lemons - 1G - Live Rosin"
+    }
+   },
+   {
+    "position": 9,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-cereal-milk-1g-live-rosin-1-g-extract-1-grams",
+    "name": "Sweetgrass Botanicals - Cereal Milk - 1G - Live Rosin",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals presents Cereal Milk Live Rosin, a premium 1g extract crafted using solventless extraction methods to preserve the plant's full spectrum of cannabinoids and terpenes. This artisanal concentrate delivers the strain's signature creamy, sweet flavor profile with subtle notes of vanilla and citrus, reminiscent of the milk left after a bowl of your favorite cereal. Live Rosin represents the pinnacle of cannabis extraction, utilizing fresh frozen material to capture the plant's essence at its peak. The result is a smooth, flavorful concentrate that offers potent effects and exceptional purity. Perfect for discerning consumers seeking premium quality and authentic taste, this 1g jar provides multiple sessions of rich, terpene-forward dabbing experiences. Ideal for concentrate enthusiasts who appreciate craft cannabis products made with meticulous attention to detail and quality.",
+    "price": "$60",
+    "priceAmount": 60,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/9eae020b-c3aa-414a-b80c-a2c61a1a1546",
+     "alt": "Sweetgrass Botanicals - Cereal Milk - 1G - Live Rosin"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/shop",
+       "name": "Menu"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "Concentrates"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "HARBOR HOUSE",
+       "description": "Harbor House delivers premium concentrate craftsmanship with their Lemon Cherry Sherbert 1G Badder. This velvety extract showcases a delightful fusion of zesty lemon, sweet cherry, and creamy sherbet notes that dance across the palate. The badder consistency offers easy handling and versatile dabbing for concentrate enthusiasts seeking potent, flavorful sessions. Lemon Cherry Sherbert is known for delivering balanced effects that inspire creativity and euphoria while maintaining relaxation—perfect for unwinding after a long day or enhancing social gatherings. Each dab reveals complex terpene profiles with bright citrus top notes complemented by fruity cherry undertones and a smooth, creamy finish. Harbor House&apos;s meticulous extraction process preserves the strain&apos;s natural essence, resulting in a concentrate that&apos;s as flavorful as it is effective. Ideal for experienced users who appreciate quality extracts with exceptional taste and reliable potency.",
+       "name": "Harbor House - Lemon Cherry Sherbert - 1G Badder",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/harbor-house-harbor-house-lemon-cherry-sherbert-1g-badder-1-g-extract-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/9416d0d3-3263-4252-b095-809019186104"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "HARBOR HOUSE",
+       "description": "Harbor House presents Super Silver Haze x Albarino Badder, a premium 1g cannabis extract that combines two legendary genetics into one exceptional concentrate. This collaboration merges the uplifting, energetic qualities of Super Silver Haze with the unique aromatic profile of Albarino, creating a badder with a creamy, whipped texture that&apos;s perfect for dabbing. Expect a complex flavor profile featuring citrus, earthy, and herbal notes that dance across the palate with each session. The concentrate delivers focused, creative effects ideal for daytime use or social activities. Harbor House&apos;s expert extraction process preserves the full spectrum of cannabinoids and terpenes, ensuring maximum potency and flavor in every dab. This 1g badder offers cannabis connoisseurs a premium experience that showcases the craftsmanship and quality Harbor House is known for.",
+       "name": "Harbor House - Super Silver Haze x Albarino - 1G Badder",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/harbor-house-harbor-house-super-silver-haze-x-albarino-1g-badder-1-g-extract-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d57d7d27-c09d-4587-8cd2-52271ce0a93c"
+      },
+      "position": "2"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals presents Cherry Whip, a premium 1g dry sift kief extract that delivers concentrated cannabis goodness in its purest form. This finely-sifted kief captures the essence of the Cherry Whip strain, offering sweet cherry flavors with creamy, fruity undertones that delight the palate. As a potent extract, this dry sift provides elevated effects perfect for experienced consumers seeking enhanced relaxation and euphoria. The crystalline texture and rich terpene profile make it ideal for topping bowls, rolling into joints, or pressing into rosin. Each gram showcases Sweetgrass Botanicals&apos; commitment to quality extraction methods that preserve the plant&apos;s natural compounds. Whether you&apos;re looking to elevate your flower or enjoy kief on its own, Cherry Whip delivers a flavorful, potent experience that captures the full character of this delicious strain in convenient 1g packaging.",
+       "name": "Sweetgrass Botanicals - Cherry Whip - 1G Dry Sift",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-cherry-whip-1g-dry-sift-1-g-extract-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5587bbdc-941d-4b48-a30b-e8de0a193131"
+      },
+      "position": "3"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals delivers premium quality with their Honeydew Live Rosin, a 1g concentrate that showcases the art of solventless extraction. This extract captures the essence of fresh frozen cannabis through ice water hash refinement, preserving the plant&apos;s natural terpene profile and full spectrum of cannabinoids. Honeydew offers a refreshing melon-forward flavor with sweet, fruity notes that dance on the palate, complemented by subtle earthy undertones. The live rosin extraction method ensures maximum potency and purity, delivering a clean, flavorful experience that concentrate connoisseurs appreciate. Perfect for dabbing, this premium rosin melts smoothly and provides robust effects ideal for both relaxation and creative pursuits. Sweetgrass Botanicals&apos; commitment to quality shines through in every gram, offering cannabis enthusiasts a sophisticated concentrate experience with exceptional flavor clarity and potent effects.",
+       "name": "Sweetgrass Botanicals - Honeydew - 1G - Live Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "60",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-honeydew-1g-live-rosin-1-g-extract-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a9a90392-07e6-4217-9353-34f0fd41002f"
+      },
+      "position": "4"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals presents Slurricane Live Rosin, a premium 1g concentrate that showcases the full essence of this celebrated strain. This extract is crafted using solventless extraction methods, preserving the plant&apos;s natural terpene profile and cannabinoids for an authentic, full-spectrum experience. Slurricane delivers a rich, sweet flavor profile with notes of berry, grape, and creamy tropical fruit, complemented by earthy undertones. The aroma is equally captivating, offering a pungent blend of fruity sweetness and subtle spice. Live rosin enthusiasts appreciate this product for its potent effects that promote deep relaxation, euphoria, and relief, making it ideal for unwinding after a long day or easing into restful sleep. The 1g size provides excellent value for dabbing connoisseurs who demand quality and flavor in every session. Experience the difference that solventless craftsmanship brings with Sweetgrass Botanicals Slurricane Live Rosin.",
+       "name": "Sweetgrass Botanicals - Slurricane - 1G - Live Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "60",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-slurricane-1g-live-rosin-1-g-extract-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d715ede5-3e1b-4db8-80eb-395166d63d81"
+      },
+      "position": "5"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals delivers premium quality with their Gary Payton x Apple Mints Live Rosin, a 1g concentrate that showcases the art of solventless extraction. This extract combines the legendary genetics of Gary Payton with the refreshing Apple Mints, creating a complex flavor profile that blends sweet, fruity apple notes with cool minty undertones and subtle earthy accents. Live rosin is crafted using ice water hash from fresh frozen cannabis, preserving the plant&apos;s full spectrum of cannabinoids and cannabis-derived terpenes for an authentic, potent experience. Expect a smooth, flavorful dab that delivers uplifting euphoria paired with focused relaxation. Perfect for concentrate enthusiasts seeking strain-specific terpenes and exceptional purity, this 1g of Gary Payton x Apple Mints offers connoisseur-grade quality in every session. Sweetgrass Botanicals brings craft cannabis to your collection.",
+       "name": "Sweetgrass Botanicals - Gary Payton x Apple Mints - 1G - Live Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "60",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-gary-payton-x-apple-mints-1g-live-rosin-1-g-extract-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a9a90392-07e6-4217-9353-34f0fd41002f"
+      },
+      "position": "6"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals presents Superboof Live Rosin, a premium 1g extract that showcases the art of solventless cannabis craftsmanship. This live rosin is produced using fresh-frozen cannabis through ice water extraction and heat-press techniques, preserving the plant&apos;s full terpene profile and potent cannabinoids. Superboof delivers a complex flavor experience with gassy, earthy, and sweet notes that translate into smooth, flavorful dabs. The extract&apos;s rich concentrate consistency makes it ideal for experienced consumers seeking maximum potency and authentic cannabis flavor. Whether you&apos;re using a dab rig or portable vaporizer, this 1g of Superboof Live Rosin offers a clean, full-spectrum experience that captures the essence of the original flower. Perfect for connoisseurs who appreciate quality craftsmanship and robust effects.",
+       "name": "Sweetgrass Botanicals - Superboof - 1G - Live Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "60",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-superboof-1g-live-rosin-1-g-extract-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/e1395632-3541-4a3c-b611-e0ca0a3ebfaf"
+      },
+      "position": "7"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals presents Dante&apos;s Lemons, a premium 1g live rosin extract that captures the essence of fresh-frozen cannabis at its finest. This solventless concentrate showcases the brand&apos;s commitment to quality and purity, delivering an authentic terpene-rich experience. Dante&apos;s Lemons bursts with bright citrus notes, featuring bold lemon and zesty flavors that dance across the palate. The live rosin extraction process preserves the plant&apos;s full cannabinoid and terpene profile, ensuring a potent and flavorful dab every time. Expect an uplifting and euphoric experience that sparks creativity while keeping you focused and energized. Perfect for connoisseurs who appreciate clean, full-spectrum extracts, this 1g jar offers exceptional value and versatility. Whether you&apos;re dabbing, adding to flower, or using in vaporizers, Dante&apos;s Lemons delivers smooth, flavorful vapor with each use. Sweetgrass Botanicals&apos; meticulous craftsmanship shines through in every golden drop of this exceptional live rosin.",
+       "name": "Sweetgrass Botanicals - Dante&apos;s Lemons - 1G - Live Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "60",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-dante-s-lemons-1g-live-rosin-1-g-extract-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0920c6ce-a93c-49ac-b98b-ed8b216aeba6"
+      },
+      "position": "8"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals presents Cereal Milk Live Rosin, a premium 1g extract crafted using solventless extraction methods to preserve the plant&apos;s full spectrum of cannabinoids and terpenes. This artisanal concentrate delivers the strain&apos;s signature creamy, sweet flavor profile with subtle notes of vanilla and citrus, reminiscent of the milk left after a bowl of your favorite cereal. Live Rosin represents the pinnacle of cannabis extraction, utilizing fresh frozen material to capture the plant&apos;s essence at its peak. The result is a smooth, flavorful concentrate that offers potent effects and exceptional purity. Perfect for discerning consumers seeking premium quality and authentic taste, this 1g jar provides multiple sessions of rich, terpene-forward dabbing experiences. Ideal for concentrate enthusiasts who appreciate craft cannabis products made with meticulous attention to detail and quality.",
+       "name": "Sweetgrass Botanicals - Cereal Milk - 1G - Live Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "60",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-cereal-milk-1g-live-rosin-1-g-extract-1-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/9eae020b-c3aa-414a-b80c-a2c61a1a1546"
+      },
+      "position": "9"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,953 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/collection/edible?sort=priceDesc",
+ "slug": "collection-edible--q-sort-price~desc",
+ "type": "collection",
+ "title": "The best edibles | EDIBLE",
+ "seoTitle": "The best edibles | EDIBLE",
+ "model": {
+  "kind": "collection",
+  "level": "category",
+  "path": "/collection/edible",
+  "category": "edible",
+  "subcategory": null,
+  "parentPath": null,
+  "sortParam": "priceDesc",
+  "capture": {
+   "matchesUrl": true,
+   "signal": null,
+   "observed": null
+  },
+  "h1": "EDIBLES",
+  "banner": {
+   "title": "EDIBLES",
+   "description": null,
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMS5bqstJ9-Dyy_CategoriesBanner-16.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMTJbqstJ9-Dyz_CategoriesBanner-2.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edibles",
+    "href": null
+   }
+  ],
+  "categoryLinks": [
+   {
+    "label": "Deals",
+    "href": "/deals",
+    "ariaLabel": "Go to Deals",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs_KYofJOwHRt1_deals.svg?fit=max&w=128",
+     "alt": "Deals icon"
+    }
+   },
+   {
+    "label": "Flower",
+    "href": "/collection/flower?sort=brandAsc",
+    "ariaLabel": "Go to Flower",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs6aYofJOwHRti_flowers.svg?fit=max&w=128",
+     "alt": "Flower icon"
+    }
+   },
+   {
+    "label": "Vapes",
+    "href": "/collection/cartridge?sort=brandAsc",
+    "ariaLabel": "Go to Vapes",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs9KYofJOwHRtt_vapes.svg?fit=max&w=128",
+     "alt": "Vapes icon"
+    }
+   },
+   {
+    "label": "Pre-Roll",
+    "href": "/collection/preroll?sort=brandAsc",
+    "ariaLabel": "Go to Pre-Roll",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs76YofJOwHRto_rolls.svg?fit=max&w=128",
+     "alt": "Pre-Roll icon"
+    }
+   },
+   {
+    "label": "Edibles",
+    "href": "/collection/edible?sort=priceDesc",
+    "ariaLabel": "Edibles, current page",
+    "current": true,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs5aYofJOwHRte_edibles.svg?fit=max&w=128",
+     "alt": "Edibles icon"
+    }
+   },
+   {
+    "label": "Extracts",
+    "href": "/collection/extract?sort=brandAsc",
+    "ariaLabel": "Go to Extracts",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs6KYofJOwHRth_extracts.svg?fit=max&w=128",
+     "alt": "Extracts icon"
+    }
+   },
+   {
+    "label": "Drinks",
+    "href": "/collection/beverage?sort=brandAsc",
+    "ariaLabel": "Go to Drinks",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs5KYofJOwHRtd_drinks-3.svg?fit=max&w=128",
+     "alt": "Drinks icon"
+    }
+   },
+   {
+    "label": "Tinctures",
+    "href": "/collection/tincture?sort=brandAsc",
+    "ariaLabel": "Go to Tinctures",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs8qYofJOwHRtr_tinctures.svg?fit=max&w=128",
+     "alt": "Tinctures icon"
+    }
+   },
+   {
+    "label": "Capsules",
+    "href": "/collection/pill?sort=brandAsc",
+    "ariaLabel": "Go to Capsules",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs-aYofJOwHRty_capsules.svg?fit=max&w=128",
+     "alt": "Capsules icon"
+    }
+   },
+   {
+    "label": "Topicals",
+    "href": "/collection/topical?sort=brandAsc",
+    "ariaLabel": "Go to Topicals",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs86YofJOwHRts_topicals.svg?fit=max&w=128",
+     "alt": "Topicals icon"
+    }
+   },
+   {
+    "label": "Accessories",
+    "href": "/collection/merch?sort=brandAsc",
+    "ariaLabel": "Go to Accessories",
+    "current": false,
+    "image": {
+     "src": "https://sunny-dayz.cdn.prismic.io/sunny-dayz/agcs9aYofJOwHRtu_accesories.svg?fit=max&w=128",
+     "alt": "Accessories icon"
+    }
+   }
+  ],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": "Price High to Low",
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "loading",
+  "emptyState": null,
+  "cards": [],
+  "productCount": 20,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-infused-olive-oil-500mg-500-mg-edible-500-milligrams",
+    "name": "Sweetgrass Botanicals - Infused Olive Oil - 500mg",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals Infused Olive Oil brings versatile cannabis wellness to your kitchen with 500mg of premium extract in every bottle. This culinary edible offers a sophisticated way to incorporate cannabis into your daily routine, whether drizzled over salads, mixed into dressings, or used in low-heat cooking. The smooth, earthy flavor profile complements both savory and sweet dishes while delivering consistent, long-lasting effects. Perfect for experienced consumers seeking creative control over their dosing, this infused oil allows you to customize your experience with every meal. Simply start with a small amount and wait 60-90 minutes to feel the full effects. Store in a cool, dark place to maintain potency and freshness. Elevate your culinary creations while enjoying the therapeutic benefits of cannabis with this premium infused olive oil.",
+    "price": "$70",
+    "priceAmount": 70,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/75ed45dd-de3c-4dac-8ce5-c92f97333f58",
+     "alt": "Sweetgrass Botanicals - Infused Olive Oil - 500mg"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-infused-olive-oil-250mg-250-mg-edible-250-milligrams",
+    "name": "Sweetgrass Botanicals - Infused Olive Oil - 250mg",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals Infused Olive Oil brings premium cannabis convenience to your kitchen with 250mg of THC in every bottle. This versatile edible oil seamlessly integrates into your culinary routine, perfect for drizzling over salads, finishing pasta dishes, or elevating your favorite recipes with cannabis-infused flavor. The smooth, rich olive oil base delivers a naturally earthy and savory profile that complements both sweet and savory applications. Ideal for those seeking precise dosing control, this infused oil allows you to customize your experience by the drop. Whether you're an experienced chef or new to cannabis cooking, this product offers a discreet and delicious way to enjoy the benefits of THC while exploring creative culinary possibilities. Simply start with a small amount, wait to assess effects, and adjust accordingly for your perfect dose.",
+    "price": "$30",
+    "priceAmount": 30,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/c666904a-1e10-4dc7-bf32-98ee63f05b05",
+     "alt": "Sweetgrass Botanicals - Infused Olive Oil - 250mg"
+    }
+   },
+   {
+    "position": 3,
+    "url": "/product/treeworks-treeworks-party-rosin-gummies-100mg-100-mg-edible-100-milligrams",
+    "name": "Treeworks - Party - Rosin Gummies - 100MG",
+    "brand": "TREEWORKS",
+    "description": "Treeworks Party Rosin Gummies deliver 100mg of premium cannabis in convenient, delicious edible form. Each gummy is crafted with high-quality rosin, preserving the natural compounds and full-spectrum benefits that cannabis enthusiasts appreciate. Perfect for social gatherings or unwinding after a long day, these gummies offer a reliable, enjoyable experience with consistent dosing. The Party edition brings vibrant flavor and smooth effects, making it easy to elevate any occasion. Whether you're seeking relaxation, euphoria, or simply a good time with friends, Treeworks combines quality extraction methods with tasty, approachable edibles. Ideal for both newcomers and experienced users looking for a flavorful, potent option.",
+    "price": "$30",
+    "priceAmount": 30,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/3b2b60d3-ab59-4639-bccf-4400212b4be5",
+     "alt": "Treeworks - Party - Rosin Gummies - 100MG"
+    }
+   },
+   {
+    "position": 4,
+    "url": "/product/treeworks-treeworks-sleep-relief-live-hash-rosin-gummies-700mg-700-mg-10-pack-edible-700-milligrams",
+    "name": "Treeworks - Sleep & Relief - Live Hash Rosin Gummies - 700MG",
+    "brand": "TREEWORKS",
+    "description": "Treeworks Sleep & Relief Live Hash Rosin Gummies deliver 700mg of premium cannabis in a delicious edible format designed to help you unwind and find comfort. Crafted with live hash rosin—one of the purest, most flavorful concentrates available—these gummies offer a full-spectrum experience that preserves the plant's natural terpenes and cannabinoids. Perfect for evening relaxation, each gummy promotes deep relief and restful sleep, making them ideal for those seeking calm after a long day. The rich, fruity flavor profile ensures a pleasant taste with every bite, while the potent effects work to soothe both body and mind. Whether you're managing discomfort or simply looking to enhance your nightly routine, Treeworks combines quality craftsmanship with thoughtful dosing to deliver consistent, reliable results. Experience the difference of solventless extraction and discover why live hash rosin gummies are the choice for discerning cannabis enthusiasts.",
+    "price": "$30",
+    "priceAmount": 30,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7a6b40ca-5204-4def-8160-df998f88e9ee",
+     "alt": "Treeworks - Sleep & Relief - Live Hash Rosin Gummies - 700MG"
+    }
+   },
+   {
+    "position": 5,
+    "url": "/product/treeworks-treeworks-chill-rosin-gummies-100mg-100-mg-edible-100-milligrams",
+    "name": "Treeworks - Chill - Rosin Gummies - 100MG",
+    "brand": "TREEWORKS",
+    "description": "Treeworks Chill Rosin Gummies deliver 100mg of cannabis-infused relaxation in a delicious edible format. These rosin-based gummies offer a clean, solventless experience that showcases the natural essence of the plant. Each gummy is crafted to help you unwind and melt away stress, making them perfect for evening relaxation or whenever you need to take the edge off. The rosin extraction process preserves beneficial compounds for a full-bodied effect that edible enthusiasts appreciate. With a balanced formulation and smooth onset, Chill gummies provide a reliable way to enjoy cannabis without smoking or vaping. Simply pop a gummy and let the calming sensations wash over you. Treeworks combines quality ingredients with expert extraction techniques to create edibles that taste great and deliver consistent results every time.",
+    "price": "$30",
+    "priceAmount": 30,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/c1424a6f-b561-4a21-a619-518422cebe8c",
+     "alt": "Treeworks - Chill - Rosin Gummies - 100MG"
+    }
+   },
+   {
+    "position": 6,
+    "url": "/product/ahh-moments-ahh-moments-caramel-crush-calm-rosin-chocolate-100-mg-edible-100-milligrams",
+    "name": "Ahh Moments | Caramel Crush Calm Rosin | Chocolate",
+    "brand": "AHH MOMENTS",
+    "description": "Ahh Moments Caramel Crush Calm Rosin Chocolate delivers 100mg of pure relaxation in every indulgent bite. This indica-dominant edible combines rich, velvety chocolate with luxurious caramel notes, creating a decadent treat that melts stress away. Crafted with premium rosin extract, this chocolate offers a clean, full-spectrum experience that honors the plant's natural profile. Perfect for unwinding after a long day, Caramel Crush promotes calming, relaxed effects that soothe both body and mind. The smooth, sweet caramel flavor pairs beautifully with premium chocolate, making each dose a moment worth savoring. Whether you're seeking relief from tension or simply craving a peaceful evening, this 100mg chocolate edible transforms relaxation into an art form. Ahh Moments brings quality and consistency to every piece, ensuring your calm comes with incredible flavor.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d607993a-19f9-4fbe-8952-f32885425ca4",
+     "alt": "Ahh Moments | Caramel Crush Calm Rosin | Chocolate"
+    }
+   },
+   {
+    "position": 7,
+    "url": "/product/ahh-moments-ahh-moments-strawberry-cream-party-rosin-chocolate-100-mg-edible-100-milligrams",
+    "name": "Ahh Moments | Strawberry Cream Party Rosin | Chocolate",
+    "brand": "AHH MOMENTS",
+    "description": "Indulge in Ahh Moments Strawberry Cream Party Rosin Chocolate, a 100mg sativa edible that blends decadent chocolate with luscious strawberry cream flavors. Crafted with premium rosin, this delicious treat delivers an uplifting, energetic experience perfect for social gatherings or creative pursuits. Each bite combines rich, creamy sweetness with the smooth essence of ripe strawberries, creating a party-ready confection that tastes as good as it feels. The sativa classification provides a euphoric, focused boost that keeps you happy and engaged. Whether you're celebrating with friends or treating yourself, this rosin-infused chocolate offers a flavorful escape with elevated effects. Experience the difference of quality rosin extraction in every creamy, strawberry-kissed square.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://images.prismic.io/sunny-dayz/Z5vMk5bqstJ9-Dz9_edibles-others.png?auto=format,compress",
+     "alt": "Ahh Moments | Strawberry Cream Party Rosin | Chocolate"
+    }
+   },
+   {
+    "position": 8,
+    "url": "/product/coast-coast-blissful-blueberry-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+    "name": "Coast - Blissful Blueberry - Gummy - 5:5:5",
+    "brand": "COAST",
+    "description": "Coast Blissful Blueberry Gummies deliver a perfectly balanced 5:5:5 ratio of THC:CBN:CBC cannabinoids in a delicious 100mg edible. These indica-dominant gummies combine sweet blueberry flavor with calming effects designed to promote relaxation and ease. Each gummy offers a consistent dose, making it simple to find your ideal experience whether you're unwinding after a long day or seeking restful sleep. The natural blueberry taste creates a fruity, enjoyable consumption method without any harsh cannabis flavor. Coast crafts these gummies for those who appreciate quality edibles that deliver reliable results. Perfect for evening use, these treats may help you feel relaxed, happy, and ready to melt into your favorite spot. The convenient gummy format makes dosing straightforward and discreet, ideal for both new and experienced cannabis consumers seeking the therapeutic benefits of indica effects paired with delightful berry sweetness.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5f344554-b9a9-47b9-be81-c2b3615732b7",
+     "alt": "Coast - Blissful Blueberry - Gummy - 5:5:5"
+    }
+   },
+   {
+    "position": 9,
+    "url": "/product/coast-coast-tangerine-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+    "name": "Coast - Tangerine - Gummy - 5:5:5",
+    "brand": "COAST",
+    "description": "Coast Tangerine Gummy delivers a perfectly balanced 5:5:5 ratio of THC:CBD:CBG, in every delicious bite. This edible combines the bright, citrusy sweetness of tangerine with a carefully crafted cannabinoid profile designed to offer versatile benefits throughout your day. The 5mg THC provides gentle euphoria and uplifted mood, while 5mg CBD supports relaxation and relief. The addition of 5mg CBG rounds out the experience, making this gummy ideal for those seeking a well-rounded effect. Coast crafts each gummy with quality ingredients and consistent dosing, ensuring a reliable experience every time. The tangerine flavor bursts with zesty citrus notes that make wellness enjoyable. Perfect for both newcomers exploring cannabinoid ratios and experienced users seeking balanced relief, this gummy offers a flavorful, approachable way to enjoy the entourage effect of multiple cannabinoids working in harmony.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/271adb92-8229-448f-a8d0-4c716c46ef5a",
+     "alt": "Coast - Tangerine - Gummy - 5:5:5"
+    }
+   },
+   {
+    "position": 10,
+    "url": "/product/coast-coast-raspberry-lime-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams",
+    "name": "Coast - Raspberry Lime - Gummy - 5:5:5",
+    "brand": "COAST",
+    "description": "Coast Raspberry Lime Gummy delivers a perfectly balanced 5:5:5 ratio of THC:CBD:THCV, in a 100mg package, offering a versatile cannabis experience in delicious gummy form. Each bite bursts with tangy raspberry and zesty lime flavors that make your wellness routine something to look forward to. This edible combines the uplifting effects of THC with the calming properties of CBD and the relaxing benefits of THCV, creating a well-rounded experience that can adapt to your needs throughout the day. Whether you're seeking creative focus, gentle relaxation, or restful sleep, this ratio-based gummy provides flexible support. The fruity, tart flavor profile makes dosing enjoyable while the precise cannabinoid blend ensures consistent results. Perfect for those who appreciate both flavor and function in their cannabis edibles.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/14708e26-5d93-48d6-9a60-eb5e2fbecaf2",
+     "alt": "Coast - Raspberry Lime - Gummy - 5:5:5"
+    }
+   },
+   {
+    "position": 11,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-goodnight-hash-caps-thc-cbn-100-mg-20-pack-edible-100-milligrams",
+    "name": "Sweetgrass Botanicals - GoodNight - Hash Caps - THC/CBN",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals GoodNight Hash Caps combine 100mg of THC and CBN in convenient capsule form for those seeking deep relaxation and restful sleep. This edible features hash-infused capsules designed to deliver calming, sedative effects that help you unwind after a long day. CBN, known for its sleep-promoting properties, works synergistically with THC to create a powerful nighttime formula. Each capsule offers precise dosing and discreet consumption without any taste or smell. Ideal for users looking for relief from restlessness and stress, GoodNight Hash Caps provide long-lasting effects that promote tranquility and sleepiness. Simply take as directed before bedtime and let Sweetgrass Botanicals guide you into a peaceful night's rest. Perfect for experienced cannabis users seeking a potent, reliable sleep aid in easy-to-swallow capsule format.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a9b8cb79-2d40-4058-9629-c365ea1b1db4",
+     "alt": "Sweetgrass Botanicals - GoodNight - Hash Caps - THC/CBN"
+    }
+   },
+   {
+    "position": 12,
+    "url": "/product/coast-coast-strawberry-lemonade-gummy-10-5-5-100-mg-20-pack-edible-100-milligrams",
+    "name": "Coast - Strawberry Lemonade - Gummy - 10:5:5",
+    "brand": "COAST",
+    "description": "Coast Strawberry Lemonade Gummies deliver a refreshing twist on cannabis edibles with a unique CBG:CBC:THC 10:5:5 cannabinoid ratio and 100mg total potency. This sativa-inspired gummy combines the sweet taste of ripe strawberries with zesty lemonade for a bright, fruity flavor experience. Perfect for those seeking an uplifting, energetic effect, these gummies offer a balanced approach to cannabis consumption. The carefully crafted formula provides a happy, focused experience ideal for daytime use or social occasions. Each gummy features a tart, citrus profile that makes dosing both enjoyable and convenient. Coast blends quality ingredients with precision dosing to create edibles that taste as good as they perform. Whether you're looking for creative inspiration or simply want to elevate your mood, these Strawberry Lemonade Gummies from Coast offer a delicious, reliable way to enjoy sativa effects in a portable, discreet format.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/66b70385-bdf1-4475-88d8-1ddfd4e49e79",
+     "alt": "Coast - Strawberry Lemonade - Gummy - 10:5:5"
+    }
+   },
+   {
+    "position": 13,
+    "url": "/product/kanha-kanha-belts-sour-berry-bliss-live-rosin-100-mg-10-pack-edible-100-milligrams",
+    "name": "Kanha Belts - Sour Berry Bliss - Live Rosin",
+    "brand": "KANHA",
+    "description": "Kanha Belts - Sour Berry Bliss - Live Rosin - 100 mg delivers a premium indica edible experience crafted with live rosin for maximum potency and flavor. These gummy belts capture the essence of ripe, tangy berries with a sour kick that tingles the taste buds. Each belt provides relaxing effects perfect for unwinding after a long day, easing tension, and promoting restful sleep. Made with cannabis-derived terpenes, this strain-specific formula preserves the plant's natural profile for an authentic entourage effect. The 100mg package offers convenient dosing flexibility for both new and experienced consumers. Kanha's commitment to quality ensures consistent, lab-tested results in every bite. Enjoy the sweet-tart berry flavor while embracing the calming, full-body relaxation that indica edibles are known for. Perfect for evening use or whenever you need to melt away stress and find your bliss.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/b3340253-34f8-4563-a55d-20bcf5428016",
+     "alt": "Kanha Belts - Sour Berry Bliss - Live Rosin"
+    }
+   },
+   {
+    "position": 14,
+    "url": "/product/kanha-kanha-belts-sour-melon-rush-live-rosin-100-mg-10-pack-edible-100-milligrams",
+    "name": "Kanha Belts | Sour Melon Rush | Live Rosin",
+    "brand": "KANHA",
+    "description": "Kanha Belts - Sour Melon Rush brings live rosin edibles to a whole new level with 100mg of hybrid cannabis goodness packed into delicious gummy belts. Known for premium quality and precise dosing, Kanha delivers a mouthwatering sour melon flavor that tantalizes your taste buds while providing balanced effects. These live rosin-infused gummies offer a full spectrum experience, combining the uplifting and relaxing qualities of a hybrid. Perfect for those seeking euphoric, happy, and relaxed vibes, each belt is crafted with cannabis-derived terpenes for an authentic, strain-specific experience. Whether you're looking to unwind after a long day or enhance social moments, Sour Melon Rush delivers consistent, fast-acting relief with bold fruity flavor. Kanha's commitment to quality ensures every bite is vegan-friendly and precisely dosed for your peace of mind.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5604fdf9-9d8c-42dd-916d-9156dcaede7b",
+     "alt": "Kanha Belts | Sour Melon Rush | Live Rosin"
+    }
+   },
+   {
+    "position": 15,
+    "url": "/product/ahh-moments-ahh-moments-atlantic-bliss-rso-chocolate-100-mg-edible-100-milligrams",
+    "name": "Ahh Moments | Atlantic Bliss RSO | Chocolate",
+    "brand": "AHH MOMENTS",
+    "description": "Ahh Moments Atlantic Bliss RSO Chocolate delivers 100mg of hybrid cannabis in a delicious chocolate edible that balances the best of both worlds. This RSO-infused treat combines rich, velvety chocolate flavor with the full-spectrum benefits of Rick Simpson Oil, offering a potent and well-rounded experience. As a hybrid, Atlantic Bliss provides balanced effects that may leave you feeling relaxed yet uplifted, making it ideal for unwinding after a long day or enhancing creative moments. The smooth chocolate coating masks any cannabis taste while delivering precise, reliable dosing. Whether you're seeking relief, relaxation, or simply a euphoric escape, this 100mg chocolate bar offers a convenient and discreet way to enjoy cannabis. Perfect for experienced users who appreciate the therapeutic potential of RSO combined with the indulgent pleasure of premium chocolate.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/22ff79a0-23fa-4ad6-8cb1-3a81bb3844e7",
+     "alt": "Ahh Moments | Atlantic Bliss RSO | Chocolate"
+    }
+   },
+   {
+    "position": 16,
+    "url": "/product/ahh-moments-ahh-moments-blueberry-vanilla-dream-rso-chocolate-100-mg-edible-100-milligrams",
+    "name": "Ahh Moments | Blueberry Vanilla Dream RSO | Chocolate",
+    "brand": "AHH MOMENTS",
+    "description": "Ahh Moments presents Blueberry Vanilla Dream RSO Chocolate, a delicious 100mg indica-infused edible crafted for ultimate relaxation. This decadent chocolate combines the rich sweetness of blueberry and smooth vanilla cream with full-spectrum RSO (Rick Simpson Oil) to deliver powerful, long-lasting effects. Each bite offers a luxurious flavor experience while promoting deep relaxation, relief, and restful sleep—perfect for unwinding after a long day or easing into a peaceful evening. The indica classification ensures calming, body-focused benefits that melt away tension and stress. Whether you're seeking relief from discomfort or simply craving a tranquil escape, this gourmet chocolate treat delivers both exceptional taste and therapeutic effects in one indulgent package.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/8ea0f8c2-9058-4747-b7f5-81ee5e4e683a",
+     "alt": "Ahh Moments | Blueberry Vanilla Dream RSO | Chocolate"
+    }
+   },
+   {
+    "position": 17,
+    "url": "/product/ahh-moments-ahh-moments-raspberry-rosin-revive-chocolate-100-mg-edible-100-milligrams",
+    "name": "Ahh Moments | Raspberry Rosin Revive | Chocolate",
+    "brand": "AHH MOMENTS",
+    "description": "Ahh Moments Raspberry Rosin Revive Chocolate delivers an uplifting sativa experience wrapped in delicious raspberry-infused chocolate. This 100mg edible combines premium rosin extract with rich, creamy chocolate for a treat that energizes your day while satisfying your sweet tooth. Each piece features vibrant raspberry flavor notes that complement the smooth chocolate base, creating a luxurious taste experience. Perfect for those seeking creative focus and an energetic lift, this sativa chocolate offers a delicious way to elevate your mood and spark inspiration. The rosin extraction preserves natural terpenes and cannabinoids for enhanced effects and authentic flavor. Whether you're tackling creative projects or enjoying social gatherings, Raspberry Rosin Revive provides the perfect blend of taste and effect to help you find your ahh moment.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f7f0d907-442e-45bf-92f6-88067d7f8622",
+     "alt": "Ahh Moments | Raspberry Rosin Revive | Chocolate"
+    }
+   },
+   {
+    "position": 18,
+    "url": "/product/coast-coast-goodnight-grape-gummy-5-25-100-mg-20-pack-edible-100-milligrams",
+    "name": "Coast - Goodnight Grape - Gummy - 5:25",
+    "brand": "COAST",
+    "description": "Coast Goodnight Grape Gummies deliver a deliciously relaxing experience perfect for winding down after a long day. This Indica edible features 100mg total THC in a 5:25 THC:CBN ratio, offering balanced relaxation with added wellness benefits. Each grape-flavored gummy provides soothing effects ideal for evening use, helping you ease tension and prepare for restful sleep. Coast crafts these gummies with quality ingredients and consistent dosing, making them a reliable choice for those seeking deep relaxation and tranquility. The sweet grape flavor masks any cannabis taste, while the Indica classification ensures calming, full-body effects that melt away stress. Perfect for experienced users looking to unwind, relax, and enjoy a peaceful night's rest.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/03771bd2-1034-4ddf-a2db-af733a6584f4",
+     "alt": "Coast - Goodnight Grape - Gummy - 5:25"
+    }
+   },
+   {
+    "position": 19,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-solventless-hash-caps-100-mg-20-pack-edible-100-milligrams",
+    "name": "Sweetgrass Botanicals - Solventless Hash Caps",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals Solventless Hash Caps deliver 100 mg of pure, clean cannabis in convenient capsule form. These edible capsules are crafted using solventless extraction methods, preserving the full spectrum of cannabinoids and terpenes for an authentic, potent experience. Each cap offers a discreet, precise way to enjoy cannabis without smoke or vapor—perfect for those seeking consistent effects and ease of use. The solventless hash process ensures no chemical residues, just natural plant compounds working in harmony. Ideal for relaxation, relief, or simply unwinding after a long day, these capsules provide a controlled, predictable experience with every dose. Whether you're new to edibles or a seasoned enthusiast, Sweetgrass Botanicals combines quality craftsmanship with solventless purity to elevate your wellness routine.",
+    "price": "$25",
+    "priceAmount": 25,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/9d6fc805-e891-4aa5-888c-68d2cb218f91",
+     "alt": "Sweetgrass Botanicals - Solventless Hash Caps"
+    }
+   },
+   {
+    "position": 20,
+    "url": "/product/kanha-kanha-belts-cherry-limeade-live-rosin-100-mg-10-pack-edible-100-milligrams",
+    "name": "Kanha Belts - Cherry Limeade - Live Rosin",
+    "brand": "KANHA",
+    "description": "Kanha Belts - Cherry Limeade - Live Rosin - 100mg delivers a premium sativa edible experience with bold, tangy flavor and uplifting effects. These gummy belts from Kanha are crafted with live rosin, offering cannabis-derived terpenes and full spectrum benefits for enhanced potency and authenticity. Each 100mg package features vibrant cherry and lime notes that create a refreshing, tart taste sensation. As a sativa-dominant edible, expect energetic, creative, and uplifting effects perfect for daytime enjoyment or social activities. Kanha's expertise ensures consistent dosing and fast-acting results in every chewy, flavorful belt.",
+    "price": "$20",
+    "priceAmount": 20,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/af67c416-7481-4da3-9880-a59c7b0172fa",
+     "alt": "Kanha Belts - Cherry Limeade - Live Rosin"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/shop",
+       "name": "Menu"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "Edibles"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals Infused Olive Oil brings versatile cannabis wellness to your kitchen with 500mg of premium extract in every bottle. This culinary edible offers a sophisticated way to incorporate cannabis into your daily routine, whether drizzled over salads, mixed into dressings, or used in low-heat cooking. The smooth, earthy flavor profile complements both savory and sweet dishes while delivering consistent, long-lasting effects. Perfect for experienced consumers seeking creative control over their dosing, this infused oil allows you to customize your experience with every meal. Simply start with a small amount and wait 60-90 minutes to feel the full effects. Store in a cool, dark place to maintain potency and freshness. Elevate your culinary creations while enjoying the therapeutic benefits of cannabis with this premium infused olive oil.",
+       "name": "Sweetgrass Botanicals - Infused Olive Oil - 500mg",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "70",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-infused-olive-oil-500mg-500-mg-edible-500-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/75ed45dd-de3c-4dac-8ce5-c92f97333f58"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals Infused Olive Oil brings premium cannabis convenience to your kitchen with 250mg of THC in every bottle. This versatile edible oil seamlessly integrates into your culinary routine, perfect for drizzling over salads, finishing pasta dishes, or elevating your favorite recipes with cannabis-infused flavor. The smooth, rich olive oil base delivers a naturally earthy and savory profile that complements both sweet and savory applications. Ideal for those seeking precise dosing control, this infused oil allows you to customize your experience by the drop. Whether you&apos;re an experienced chef or new to cannabis cooking, this product offers a discreet and delicious way to enjoy the benefits of THC while exploring creative culinary possibilities. Simply start with a small amount, wait to assess effects, and adjust accordingly for your perfect dose.",
+       "name": "Sweetgrass Botanicals - Infused Olive Oil - 250mg",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "30",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-infused-olive-oil-250mg-250-mg-edible-250-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/c666904a-1e10-4dc7-bf32-98ee63f05b05"
+      },
+      "position": "2"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TREEWORKS",
+       "description": "Treeworks Party Rosin Gummies deliver 100mg of premium cannabis in convenient, delicious edible form. Each gummy is crafted with high-quality rosin, preserving the natural compounds and full-spectrum benefits that cannabis enthusiasts appreciate. Perfect for social gatherings or unwinding after a long day, these gummies offer a reliable, enjoyable experience with consistent dosing. The Party edition brings vibrant flavor and smooth effects, making it easy to elevate any occasion. Whether you&apos;re seeking relaxation, euphoria, or simply a good time with friends, Treeworks combines quality extraction methods with tasty, approachable edibles. Ideal for both newcomers and experienced users looking for a flavorful, potent option.",
+       "name": "Treeworks - Party - Rosin Gummies - 100MG",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "30",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-party-rosin-gummies-100mg-100-mg-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/3b2b60d3-ab59-4639-bccf-4400212b4be5"
+      },
+      "position": "3"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TREEWORKS",
+       "description": "Treeworks Sleep &amp; Relief Live Hash Rosin Gummies deliver 700mg of premium cannabis in a delicious edible format designed to help you unwind and find comfort. Crafted with live hash rosin—one of the purest, most flavorful concentrates available—these gummies offer a full-spectrum experience that preserves the plant&apos;s natural terpenes and cannabinoids. Perfect for evening relaxation, each gummy promotes deep relief and restful sleep, making them ideal for those seeking calm after a long day. The rich, fruity flavor profile ensures a pleasant taste with every bite, while the potent effects work to soothe both body and mind. Whether you&apos;re managing discomfort or simply looking to enhance your nightly routine, Treeworks combines quality craftsmanship with thoughtful dosing to deliver consistent, reliable results. Experience the difference of solventless extraction and discover why live hash rosin gummies are the choice for discerning cannabis enthusiasts.",
+       "name": "Treeworks - Sleep &amp; Relief - Live Hash Rosin Gummies - 700MG",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "30",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-sleep-relief-live-hash-rosin-gummies-700mg-700-mg-10-pack-edible-700-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7a6b40ca-5204-4def-8160-df998f88e9ee"
+      },
+      "position": "4"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "TREEWORKS",
+       "description": "Treeworks Chill Rosin Gummies deliver 100mg of cannabis-infused relaxation in a delicious edible format. These rosin-based gummies offer a clean, solventless experience that showcases the natural essence of the plant. Each gummy is crafted to help you unwind and melt away stress, making them perfect for evening relaxation or whenever you need to take the edge off. The rosin extraction process preserves beneficial compounds for a full-bodied effect that edible enthusiasts appreciate. With a balanced formulation and smooth onset, Chill gummies provide a reliable way to enjoy cannabis without smoking or vaping. Simply pop a gummy and let the calming sensations wash over you. Treeworks combines quality ingredients with expert extraction techniques to create edibles that taste great and deliver consistent results every time.",
+       "name": "Treeworks - Chill - Rosin Gummies - 100MG",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "30",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-chill-rosin-gummies-100mg-100-mg-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/c1424a6f-b561-4a21-a619-518422cebe8c"
+      },
+      "position": "5"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "AHH MOMENTS",
+       "description": "Ahh Moments Caramel Crush Calm Rosin Chocolate delivers 100mg of pure relaxation in every indulgent bite. This indica-dominant edible combines rich, velvety chocolate with luxurious caramel notes, creating a decadent treat that melts stress away. Crafted with premium rosin extract, this chocolate offers a clean, full-spectrum experience that honors the plant&apos;s natural profile. Perfect for unwinding after a long day, Caramel Crush promotes calming, relaxed effects that soothe both body and mind. The smooth, sweet caramel flavor pairs beautifully with premium chocolate, making each dose a moment worth savoring. Whether you&apos;re seeking relief from tension or simply craving a peaceful evening, this 100mg chocolate edible transforms relaxation into an art form. Ahh Moments brings quality and consistency to every piece, ensuring your calm comes with incredible flavor.",
+       "name": "Ahh Moments | Caramel Crush Calm Rosin | Chocolate",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-caramel-crush-calm-rosin-chocolate-100-mg-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/d607993a-19f9-4fbe-8952-f32885425ca4"
+      },
+      "position": "6"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "AHH MOMENTS",
+       "description": "Indulge in Ahh Moments Strawberry Cream Party Rosin Chocolate, a 100mg sativa edible that blends decadent chocolate with luscious strawberry cream flavors. Crafted with premium rosin, this delicious treat delivers an uplifting, energetic experience perfect for social gatherings or creative pursuits. Each bite combines rich, creamy sweetness with the smooth essence of ripe strawberries, creating a party-ready confection that tastes as good as it feels. The sativa classification provides a euphoric, focused boost that keeps you happy and engaged. Whether you&apos;re celebrating with friends or treating yourself, this rosin-infused chocolate offers a flavorful escape with elevated effects. Experience the difference of quality rosin extraction in every creamy, strawberry-kissed square.",
+       "name": "Ahh Moments | Strawberry Cream Party Rosin | Chocolate",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-strawberry-cream-party-rosin-chocolate-100-mg-edible-100-milligrams"
+       },
+       "image": "https://images.prismic.io/sunny-dayz/Z5vMk5bqstJ9-Dz9_edibles-others.png?auto=format,compress"
+      },
+      "position": "7"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "COAST",
+       "description": "Coast Blissful Blueberry Gummies deliver a perfectly balanced 5:5:5 ratio of THC:CBN:CBC cannabinoids in a delicious 100mg edible. These indica-dominant gummies combine sweet blueberry flavor with calming effects designed to promote relaxation and ease. Each gummy offers a consistent dose, making it simple to find your ideal experience whether you&apos;re unwinding after a long day or seeking restful sleep. The natural blueberry taste creates a fruity, enjoyable consumption method without any harsh cannabis flavor. Coast crafts these gummies for those who appreciate quality edibles that deliver reliable results. Perfect for evening use, these treats may help you feel relaxed, happy, and ready to melt into your favorite spot. The convenient gummy format makes dosing straightforward and discreet, ideal for both new and experienced cannabis consumers seeking the therapeutic benefits of indica effects paired with delightful berry sweetness.",
+       "name": "Coast - Blissful Blueberry - Gummy - 5:5:5",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/coast-coast-blissful-blueberry-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5f344554-b9a9-47b9-be81-c2b3615732b7"
+      },
+      "position": "8"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "COAST",
+       "description": "Coast Tangerine Gummy delivers a perfectly balanced 5:5:5 ratio of THC:CBD:CBG, in every delicious bite. This edible combines the bright, citrusy sweetness of tangerine with a carefully crafted cannabinoid profile designed to offer versatile benefits throughout your day. The 5mg THC provides gentle euphoria and uplifted mood, while 5mg CBD supports relaxation and relief. The addition of 5mg CBG rounds out the experience, making this gummy ideal for those seeking a well-rounded effect. Coast crafts each gummy with quality ingredients and consistent dosing, ensuring a reliable experience every time. The tangerine flavor bursts with zesty citrus notes that make wellness enjoyable. Perfect for both newcomers exploring cannabinoid ratios and experienced users seeking balanced relief, this gummy offers a flavorful, approachable way to enjoy the entourage effect of multiple cannabinoids working in harmony.",
+       "name": "Coast - Tangerine - Gummy - 5:5:5",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/coast-coast-tangerine-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/271adb92-8229-448f-a8d0-4c716c46ef5a"
+      },
+      "position": "9"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "COAST",
+       "description": "Coast Raspberry Lime Gummy delivers a perfectly balanced 5:5:5 ratio of THC:CBD:THCV, in a 100mg package, offering a versatile cannabis experience in delicious gummy form. Each bite bursts with tangy raspberry and zesty lime flavors that make your wellness routine something to look forward to. This edible combines the uplifting effects of THC with the calming properties of CBD and the relaxing benefits of THCV, creating a well-rounded experience that can adapt to your needs throughout the day. Whether you&apos;re seeking creative focus, gentle relaxation, or restful sleep, this ratio-based gummy provides flexible support. The fruity, tart flavor profile makes dosing enjoyable while the precise cannabinoid blend ensures consistent results. Perfect for those who appreciate both flavor and function in their cannabis edibles.",
+       "name": "Coast - Raspberry Lime - Gummy - 5:5:5",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/coast-coast-raspberry-lime-gummy-5-5-5-100-mg-20-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/14708e26-5d93-48d6-9a60-eb5e2fbecaf2"
+      },
+      "position": "10"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals GoodNight Hash Caps combine 100mg of THC and CBN in convenient capsule form for those seeking deep relaxation and restful sleep. This edible features hash-infused capsules designed to deliver calming, sedative effects that help you unwind after a long day. CBN, known for its sleep-promoting properties, works synergistically with THC to create a powerful nighttime formula. Each capsule offers precise dosing and discreet consumption without any taste or smell. Ideal for users looking for relief from restlessness and stress, GoodNight Hash Caps provide long-lasting effects that promote tranquility and sleepiness. Simply take as directed before bedtime and let Sweetgrass Botanicals guide you into a peaceful night&apos;s rest. Perfect for experienced cannabis users seeking a potent, reliable sleep aid in easy-to-swallow capsule format.",
+       "name": "Sweetgrass Botanicals - GoodNight - Hash Caps - THC/CBN",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-goodnight-hash-caps-thc-cbn-100-mg-20-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a9b8cb79-2d40-4058-9629-c365ea1b1db4"
+      },
+      "position": "11"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "COAST",
+       "description": "Coast Strawberry Lemonade Gummies deliver a refreshing twist on cannabis edibles with a unique CBG:CBC:THC 10:5:5 cannabinoid ratio and 100mg total potency. This sativa-inspired gummy combines the sweet taste of ripe strawberries with zesty lemonade for a bright, fruity flavor experience. Perfect for those seeking an uplifting, energetic effect, these gummies offer a balanced approach to cannabis consumption. The carefully crafted formula provides a happy, focused experience ideal for daytime use or social occasions. Each gummy features a tart, citrus profile that makes dosing both enjoyable and convenient. Coast blends quality ingredients with precision dosing to create edibles that taste as good as they perform. Whether you&apos;re looking for creative inspiration or simply want to elevate your mood, these Strawberry Lemonade Gummies from Coast offer a delicious, reliable way to enjoy sativa effects in a portable, discreet format.",
+       "name": "Coast - Strawberry Lemonade - Gummy - 10:5:5",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/coast-coast-strawberry-lemonade-gummy-10-5-5-100-mg-20-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/66b70385-bdf1-4475-88d8-1ddfd4e49e79"
+      },
+      "position": "12"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "KANHA",
+       "description": "Kanha Belts - Sour Berry Bliss - Live Rosin - 100 mg delivers a premium indica edible experience crafted with live rosin for maximum potency and flavor. These gummy belts capture the essence of ripe, tangy berries with a sour kick that tingles the taste buds. Each belt provides relaxing effects perfect for unwinding after a long day, easing tension, and promoting restful sleep. Made with cannabis-derived terpenes, this strain-specific formula preserves the plant&apos;s natural profile for an authentic entourage effect. The 100mg package offers convenient dosing flexibility for both new and experienced consumers. Kanha&apos;s commitment to quality ensures consistent, lab-tested results in every bite. Enjoy the sweet-tart berry flavor while embracing the calming, full-body relaxation that indica edibles are known for. Perfect for evening use or whenever you need to melt away stress and find your bliss.",
+       "name": "Kanha Belts - Sour Berry Bliss - Live Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-sour-berry-bliss-live-rosin-100-mg-10-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/b3340253-34f8-4563-a55d-20bcf5428016"
+      },
+      "position": "13"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "KANHA",
+       "description": "Kanha Belts - Sour Melon Rush brings live rosin edibles to a whole new level with 100mg of hybrid cannabis goodness packed into delicious gummy belts. Known for premium quality and precise dosing, Kanha delivers a mouthwatering sour melon flavor that tantalizes your taste buds while providing balanced effects. These live rosin-infused gummies offer a full spectrum experience, combining the uplifting and relaxing qualities of a hybrid. Perfect for those seeking euphoric, happy, and relaxed vibes, each belt is crafted with cannabis-derived terpenes for an authentic, strain-specific experience. Whether you&apos;re looking to unwind after a long day or enhance social moments, Sour Melon Rush delivers consistent, fast-acting relief with bold fruity flavor. Kanha&apos;s commitment to quality ensures every bite is vegan-friendly and precisely dosed for your peace of mind.",
+       "name": "Kanha Belts | Sour Melon Rush | Live Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-sour-melon-rush-live-rosin-100-mg-10-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/5604fdf9-9d8c-42dd-916d-9156dcaede7b"
+      },
+      "position": "14"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "AHH MOMENTS",
+       "description": "Ahh Moments Atlantic Bliss RSO Chocolate delivers 100mg of hybrid cannabis in a delicious chocolate edible that balances the best of both worlds. This RSO-infused treat combines rich, velvety chocolate flavor with the full-spectrum benefits of Rick Simpson Oil, offering a potent and well-rounded experience. As a hybrid, Atlantic Bliss provides balanced effects that may leave you feeling relaxed yet uplifted, making it ideal for unwinding after a long day or enhancing creative moments. The smooth chocolate coating masks any cannabis taste while delivering precise, reliable dosing. Whether you&apos;re seeking relief, relaxation, or simply a euphoric escape, this 100mg chocolate bar offers a convenient and discreet way to enjoy cannabis. Perfect for experienced users who appreciate the therapeutic potential of RSO combined with the indulgent pleasure of premium chocolate.",
+       "name": "Ahh Moments | Atlantic Bliss RSO | Chocolate",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-atlantic-bliss-rso-chocolate-100-mg-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/22ff79a0-23fa-4ad6-8cb1-3a81bb3844e7"
+      },
+      "position": "15"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "AHH MOMENTS",
+       "description": "Ahh Moments presents Blueberry Vanilla Dream RSO Chocolate, a delicious 100mg indica-infused edible crafted for ultimate relaxation. This decadent chocolate combines the rich sweetness of blueberry and smooth vanilla cream with full-spectrum RSO (Rick Simpson Oil) to deliver powerful, long-lasting effects. Each bite offers a luxurious flavor experience while promoting deep relaxation, relief, and restful sleep—perfect for unwinding after a long day or easing into a peaceful evening. The indica classification ensures calming, body-focused benefits that melt away tension and stress. Whether you&apos;re seeking relief from discomfort or simply craving a tranquil escape, this gourmet chocolate treat delivers both exceptional taste and therapeutic effects in one indulgent package.",
+       "name": "Ahh Moments | Blueberry Vanilla Dream RSO | Chocolate",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-blueberry-vanilla-dream-rso-chocolate-100-mg-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/8ea0f8c2-9058-4747-b7f5-81ee5e4e683a"
+      },
+      "position": "16"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "AHH MOMENTS",
+       "description": "Ahh Moments Raspberry Rosin Revive Chocolate delivers an uplifting sativa experience wrapped in delicious raspberry-infused chocolate. This 100mg edible combines premium rosin extract with rich, creamy chocolate for a treat that energizes your day while satisfying your sweet tooth. Each piece features vibrant raspberry flavor notes that complement the smooth chocolate base, creating a luxurious taste experience. Perfect for those seeking creative focus and an energetic lift, this sativa chocolate offers a delicious way to elevate your mood and spark inspiration. The rosin extraction preserves natural terpenes and cannabinoids for enhanced effects and authentic flavor. Whether you&apos;re tackling creative projects or enjoying social gatherings, Raspberry Rosin Revive provides the perfect blend of taste and effect to help you find your ahh moment.",
+       "name": "Ahh Moments | Raspberry Rosin Revive | Chocolate",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/ahh-moments-ahh-moments-raspberry-rosin-revive-chocolate-100-mg-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/f7f0d907-442e-45bf-92f6-88067d7f8622"
+      },
+      "position": "17"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "COAST",
+       "description": "Coast Goodnight Grape Gummies deliver a deliciously relaxing experience perfect for winding down after a long day. This Indica edible features 100mg total THC in a 5:25 THC:CBN ratio, offering balanced relaxation with added wellness benefits. Each grape-flavored gummy provides soothing effects ideal for evening use, helping you ease tension and prepare for restful sleep. Coast crafts these gummies with quality ingredients and consistent dosing, making them a reliable choice for those seeking deep relaxation and tranquility. The sweet grape flavor masks any cannabis taste, while the Indica classification ensures calming, full-body effects that melt away stress. Perfect for experienced users looking to unwind, relax, and enjoy a peaceful night&apos;s rest.",
+       "name": "Coast - Goodnight Grape - Gummy - 5:25",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/coast-coast-goodnight-grape-gummy-5-25-100-mg-20-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/03771bd2-1034-4ddf-a2db-af733a6584f4"
+      },
+      "position": "18"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals Solventless Hash Caps deliver 100 mg of pure, clean cannabis in convenient capsule form. These edible capsules are crafted using solventless extraction methods, preserving the full spectrum of cannabinoids and terpenes for an authentic, potent experience. Each cap offers a discreet, precise way to enjoy cannabis without smoke or vapor—perfect for those seeking consistent effects and ease of use. The solventless hash process ensures no chemical residues, just natural plant compounds working in harmony. Ideal for relaxation, relief, or simply unwinding after a long day, these capsules provide a controlled, predictable experience with every dose. Whether you&apos;re new to edibles or a seasoned enthusiast, Sweetgrass Botanicals combines quality craftsmanship with solventless purity to elevate your wellness routine.",
+       "name": "Sweetgrass Botanicals - Solventless Hash Caps",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "25",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-solventless-hash-caps-100-mg-20-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/9d6fc805-e891-4aa5-888c-68d2cb218f91"
+      },
+      "position": "19"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "KANHA",
+       "description": "Kanha Belts - Cherry Limeade - Live Rosin - 100mg delivers a premium sativa edible experience with bold, tangy flavor and uplifting effects. These gummy belts from Kanha are crafted with live rosin, offering cannabis-derived terpenes and full spectrum benefits for enhanced potency and authenticity. Each 100mg package features vibrant cherry and lime notes that create a refreshing, tart taste sensation. As a sativa-dominant edible, expect energetic, creative, and uplifting effects perfect for daytime enjoyment or social activities. Kanha&apos;s expertise ensures consistent dosing and fast-acting results in every chewy, flavorful belt.",
+       "name": "Kanha Belts - Cherry Limeade - Live Rosin",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "20",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/kanha-kanha-belts-cherry-limeade-live-rosin-100-mg-10-pack-edible-100-milligrams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/af67c416-7481-4da3-9880-a59c7b0172fa"
+      },
+      "position": "20"
+     }
+    ]
+   }
+  ]
+ }
+}

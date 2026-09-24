@@ -1,0 +1,135 @@
+{
+  "schema": "site-reforge/fabrication-report@1",
+  "generated": "2026-09-24T01:41:11.650Z",
+  "rebuildDir": "C:\\Users\\Dell\\sunnydayz-reforge\\dist",
+  "filesScanned": 250,
+  "claimsChecked": 3554,
+  "sourceCorpusChars": 696496,
+  "declaredFactsChars": 220,
+  "counts": {
+    "major": 12
+  },
+  "verdict": "FABRICATION",
+  "findings": [
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Flower\n\n See all \n\n \n \n Indica \n \n\n \n MASS YIELD",
+      "file": "blog/the-best-strains-for-the-summer.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:price",
+      "title": "Unsourced a price",
+      "claim": "$7 / each",
+      "file": "brand/keef.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:price",
+      "title": "Unsourced a price",
+      "claim": "$7 / each",
+      "file": "collection/beverage/index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:price",
+      "title": "Unsourced a price",
+      "claim": "$7 / each",
+      "file": "collection/beverage/other.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Seller\n\n \n See All \n \n\n \n\n \n\n \n \n Hybrid \n \n\n \n T",
+      "file": "dispensary/sunny-dayz.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:price",
+      "title": "Unsourced a price",
+      "claim": "$7 / each",
+      "file": "index.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:price",
+      "title": "Unsourced a price",
+      "claim": "$7 / each",
+      "file": "product/keef-keef-orange-soda-5-mg-beverage-5-milligrams.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:price",
+      "title": "Unsourced a price",
+      "claim": "$7 / each",
+      "file": "product/keef-keef-original-cola-5-mg-beverage-5-milligrams.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:price",
+      "title": "Unsourced a price",
+      "claim": "$7 / each",
+      "file": "product/keef-keef-root-beer-soda-5-mg-beverage-5-milligrams.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:price",
+      "title": "Unsourced a price",
+      "claim": "$7 / each",
+      "file": "strain/hybrid.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "The Best Fusion of Effects and Flavors\n\n Shop our selectio",
+      "file": "strain/hybrid.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    },
+    {
+      "severity": "major",
+      "code": "fabrication:superlative",
+      "title": "Unsourced a superlative claim",
+      "claim": "Best Flower in Glendale\n\n \n See All \n \n\n \n\n \n\n \n \n Ind",
+      "file": "weed-delivery/dispensary-in-glendale.html",
+      "line": 0,
+      "detail": "This text is on the rebuild but traces to neither the live site capture nor facts/client-facts.json.",
+      "remedy": "Restore the source wording, delete the claim, or record it in facts/client-facts.json with the client as the source."
+    }
+  ]
+}

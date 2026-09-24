@@ -1,0 +1,208 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-dosido-3-5g-flower-3-5-g-flower-3-5-grams",
+ "slug": "product-tower-three-tower-three-dosido-3-5g-flower-3-5-g-flower-3-5-grams",
+ "type": "product",
+ "title": "TOWER THREE - Tower Three - Dosido - 3.5G Flower",
+ "seoTitle": "TOWER THREE - Tower Three - Dosido - 3.5G Flower",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Flower",
+    "href": "/collection/flower"
+   },
+   {
+    "label": "Tower Three - Dosido - 3.5G Flower",
+    "href": null
+   }
+  ],
+  "h1": "Tower Three - Dosido - 3.5G Flower",
+  "name": "Tower Three - Dosido - 3.5G Flower",
+  "brand": {
+   "label": "TOWER THREE",
+   "href": "/brand/tower-three"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Indica",
+   "key": "indica",
+   "ariaLabel": "Flower type: Indica"
+  },
+  "category": {
+   "label": "Flower",
+   "href": "/collection/flower"
+  },
+  "subcategories": [
+   {
+    "label": "PRE-PACK",
+    "href": "/collection/flower/pre-pack"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0732cd8b-701c-4dce-9b40-163026f3cdb5?w=3840&q=100",
+   "alt": "Tower Three - Dosido - 3.5G Flower"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/0732cd8b-701c-4dce-9b40-163026f3cdb5?w=3840&q=100",
+    "alt": "Tower Three - Dosido - 3.5G Flower"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": "Warning",
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": "Cannabinoids"
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "24.2%",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Tower Three brings you Dosido, a premium cannabis flower known for its exceptional quality and distinctive characteristics. This 3.5g jar delivers a potent experience that cannabis enthusiasts appreciate. Dosido, a beloved strain crossing Girl Scout Cookies with Face Off OG, offers a complex flavor profile featuring sweet, earthy notes with hints of pine and spice. The aroma is equally captivating, blending pungent diesel undertones with a subtle sweetness that lingers. Users often report feeling relaxed and euphoric, making it an excellent choice for unwinding after a long day or easing into a peaceful evening. The dense, frosty buds showcase the careful cultivation behind this flower, promising both visual appeal and satisfying effects. Whether you're seeking relief or simply exploring quality cannabis, Tower Three's Dosido delivers a memorable experience that showcases why this strain has earned its reputation in the cannabis community.",
+  "warnings": [
+   {
+    "title": "Proposition 65 Warning for California Consumers",
+    "collapsed": true,
+    "toggleIcon": "angle-down",
+    "toggleAriaLabel": "Expand content",
+    "label": "WARNING:",
+    "lines": [
+     "This product can expose you to chemicals including β-myrcene and cannabis smoke, which are known to the State of California to cause cancer, and chemicals including cannabis smoke and 9-tetrahydrocannabinol, which are known to the State of California to cause birth defects or other reproductive harm."
+    ],
+    "moreInfo": {
+     "text": "For more information go to",
+     "label": "www.P65Warnings.ca.gov",
+     "href": "https://www.P65Warnings.ca.gov"
+    },
+    "links": []
+   }
+  ],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "3.5g",
+    "price": "$45",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$45",
+   "original": null,
+   "ariaLabel": "Product price: $45"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Tower Three - Dosido - 3.5G Flower to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Tower Three - Dosido - 3.5G Flower to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "TOWER THREE",
+    "href": "/brand/tower-three"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Indica",
+    "href": "/strain/Indica"
+   },
+   {
+    "label": "THC",
+    "value": "24.2%"
+   },
+   {
+    "label": "Package Info",
+    "value": "Tower Three Dosido 3 5 G Flower 3 5 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "3.5g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [
+   {
+    "group": "THC",
+    "items": [
+     {
+      "name": "THCA",
+      "value": "25.1%"
+     },
+     {
+      "name": "THC",
+      "value": "24.2%"
+     }
+    ]
+   },
+   {
+    "group": "CBD",
+    "items": [
+     {
+      "name": "CBG",
+      "value": "0.2%"
+     }
+    ]
+   }
+  ],
+  "jsonld": null
+ }
+}

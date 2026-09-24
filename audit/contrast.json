@@ -1,0 +1,365 @@
+{
+ "schema": "sunnydayz/contrast@1",
+ "generated": "2026-09-23T08:01:58.947Z",
+ "method": "Chrome-resolved sRGB via canvas; WCAG 2.x relative luminance; gradients judged at their worst stop.",
+ "pairs": [
+  {
+   "use": "body text",
+   "fg": "--ink",
+   "fgHex": "#231f20",
+   "bg": "--clay",
+   "bgHex": "#eee6d8",
+   "ratio": 13.15,
+   "stops": [
+    {
+     "bg": "--clay",
+     "bgHex": "#eee6d8",
+     "ratio": 13.15
+    }
+   ],
+   "large": false,
+   "need": 4.5,
+   "pass": true,
+   "rule": "base.css body"
+  },
+  {
+   "use": "cards: body text",
+   "fg": "--ink",
+   "fgHex": "#231f20",
+   "bg": "--clay",
+   "bgHex": "#eee6d8",
+   "ratio": 13.15,
+   "stops": [
+    {
+     "bg": "--clay-hi",
+     "bgHex": "#f7f1e6",
+     "ratio": 14.5
+    },
+    {
+     "bg": "--clay",
+     "bgHex": "#eee6d8",
+     "ratio": 13.15
+    }
+   ],
+   "large": false,
+   "need": 4.5,
+   "pass": true,
+   "rule": "components.css .pcard (gradient)"
+  },
+  {
+   "use": "secondary text: crumbs, footer links",
+   "fg": "--ink-2",
+   "fgHex": "#55575c",
+   "bg": "--clay",
+   "bgHex": "#eee6d8",
+   "ratio": 5.84,
+   "stops": [
+    {
+     "bg": "--clay",
+     "bgHex": "#eee6d8",
+     "ratio": 5.84
+    },
+    {
+     "bg": "--clay-hi",
+     "bgHex": "#f7f1e6",
+     "ratio": 6.43
+    }
+   ],
+   "large": false,
+   "need": 4.5,
+   "pass": true,
+   "rule": ".crumbs a, .footer__col a"
+  },
+  {
+   "use": "muted text: footer base, toolbar labels",
+   "fg": "--ink-3",
+   "fgHex": "#585a5f",
+   "bg": "--clay",
+   "bgHex": "#eee6d8",
+   "ratio": 5.57,
+   "stops": [
+    {
+     "bg": "--clay",
+     "bgHex": "#eee6d8",
+     "ratio": 5.57
+    },
+    {
+     "bg": "--clay-hi",
+     "bgHex": "#f7f1e6",
+     "ratio": 6.14
+    }
+   ],
+   "large": false,
+   "need": 4.5,
+   "pass": true,
+   "rule": ".muted, .footer__base, .toolbar label"
+  },
+  {
+   "use": "eyebrows, card brand, footer headings",
+   "fg": "--pine",
+   "fgHex": "#074b44",
+   "bg": "--clay",
+   "bgHex": "#eee6d8",
+   "ratio": 8.07,
+   "stops": [
+    {
+     "bg": "--clay",
+     "bgHex": "#eee6d8",
+     "ratio": 8.07
+    },
+    {
+     "bg": "--clay-hi",
+     "bgHex": "#f7f1e6",
+     "ratio": 8.9
+    }
+   ],
+   "large": false,
+   "need": 4.5,
+   "pass": true,
+   "rule": ".eyebrow, .pcard__brand, .footer__col h2"
+  },
+  {
+   "use": "brand chips",
+   "fg": "--pine-ink",
+   "fgHex": "#11463f",
+   "bg": "--clay",
+   "bgHex": "#eee6d8",
+   "ratio": 8.59,
+   "stops": [
+    {
+     "bg": "--clay",
+     "bgHex": "#eee6d8",
+     "ratio": 8.59
+    }
+   ],
+   "large": false,
+   "need": 4.5,
+   "pass": true,
+   "rule": "neumorph.css .chip--brand"
+  },
+  {
+   "use": "announcement bar",
+   "fg": "--sun-pale",
+   "fgHex": "#fbed6b",
+   "bg": "--ink",
+   "bgHex": "#231f20",
+   "ratio": 13.53,
+   "stops": [
+    {
+     "bg": "--ink",
+     "bgHex": "#231f20",
+     "ratio": 13.53
+    }
+   ],
+   "large": false,
+   "need": 4.5,
+   "pass": true,
+   "rule": "components.css .announce"
+  },
+  {
+   "use": "tagline band (large display type)",
+   "fg": "--sun-pale",
+   "fgHex": "#fbed6b",
+   "bg": "--pine",
+   "bgHex": "#074b44",
+   "ratio": 8.3,
+   "stops": [
+    {
+     "bg": "--pine",
+     "bgHex": "#074b44",
+     "ratio": 8.3
+    }
+   ],
+   "large": true,
+   "need": 3,
+   "pass": true,
+   "rule": "components.css .tagline-band"
+  },
+  {
+   "use": "sun buttons",
+   "fg": "--ink",
+   "fgHex": "#231f20",
+   "bg": "--sun-2",
+   "bgHex": "#fdc90d",
+   "ratio": 10.51,
+   "stops": [
+    {
+     "bg": "--sun-pale",
+     "bgHex": "#fbed6b",
+     "ratio": 13.53
+    },
+    {
+     "bg": "--sun",
+     "bgHex": "#f9e200",
+     "ratio": 12.35
+    },
+    {
+     "bg": "--sun-2",
+     "bgHex": "#fdc90d",
+     "ratio": 10.51
+    }
+   ],
+   "large": false,
+   "need": 4.5,
+   "pass": true,
+   "rule": "neumorph.css .btn--sun (radial gradient)"
+  },
+  {
+   "use": "pine buttons, pickup badge",
+   "fg": "--paper",
+   "fgHex": "#ffffff",
+   "bg": "--pine-2",
+   "bgHex": "#457069",
+   "ratio": 5.56,
+   "stops": [
+    {
+     "bg": "--pine-2",
+     "bgHex": "#457069",
+     "ratio": 5.56
+    },
+    {
+     "bg": "--pine",
+     "bgHex": "#074b44",
+     "ratio": 10.01
+    }
+   ],
+   "large": false,
+   "need": 4.5,
+   "pass": true,
+   "rule": "neumorph.css .btn--pine, .store-pill__badge"
+  },
+  {
+   "use": "store status CLOSED badge",
+   "fg": "--paper",
+   "fgHex": "#ffffff",
+   "bg": "--ember-ink",
+   "bgHex": "#85512c",
+   "ratio": 6.54,
+   "stops": [
+    {
+     "bg": "--ember-ink",
+     "bgHex": "#85512c",
+     "ratio": 6.54
+    }
+   ],
+   "large": false,
+   "need": 4.5,
+   "pass": true,
+   "rule": "components.css .hours__status b"
+  },
+  {
+   "use": "strain badge: indica",
+   "fg": "--strain-indica",
+   "fgHex": "#291b5f",
+   "bg": "mix:--strain-indica:10:--clay-hi",
+   "bgHex": "#dfdad9",
+   "ratio": 10.71,
+   "stops": [
+    {
+     "bg": "mix:--strain-indica:10:--clay-hi",
+     "bgHex": "#dfdad9",
+     "ratio": 10.71
+    }
+   ],
+   "large": false,
+   "need": 4.5,
+   "pass": true,
+   "rule": "neumorph.css .strain"
+  },
+  {
+   "use": "strain badge: sativa",
+   "fg": "--strain-sativa",
+   "fgHex": "#85512c",
+   "bg": "mix:--strain-sativa:10:--clay-hi",
+   "bgHex": "#ece0d2",
+   "ratio": 5.03,
+   "stops": [
+    {
+     "bg": "mix:--strain-sativa:10:--clay-hi",
+     "bgHex": "#ece0d2",
+     "ratio": 5.03
+    }
+   ],
+   "large": false,
+   "need": 4.5,
+   "pass": true,
+   "rule": "neumorph.css .strain"
+  },
+  {
+   "use": "strain badge: hybrid",
+   "fg": "--strain-hybrid",
+   "fgHex": "#074b44",
+   "bg": "mix:--strain-hybrid:10:--clay-hi",
+   "bgHex": "#dfdfd4",
+   "ratio": 7.45,
+   "stops": [
+    {
+     "bg": "mix:--strain-hybrid:10:--clay-hi",
+     "bgHex": "#dfdfd4",
+     "ratio": 7.45
+    }
+   ],
+   "large": false,
+   "need": 4.5,
+   "pass": true,
+   "rule": "neumorph.css .strain"
+  },
+  {
+   "use": "strain badge: cbd",
+   "fg": "--strain-cbd",
+   "fgHex": "#365207",
+   "bg": "mix:--strain-cbd:10:--clay-hi",
+   "bgHex": "#e2e0cf",
+   "ratio": 6.67,
+   "stops": [
+    {
+     "bg": "mix:--strain-cbd:10:--clay-hi",
+     "bgHex": "#e2e0cf",
+     "ratio": 6.67
+    }
+   ],
+   "large": false,
+   "need": 4.5,
+   "pass": true,
+   "rule": "neumorph.css .strain"
+  },
+  {
+   "use": "warning chip",
+   "fg": "--ember-ink",
+   "fgHex": "#85512c",
+   "bg": "mix:--ember:14:--clay-hi",
+   "bgHex": "#fae4ce",
+   "ratio": 5.31,
+   "stops": [
+    {
+     "bg": "mix:--ember:14:--clay-hi",
+     "bgHex": "#fae4ce",
+     "ratio": 5.31
+    }
+   ],
+   "large": false,
+   "need": 4.5,
+   "pass": true,
+   "rule": "components.css .chip--warning"
+  },
+  {
+   "use": "stock label on a product photo (glass over white, worst case)",
+   "fg": "--paper",
+   "fgHex": "#ffffff",
+   "bg": "over:--ink-glass:white",
+   "bgHex": "#605d5e",
+   "ratio": 6.51,
+   "stops": [
+    {
+     "bg": "over:--ink-glass:white",
+     "bgHex": "#605d5e",
+     "ratio": 6.51
+    }
+   ],
+   "large": false,
+   "need": 4.5,
+   "pass": true,
+   "rule": "components.css .pcard__stock"
+  }
+ ]
+}

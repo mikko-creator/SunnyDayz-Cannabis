@@ -1,0 +1,253 @@
+{
+ "schema": "sunnydayz/derived-descriptions@1",
+ "note": "Meta descriptions for pages the source served without one. first-paragraph = the page's own copy, verbatim, cut at a word boundary; facts-line = captured H1(s) + the store name/address from src/content/chrome.json. No other words.",
+ "count": 41,
+ "items": [
+  {
+   "page": "/about-us",
+   "method": "first-paragraph",
+   "description": "SunnyDayz is an independently owned, vertically integrated craft cannabis company built around a simple belief: cannabis should be about more than THC…",
+   "from": "SunnyDayz is an independently owned, vertically integrated craft cannabis company built around a simple belief: cannabis should be about more than THC percentage. We focus on quality, flavor, terpenes, and the overall experience—from how our cannabis is cultivated to how customers discover and purchase it. Our flower is grown in small batches, in organic living soil, and is hand-watered and hand-trimmed with an emphasis on bringing out the unique characteristics of every cultivar."
+  },
+  {
+   "page": "/blog/camino-gummies-ranked-by-customer-reviews",
+   "method": "first-paragraph",
+   "description": "When it comes to cannabis edibles, Camino Gummies have established themselves as a prominent choice among consumers. Renowned for their delightful…",
+   "from": "When it comes to cannabis edibles, Camino Gummies have established themselves as a prominent choice among consumers. Renowned for their delightful flavors and consistent effects, Camino Gummies have garnered significant attention and praise in the market. Today, we’ll explore how these gummies are ranked based on customer reviews, shedding light on why they stand out and what users love about them."
+  },
+  {
+   "page": "/blog/cannabinoids-and-the-body--all-new-products",
+   "method": "first-paragraph",
+   "description": "Cannabinoids, the active compounds found in cannabis, have garnered significant attention for their potential therapeutic benefits and impact on the…",
+   "from": "Cannabinoids, the active compounds found in cannabis, have garnered significant attention for their potential therapeutic benefits and impact on the body. As research continues to unfold, understanding how cannabinoids interact with our physiological systems is crucial for harnessing their full potential. In this post, we'll explore the effects of cannabinoids on the human body and introduce our exciting range of new products designed to enhance your wellness journey."
+  },
+  {
+   "page": "/blog/purple-wookie-strain",
+   "method": "first-paragraph",
+   "description": "With a distinct, sweet berry flavor and a reputation as a potent strain for relaxation, Purple Wookie is a widely popular Indica-dominant hybrid. At our…",
+   "from": "With a distinct, sweet berry flavor and a reputation as a potent strain for relaxation, Purple Wookie is a widely popular Indica-dominant hybrid. At our Long Beach dispensary, it’s a go-to favorite for consumers searching for a deeply serene sense of euphoria. Named for its easily recognizable dark purple hue, Purple Wookie is an exceptional hybrid well worth a second look."
+  },
+  {
+   "page": "/blog/quiz-toasties-classic-and-toasties-bold--which-toa",
+   "method": "first-paragraph",
+   "description": "Are you a fan of delicious, toasted sandwiches that pack a punch? Whether you’re a devoted toastie aficionado or just getting started, the choice between…",
+   "from": "Are you a fan of delicious, toasted sandwiches that pack a punch? Whether you’re a devoted toastie aficionado or just getting started, the choice between Toasties Classic and Toasties Bold can make all the difference. But how do you know which style best suits your taste buds? Our quiz is designed to help you discover whether you’re more aligned with the timeless charm of Toasties Classic or the adventurous kick of Toasties Bold."
+  },
+  {
+   "page": "/blog/the-best-strains-for-the-summer",
+   "method": "first-paragraph",
+   "description": "Summer is the perfect time to explore and enjoy cannabis, with longer days, warm nights, and a more relaxed lifestyle. Whether you're planning a beach…",
+   "from": "Summer is the perfect time to explore and enjoy cannabis, with longer days, warm nights, and a more relaxed lifestyle. Whether you're planning a beach day, a barbecue with friends, or simply lounging in the sun, choosing the right strain can enhance your summer experience. Here are some of the best cannabis strains to enjoy during the summer season."
+  },
+  {
+   "page": "/blog/whats-the-best-vape-pen-for-you",
+   "method": "first-paragraph",
+   "description": "Choosing the best vape pen can be a daunting task with the plethora of options available on the market today. Whether you're a seasoned vaper or new to…",
+   "from": "Choosing the best vape pen can be a daunting task with the plethora of options available on the market today. Whether you're a seasoned vaper or new to the scene, finding the right vape pen involves considering several factors that align with your preferences and needs. Here's a comprehensive guide to help you make an informed decision."
+  },
+  {
+   "page": "/collection/beverage/other",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Other (Drinks) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/cartridge/510-thread",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "510 Thread (Vapes) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/cartridge/all-in-one",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "All-in-one (Vapes) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/cbd/topical",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Topical (CBD) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/edible/baked-good",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Baked Good (Edibles) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/edible/chew",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Chew (Edibles) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/edible/chocolate",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Chocolate (Edibles) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/edible/gummy",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Gummy (Edibles) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/edible/oil",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Oil (Edibles) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/edible/other",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Other (Edibles) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/extract/badder",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Badder (Concentrates) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/extract/kief",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Kief (Concentrates) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/extract/live-rosin",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Live Rosin (Concentrates) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/flower/pre-pack",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Pre-pack (Flower) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/merch/battery",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Battery (Accessories) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/merch/grinder",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Grinder (Accessories) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/merch/hat",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Hat (Accessories) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/merch/lighter",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Lighter (Accessories) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/merch/other",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Other (Accessories) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/merch/pipe",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Pipe (Accessories) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/merch/rolling-papers",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Rolling Papers (Accessories) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/merch/t-shirt",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "T Shirt (Accessories) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/preroll/flower",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Flower (Pre-rolls) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/tincture/other",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Other (Tinctures) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/topical/cream",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Cream (Topicals) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/topical/lubricant",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Lubricant (Topicals) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/topical/oil",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Oil (Topicals) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/collection/topical/other",
+   "method": "facts-line:h1+parent-h1+chrome.store",
+   "description": "Other (Topicals) at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/contact-us",
+   "method": "first-paragraph",
+   "description": "At our company, we adhere to the highest standards to ensure you receive top-quality products and services. Our commitment to excellence guarantees your…",
+   "from": "At our company, we adhere to the highest standards to ensure you receive top-quality products and services. Our commitment to excellence guarantees your complete satisfaction with every purchase. Experience the difference of premium quality and exceptional service with us."
+  },
+  {
+   "page": "/daily-deals",
+   "method": "facts-line:source-title+chrome.store",
+   "description": "Daily Deals at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/dispensary/sunny-dayz",
+   "method": "first-paragraph",
+   "description": "At SunnyDayz, we believe exceptional cannabis starts with exceptional cultivation. Our philosophy is simple: quality over quantity. We focus on…",
+   "from": "At SunnyDayz, we believe exceptional cannabis starts with exceptional cultivation. Our philosophy is simple: quality over quantity. We focus on small-batch production, terpene-rich genetics, and meticulous craftsmanship to produce flower that delivers the full expression of each cultivar—not just high THC numbers. Every plant is carefully grown using proven cultivation techniques, hand-watered, hand-trimmed, and never rushed, ensuring each harvest meets the standards we'd expect ourselves."
+  },
+  {
+   "page": "/our-strains",
+   "method": "facts-line:h1+chrome.store+banner-tagline",
+   "description": "Our Strains at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373. SunnyDayz Cultivated.",
+   "from": null
+  },
+  {
+   "page": "/product-group/our-products",
+   "method": "facts-line:h1+chrome.store",
+   "description": "Our Products at Sunny Dayz, 105 Greenfield Rd, South Deerfield, MA 01373.",
+   "from": null
+  },
+  {
+   "page": "/weed-delivery/dispensary-in-glendale",
+   "method": "first-paragraph",
+   "description": "To ensure the quality and safety of cannabis products purchased online, buy only from licensed and reputable dispensaries that provide third-party lab…",
+   "from": "To ensure the quality and safety of cannabis products purchased online, buy only from licensed and reputable dispensaries that provide third-party lab test results verifying the product's potency, purity, and the absence of contaminants. Check for clear labeling of ingredients and dosages, and read customer reviews to gauge the dispensary's reliability. Additionally, be aware of your local regulations regarding online cannabis purchases to ensure compliance with legal requirements."
+  }
+ ]
+}

@@ -1,0 +1,133 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/bubby-s-bubby-s-pumpkin-bites-baked-goods-5mg-5-mg-edible-5-milligrams",
+ "slug": "product-bubby-s-bubby-s-pumpkin-bites-baked-goods-5mg-5-mg-edible-5-milligrams",
+ "type": "product",
+ "title": "BUBBY'S - Bubby's - Pumpkin Bites Baked Goods - 5mg",
+ "seoTitle": "BUBBY'S - Bubby's - Pumpkin Bites Baked Goods - 5mg",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Bubby's - Pumpkin Bites Baked Goods - 5mg",
+    "href": null
+   }
+  ],
+  "h1": "Bubby's - Pumpkin Bites Baked Goods - 5mg",
+  "name": "Bubby's - Pumpkin Bites Baked Goods - 5mg",
+  "brand": {
+   "label": "BUBBY'S",
+   "href": "/brand/bubbys"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "BAKED GOOD",
+    "href": "/collection/edible/baked-good"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7f25a50e-f9ae-43b5-879d-86b141af3772?w=3840&q=100",
+   "alt": "Bubby's - Pumpkin Bites Baked Goods - 5mg"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/7f25a50e-f9ae-43b5-879d-86b141af3772?w=3840&q=100",
+    "alt": "Bubby's - Pumpkin Bites Baked Goods - 5mg"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "5MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Bubby's Pumpkin Bites Baked Goods bring seasonal sweetness to your cannabis experience with perfectly portioned 5mg THC edibles. This delicious baked good combines the warm, comforting flavors of pumpkin spice with the convenience of consistent dosing, making it ideal for both new and experienced consumers seeking a low-dose option. Each bite delivers a sweet, cinnamon-kissed flavor profile with subtle nutty undertones that capture the essence of fall in every morsel. Perfect for those looking to feel relaxed and happy without overwhelming effects, these pumpkin-infused treats offer a discreet and enjoyable way to incorporate cannabis into your routine. Whether you're unwinding after a long day or simply craving a flavorful edible experience, Bubby's crafts these bites with quality ingredients for a satisfying, predictable effect every time.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "BUBBYS",
+    "href": "/brand/bubbys"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "5MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Bubbys Pumpkin Bites Baked Goods 5 Mg 5 Mg"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

@@ -1,0 +1,211 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/breathe-free-breathe-free-pineapple-cake-1g-pre-roll-1-g-preroll-1-grams",
+ "slug": "product-breathe-free-breathe-free-pineapple-cake-1g-pre-roll-1-g-preroll-1-grams",
+ "type": "product",
+ "title": "BREATHE FREE - Breathe Free - Pineapple Cake - 1G Pre-roll",
+ "seoTitle": "BREATHE FREE - Breathe Free - Pineapple Cake - 1G Pre-roll",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Preroll",
+    "href": "/collection/preroll"
+   },
+   {
+    "label": "Breathe Free - Pineapple Cake - 1G Pre-roll",
+    "href": null
+   }
+  ],
+  "h1": "Breathe Free - Pineapple Cake - 1G Pre-roll",
+  "name": "Breathe Free - Pineapple Cake - 1G Pre-roll",
+  "brand": {
+   "label": "BREATHE FREE",
+   "href": "/brand/breathe-free"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Preroll",
+   "href": "/collection/preroll"
+  },
+  "subcategories": [
+   {
+    "label": "FLOWER",
+    "href": "/collection/preroll/flower"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/cc517cdf-9293-44df-92c3-dd127b71dead?w=3840&q=100",
+   "alt": "Breathe Free - Pineapple Cake - 1G Pre-roll"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/cc517cdf-9293-44df-92c3-dd127b71dead?w=3840&q=100",
+    "alt": "Breathe Free - Pineapple Cake - 1G Pre-roll"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": "Warning",
+   "about": "About this product",
+   "terpenes": "Terpenes",
+   "cannabinoids": "Cannabinoids"
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "20.521%",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Breath Free brings you Pineapple Cake, a premium 1g pre-roll that's ready to enjoy straight from the pack. This expertly crafted preroll showcases tropical pineapple flavors with sweet, cake-like undertones that make every session a treat. The Pineapple Cake strain delivers a delightful fusion of fruity and creamy notes, creating a smooth and flavorful smoking experience. Each pre-roll is meticulously packed with quality flower, ensuring an even burn and consistent session from start to finish. Perfect for those seeking convenience without compromising on taste, this 1g preroll fits seamlessly into any cannabis routine. Whether you're unwinding after a long day or sharing with friends, Pineapple Cake offers an approachable, flavor-forward option that highlights the best of what Breath Free has to offer. Enjoy the tropical escape in every puff.",
+  "warnings": [
+   {
+    "title": "Proposition 65 Warning for California Consumers",
+    "collapsed": true,
+    "toggleIcon": "angle-down",
+    "toggleAriaLabel": "Expand content",
+    "label": "WARNING:",
+    "lines": [
+     "This product can expose you to chemicals including β-myrcene and cannabis smoke, which are known to the State of California to cause cancer, and chemicals including cannabis smoke and 9-tetrahydrocannabinol, which are known to the State of California to cause birth defects or other reproductive harm."
+    ],
+    "moreInfo": {
+     "text": "For more information go to",
+     "label": "www.P65Warnings.ca.gov",
+     "href": "https://www.P65Warnings.ca.gov"
+    },
+    "links": []
+   }
+  ],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "BREATHE FREE",
+    "href": "/brand/breathe-free"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "20.521%"
+   },
+   {
+    "label": "Package Info",
+    "value": "Breathe Free Pineapple Cake 1 G Pre Roll 1 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "1g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [
+   {
+    "name": "Limonene",
+    "value": "0.343 %",
+    "aroma": "Citrus",
+    "effects": "Elevated mood, anti-anxiety"
+   },
+   {
+    "name": "Beta Caryophyllene",
+    "value": "0.308 %",
+    "aroma": "Peppery",
+    "effects": "Anti-inflammatory, analgesic, calming"
+   },
+   {
+    "name": "Beta Myrcene",
+    "value": "0.297 %",
+    "aroma": "Herbal",
+    "effects": "Relaxing, Sedation, Heaviness, Couch Lock"
+   },
+   {
+    "name": "Alpha Humulene",
+    "value": "0.094 %",
+    "aroma": "Hoppy",
+    "effects": "Pain relief, appetite suppression"
+   },
+   {
+    "name": "Beta Pinene",
+    "value": "0.059 %",
+    "aroma": "Pine",
+    "effects": "Focus, Relief, Alert, Balanced"
+   },
+   {
+    "name": "Alpha Bisabolol",
+    "value": "0.05 %",
+    "aroma": "Floral",
+    "effects": "Soothing, Anti-inflammatory"
+   },
+   {
+    "name": "Alpha Pinene",
+    "value": "0.031 %",
+    "aroma": "Pine",
+    "effects": "Focus, Relief, Alert, Balanced"
+   }
+  ],
+  "cannabinoids": [
+   {
+    "group": "THC",
+    "items": [
+     {
+      "name": "THCA",
+      "value": "23.065%"
+     },
+     {
+      "name": "THC",
+      "value": "20.521%"
+     }
+    ]
+   }
+  ],
+  "jsonld": null
+ }
+}

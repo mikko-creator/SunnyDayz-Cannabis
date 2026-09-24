@@ -1,0 +1,359 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/brands",
+ "slug": "brands",
+ "type": "brands",
+ "title": "All brands",
+ "seoTitle": "All brands",
+ "model": {
+  "kind": "brands",
+  "path": "/brands",
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Brands",
+    "href": null
+   }
+  ],
+  "h1": "Our Curated Brands",
+  "search": {
+   "input": {
+    "name": "brands-search",
+    "type": "search",
+    "placeholder": "Search brands",
+    "ariaLabel": "Search brands",
+    "value": ""
+   },
+   "submit": {
+    "label": "Search",
+    "ariaLabel": "More locations"
+   }
+  },
+  "letters": [],
+  "brands": [
+   {
+    "name": "AHH MOMENTS",
+    "href": "/brand/ahh-moments",
+    "slug": "ahh-moments",
+    "logo": {
+     "src": "",
+     "alt": "AHH MOMENTS brand logo",
+     "placeholder": true,
+     "missing": "empty-src",
+     "width": 163,
+     "height": 230
+    }
+   },
+   {
+    "name": "BETTY'S EDDIES",
+    "href": "/brand/bettys-eddies",
+    "slug": "bettys-eddies",
+    "logo": {
+     "src": "",
+     "alt": "BETTY'S EDDIES brand logo",
+     "placeholder": true,
+     "missing": "placeholder-svg",
+     "width": 163,
+     "height": 230
+    }
+   },
+   {
+    "name": "BIC",
+    "href": "/brand/bic",
+    "slug": "bic",
+    "logo": {
+     "src": "",
+     "alt": "BIC brand logo",
+     "placeholder": true,
+     "missing": "placeholder-svg",
+     "width": 163,
+     "height": 230
+    }
+   },
+   {
+    "name": "BLAZY SUSAN",
+    "href": "/brand/blazy-susan",
+    "slug": "blazy-susan",
+    "logo": {
+     "src": "",
+     "alt": "BLAZY SUSAN brand logo",
+     "placeholder": true,
+     "missing": "placeholder-svg",
+     "width": 163,
+     "height": 230
+    }
+   },
+   {
+    "name": "BOUNTIFUL FARMS",
+    "href": "/brand/bountiful-farms",
+    "slug": "bountiful-farms",
+    "logo": {
+     "src": "",
+     "alt": "BOUNTIFUL FARMS brand logo",
+     "placeholder": true,
+     "missing": "empty-src",
+     "width": 163,
+     "height": 230
+    }
+   },
+   {
+    "name": "BREATH FREE",
+    "href": "/brand/breath-free",
+    "slug": "breath-free",
+    "logo": {
+     "src": "",
+     "alt": "BREATH FREE brand logo",
+     "placeholder": true,
+     "missing": "placeholder-svg",
+     "width": 163,
+     "height": 230
+    }
+   },
+   {
+    "name": "BREATHE FREE",
+    "href": "/brand/breathe-free",
+    "slug": "breathe-free",
+    "logo": {
+     "src": "",
+     "alt": "BREATHE FREE brand logo",
+     "placeholder": true,
+     "missing": "empty-src",
+     "width": 163,
+     "height": 230
+    }
+   },
+   {
+    "name": "BUBBY'S",
+    "href": "/brand/bubbys",
+    "slug": "bubbys",
+    "logo": {
+     "src": "",
+     "alt": "BUBBY'S brand logo",
+     "placeholder": true,
+     "missing": "placeholder-svg",
+     "width": 163,
+     "height": 230
+    }
+   },
+   {
+    "name": "CLARAVITA",
+    "href": "/brand/claravita",
+    "slug": "claravita",
+    "logo": {
+     "src": "",
+     "alt": "CLARAVITA brand logo",
+     "placeholder": true,
+     "missing": "empty-src",
+     "width": 163,
+     "height": 230
+    }
+   },
+   {
+    "name": "COAST",
+    "href": "/brand/coast",
+    "slug": "coast",
+    "logo": {
+     "src": "",
+     "alt": "COAST brand logo",
+     "placeholder": true,
+     "missing": "placeholder-svg",
+     "width": 163,
+     "height": 230
+    }
+   },
+   {
+    "name": "DOJA",
+    "href": "/brand/doja",
+    "slug": "doja",
+    "logo": {
+     "src": "",
+     "alt": "DOJA brand logo",
+     "placeholder": true,
+     "missing": "placeholder-svg",
+     "width": 163,
+     "height": 230
+    }
+   },
+   {
+    "name": "ELEMENTS",
+    "href": "/brand/elements",
+    "slug": "elements",
+    "logo": {
+     "src": "",
+     "alt": "ELEMENTS brand logo",
+     "placeholder": true,
+     "missing": "placeholder-svg",
+     "width": 163,
+     "height": 230
+    }
+   },
+   {
+    "name": "GRAV",
+    "href": "/brand/grav",
+    "slug": "grav",
+    "logo": {
+     "src": "",
+     "alt": "GRAV brand logo",
+     "placeholder": true,
+     "missing": "placeholder-svg",
+     "width": 163,
+     "height": 230
+    }
+   },
+   {
+    "name": "HARBOR HOUSE",
+    "href": "/brand/harbor-house",
+    "slug": "harbor-house",
+    "logo": {
+     "src": "",
+     "alt": "HARBOR HOUSE brand logo",
+     "placeholder": true,
+     "missing": "empty-src",
+     "width": 163,
+     "height": 230
+    }
+   },
+   {
+    "name": "IMPRESSED",
+    "href": "/brand/impressed",
+    "slug": "impressed",
+    "logo": {
+     "src": "",
+     "alt": "IMPRESSED brand logo",
+     "placeholder": true,
+     "missing": "empty-src",
+     "width": 163,
+     "height": 230
+    }
+   },
+   {
+    "name": "IN HOUSE",
+    "href": "/brand/in-house",
+    "slug": "in-house",
+    "logo": {
+     "src": "",
+     "alt": "IN HOUSE brand logo",
+     "placeholder": true,
+     "missing": "placeholder-svg",
+     "width": 163,
+     "height": 230
+    }
+   },
+   {
+    "name": "KANHA",
+    "href": "/brand/kanha",
+    "slug": "kanha",
+    "logo": {
+     "src": "",
+     "alt": "KANHA brand logo",
+     "placeholder": true,
+     "missing": "empty-src",
+     "width": 163,
+     "height": 230
+    }
+   },
+   {
+    "name": "KEEF",
+    "href": "/brand/keef",
+    "slug": "keef",
+    "logo": {
+     "src": "",
+     "alt": "KEEF brand logo",
+     "placeholder": true,
+     "missing": "empty-src",
+     "width": 163,
+     "height": 230
+    }
+   },
+   {
+    "name": "LEVIA",
+    "href": "/brand/levia",
+    "slug": "levia",
+    "logo": {
+     "src": "",
+     "alt": "LEVIA brand logo",
+     "placeholder": true,
+     "missing": "empty-src",
+     "width": 163,
+     "height": 230
+    }
+   },
+   {
+    "name": "MASS YIELD",
+    "href": "/brand/mass-yield",
+    "slug": "mass-yield",
+    "logo": {
+     "src": "",
+     "alt": "MASS YIELD brand logo",
+     "placeholder": true,
+     "missing": "empty-src",
+     "width": 163,
+     "height": 230
+    }
+   },
+   {
+    "name": "NATURE'S HERITAGE",
+    "href": "/brand/natures-heritage",
+    "slug": "natures-heritage",
+    "logo": {
+     "src": "",
+     "alt": "NATURE'S HERITAGE brand logo",
+     "placeholder": true,
+     "missing": "placeholder-svg",
+     "width": 163,
+     "height": 230
+    }
+   },
+   {
+    "name": "OMG",
+    "href": "/brand/omg",
+    "slug": "omg",
+    "logo": {
+     "src": "",
+     "alt": "OMG brand logo",
+     "placeholder": true,
+     "missing": "placeholder-svg",
+     "width": 163,
+     "height": 230
+    }
+   },
+   {
+    "name": "RAW",
+    "href": "/brand/raw",
+    "slug": "raw",
+    "logo": {
+     "src": "",
+     "alt": "RAW brand logo",
+     "placeholder": true,
+     "missing": "placeholder-svg",
+     "width": 163,
+     "height": 230
+    }
+   },
+   {
+    "name": "SUGAREE",
+    "href": "/brand/sugaree",
+    "slug": "sugaree",
+    "logo": {
+     "src": "",
+     "alt": "SUGAREE brand logo",
+     "placeholder": true,
+     "missing": "placeholder-svg",
+     "width": 163,
+     "height": 230
+    }
+   }
+  ],
+  "brandCount": 24,
+  "loadMore": {
+   "label": "Load more brands",
+   "ariaLabel": "Load more brands"
+  },
+  "hasMore": true,
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": []
+ }
+}

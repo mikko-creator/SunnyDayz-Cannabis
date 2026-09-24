@@ -1,0 +1,168 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/omg-omg-pink-runtz-3-5g-flower-3-5-g-flower-3-5-grams",
+ "slug": "product-omg-omg-pink-runtz-3-5g-flower-3-5-g-flower-3-5-grams",
+ "type": "product",
+ "title": "OMG - OMG - Pink Runtz - 3.5G Flower",
+ "seoTitle": "OMG - OMG - Pink Runtz - 3.5G Flower",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Flower",
+    "href": "/collection/flower"
+   },
+   {
+    "label": "OMG - Pink Runtz - 3.5G Flower",
+    "href": null
+   }
+  ],
+  "h1": "OMG - Pink Runtz - 3.5G Flower",
+  "name": "OMG - Pink Runtz - 3.5G Flower",
+  "brand": {
+   "label": "OMG",
+   "href": "/brand/omg"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Flower",
+   "href": "/collection/flower"
+  },
+  "subcategories": [
+   {
+    "label": "PRE-PACK",
+    "href": "/collection/flower/pre-pack"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/639272a9-83fc-4480-b4e4-b0025def2089?w=3840&q=100",
+   "alt": "OMG - Pink Runtz - 3.5G Flower"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/639272a9-83fc-4480-b4e4-b0025def2089?w=3840&q=100",
+    "alt": "OMG - Pink Runtz - 3.5G Flower"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": "Warning",
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": "Cannabinoids"
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "22.294%",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "OMG brings you Pink Runtz, a highly sought-after hybrid flower that delivers the perfect balance of uplifting euphoria and soothing relaxation. This 3.5g pre-pack showcases dense, colorful buds with a sweet, fruity aroma reminiscent of tropical candy with hints of berry and citrus. Known for its delicious flavor profile, Pink Runtz offers a smooth, creamy smoke with notes of sweet fruit and earthy undertones. Perfect for social gatherings or creative pursuits, this hybrid strain promotes a happy, focused mindset while easing tension throughout the body. Whether you're looking to elevate your mood or unwind after a long day, OMG Pink Runtz flower delivers a flavorful, well-rounded experience that's become a favorite among cannabis enthusiasts seeking quality and consistency in every session.",
+  "warnings": [
+   {
+    "title": "Proposition 65 Warning for California Consumers",
+    "collapsed": true,
+    "toggleIcon": "angle-down",
+    "toggleAriaLabel": "Expand content",
+    "label": "WARNING:",
+    "lines": [
+     "This product can expose you to chemicals including β-myrcene and cannabis smoke, which are known to the State of California to cause cancer, and chemicals including cannabis smoke and 9-tetrahydrocannabinol, which are known to the State of California to cause birth defects or other reproductive harm."
+    ],
+    "moreInfo": {
+     "text": "For more information go to",
+     "label": "www.P65Warnings.ca.gov",
+     "href": "https://www.P65Warnings.ca.gov"
+    },
+    "links": []
+   }
+  ],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "OMG",
+    "href": "/brand/omg"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "22.294%"
+   },
+   {
+    "label": "Package Info",
+    "value": "Omg Pink Runtz 3 5 G Flower 3 5 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "3.5g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [
+   {
+    "group": "THC",
+    "items": [
+     {
+      "name": "THCA",
+      "value": "24.6457%"
+     },
+     {
+      "name": "THC",
+      "value": "22.2939%"
+     }
+    ]
+   }
+  ],
+  "jsonld": null
+ }
+}

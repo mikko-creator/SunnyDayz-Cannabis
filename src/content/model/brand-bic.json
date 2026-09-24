@@ -1,0 +1,168 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/brand/bic",
+ "slug": "brand-bic",
+ "type": "brand",
+ "title": "BIC",
+ "seoTitle": "BIC",
+ "model": {
+  "kind": "brand",
+  "path": "/brand/bic",
+  "slug": "bic",
+  "name": "BIC",
+  "h1": "BIC",
+  "logo": null,
+  "banner": {
+   "title": "BIC",
+   "description": "Shop cannabis products from BIC at a dispensary near you",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMoZbqstJ9-D0K_Categories_Banner.png?auto=format%2Ccompress&fit=max&w=3840",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Brands",
+    "href": "/brands"
+   },
+   {
+    "label": "BIC",
+    "href": null
+   }
+  ],
+  "filters": {
+   "filterLabel": "FILTER",
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortSelected": null,
+   "sortOptions": [],
+   "quickFilters": []
+  },
+  "gridState": "loading",
+  "emptyState": null,
+  "cards": [],
+  "productCount": 2,
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/bic-bic-lighter-black-one-size-merch",
+    "name": "Bic Lighter - Black",
+    "brand": "BIC",
+    "description": "Light up your sessions with the Bic Lighter in classic black. This essential merch piece delivers reliable flame every time you need it. Featuring Bic's iconic design and dependable performance, this lighter is a must-have accessory for any cannabis enthusiast. The sleek black finish keeps things discreet and stylish, while the durable construction ensures long-lasting use. Compact enough to slip into any pocket or bag, it's perfect for on-the-go convenience. Whether you're lighting flower, prerolls, or simply need a trustworthy flame, this Bic Lighter combines functionality with timeless appeal. An affordable, practical addition to your smoking accessories that you'll reach for again and again.",
+    "price": "$3",
+    "priceAmount": 3,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/6b0078ad-b092-4de0-8268-cb7c61ac1870",
+     "alt": "Bic Lighter - Black"
+    }
+   },
+   {
+    "position": 2,
+    "url": "/product/bic-bic-lighter-color-one-size-merch",
+    "name": "Bic Lighter - Color",
+    "brand": "BIC",
+    "description": "Light up your sessions with the Bic Lighter from Unknown Brand, a reliable and essential piece of cannabis merchandise. This classic lighter features vibrant color options and delivers consistent, dependable flame every time you need it. Perfectly sized for on-the-go convenience, it's an indispensable accessory for flower enthusiasts, preroll lovers, and concentrate connoisseurs alike. Whether you're sparking up at home or bringing it along for a social smoke session, this Bic Lighter combines durability with iconic design. Compact, refillable, and always ready when you are, it's the trusted companion for every cannabis experience. Add this must-have lighter to your collection and never be caught without a flame.",
+    "price": "$3",
+    "priceAmount": 3,
+    "currency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/78972a02-eb9b-4a0d-888d-e7d5d6a503a6",
+     "alt": "Bic Lighter - Color"
+    }
+   }
+  ],
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/brands",
+       "name": "Brands"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "BIC"
+      },
+      "position": 3
+     }
+    ]
+   },
+   {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BIC",
+       "description": "Light up your sessions with the Bic Lighter in classic black. This essential merch piece delivers reliable flame every time you need it. Featuring Bic&apos;s iconic design and dependable performance, this lighter is a must-have accessory for any cannabis enthusiast. The sleek black finish keeps things discreet and stylish, while the durable construction ensures long-lasting use. Compact enough to slip into any pocket or bag, it&apos;s perfect for on-the-go convenience. Whether you&apos;re lighting flower, prerolls, or simply need a trustworthy flame, this Bic Lighter combines functionality with timeless appeal. An affordable, practical addition to your smoking accessories that you&apos;ll reach for again and again.",
+       "name": "Bic Lighter - Black",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "3",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/bic-bic-lighter-black-one-size-merch"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/6b0078ad-b092-4de0-8268-cb7c61ac1870"
+      },
+      "position": "1"
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "BIC",
+       "description": "Light up your sessions with the Bic Lighter from Unknown Brand, a reliable and essential piece of cannabis merchandise. This classic lighter features vibrant color options and delivers consistent, dependable flame every time you need it. Perfectly sized for on-the-go convenience, it&apos;s an indispensable accessory for flower enthusiasts, preroll lovers, and concentrate connoisseurs alike. Whether you&apos;re sparking up at home or bringing it along for a social smoke session, this Bic Lighter combines durability with iconic design. Compact, refillable, and always ready when you are, it&apos;s the trusted companion for every cannabis experience. Add this must-have lighter to your collection and never be caught without a flame.",
+       "name": "Bic Lighter - Color",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "3",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/bic-bic-lighter-color-one-size-merch"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/78972a02-eb9b-4a0d-888d-e7d5d6a503a6"
+      },
+      "position": "2"
+     }
+    ]
+   }
+  ]
+ }
+}

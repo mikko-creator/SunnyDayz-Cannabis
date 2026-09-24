@@ -1,0 +1,123 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/our-strains",
+ "slug": "our-strains",
+ "type": "listing",
+ "title": "Our strains",
+ "seoTitle": "Our strains",
+ "model": {
+  "kind": "our-strains",
+  "path": "/our-strains",
+  "theme": null,
+  "capture": {
+   "matchesUrl": null,
+   "signal": null,
+   "observed": null
+  },
+  "h1": "Our Strains",
+  "banner": {
+   "title": "Our Strains",
+   "description": "SunnyDayz Cultivated.",
+   "desktopImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMo5bqstJ9-D0M_CategoriesBanner-19.png?auto=format%2Ccompress&rect=0%2C0%2C1920%2C308&w=3840&fit=max",
+    "alt": "Banner"
+   },
+   "mobileImage": {
+    "src": "https://images.prismic.io/sunny-dayz/Z5vMo5bqstJ9-D0M_CategoriesBanner-19.png?auto=format%2Ccompress&rect=3%2C0%2C1914%2C308&w=3840&fit=max",
+    "alt": "Banner"
+   }
+  },
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Our Strains",
+    "href": null
+   }
+  ],
+  "promoCarousel": null,
+  "filters": null,
+  "gridState": null,
+  "emptyState": null,
+  "cards": [],
+  "productCount": 0,
+  "products": [],
+  "search": [],
+  "notice": null,
+  "galleries": [
+   {
+    "heading": "A look at what we're growing.",
+    "headingLevel": "h1",
+    "intro": [
+     "Small Batch. Real Farmers. Real Flavor."
+    ],
+    "items": [
+     {
+      "caption": "KEY LIME OG",
+      "image": {
+       "src": "https://images.prismic.io/sunny-dayz/qtrrsdWsCrOMsFqT_1.png?auto=format%2Ccompress&rect=123%2C0%2C744%2C1006&w=3840&fit=max",
+       "alt": "Image"
+      }
+     },
+     {
+      "caption": "CHOICE",
+      "image": {
+       "src": "https://images.prismic.io/sunny-dayz/rkjVqdV5xTEkWx53_2.png?auto=format%2Ccompress&rect=121%2C0%2C744%2C1006&w=3840&fit=max",
+       "alt": "Image"
+      }
+     }
+    ]
+   },
+   {
+    "heading": null,
+    "headingLevel": null,
+    "intro": [],
+    "items": [
+     {
+      "caption": "LAUREL PALMER",
+      "image": {
+       "src": "https://images.prismic.io/sunny-dayz/98rRFLVuygDU6yOl_3.png?auto=format%2Ccompress&rect=122%2C0%2C745%2C1007&w=3840&fit=max",
+       "alt": "Image"
+      }
+     },
+     {
+      "caption": "TROP STRAWBERRY",
+      "image": {
+       "src": "https://images.prismic.io/sunny-dayz/oq2DErkvw4o5nTHu_Screenshot_1.png?auto=format%2Ccompress&rect=120%2C0%2C746%2C1009&w=3840&fit=max",
+       "alt": "Image"
+      }
+     }
+    ]
+   }
+  ],
+  "stores": [],
+  "storeListToggleAriaLabel": null,
+  "map": null,
+  "extraBlocks": [],
+  "extraButtons": [],
+  "_jsonld": [
+   {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "Our Strains"
+      },
+      "position": 2
+     }
+    ]
+   }
+  ]
+ }
+}

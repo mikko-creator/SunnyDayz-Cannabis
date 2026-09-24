@@ -1,0 +1,632 @@
+/* motion.css — replication of the source site motion.
+ * Keyframes below are VERBATIM from the live capture.
+ * Do not re-type them: a retyped keyframe is a different animation.
+ * Source: audit/motion-inventory.json
+ */
+
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes Toastify__trackProgress {
+  0% { transform: scaleX(1); }
+  100% { transform: scaleX(0); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes Toastify__bounceInRight {
+  0%, 60%, 75%, 90%, 100% { animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }
+  0% { opacity: 0; transform: translate3d(3000px, 0px, 0px); }
+  60% { opacity: 1; transform: translate3d(-25px, 0px, 0px); }
+  75% { transform: translate3d(10px, 0px, 0px); }
+  90% { transform: translate3d(-5px, 0px, 0px); }
+  100% { transform: none; }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes Toastify__bounceOutRight {
+  20% { opacity: 1; transform: translate3d(-20px, 0px, 0px); }
+  100% { opacity: 0; transform: translate3d(2000px, 0px, 0px); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes Toastify__bounceInLeft {
+  0%, 60%, 75%, 90%, 100% { animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }
+  0% { opacity: 0; transform: translate3d(-3000px, 0px, 0px); }
+  60% { opacity: 1; transform: translate3d(25px, 0px, 0px); }
+  75% { transform: translate3d(-10px, 0px, 0px); }
+  90% { transform: translate3d(5px, 0px, 0px); }
+  100% { transform: none; }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes Toastify__bounceOutLeft {
+  20% { opacity: 1; transform: translate3d(20px, 0px, 0px); }
+  100% { opacity: 0; transform: translate3d(-2000px, 0px, 0px); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes Toastify__bounceInUp {
+  0%, 60%, 75%, 90%, 100% { animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }
+  0% { opacity: 0; transform: translate3d(0px, 3000px, 0px); }
+  60% { opacity: 1; transform: translate3d(0px, -20px, 0px); }
+  75% { transform: translate3d(0px, 10px, 0px); }
+  90% { transform: translate3d(0px, -5px, 0px); }
+  100% { transform: translateZ(0px); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes Toastify__bounceOutUp {
+  20% { transform: translate3d(0px, -10px, 0px); }
+  40%, 45% { opacity: 1; transform: translate3d(0px, 20px, 0px); }
+  100% { opacity: 0; transform: translate3d(0px, -2000px, 0px); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes Toastify__bounceInDown {
+  0%, 60%, 75%, 90%, 100% { animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1); }
+  0% { opacity: 0; transform: translate3d(0px, -3000px, 0px); }
+  60% { opacity: 1; transform: translate3d(0px, 25px, 0px); }
+  75% { transform: translate3d(0px, -10px, 0px); }
+  90% { transform: translate3d(0px, 5px, 0px); }
+  100% { transform: none; }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes Toastify__bounceOutDown {
+  20% { transform: translate3d(0px, 10px, 0px); }
+  40%, 45% { opacity: 1; transform: translate3d(0px, -20px, 0px); }
+  100% { opacity: 0; transform: translate3d(0px, 2000px, 0px); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes Toastify__zoomIn {
+  0% { opacity: 0; transform: scale3d(0.3, 0.3, 0.3); }
+  50% { opacity: 1; }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes Toastify__zoomOut {
+  0% { opacity: 1; }
+  50% { opacity: 0; transform: scale3d(0.3, 0.3, 0.3); }
+  100% { opacity: 0; }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes Toastify__flipIn {
+  0% { transform: perspective(400px) rotateX(90deg); animation-timing-function: ease-in; opacity: 0; }
+  40% { transform: perspective(400px) rotateX(-20deg); animation-timing-function: ease-in; }
+  60% { transform: perspective(400px) rotateX(10deg); opacity: 1; }
+  80% { transform: perspective(400px) rotateX(-5deg); }
+  100% { transform: perspective(400px); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes Toastify__flipOut {
+  0% { transform: perspective(400px); }
+  30% { transform: perspective(400px) rotateX(-20deg); opacity: 1; }
+  100% { transform: perspective(400px) rotateX(90deg); opacity: 0; }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes Toastify__slideInRight {
+  0% { transform: translate3d(110%, 0px, 0px); visibility: visible; }
+  100% { transform: translateZ(0px); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes Toastify__slideInLeft {
+  0% { transform: translate3d(-110%, 0px, 0px); visibility: visible; }
+  100% { transform: translateZ(0px); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes Toastify__slideInUp {
+  0% { transform: translate3d(0px, 110%, 0px); visibility: visible; }
+  100% { transform: translateZ(0px); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes Toastify__slideInDown {
+  0% { transform: translate3d(0px, -110%, 0px); visibility: visible; }
+  100% { transform: translateZ(0px); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes Toastify__slideOutRight {
+  0% { transform: translateZ(0px); }
+  100% { visibility: hidden; transform: translate3d(110%, 0px, 0px); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes Toastify__slideOutLeft {
+  0% { transform: translateZ(0px); }
+  100% { visibility: hidden; transform: translate3d(-110%, 0px, 0px); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes Toastify__slideOutDown {
+  0% { transform: translateZ(0px); }
+  100% { visibility: hidden; transform: translate3d(0px, 500px, 0px); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes Toastify__slideOutUp {
+  0% { transform: translateZ(0px); }
+  100% { visibility: hidden; transform: translate3d(0px, -500px, 0px); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes Toastify__spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(1turn); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/4a68622421d9bd1a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes product_pulse__YixEP {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/f29130d1c6a4cbf2.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes swiper-preloader-spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(1turn); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/33904fd63320745e.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes promotion_sheen__v1jDK {
+  0% { left: -80px; }
+  13% { opacity: 0.2; }
+  25% { left: 100%; opacity: 0; }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/fc5c0ed95d98e202.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes heroimage_shimmer__WGhlO {
+  0% { background-position: -200% 0px; }
+  100% { background-position: 200% 0px; }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/5a3246621068806f.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes ContentMarqueeCarousel_content_marquee_scroll__hqmii {
+  0% { transform: translateZ(0px); }
+  100% { transform: translate3d(-50%, 0px, 0px); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/b5d719edb9418b4a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes right-hide {
+  0% { opacity: 1; transform: translateX(0px); }
+  100% { opacity: 0; transform: translateX(60px); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/b5d719edb9418b4a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes right-show {
+  0% { opacity: 0; transform: translateX(60px); }
+  100% { opacity: 1; transform: translateX(0px); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/b5d719edb9418b4a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes left-hide {
+  0% { opacity: 1; transform: translateX(0px); }
+  100% { opacity: 0; transform: translateX(-60px); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/b5d719edb9418b4a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes left-show {
+  0% { opacity: 0; transform: translateX(-60px); }
+  100% { opacity: 1; transform: translateX(0px); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/b5d719edb9418b4a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes top-show {
+  0% { opacity: 0; transform: translateY(-60px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/b5d719edb9418b4a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes top-hide {
+  0% { opacity: 1; transform: translateY(0px); }
+  100% { opacity: 0; transform: translateY(-60px); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/b5d719edb9418b4a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes bottom-hide {
+  0% { opacity: 1; transform: translateY(0px); }
+  100% { opacity: 0; transform: translateY(60px); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/b5d719edb9418b4a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes bottom-show {
+  0% { opacity: 0; transform: translateY(60px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/b5d719edb9418b4a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes circleGrowAndFade {
+  0% { transform: scale(1); opacity: 1; }
+  100% { transform: scale(2); opacity: 0; }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/b5d719edb9418b4a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes ani {
+  0% { transform: scaleY(0); }
+  100% { transform: scaleY(0.533); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/b5d719edb9418b4a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes aniCL-gemBlue {
+  0% { background: var(--color-primary-light-2); }
+  100% { background: var(--color-primary-light-2); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/b5d719edb9418b4a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes fade-in-bck {
+  0% { transform: perspective(400px) translateZ(80px); opacity: 0.3; }
+  100% { transform: perspective(400px) translateZ(0px); opacity: 1; }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/b5d719edb9418b4a.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes spin {
+  100% { transform: rotate(1turn); }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/6bc1fa4dfc6990ff.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+/* from capture https://www.sunnydayzcannabis.com/_next/static/css/5eb9a79cc067b107.css?dpl=dpl_wdAZwszmd8GEy9VEPe3cDMPoa3SH */
+@keyframes product_pulse__8kMv2 {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+/* from capture (inline) */
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
+}
+/* from capture (inline) */
+@keyframes fadeOut {
+  100% { opacity: 0; }
+}
+/* from capture (inline) */
+@keyframes slideFromBottom {
+  0% { transform: translate3d(0,var(--initial-transform,100%),0); }
+  100% { transform: translate3d(0px, 0px, 0px); }
+}
+/* from capture (inline) */
+@keyframes slideToBottom {
+  100% { transform: translate3d(0,var(--initial-transform,100%),0); }
+}
+/* from capture (inline) */
+@keyframes slideFromTop {
+  0% { transform: translate3d(0,calc(var(--initial-transform,100%) * -1),0); }
+  100% { transform: translate3d(0px, 0px, 0px); }
+}
+/* from capture (inline) */
+@keyframes slideToTop {
+  100% { transform: translate3d(0,calc(var(--initial-transform,100%) * -1),0); }
+}
+/* from capture (inline) */
+@keyframes slideFromLeft {
+  0% { transform: translate3d(calc(var(--initial-transform,100%) * -1),0,0); }
+  100% { transform: translate3d(0px, 0px, 0px); }
+}
+/* from capture (inline) */
+@keyframes slideToLeft {
+  100% { transform: translate3d(calc(var(--initial-transform,100%) * -1),0,0); }
+}
+/* from capture (inline) */
+@keyframes slideFromRight {
+  0% { transform: translate3d(var(--initial-transform,100%),0,0); }
+  100% { transform: translate3d(0px, 0px, 0px); }
+}
+/* from capture (inline) */
+@keyframes slideToRight {
+  100% { transform: translate3d(var(--initial-transform,100%),0,0); }
+}
+
+/* --- easing tokens observed on the source ------------------------------ */
+:root {
+  --dur-1: 0.2s, 0.2s;
+  --dur-2: 0.2s;
+  --dur-3: 0.1s;
+  --dur-4: 0.5s, 0.5s, 0.5s, 0.5s;
+  --dur-5: 0.5s;
+  --dur-6: 0.25s;
+}
+
+/* --- per-element motion measured on the source -------------------------- */
+/* Each block below is what the ORIGINAL element resolved to. Re-apply these
+   to the equivalent rebuilt component; the selector names will differ, the
+   VALUES must not. */
+/* #promotion-id-layout  @1024px */
+.REPLACE-ME {
+  transition: opacity, transform 0.2s, 0.2s ease, ease 0s, 0s;
+}
+/* #promotion-id-layout > div.alert.alert_success > div > div.swiper.swiper-fade > div.swiper-wrapper  @1024px */
+.REPLACE-ME {
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+/* #promotion-id-layout > div.alert.alert_success > div > div.swiper.swiper-fade > div.swiper-wrapper > div.swiper-slide.swiper-slide-visible  @1024px */
+.REPLACE-ME {
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+/* #header  @1024px */
+.REPLACE-ME {
+  transition: transform, background-color 0.2s, 0.2s ease, ease 0s, 0s;
+}
+/* #header > div.header_header_desktop__jIy7a > div.header_header_row__d0xh1.header_medium__iXWDu:nth-of-type(1) > div.container_container__nHyh4.header_header_row__container__Jk71Q > div.header_header_section__t0pEs:nth-of-type(1) > div.storelocator_store_locator__container__QtWHv > button.storelocator_store_locator__button__lEjYt.button_button__atjat > div.button_button__content__hn5Bw > div.storelocator_button-content__5wWaV > div.storelocator_shopping_mode_indicator__E5dBM.storelocator_single_mode__ixmmH:nth-of-type(1)  @1024px */
+.REPLACE-ME {
+  transition: color 0.2s linear;
+}
+/* #header > div.header_header_desktop__jIy7a > div.header_header_row__d0xh1.header_flat__fpVBU:nth-of-type(2) > div.container_container__nHyh4.header_header_row__container__Jk71Q > div.header_header_section__t0pEs > nav.nav_navbar__DVDdQ.header_section__nav__9_Jcp > ul.nav_navbar_list__8gsQF > li.nav_navbar_list__nav_item__qe96k:nth-of-type(2) > button.nav_navbar_list__item__Kj85d > i.icon.icon_angle-up  @1024px */
+.REPLACE-ME {
+  transition: all 0.1s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+/* #header > div.header_header_desktop__jIy7a > div.header_header_row__d0xh1.header_flat__fpVBU:nth-of-type(2) > div.container_container__nHyh4.header_header_row__container__Jk71Q > div.header_header_section__t0pEs > nav.nav_navbar__DVDdQ.header_section__nav__9_Jcp > ul.nav_navbar_list__8gsQF > li.nav_navbar_list__nav_item__qe96k:nth-of-type(5) > button.nav_navbar_list__item__Kj85d > i.icon.icon_angle-up  @1024px */
+.REPLACE-ME {
+  transition: all 0.1s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+/* html > body > aside.expressshippingbanner_banner__wfXhY:nth-of-type(2)  @1024px */
+.REPLACE-ME {
+  transition: transform, opacity, background-color, color 0.5s, 0.5s, 0.5s, 0.5s ease, ease, ease, ease 0s, 0s, 0s, 0s;
+  transform: matrix(1, 0, 0, 1, -409.594, 72);
+}
+/* html > body > aside.expressshippingbanner_banner__wfXhY:nth-of-type(2) > span.expressshippingbanner_message__P3s30 > button.expressshippingbanner_toggle__YmS_t  @1024px */
+.REPLACE-ME {
+  transition: opacity 0.5s ease;
+}
+/* html > body > aside.expressshippingbanner_banner__wfXhY:nth-of-type(2) > button.close_close__qHNlU.expressshippingbanner_close__cYsmz  @1024px */
+.REPLACE-ME {
+  transition: opacity 0.5s ease;
+}
+/* html > body > section.components_separator__OvaJG  @1024px */
+.REPLACE-ME {
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+/* #headlessui-dialog-panel-:rg:  @1024px */
+.REPLACE-ME {
+  transition: all 0.25s ease-in;
+}
+/* #headlessui-dialog-panel-:rg: > nav.side-nav__body > div.side-nav__main > a.side-nav__item:nth-of-type(1)  @1024px */
+.REPLACE-ME {
+  transition: all 0.25s ease-in;
+}
+/* #headlessui-dialog-panel-:rg: > nav.side-nav__body > div.side-nav__main > div.accordion:nth-of-type(1) > button.accordion__title > div.side-nav__item  @1024px */
+.REPLACE-ME {
+  transition: all 0.25s ease-in;
+}
+/* #headlessui-dialog-panel-:rg: > nav.side-nav__body > div.side-nav__main > div.accordion:nth-of-type(1) > div.collapse  @1024px */
+.REPLACE-ME {
+  transition: height 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+/* #headlessui-dialog-panel-:rg: > nav.side-nav__body > div.side-nav__main > div.accordion:nth-of-type(2) > button.accordion__title > div.side-nav__item  @1024px */
+.REPLACE-ME {
+  transition: all 0.25s ease-in;
+}
+/* #headlessui-dialog-panel-:rg: > nav.side-nav__body > div.side-nav__main > div.accordion:nth-of-type(2) > div.collapse  @1024px */
+.REPLACE-ME {
+  transition: height 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+/* #headlessui-dialog-panel-:rg: > nav.side-nav__body > div.side-nav__main > a.side-nav__item:nth-of-type(2)  @1024px */
+.REPLACE-ME {
+  transition: all 0.25s ease-in;
+}
+/* #headlessui-dialog-panel-:r7:  @1024px */
+.REPLACE-ME {
+  transition: all 0.25s ease-in;
+}
+/* #headlessui-dialog-panel-:r7: > div.cartnavigation_cart_nav__body__xq7_y:nth-of-type(1) > div.cartnavigation_cart__header__evZjP:nth-of-type(1) > button.CartShoppingInfo_store_locator__button__qR9LN.button_button__atjat > div.button_button__content__hn5Bw > div.CartShoppingInfo_store_locator__button_content__HosX2 > div.CartShoppingInfo_shopping_mode_indicator__pvtOt.CartShoppingInfo_selected__hvL_Y:nth-of-type(1)  @1024px */
+.REPLACE-ME {
+  transition: color 0.2s linear;
+}
+/* #promotion-id-layout  @1440px */
+.REPLACE-ME {
+  transition: opacity, transform 0.2s, 0.2s ease, ease 0s, 0s;
+}
+/* #promotion-id-layout > div.alert.alert_success > div > div.swiper.swiper-fade > div.swiper-wrapper  @1440px */
+.REPLACE-ME {
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+/* #promotion-id-layout > div.alert.alert_success > div > div.swiper.swiper-fade > div.swiper-wrapper > div.swiper-slide.swiper-slide-visible  @1440px */
+.REPLACE-ME {
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+/* #header  @1440px */
+.REPLACE-ME {
+  transition: transform, background-color 0.2s, 0.2s ease, ease 0s, 0s;
+}
+/* #header > div.header_header_desktop__jIy7a > div.header_header_row__d0xh1.header_medium__iXWDu:nth-of-type(1) > div.container_container__nHyh4.header_header_row__container__Jk71Q > div.header_header_section__t0pEs:nth-of-type(1) > div.storelocator_store_locator__container__QtWHv > button.storelocator_store_locator__button__lEjYt.button_button__atjat > div.button_button__content__hn5Bw > div.storelocator_button-content__5wWaV > div.storelocator_shopping_mode_indicator__E5dBM.storelocator_single_mode__ixmmH:nth-of-type(1)  @1440px */
+.REPLACE-ME {
+  transition: color 0.2s linear;
+}
+/* #header > div.header_header_desktop__jIy7a > div.header_header_row__d0xh1.header_flat__fpVBU:nth-of-type(2) > div.container_container__nHyh4.header_header_row__container__Jk71Q > div.header_header_section__t0pEs > nav.nav_navbar__DVDdQ.header_section__nav__9_Jcp > ul.nav_navbar_list__8gsQF > li.nav_navbar_list__nav_item__qe96k:nth-of-type(2) > button.nav_navbar_list__item__Kj85d > i.icon.icon_angle-up  @1440px */
+.REPLACE-ME {
+  transition: all 0.1s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+/* #header > div.header_header_desktop__jIy7a > div.header_header_row__d0xh1.header_flat__fpVBU:nth-of-type(2) > div.container_container__nHyh4.header_header_row__container__Jk71Q > div.header_header_section__t0pEs > nav.nav_navbar__DVDdQ.header_section__nav__9_Jcp > ul.nav_navbar_list__8gsQF > li.nav_navbar_list__nav_item__qe96k:nth-of-type(5) > button.nav_navbar_list__item__Kj85d > i.icon.icon_angle-up  @1440px */
+.REPLACE-ME {
+  transition: all 0.1s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+/* html > body > aside.expressshippingbanner_banner__wfXhY:nth-of-type(2)  @1440px */
+.REPLACE-ME {
+  transition: transform, opacity, background-color, color 0.5s, 0.5s, 0.5s, 0.5s ease, ease, ease, ease 0s, 0s, 0s, 0s;
+  transform: matrix(1, 0, 0, 1, -450, 72);
+}
+/* html > body > aside.expressshippingbanner_banner__wfXhY:nth-of-type(2) > span.expressshippingbanner_message__P3s30 > button.expressshippingbanner_toggle__YmS_t  @1440px */
+.REPLACE-ME {
+  transition: opacity 0.5s ease;
+}
+/* html > body > aside.expressshippingbanner_banner__wfXhY:nth-of-type(2) > button.close_close__qHNlU.expressshippingbanner_close__cYsmz  @1440px */
+.REPLACE-ME {
+  transition: opacity 0.5s ease;
+}
+/* html > body > section.components_separator__OvaJG  @1440px */
+.REPLACE-ME {
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+/* #headlessui-dialog-panel-:rg:  @1440px */
+.REPLACE-ME {
+  transition: all 0.25s ease-in;
+}
+/* #headlessui-dialog-panel-:rg: > nav.side-nav__body > div.side-nav__main > a.side-nav__item:nth-of-type(1)  @1440px */
+.REPLACE-ME {
+  transition: all 0.25s ease-in;
+}
+/* #headlessui-dialog-panel-:rg: > nav.side-nav__body > div.side-nav__main > div.accordion:nth-of-type(1) > button.accordion__title > div.side-nav__item  @1440px */
+.REPLACE-ME {
+  transition: all 0.25s ease-in;
+}
+/* #headlessui-dialog-panel-:rg: > nav.side-nav__body > div.side-nav__main > div.accordion:nth-of-type(1) > div.collapse  @1440px */
+.REPLACE-ME {
+  transition: height 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+/* #headlessui-dialog-panel-:rg: > nav.side-nav__body > div.side-nav__main > div.accordion:nth-of-type(2) > button.accordion__title > div.side-nav__item  @1440px */
+.REPLACE-ME {
+  transition: all 0.25s ease-in;
+}
+/* #headlessui-dialog-panel-:rg: > nav.side-nav__body > div.side-nav__main > div.accordion:nth-of-type(2) > div.collapse  @1440px */
+.REPLACE-ME {
+  transition: height 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+/* #headlessui-dialog-panel-:rg: > nav.side-nav__body > div.side-nav__main > a.side-nav__item:nth-of-type(2)  @1440px */
+.REPLACE-ME {
+  transition: all 0.25s ease-in;
+}
+/* #headlessui-dialog-panel-:r7:  @1440px */
+.REPLACE-ME {
+  transition: all 0.25s ease-in;
+}
+/* #headlessui-dialog-panel-:r7: > div.cartnavigation_cart_nav__body__xq7_y:nth-of-type(1) > div.cartnavigation_cart__header__evZjP:nth-of-type(1) > button.CartShoppingInfo_store_locator__button__qR9LN.button_button__atjat > div.button_button__content__hn5Bw > div.CartShoppingInfo_store_locator__button_content__HosX2 > div.CartShoppingInfo_shopping_mode_indicator__pvtOt.CartShoppingInfo_selected__hvL_Y:nth-of-type(1)  @1440px */
+.REPLACE-ME {
+  transition: color 0.2s linear;
+}
+/* #promotion-id-layout  @390px */
+.REPLACE-ME {
+  transition: opacity, transform 0.2s, 0.2s ease, ease 0s, 0s;
+}
+/* #promotion-id-layout > div.alert.alert_success > div > div.swiper.swiper-fade > div.swiper-wrapper  @390px */
+.REPLACE-ME {
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+/* #promotion-id-layout > div.alert.alert_success > div > div.swiper.swiper-fade > div.swiper-wrapper > div.swiper-slide.swiper-slide-visible  @390px */
+.REPLACE-ME {
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+/* #header  @390px */
+.REPLACE-ME {
+  transition: transform, background-color 0.2s, 0.2s ease, ease 0s, 0s;
+}
+/* #header > div.header_header_mobile__fH_Dm > div.header_header_row__d0xh1.header_small__cwBeO:nth-of-type(2) > div.container_container__nHyh4.header_header_row__container__Jk71Q > div.header_header_section__t0pEs.header_space_between__W2BZE > div.storelocator_store_locator__container__QtWHv > button.storelocator_store_locator__button__lEjYt.button_button__atjat > div.button_button__content__hn5Bw > div.storelocator_button-content__5wWaV > div.storelocator_shopping_mode_indicator__E5dBM.storelocator_single_mode__ixmmH:nth-of-type(1)  @390px */
+.REPLACE-ME {
+  transition: color 0.2s linear;
+}
+/* html > body > aside.expressshippingbanner_banner__wfXhY:nth-of-type(2)  @390px */
+.REPLACE-ME {
+  transition: transform, opacity, background-color, color 0.5s, 0.5s, 0.5s, 0.5s ease, ease, ease, ease 0s, 0s, 0s, 0s;
+  transform: matrix(1, 0, 0, 1, -175.5, 98.3906);
+}
+/* html > body > aside.expressshippingbanner_banner__wfXhY:nth-of-type(2) > span.expressshippingbanner_message__P3s30 > button.expressshippingbanner_toggle__YmS_t  @390px */
+.REPLACE-ME {
+  transition: opacity 0.5s ease;
+}
+/* html > body > aside.expressshippingbanner_banner__wfXhY:nth-of-type(2) > button.close_close__qHNlU.expressshippingbanner_close__cYsmz  @390px */
+.REPLACE-ME {
+  transition: opacity 0.5s ease;
+}
+/* html > body > section.components_separator__OvaJG  @390px */
+.REPLACE-ME {
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+/* #headlessui-dialog-panel-:rg:  @390px */
+.REPLACE-ME {
+  transition: all 0.25s ease-in;
+}
+/* #headlessui-dialog-panel-:rg: > nav.side-nav__body > div.side-nav__main > a.side-nav__item:nth-of-type(1)  @390px */
+.REPLACE-ME {
+  transition: all 0.25s ease-in;
+}
+/* #headlessui-dialog-panel-:rg: > nav.side-nav__body > div.side-nav__main > div.accordion:nth-of-type(1) > button.accordion__title > div.side-nav__item  @390px */
+.REPLACE-ME {
+  transition: all 0.25s ease-in;
+}
+/* #headlessui-dialog-panel-:rg: > nav.side-nav__body > div.side-nav__main > div.accordion:nth-of-type(1) > div.collapse  @390px */
+.REPLACE-ME {
+  transition: height 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+/* #headlessui-dialog-panel-:rg: > nav.side-nav__body > div.side-nav__main > div.accordion:nth-of-type(2) > button.accordion__title > div.side-nav__item  @390px */
+.REPLACE-ME {
+  transition: all 0.25s ease-in;
+}
+/* #headlessui-dialog-panel-:rg: > nav.side-nav__body > div.side-nav__main > div.accordion:nth-of-type(2) > div.collapse  @390px */
+.REPLACE-ME {
+  transition: height 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+/* #headlessui-dialog-panel-:rg: > nav.side-nav__body > div.side-nav__main > a.side-nav__item:nth-of-type(2)  @390px */
+.REPLACE-ME {
+  transition: all 0.25s ease-in;
+}
+/* #headlessui-dialog-panel-:r7:  @390px */
+.REPLACE-ME {
+  transition: all 0.25s ease-in;
+}
+/* #headlessui-dialog-panel-:r7: > div.cartnavigation_cart_nav__body__xq7_y:nth-of-type(1) > div.cartnavigation_cart__header__evZjP:nth-of-type(1) > button.CartShoppingInfo_store_locator__button__qR9LN.button_button__atjat > div.button_button__content__hn5Bw > div.CartShoppingInfo_store_locator__button_content__HosX2 > div.CartShoppingInfo_shopping_mode_indicator__pvtOt.CartShoppingInfo_selected__hvL_Y:nth-of-type(1)  @390px */
+.REPLACE-ME {
+  transition: color 0.2s linear;
+}
+/* #headlessui-dialog-panel-:r7: > div.cartnavigation_cart__footer__W_iKd:nth-of-type(2) > button.cartnavigation_summary__handle__7fn_F > div.cartnavigation_summary__handle_more_info__pczBO > span.cartnavigation_summary__handle_arrow__IYlXr  @390px */
+.REPLACE-ME {
+  transform: matrix(1, 0, 0, 1, -14, 0);
+}
+/* #headlessui-dialog-panel-:r7: > div.cartnavigation_cart__footer__W_iKd:nth-of-type(2) > button.cartnavigation_summary__handle__7fn_F > div.cartnavigation_summary__handle_more_info__pczBO > span.cartnavigation_summary__handle_arrow__IYlXr > i.icon.icon_angle-up  @390px */
+.REPLACE-ME {
+  transition: transform 0.3s ease-out;
+}
+/* #promotion-id-layout  @768px */
+.REPLACE-ME {
+  transition: opacity, transform 0.2s, 0.2s ease, ease 0s, 0s;
+}
+/* #promotion-id-layout > div.alert.alert_success > div > div.swiper.swiper-fade > div.swiper-wrapper  @768px */
+.REPLACE-ME {
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+/* #promotion-id-layout > div.alert.alert_success > div > div.swiper.swiper-fade > div.swiper-wrapper > div.swiper-slide.swiper-slide-visible  @768px */
+.REPLACE-ME {
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+/* #header  @768px */
+.REPLACE-ME {
+  transition: transform, background-color 0.2s, 0.2s ease, ease 0s, 0s;
+}
+/* #header > div.header_header_mobile__fH_Dm > div.header_header_row__d0xh1.header_small__cwBeO:nth-of-type(2) > div.container_container__nHyh4.header_header_row__container__Jk71Q > div.header_header_section__t0pEs.header_space_between__W2BZE > div.storelocator_store_locator__container__QtWHv > button.storelocator_store_locator__button__lEjYt.button_button__atjat > div.button_button__content__hn5Bw > div.storelocator_button-content__5wWaV > div.storelocator_shopping_mode_indicator__E5dBM.storelocator_single_mode__ixmmH:nth-of-type(1)  @768px */
+.REPLACE-ME {
+  transition: color 0.2s linear;
+}
+/* html > body > aside.expressshippingbanner_banner__wfXhY:nth-of-type(2)  @768px */
+.REPLACE-ME {
+  transition: transform, opacity, background-color, color 0.5s, 0.5s, 0.5s, 0.5s ease, ease, ease, ease 0s, 0s, 0s, 0s;
+  transform: matrix(1, 0, 0, 1, -345.594, 72);
+}
+/* html > body > aside.expressshippingbanner_banner__wfXhY:nth-of-type(2) > span.expressshippingbanner_message__P3s30 > button.expressshippingbanner_toggle__YmS_t  @768px */
+.REPLACE-ME {
+  transition: opacity 0.5s ease;
+}
+/* html > body > aside.expressshippingbanner_banner__wfXhY:nth-of-type(2) > button.close_close__qHNlU.expressshippingbanner_close__cYsmz  @768px */
+.REPLACE-ME {
+  transition: opacity 0.5s ease;
+}
+/* html > body > section.components_separator__OvaJG  @768px */
+.REPLACE-ME {
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+/* #headlessui-dialog-panel-:rg:  @768px */
+.REPLACE-ME {
+  transition: all 0.25s ease-in;
+}
+/* #headlessui-dialog-panel-:rg: > nav.side-nav__body > div.side-nav__main > a.side-nav__item:nth-of-type(1)  @768px */
+.REPLACE-ME {
+  transition: all 0.25s ease-in;
+}
+/* #headlessui-dialog-panel-:rg: > nav.side-nav__body > div.side-nav__main > div.accordion:nth-of-type(1) > button.accordion__title > div.side-nav__item  @768px */
+.REPLACE-ME {
+  transition: all 0.25s ease-in;
+}
+/* #headlessui-dialog-panel-:rg: > nav.side-nav__body > div.side-nav__main > div.accordion:nth-of-type(1) > div.collapse  @768px */
+.REPLACE-ME {
+  transition: height 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+/* #headlessui-dialog-panel-:rg: > nav.side-nav__body > div.side-nav__main > div.accordion:nth-of-type(2) > button.accordion__title > div.side-nav__item  @768px */
+.REPLACE-ME {
+  transition: all 0.25s ease-in;
+}
+/* #headlessui-dialog-panel-:rg: > nav.side-nav__body > div.side-nav__main > div.accordion:nth-of-type(2) > div.collapse  @768px */
+.REPLACE-ME {
+  transition: height 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+/* #headlessui-dialog-panel-:rg: > nav.side-nav__body > div.side-nav__main > a.side-nav__item:nth-of-type(2)  @768px */
+.REPLACE-ME {
+  transition: all 0.25s ease-in;
+}
+/* #headlessui-dialog-panel-:r7:  @768px */
+.REPLACE-ME {
+  transition: all 0.25s ease-in;
+}
+/* #headlessui-dialog-panel-:r7: > div.cartnavigation_cart_nav__body__xq7_y:nth-of-type(1) > div.cartnavigation_cart__header__evZjP:nth-of-type(1) > button.CartShoppingInfo_store_locator__button__qR9LN.button_button__atjat > div.button_button__content__hn5Bw > div.CartShoppingInfo_store_locator__button_content__HosX2 > div.CartShoppingInfo_shopping_mode_indicator__pvtOt.CartShoppingInfo_selected__hvL_Y:nth-of-type(1)  @768px */
+.REPLACE-ME {
+  transition: color 0.2s linear;
+}
+/* #promotion-id-layout  @1024px */
+.REPLACE-ME {
+  transition: opacity, transform 0.2s, 0.2s ease, ease 0s, 0s;
+}
+/* #promotion-id-layout > div.alert.alert_success > div > div.swiper.swiper-fade > div.swiper-wrapper  @1024px */
+.REPLACE-ME {
+  transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

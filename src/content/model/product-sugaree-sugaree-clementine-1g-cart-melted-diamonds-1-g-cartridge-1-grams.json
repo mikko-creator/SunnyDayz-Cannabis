@@ -1,0 +1,127 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/sugaree-sugaree-clementine-1g-cart-melted-diamonds-1-g-cartridge-1-grams",
+ "slug": "product-sugaree-sugaree-clementine-1g-cart-melted-diamonds-1-g-cartridge-1-grams",
+ "type": "product",
+ "title": "SUGAREE - Sugaree - Clementine - 1G Cart - Melted Diamonds",
+ "seoTitle": "SUGAREE - Sugaree - Clementine - 1G Cart - Melted Diamonds",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Cartridge",
+    "href": "/collection/cartridge"
+   },
+   {
+    "label": "Sugaree - Clementine - 1G Cart - Melted Diamonds",
+    "href": null
+   }
+  ],
+  "h1": "Sugaree - Clementine - 1G Cart - Melted Diamonds",
+  "name": "Sugaree - Clementine - 1G Cart - Melted Diamonds",
+  "brand": {
+   "label": "SUGAREE",
+   "href": "/brand/sugaree"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Sativa",
+   "key": "sativa",
+   "ariaLabel": "Flower type: Sativa"
+  },
+  "category": {
+   "label": "Cartridge",
+   "href": "/collection/cartridge"
+  },
+  "subcategories": [
+   {
+    "label": "510 THREAD",
+    "href": "/collection/cartridge/510-thread"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/70539bde-9c67-4d7b-9767-4fa222ab2d17?w=3840&q=100",
+   "alt": "Sugaree - Clementine - 1G Cart - Melted Diamonds"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/70539bde-9c67-4d7b-9767-4fa222ab2d17?w=3840&q=100",
+    "alt": "Sugaree - Clementine - 1G Cart - Melted Diamonds"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": null,
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [],
+  "disclaimer": null,
+  "description": "Sugaree's Clementine 1G Cartridge delivers an uplifting sativa experience perfect for daytime enjoyment. This premium distillate cartridge captures the bright, citrusy essence of Clementine with every draw, offering energizing effects that spark creativity and focus. The sweet, tangy clementine flavor profile shines through, complemented by subtle herbal notes that make each puff refreshing and smooth. Ideal for those seeking a clear-headed, euphoric high, this sativa cart helps elevate your mood while keeping you alert and productive. The convenient 1-gram cartridge fits standard 510 thread batteries, making it easy to enjoy on the go. Whether you're tackling creative projects, socializing with friends, or simply need a burst of positivity, Sugaree's Clementine cartridge brings vibrant citrus flavor and focused energy to your cannabis routine. Experience the zesty, uplifting power of this sativa-dominant distillate.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "SUGAREE",
+    "href": "/brand/sugaree"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Sativa",
+    "href": "/strain/Sativa"
+   },
+   {
+    "label": "Package Info",
+    "value": "Sugaree Clementine 1 G Cart Melted Diamonds 1 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "1g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

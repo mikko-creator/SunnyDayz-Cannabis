@@ -1,0 +1,145 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/blazy-susan-blazy-susan-purple-cones-1-1-4-one-size-merch",
+ "slug": "product-blazy-susan-blazy-susan-purple-cones-1-1-4-one-size-merch",
+ "type": "product",
+ "title": "BLAZY SUSAN - Blazy Susan - Purple - Cones - 1 1/4",
+ "seoTitle": "BLAZY SUSAN - Blazy Susan - Purple - Cones - 1 1/4",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Merch",
+    "href": "/collection/merch"
+   },
+   {
+    "label": "Blazy Susan - Purple - Cones - 1 1/4",
+    "href": null
+   }
+  ],
+  "h1": "Blazy Susan - Purple - Cones - 1 1/4",
+  "name": "Blazy Susan - Purple - Cones - 1 1/4",
+  "brand": {
+   "label": "BLAZY SUSAN",
+   "href": "/brand/blazy-susan"
+  },
+  "badges": [],
+  "strainType": null,
+  "category": {
+   "label": "Merch",
+   "href": "/collection/merch"
+  },
+  "subcategories": [
+   {
+    "label": "ROLLING PAPERS",
+    "href": "/collection/merch/rolling-papers"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/172ecc7f-e63b-4f9b-b35a-e0d574717dd5?w=3840&q=100",
+   "alt": "Blazy Susan - Purple - Cones - 1 1/4"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/172ecc7f-e63b-4f9b-b35a-e0d574717dd5?w=3840&q=100",
+    "alt": "Blazy Susan - Purple - Cones - 1 1/4"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": null,
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [],
+  "disclaimer": null,
+  "description": "Elevate your rolling experience with Blazy Susan Purple Cones in the classic 1 1/4 size. These eye-catching purple pre-rolled cones from Blazy Susan combine style with functionality, making every session a statement. Crafted for smokers who appreciate quality rolling papers, these ready-to-fill cones eliminate the hassle of manual rolling while delivering a smooth, even burn. The vibrant purple hue adds a fun, distinctive touch to your smoke sessions. Perfect for on-the-go convenience or leisurely enjoyment, each cone is designed with precision to ensure consistent performance. Whether you're a seasoned enthusiast or new to pre-rolled cones, Blazy Susan delivers reliable quality in every pack. Stock up on these premium purple cones and enjoy effortless, flavorful sessions every time.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "",
+    "price": "$8",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$8",
+   "original": null,
+   "ariaLabel": "Product price: $8"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Blazy Susan - Purple - Cones - 1 1/4 to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Blazy Susan - Purple - Cones - 1 1/4 to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "BLAZY SUSAN",
+    "href": "/brand/blazy-susan"
+   },
+   {
+    "label": "Package Info",
+    "value": "Blazy Susan Purple Cones 1 1 4 One Size"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

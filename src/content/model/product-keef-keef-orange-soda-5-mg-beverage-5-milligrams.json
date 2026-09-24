@@ -1,0 +1,164 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/keef-keef-orange-soda-5-mg-beverage-5-milligrams",
+ "slug": "product-keef-keef-orange-soda-5-mg-beverage-5-milligrams",
+ "type": "product",
+ "title": "KEEF - Keef | Orange Soda",
+ "seoTitle": "KEEF - Keef | Orange Soda",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Beverage",
+    "href": "/collection/beverage"
+   },
+   {
+    "label": "Keef | Orange Soda",
+    "href": null
+   }
+  ],
+  "h1": "Keef | Orange Soda",
+  "name": "Keef | Orange Soda",
+  "brand": {
+   "label": "KEEF",
+   "href": "/brand/keef"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Beverage",
+   "href": "/collection/beverage"
+  },
+  "subcategories": [
+   {
+    "label": "OTHER",
+    "href": "/collection/beverage/other"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2e428208-7faf-4db3-bf39-0d60224c96f3?w=3840&q=100",
+   "alt": "Keef | Orange Soda"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/2e428208-7faf-4db3-bf39-0d60224c96f3?w=3840&q=100",
+    "alt": "Keef | Orange Soda"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "5MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Keef Orange Soda delivers a refreshing cannabis-infused beverage experience with 5 mg of hybrid THC per bottle. This delicious soda combines the classic taste of bright, citrusy orange with the balanced effects of a hybrid strain, making it perfect for any time of day. Each sip offers uplifting and relaxing sensations that can help you feel happy, focused, and social without overwhelming intensity. The low 5 mg dose makes this an ideal choice for both new consumers and experienced users seeking a controlled, enjoyable experience. Keef's Orange Soda is fast-acting, allowing you to feel effects within minutes, and provides a discreet, smoke-free way to enjoy cannabis. Whether you're unwinding after work, enhancing a social gathering, or simply craving a flavorful refreshment, this hybrid-infused orange soda offers a smooth, consistent experience in every bottle.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "each",
+    "price": "$7",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$7",
+   "original": null,
+   "ariaLabel": "Product price: $7"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Keef | Orange Soda to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Keef | Orange Soda to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "KEEF",
+    "href": "/brand/keef"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "5MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Keef Orange Soda 5 Mg"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

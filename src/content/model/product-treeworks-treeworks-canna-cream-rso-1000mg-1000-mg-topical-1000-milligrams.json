@@ -1,0 +1,133 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/treeworks-treeworks-canna-cream-rso-1000mg-1000-mg-topical-1000-milligrams",
+ "slug": "product-treeworks-treeworks-canna-cream-rso-1000mg-1000-mg-topical-1000-milligrams",
+ "type": "product",
+ "title": "TREEWORKS - Treeworks - Canna Cream RSO - 1000MG",
+ "seoTitle": "TREEWORKS - Treeworks - Canna Cream RSO - 1000MG",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Topical",
+    "href": "/collection/topical"
+   },
+   {
+    "label": "Treeworks - Canna Cream RSO - 1000MG",
+    "href": null
+   }
+  ],
+  "h1": "Treeworks - Canna Cream RSO - 1000MG",
+  "name": "Treeworks - Canna Cream RSO - 1000MG",
+  "brand": {
+   "label": "TREEWORKS",
+   "href": "/brand/treeworks"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Indica",
+   "key": "indica",
+   "ariaLabel": "Flower type: Indica"
+  },
+  "category": {
+   "label": "Topical",
+   "href": "/collection/topical"
+  },
+  "subcategories": [
+   {
+    "label": "CREAM",
+    "href": "/collection/topical/cream"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a19c9ab4-a0f0-475d-b67f-e47350f084ed?w=3840&q=100",
+   "alt": "Treeworks - Canna Cream RSO - 1000MG"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/a19c9ab4-a0f0-475d-b67f-e47350f084ed?w=3840&q=100",
+    "alt": "Treeworks - Canna Cream RSO - 1000MG"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "1000MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Treeworks Canna Cream RSO delivers 1000mg of potent cannabis relief in a topical cream designed for targeted comfort. This full-spectrum RSO-infused formula absorbs quickly into the skin, making it ideal for localized relief and anti-inflammatory support. The rich, creamy texture glides on smoothly, providing a discreet and mess-free application perfect for sore muscles, joint discomfort, or everyday wellness routines. Treeworks crafts this topical with quality cannabis extract to deliver consistent potency in every use. Whether you're seeking relief after a workout or managing daily tension, this 1000mg cream offers a powerful, non-intoxicating option that works where you need it most. Easy to apply and fast-acting, it's an essential addition to any cannabis wellness regimen.",
+  "warnings": [],
+  "purchaseState": "placeholder",
+  "variantsTitle": null,
+  "variants": [],
+  "price": null,
+  "actions": [],
+  "availabilityMessage": null,
+  "availabilityTone": null,
+  "availabilityTones": [],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "TREEWORKS",
+    "href": "/brand/treeworks"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Indica",
+    "href": "/strain/Indica"
+   },
+   {
+    "label": "THC",
+    "value": "1000MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Treeworks Canna Cream Rso 1000 Mg 1000 Mg"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}

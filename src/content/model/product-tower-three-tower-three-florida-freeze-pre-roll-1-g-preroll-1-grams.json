@@ -1,0 +1,221 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/tower-three-tower-three-florida-freeze-pre-roll-1-g-preroll-1-grams",
+ "slug": "product-tower-three-tower-three-florida-freeze-pre-roll-1-g-preroll-1-grams",
+ "type": "product",
+ "title": "TOWER THREE - Tower Three - Florida Freeze - Pre-roll",
+ "seoTitle": "TOWER THREE - Tower Three - Florida Freeze - Pre-roll",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Preroll",
+    "href": "/collection/preroll"
+   },
+   {
+    "label": "Tower Three - Florida Freeze - Pre-roll",
+    "href": null
+   }
+  ],
+  "h1": "Tower Three - Florida Freeze - Pre-roll",
+  "name": "Tower Three - Florida Freeze - Pre-roll",
+  "brand": {
+   "label": "TOWER THREE",
+   "href": "/brand/tower-three"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Hybrid",
+   "key": "hybrid",
+   "ariaLabel": "Flower type: Hybrid"
+  },
+  "category": {
+   "label": "Preroll",
+   "href": "/collection/preroll"
+  },
+  "subcategories": [
+   {
+    "label": "FLOWER",
+    "href": "/collection/preroll/flower"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/1f08fc6c-1b66-4252-8526-d6b64e82eed3?w=3840&q=100",
+   "alt": "Tower Three - Florida Freeze - Pre-roll"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/1f08fc6c-1b66-4252-8526-d6b64e82eed3?w=3840&q=100",
+    "alt": "Tower Three - Florida Freeze - Pre-roll"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": "Warning",
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": "Cannabinoids"
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "21.7%",
+    "icon": "vector"
+   },
+   {
+    "label": "CBD",
+    "value": "0.1%",
+    "icon": "water_drop_black"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Tower Three presents Florida Freeze, a convenient 1g pre-roll ready to deliver a refreshing cannabis experience. This expertly crafted preroll showcases frosty, citrus-forward flavors reminiscent of tangy orange and tropical fruit, balanced with subtle earthy undertones that make each session smooth and enjoyable. Perfect for those seeking a flavorful, hassle-free option, Florida Freeze offers an uplifting and relaxed vibe ideal for unwinding after a long day or enhancing social gatherings. The pre-roll format provides ultimate convenience—no grinding, no rolling, just light and enjoy. Tower Three's commitment to quality ensures consistent potency and flavor in every puff, making Florida Freeze a standout choice for both seasoned enthusiasts and newcomers alike. Grab this 1g pre-roll and discover why Florida Freeze is quickly becoming a fan favorite.",
+  "warnings": [
+   {
+    "title": "Proposition 65 Warning for California Consumers",
+    "collapsed": true,
+    "toggleIcon": "angle-down",
+    "toggleAriaLabel": "Expand content",
+    "label": "WARNING:",
+    "lines": [
+     "This product can expose you to chemicals including β-myrcene and cannabis smoke, which are known to the State of California to cause cancer, and chemicals including cannabis smoke and 9-tetrahydrocannabinol, which are known to the State of California to cause birth defects or other reproductive harm."
+    ],
+    "moreInfo": {
+     "text": "For more information go to",
+     "label": "www.P65Warnings.ca.gov",
+     "href": "https://www.P65Warnings.ca.gov"
+    },
+    "links": []
+   }
+  ],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "1g",
+    "price": "$12",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$12",
+   "original": null,
+   "ariaLabel": "Product price: $12"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Tower Three - Florida Freeze - Pre-roll to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Tower Three - Florida Freeze - Pre-roll to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "TOWER THREE",
+    "href": "/brand/tower-three"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Hybrid",
+    "href": "/strain/Hybrid"
+   },
+   {
+    "label": "THC",
+    "value": "21.7%"
+   },
+   {
+    "label": "CBD",
+    "value": "0.1%"
+   },
+   {
+    "label": "Package Info",
+    "value": "Tower Three Florida Freeze Pre Roll 1 G"
+   },
+   {
+    "label": "Available Weights",
+    "value": "1g"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [
+   {
+    "group": "THC",
+    "items": [
+     {
+      "name": "THCA",
+      "value": "24.2%"
+     },
+     {
+      "name": "THC",
+      "value": "21.7%"
+     }
+    ]
+   },
+   {
+    "group": "CBD",
+    "items": [
+     {
+      "name": "CBD",
+      "value": "0.1%"
+     },
+     {
+      "name": "CBDA",
+      "value": "0.1%"
+     }
+    ]
+   }
+  ],
+  "jsonld": null
+ }
+}

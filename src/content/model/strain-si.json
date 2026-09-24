@@ -1,0 +1,143 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/strain/si",
+ "slug": "strain-si",
+ "type": "strain",
+ "title": "S/I",
+ "seoTitle": "S/I",
+ "model": {
+  "urlPath": "/strain/si",
+  "urlKey": "si",
+  "urlCaseVariant": false,
+  "urlLowercasePath": "/strain/si",
+  "h1": "S/I",
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "S I",
+    "href": null
+   }
+  ],
+  "banner": {
+   "lines": [
+    "S/I"
+   ],
+   "description": "Shop our selection of strains",
+   "image": {
+    "desktop": {
+     "src": "https://images.prismic.io/sunny-dayz/Z5vMp5bqstJ9-D0S_CategoriesBanner-35.png?auto=format%2Ccompress&fit=max&w=3840",
+     "alt": "Banner"
+    },
+    "mobile": {
+     "src": "https://images.prismic.io/sunny-dayz/Z5vMqJbqstJ9-D0T_CategoriesBanner-34.png?auto=format%2Ccompress&fit=max&w=3840",
+     "alt": "Banner"
+    }
+   }
+  },
+  "seoBlocks": [],
+  "toolbar": {
+   "filterLabel": "FILTER",
+   "activeFilters": [],
+   "sortLabel": "Sort By",
+   "sortAriaLabel": "Sort by",
+   "sortOptions": []
+  },
+  "grid": {
+   "state": "loading",
+   "placeholderCount": 24,
+   "emptyState": null,
+   "cards": [],
+   "pagination": {
+    "placeholder": true,
+    "pageSlots": 5
+   }
+  },
+  "products": [
+   {
+    "position": 1,
+    "url": "/product/sweetgrass-botanicals-sweetgrass-botanicals-sour-gary-5g-live-rosin-cart-0-5-g-cartridge-0-5-grams",
+    "name": "Sweetgrass Botanicals - Sour Gary - .5G Live Rosin Cart",
+    "brand": "SWEETGRASS BOTANICALS",
+    "description": "Sweetgrass Botanicals presents Sour Gary, a premium .5g live rosin cartridge that delivers exceptional purity and potency in a convenient 510 thread format. Crafted using solventless extraction methods, this live rosin cart preserves the full spectrum of cannabinoids and cannabis-derived terpenes for an authentic, strain-specific experience. Sour Gary's flavor profile combines tangy citrus notes with earthy, diesel undertones and a distinct sour punch that lingers on the palate. The terpene-rich vapor provides smooth, flavorful draws from start to finish. This cartridge offers potent effects perfect for those seeking quality and convenience in their concentrate experience. Compatible with any standard 510 thread battery, Sweetgrass Botanicals' Sour Gary cart represents craft cannabis extraction at its finest, delivering powerful flavor and effects in every session.",
+    "price": "$40",
+    "priceValue": 40,
+    "priceCurrency": "USD",
+    "availability": "InStock",
+    "image": {
+     "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/aa2b7c85-71a4-4291-a6c3-332e60f9e3a4",
+     "alt": "Sweetgrass Botanicals - Sour Gary - .5G Live Rosin Cart"
+    }
+   }
+  ],
+  "productCount": 1,
+  "_ui": {
+   "filterDrawerId": "filters-treez-drawer",
+   "emptyStateIcon": null
+  },
+  "_jsonld": {
+   "breadcrumbList": {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/",
+       "name": "Home"
+      },
+      "position": 1
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "@id": "/shop",
+       "name": "Menu"
+      },
+      "position": 2
+     },
+     {
+      "@type": "ListItem",
+      "item": {
+       "name": "S I"
+      },
+      "position": 3
+     }
+    ]
+   },
+   "itemList": {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "itemListElement": [
+     {
+      "@type": "ListItem",
+      "item": {
+       "@context": "https://schema.org",
+       "@type": "Product",
+       "brand": "SWEETGRASS BOTANICALS",
+       "description": "Sweetgrass Botanicals presents Sour Gary, a premium .5g live rosin cartridge that delivers exceptional purity and potency in a convenient 510 thread format. Crafted using solventless extraction methods, this live rosin cart preserves the full spectrum of cannabinoids and cannabis-derived terpenes for an authentic, strain-specific experience. Sour Gary&apos;s flavor profile combines tangy citrus notes with earthy, diesel undertones and a distinct sour punch that lingers on the palate. The terpene-rich vapor provides smooth, flavorful draws from start to finish. This cartridge offers potent effects perfect for those seeking quality and convenience in their concentrate experience. Compatible with any standard 510 thread battery, Sweetgrass Botanicals&apos; Sour Gary cart represents craft cannabis extraction at its finest, delivering powerful flavor and effects in every session.",
+       "name": "Sweetgrass Botanicals - Sour Gary - .5G Live Rosin Cart",
+       "offers": {
+        "availability": "http://schema.org/InStock",
+        "itemCondition": "NewCondition",
+        "price": "40",
+        "priceCurrency": "USD",
+        "seller": {
+         "name": "Sunny Dayz"
+        },
+        "url": "https://www.sunnydayzcannabis.com/product/sweetgrass-botanicals-sweetgrass-botanicals-sour-gary-5g-live-rosin-cart-0-5-g-cartridge-0-5-grams"
+       },
+       "image": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/aa2b7c85-71a4-4291-a6c3-332e60f9e3a4"
+      },
+      "position": "1"
+     }
+    ]
+   }
+  }
+ }
+}

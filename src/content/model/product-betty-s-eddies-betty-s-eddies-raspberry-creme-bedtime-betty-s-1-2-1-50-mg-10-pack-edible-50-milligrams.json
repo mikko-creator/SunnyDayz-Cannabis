@@ -1,0 +1,164 @@
+{
+ "url": "https://www.sunnydayzcannabis.com/product/betty-s-eddies-betty-s-eddies-raspberry-creme-bedtime-betty-s-1-2-1-50-mg-10-pack-edible-50-milligrams",
+ "slug": "product-betty-s-eddies-betty-s-eddies-raspberry-creme-bedtime-betty-s-1-2-1-50-mg-10-pack-edible-50-milligrams",
+ "type": "product",
+ "title": "BETTY'S EDDIES - Betty's Eddies | Raspberry Creme | Bedtime Betty's | 1:2:1",
+ "seoTitle": "BETTY'S EDDIES - Betty's Eddies | Raspberry Creme | Bedtime Betty's | 1:2:1",
+ "model": {
+  "breadcrumb": [
+   {
+    "label": "Home",
+    "href": "/"
+   },
+   {
+    "label": "Menu",
+    "href": "/shop"
+   },
+   {
+    "label": "Edible",
+    "href": "/collection/edible"
+   },
+   {
+    "label": "Betty's Eddies | Raspberry Creme | Bedtime Betty's | 1:2:1",
+    "href": null
+   }
+  ],
+  "h1": "Betty's Eddies | Raspberry Creme | Bedtime Betty's | 1:2:1",
+  "name": "Betty's Eddies | Raspberry Creme | Bedtime Betty's | 1:2:1",
+  "brand": {
+   "label": "BETTY'S EDDIES",
+   "href": "/brand/bettys-eddies"
+  },
+  "badges": [],
+  "strainType": {
+   "label": "Indica",
+   "key": "indica",
+   "ariaLabel": "Flower type: Indica"
+  },
+  "category": {
+   "label": "Edible",
+   "href": "/collection/edible"
+  },
+  "subcategories": [
+   {
+    "label": "CHEW",
+    "href": "/collection/edible/chew"
+   }
+  ],
+  "image": {
+   "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/ed10bc00-42c5-472b-bf9e-42904893b01d?w=3840&q=100",
+   "alt": "Betty's Eddies | Raspberry Creme | Bedtime Betty's | 1:2:1"
+  },
+  "images": [
+   {
+    "src": "https://d1hhy58mqsa6c3.cloudfront.net/e4106378-53c0-4bab-a8e2-a72ac74e5d5f/ed10bc00-42c5-472b-bf9e-42904893b01d?w=3840&q=100",
+    "alt": "Betty's Eddies | Raspberry Creme | Bedtime Betty's | 1:2:1"
+   }
+  ],
+  "thumbnails": [],
+  "galleryNav": [],
+  "stockPhoto": false,
+  "stockPhotoLabel": null,
+  "sectionTitles": {
+   "details": "Details",
+   "description": "Product descriptions",
+   "warning": null,
+   "about": "About this product",
+   "terpenes": null,
+   "cannabinoids": null
+  },
+  "details": [
+   {
+    "label": "THC",
+    "value": "50MG",
+    "icon": "vector"
+   }
+  ],
+  "disclaimer": "*This % may represent an aggregate of THC/CBD, THCa/CBDa, THCb/CBDb within the product. Consumers should review the actual product label for exact % of THC/CBD.",
+  "description": "Betty's Eddies Raspberry Creme Bedtime Betty's chews deliver a balanced 1:2:1 THC:CBD:CBN ratio of cannabinoids in a 50 mg edible designed to help you unwind. Crafted by Betty's Eddies, these indica-inspired chews combine relaxing effects with the sweet, creamy flavor of raspberry for a delicious bedtime treat. Each chew offers a smooth, fruity taste that makes your nightly routine something to look forward to. Ideal for those seeking relief and relaxation, Bedtime Betty's help ease you into a restful state, promoting sleepy, calm vibes perfect for winding down after a long day. The convenient chewable format makes dosing simple and enjoyable, while the raspberry creme flavor profile adds a touch of indulgence to your cannabis experience. Whether you're looking to quiet a busy mind or simply enhance your sleep quality, these indica chews provide a gentle, effective way to embrace relaxation and drift off peacefully.",
+  "warnings": [],
+  "purchaseState": "hidden",
+  "variantsTitle": "Available variants",
+  "variants": [
+   {
+    "weight": "each",
+    "price": "$20",
+    "active": true,
+    "href": null
+   }
+  ],
+  "price": {
+   "current": "$20",
+   "original": null,
+   "ariaLabel": "Product price: $20"
+  },
+  "actions": [
+   {
+    "kind": "add-to-cart",
+    "label": "Add To Cart",
+    "ariaLabel": "Add Betty's Eddies | Raspberry Creme | Bedtime Betty's | 1:2:1 to cart"
+   },
+   {
+    "kind": "favorite",
+    "label": "",
+    "ariaLabel": "Add Betty's Eddies | Raspberry Creme | Bedtime Betty's | 1:2:1 to favorites"
+   },
+   {
+    "kind": "continue-shopping",
+    "label": "Continue Shopping",
+    "ariaLabel": "Go to continue shopping",
+    "href": "/shop"
+   }
+  ],
+  "availabilityMessage": "This product is unavailable in your selected store",
+  "availabilityTone": "warning",
+  "availabilityTones": [
+   "success",
+   "warning"
+  ],
+  "about": [
+   {
+    "label": "Licensed Producer",
+    "value": "BETTYS EDDIES",
+    "href": "/brand/bettys-eddies"
+   },
+   {
+    "label": "Flower Type",
+    "value": "Indica",
+    "href": "/strain/Indica"
+   },
+   {
+    "label": "THC",
+    "value": "50MG"
+   },
+   {
+    "label": "Package Info",
+    "value": "Bettys Eddies Raspberry Creme Bedtime Bettys 1 2 1 50 Mg 10 Pack"
+   }
+  ],
+  "share": {
+   "label": "Share",
+   "buttons": [
+    {
+     "network": "facebook",
+     "ariaLabel": "Share on Facebook"
+    },
+    {
+     "network": "twitter",
+     "ariaLabel": "Share on Twitter"
+    },
+    {
+     "network": "pinterest",
+     "ariaLabel": "Share on Pinterest"
+    },
+    {
+     "network": "whatsapp",
+     "ariaLabel": "Share on WhatsApp"
+    }
+   ]
+  },
+  "terpenes": [],
+  "cannabinoids": [],
+  "jsonld": null
+ }
+}
