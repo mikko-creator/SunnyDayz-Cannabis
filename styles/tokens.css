@@ -1,0 +1,242 @@
+
+:root {
+  
+  --c-1: #f8f9f9;
+  --c-2: #f2f2f3;
+  --c-3: #ffffff;
+  --c-4: #55575c;
+  --c-5: #ffffff4d;
+  --c-6: #231f20;
+  --c-7: #666a70;
+  --c-8: #767d84;
+
+  
+  --font-body: Poppins, ui-sans-serif, system-ui, sans-serif, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Ubuntu, Cantarell, "Noto Sans", sans-serif, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  --font-display: gcicons;
+  --fs-1: 8px;
+  --fs-2: 10px;
+  --fs-3: 12px;
+  --fs-4: 12.8px;
+  --fs-5: 13px;
+  --fs-6: 14px;
+  --fs-7: 14.7px;
+  --fs-8: 15px;
+  --fs-9: 16px;
+  --fs-10: 17.4px;
+  --fs-11: 18px;
+  --fs-12: 19.7px;
+  --fs-13: 20px;
+  --fs-14: 21px;
+  --fs-15: 22px;
+  --fs-16: 23.14px;
+  --fs-17: 23.6px;
+  --fs-18: 24px;
+  --fs-19: 24.71px;
+  --fs-20: 25.36px;
+  --fs-21: 25.408px;
+  --fs-22: 25.7px;
+  --fs-23: 26px;
+  --fs-24: 26.944px;
+  --fs-25: 28.112px;
+  --fs-26: 29.44px;
+  --fs-27: 30px;
+  --fs-28: 30.416px;
+  --fs-29: 30.48px;
+  --fs-30: 32px;
+  --fs-31: 36px;
+  --fs-32: 38.8px;
+  --fs-33: 48px;
+
+  
+  --sp-1: 1px;
+  --sp-2: 2px;
+  --sp-3: 2.4px;
+  --sp-4: 3px;
+  --sp-5: 4px;
+  --sp-6: 5px;
+  --sp-7: 6px;
+  --sp-8: 8px;
+  --sp-9: 8.9375px;
+  --sp-10: 10px;
+  --sp-11: 10.5px;
+  --sp-12: 10.88px;
+  --sp-13: 11px;
+  --sp-14: 12px;
+  --sp-15: 13px;
+  --sp-16: 14px;
+  --sp-17: 15px;
+  --sp-18: 16px;
+  --sp-19: 17.5938px;
+  --sp-20: 17.9375px;
+  --sp-21: 18px;
+  --sp-22: 20px;
+  --sp-23: 22.3438px;
+  --sp-24: 23px;
+  --sp-25: 23.4531px;
+  --sp-26: 24px;
+  --sp-27: 26px;
+  --sp-28: 27px;
+  --sp-29: 28px;
+  --sp-30: 30px;
+  --sp-31: 31px;
+  --sp-32: 31.1875px;
+  --sp-33: 32px;
+  --sp-34: 33px;
+  --sp-35: 36px;
+  --sp-36: 40px;
+  --sp-37: 44px;
+  --sp-38: 47px;
+  --sp-39: 47.5938px;
+  --sp-40: 48px;
+  --sp-41: 52.3906px;
+  --sp-42: 56px;
+  --sp-43: 58.6562px;
+  --sp-44: 60.3906px;
+  --sp-45: 64px;
+  --sp-46: 66.9062px;
+  --sp-47: 72px;
+  --sp-48: 72.7969px;
+  --sp-49: 82.5px;
+  --sp-50: 84.3125px;
+  --sp-51: 90px;
+  --sp-52: 134.234px;
+  --sp-53: 146.922px;
+  --sp-54: 150px;
+  --sp-55: 162px;
+  --sp-56: 167.031px;
+  --sp-57: 171.031px;
+  --sp-58: 172.891px;
+  --sp-59: 180.953px;
+  --sp-60: 183.047px;
+  --sp-61: 185.328px;
+  --sp-62: 186.703px;
+  --sp-63: 197.125px;
+  --sp-64: 198.562px;
+  --sp-65: 198.688px;
+  --sp-66: 204.156px;
+  --sp-67: 208.797px;
+  --sp-68: 209.266px;
+  --sp-69: 211.688px;
+  --sp-70: 216.031px;
+  --sp-71: 224px;
+  --sp-72: 226.703px;
+  --sp-73: 228.031px;
+  --sp-74: 230.438px;
+  --sp-75: 230.453px;
+  --sp-76: 233.688px;
+  --sp-77: 237.219px;
+  --sp-78: 250.547px;
+  --sp-79: 288.047px;
+  --sp-80: 294.5px;
+  --sp-81: 297.188px;
+  --sp-82: 314.484px;
+  --sp-83: 320px;
+  --sp-84: 320.688px;
+  --sp-85: 327.594px;
+  --sp-86: 330.906px;
+  --sp-87: 365.188px;
+  --sp-88: 395px;
+  --sp-89: 396.266px;
+  --sp-90: 405.062px;
+  --sp-91: 440.312px;
+  --sp-92: 442.797px;
+  --sp-93: 557.25px;
+  --sp-94: 558px;
+  --sp-95: 604.156px;
+
+  
+  --radius-1: 4px;
+  --radius-2: 12px;
+  --radius-3: 50%;
+  --radius-4: 35%;
+  --shadow-1: rgba(7, 13, 21, 0.1) 4px 0px 24px 8px;
+  --shadow-2: rgba(18, 37, 33, 0.12) 0px 0px 12px 0px;
+  --shadow-3: rgba(7, 13, 21, 0.05) 0px 4px 24px 0px;
+
+  
+  --container: 100%;
+  --bp-1: 1280px;
+}
+
+:root {
+  color-scheme: light;
+
+  
+  --ink: var(--c-6);
+  --ink-2: var(--c-4);
+  --ink-3: color-mix(in oklab, var(--c-7) 80%, var(--c-6)); 
+  --paper: var(--c-3);
+  --sun: #f9e200;
+  --sun-pale: #fbed6b;
+  --ember: #fe8b19;
+  --peach: #ffd1a3;
+  --gold: #f5c96c;
+  --pine: #074b44;
+  --olive: #365207;
+  --dusk: #291b5f;
+
+  
+  --clay: #eee6d8;
+  --clay-hi: #f7f1e6;
+  --clay-lo: #e2d8c6;
+  --clay-deep: #d8ccb6;
+  --clay-light: #fffaf2;
+  --clay-shade: #c9bba2;
+  --clay-shade-2: #b3a386;
+
+  
+  --pine-2: color-mix(in oklab, var(--pine) 78%, var(--paper));
+  --pine-ink: color-mix(in oklab, var(--pine) 88%, var(--ink));
+  --sun-2: color-mix(in oklab, var(--sun) 70%, var(--ember));
+  --ember-ink: color-mix(in oklab, var(--ember) 48%, var(--ink)); 
+  --dusk-2: color-mix(in oklab, var(--dusk) 70%, var(--paper));
+  --olive-2: color-mix(in oklab, var(--olive) 75%, var(--paper));
+  --ink-glass: color-mix(in oklab, var(--ink) 72%, transparent); 
+  --paper-glass: color-mix(in oklab, var(--paper) 62%, transparent);
+  --clay-glass: color-mix(in oklab, var(--clay-hi) 72%, transparent);
+
+  
+  --strain-indica: var(--dusk);
+  --strain-sativa: var(--ember-ink);
+  --strain-hybrid: var(--pine);
+  --strain-cbd: var(--olive);
+  --strain-default: var(--ink-2);
+
+  
+  --rim: color-mix(in oklab, var(--clay-light) 70%, transparent);
+  --shade-soft: color-mix(in oklab, var(--clay-shade) 75%, transparent);
+  --shade-deep: color-mix(in oklab, var(--clay-shade-2) 60%, transparent);
+  --neu-raise-sm: -4px -4px 10px var(--clay-light), 5px 6px 14px var(--shade-soft);
+  --neu-raise: -9px -9px 20px var(--clay-light), 11px 13px 28px var(--shade-soft), 0 1px 0 var(--rim) inset;
+  --neu-raise-lg: -16px -16px 36px var(--clay-light), 22px 26px 52px var(--shade-deep), 0 1px 0 var(--rim) inset;
+  --neu-inset: inset 6px 6px 14px var(--shade-soft), inset -6px -6px 14px var(--clay-light);
+  --neu-inset-sm: inset 3px 3px 7px var(--shade-soft), inset -3px -3px 7px var(--clay-light);
+  --neu-pressed: inset 8px 8px 18px var(--shade-deep), inset -7px -7px 16px var(--clay-light);
+  --lift-shadow: 0 28px 44px -18px color-mix(in oklab, var(--ink) 45%, transparent);
+  --cutout-shadow: drop-shadow(0 22px 22px color-mix(in oklab, var(--ink) 34%, transparent)) drop-shadow(0 4px 6px color-mix(in oklab, var(--ink) 22%, transparent));
+  --glow-sun: 0 0 0 4px color-mix(in oklab, var(--sun) 55%, transparent), 0 0 0 7px color-mix(in oklab, var(--pine) 70%, transparent);
+
+  
+  --font-serif: "Fraunces", "Iowan Old Style", "Palatino Linotype", Georgia, serif;
+  --font-sans: "Poppins", var(--font-body);
+  --step--1: clamp(0.8rem, 0.77rem + 0.15vw, 0.9rem);
+  --step-0: clamp(1rem, 0.9rem + 0.25vw, 1.08rem); 
+  --step-1: clamp(1.15rem, 1.05rem + 0.5vw, 1.4rem);
+  --step-2: clamp(1.4rem, 1.2rem + 1vw, 1.95rem);
+  --step-3: clamp(1.8rem, 1.45rem + 1.8vw, 2.9rem);
+  --step-4: clamp(2.3rem, 1.7rem + 3vw, 4.4rem);
+  --step-5: clamp(2.8rem, 1.9rem + 4.6vw, 6.4rem);
+
+  
+  --gutter: max(clamp(16px, 4vw, 48px), env(safe-area-inset-left), env(safe-area-inset-right)); 
+  --shell: 1320px;
+  --radius-xs: 10px;
+  --radius-sm: 16px;
+  --radius: 26px;
+  --radius-lg: 38px;
+  --radius-pill: 999px;
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-spring: cubic-bezier(0.34, 1.56, 0.64, 1);
+  --dur: 420ms;
+}
+
