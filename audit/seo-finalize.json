@@ -1,6 +1,6 @@
 {
  "schema": "sunnydayz/seo-finalize@1",
- "generated": "2026-09-24T01:40:48.548Z",
+ "generated": "2026-09-24T06:20:32.538Z",
  "siteUrl": "https://www.sunnydayzcannabis.com",
  "note": "sitemap.xml + llms.txt rewritten after sr-seo --apply: <loc> = each page's canonical, noindex pages excluded, URLs percent-encoded, every <loc> resolved to a built file.",
  "before": {

@@ -1,6 +1,6 @@
 {
   "schema": "site-reforge/seo-changes@1",
-  "generated": "2026-09-24T01:40:48.320Z",
+  "generated": "2026-09-24T06:20:32.352Z",
   "note": "Every field written into the build by sr-seo --apply. Each carries where its value came from. A field the source already filled is never rewritten here.",
   "siteUrl": "https://www.sunnydayzcannabis.com",
   "siteName": "",

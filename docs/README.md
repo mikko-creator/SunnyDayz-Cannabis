@@ -60,7 +60,7 @@ that was added, derived or removed.
   Why: the 16 entries are srcset parse artifacts, not images: the source writes `…png?auto=format,compress?w=N`, the extractor split the srcset at that comma and resolved the tail as a page-relative URL (`/compress?w=1080&q=100`, …). 16 of 16 are referenced by no page. They are closed in `audit/failures.json` by `src/tools/accept-failures.mjs`; the inventory itself is left as the extractor wrote it.
 - **C20** No invented content: FAIL — 0 blocker + 12 major unsourced claims
   Why: every remaining finding is copy that appears on the live site in the same context — traced one by one in `audit/fabrication-trace.json` (12 of 12 traced, 0 untraced).
-- **C22** Design matches the source pixel-for-pixel at every breakpoint: FAIL — worst drift 98.625% on product.768.png
+- **C22** Design matches the source pixel-for-pixel at every breakpoint: FAIL — worst drift 98.699% on product.768.png
   Why: this is a redesign; the pixel comparison against the old design is expected to differ. The per-page drift is in `audit/pixeldiff-report.json`.
 
 ### Must be wired before this replaces the live site

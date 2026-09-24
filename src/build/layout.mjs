@@ -16,9 +16,12 @@ export const BUILD_ID = process.env.SDZ_BUILD_ID || 'v2';
 // a store address in a pill wraps on phones: keep the ZIP with the state so it never stands alone
 export const addr = (s) => t(s).replace(/ (\d{5}(?:-\d{4})?)$/, '&nbsp;$1');
 
-export function logoImg(cls = '', lazy = true) {
+// sizes follows the rendered width (header: --logo-w in components.css; footer 240px; age gate 190px),
+// so a DPR-2/3 screen is offered the 600w file for a logo drawn over 150px wide
+const LOGO_SIZES = '(max-width: 720px) 140px, (max-width: 1024px) 152px, (max-width: 1260px) 150px, 176px';
+export function logoImg(cls = '', lazy = true, sizes = LOGO_SIZES) {
   const im = image(chrome.logo && chrome.logo.src, { max: 600, widths: [300, 600], page: 'chrome' });
-  return imgTag(im, { alt: 'Sunny Dayz', cls, sizes: '140px', lazy });
+  return imgTag(im, { alt: 'Sunny Dayz', cls, sizes, lazy });
 }
 
 // JSON-LD: keep the source's structured data; images point at the local copy (absolute).
@@ -158,7 +161,7 @@ export function footer(url) {
   <div class="shell">
     <a class="express magnet" href="/shop" data-mode="express" data-integration="treez-express-delivery">${icon.truck}<b data-mode-text="pickup">${t(chrome.express.lead)}</b><b data-mode-text="express" hidden>${t(chrome.chooser.expressLead.text)}</b><span class="btn btn--pine btn--sm">${t(chrome.express.action)} ${icon.arrow}</span></a>
     <div class="footer__top">
-      <div class="footer__brand">${logoImg()}<p class="muted" style="margin-top:14px">${t(chrome.store.name)}<br>${t(chrome.store.address)}</p></div>
+      <div class="footer__brand">${logoImg('', true, '240px')}<p class="muted" style="margin-top:14px">${t(chrome.store.name)}<br>${t(chrome.store.address)}</p></div>
       ${chrome.footer.map(col).join('')}
     </div>
     <div class="compliance">${chrome.compliance.map((p) => `<p>${t(p)}</p>`).join('')}<span class="licence">${t(chrome.licence)}</span></div>
@@ -182,7 +185,7 @@ export function overlays() {
   return `<div class="agegate" id="agegate" role="dialog" aria-modal="true" aria-labelledby="agegate-title" data-exit-url="${attr(chrome.ageGateExitUrl || '')}" hidden>
   <div class="agegate__card">
     <div class="sun-orb sun-orb--spin" aria-hidden="true"></div>
-    <div class="agegate__logo">${logoImg('', false)}</div>
+    <div class="agegate__logo">${logoImg('', false, '190px')}</div>
     <h2 id="agegate-title">${t(heading)}</h2>
     <p>${tc}</p>
     <div class="cluster"><button class="btn btn--sun" type="button" data-age-yes>${t(g[2] || "I'M AT LEAST 21 YEARS OLD")}</button><button class="btn btn--ghost" type="button" data-age-exit>${t(g[3] || 'EXIT THE SITE')}</button></div>

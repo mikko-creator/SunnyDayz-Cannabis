@@ -4,7 +4,7 @@
   "targetUrl": "https://www.sunnydayzcannabis.com/",
   "origin": "https://www.sunnydayzcannabis.com",
   "createdAt": "2026-09-23T02:25:31.157Z",
-  "updatedAt": "2026-09-24T01:58:43.583Z",
+  "updatedAt": "2026-09-24T06:35:07.511Z",
   "config": {
     "maxPages": 300,
     "concurrency": 2,
@@ -93,7 +93,7 @@
     },
     "responsive": {
       "status": "done",
-      "at": "2026-09-24T01:47:56.303Z",
+      "at": "2026-09-24T06:26:45.891Z",
       "note": "72 sweeps at 1024/1440/390/768"
     },
     "seo": {
@@ -108,22 +108,22 @@
     },
     "decontaminate": {
       "status": "done",
-      "at": "2026-09-24T01:58:25.487Z",
+      "at": "2026-09-24T06:34:40.363Z",
       "note": "CLEAN (0 traces)"
     },
     "parity": {
       "status": "done",
-      "at": "2026-09-24T01:41:10.223Z",
+      "at": "2026-09-24T06:20:34.073Z",
       "note": "PARITY — 288 findings"
     },
     "fabrication": {
       "status": "fail",
-      "at": "2026-09-24T01:41:11.655Z",
+      "at": "2026-09-24T06:20:35.211Z",
       "note": "FABRICATION — 12 findings"
     },
     "pixeldiff": {
       "status": "fail",
-      "at": "2026-09-24T01:55:07.301Z",
+      "at": "2026-09-24T06:34:17.971Z",
       "note": "DRIFT — 12/12 pairs over threshold"
     },
     "sweep": {
@@ -138,13 +138,13 @@
     },
     "gate": {
       "status": "fail",
-      "at": "2026-09-24T01:58:26.314Z",
+      "at": "2026-09-24T06:34:41.240Z",
       "note": "NOT-READY — 26/29 passing"
     },
     "package": {
       "status": "forced",
-      "at": "2026-09-24T01:58:43.583Z",
-      "note": "sunnydayzcannabis-com-handoff-v20260924.zip — 4671 entries, 743057374 bytes"
+      "at": "2026-09-24T06:35:07.510Z",
+      "note": "sunnydayzcannabis-com-handoff-v20260924.zip — 4674 entries, 743127321 bytes"
     },
     "presetMatch": {
       "status": "partial",

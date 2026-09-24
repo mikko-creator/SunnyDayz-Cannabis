@@ -86,7 +86,7 @@ text on a product photo measured 3.71:1).
   active state; `--lift-shadow` for floating bands and `--cutout-shadow` for pop-out images.
 - Layering: a pop-out frame (`.pop`) is an offset outline, a clipped photo and a background-removed
   cut-out of the same photo that breaks out of the frame's top edge.
-- Breakpoints in use: `max-width: 600px` (5), `max-width: 1180px` (3), `max-width: 1024px` (1), `max-width: 720px` (6), `max-width: 834px` (4), `max-width: 1100px` (1), `max-width: 480px` (1), `min-width: 600px` (1), `max-width: 599px` (3), `max-width: 1249px` (1), `max-width: 899px` (1), `max-width: 1360px` (1), `min-width: 1181px` (2), `min-width: 1361px` (1), `max-width: 440px` (1), `min-width: 931px` (1), `max-width: 420px` (2), `min-width: 1025px` (1), `max-width: 400px` (1), `max-width: 310px` (1). Verified at
+- Breakpoints in use: `max-width: 600px` (5), `max-width: 1180px` (3), `max-width: 1024px` (1), `max-width: 720px` (7), `max-width: 834px` (4), `max-width: 1100px` (1), `max-width: 480px` (1), `min-width: 600px` (1), `max-width: 599px` (3), `max-width: 1249px` (1), `max-width: 899px` (1), `max-width: 1360px` (1), `min-width: 1181px` (3), `max-width: 440px` (1), `min-width: 931px` (1), `max-width: 420px` (2), `min-width: 1025px` (2), `max-width: 400px` (1), `max-width: 310px` (1), `min-width: 721px` (2), `min-width: 1261px` (1), `min-width: 1361px` (1). Verified at
   390 / 768 / 1024 / 1440px: 0 blocker and 0 major findings on the rebuild
   (`audit/sweep-findings.json`). Every control on the 18 swept templates is at least 44×44px on a phone.
 

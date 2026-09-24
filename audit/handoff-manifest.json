@@ -3,13 +3,13 @@
   "project": "sunnydayzcannabis-com",
   "target": "https://www.sunnydayzcannabis.com/",
   "version": "v20260924",
-  "builtAt": "2026-09-24T01:58:27.014Z",
+  "builtAt": "2026-09-24T06:34:42.108Z",
   "gateVerdict": "NOT-READY",
   "decontamination": "CLEAN",
   "forced": {
-    "why": "Operator approved packaging over the 3 remaining gate FAILs (2026-09-23): C07 = 16 srcset parse artifacts referenced by no page, closed in audit/failures.json; C20 = 12 claims, every one verbatim from the live site (audit/fabrication-trace.json, 12/12 traced); C22 = pixel drift inherent to a full redesign. Round-4 QA, the phone optimisation and verification rounds 5-6 are recorded in docs/QA-LOG.md."
+    "why": "Operator approved packaging over the 3 remaining gate FAILs (2026-09-23): C07 = 16 srcset parse artifacts referenced by no page, closed in audit/failures.json; C20 = 12 claims, every one verbatim from the live site (audit/fabrication-trace.json, 12/12 traced); C22 = pixel drift inherent to a full redesign. Round-4 QA, the phone optimisation, verification rounds 5-6 and the logo-size change are recorded in docs/QA-LOG.md."
   },
-  "entryCount": 4671,
+  "entryCount": 4674,
   "checks": [
     {
       "id": "C01",
@@ -163,7 +163,7 @@
       "label": "Design matches the source pixel-for-pixel at every breakpoint",
       "stage": "pixeldiff",
       "status": "FAIL",
-      "evidence": "worst drift 98.625% on product.768.png"
+      "evidence": "worst drift 98.699% on product.768.png"
     },
     {
       "id": "C23",
@@ -217,6 +217,7 @@
   ],
   "contents": [
     ".gitignore",
+    "README.md",
     "assets/fonts/pxiByp8kv8JHgFVrLCz7V1s.ttf",
     "assets/fonts/pxiByp8kv8JHgFVrLDD4V1s.ttf",
     "assets/fonts/pxiByp8kv8JHgFVrLDz8V1s.ttf",
@@ -3235,6 +3236,7 @@
     "audit/failures.json",
     "audit/font-inventory.json",
     "audit/gate.json",
+    "audit/handoff-manifest.json",
     "audit/image-inventory.json",
     "audit/ledger-rules.json",
     "audit/link-graph.json",
@@ -3516,6 +3518,7 @@
     "audit/rendered/weed-delivery-dispensary-in-glendale.json",
     "audit/rendered/~small-~batch-~real-~farmers-~real-~flavor.json",
     "audit/reports/sunnydayzcannabis-com-2026-09-24T01-57-02-760Z.html",
+    "audit/reports/sunnydayzcannabis-com-2026-09-24T06-34-39-374Z.html",
     "audit/robots.txt",
     "audit/script-inventory.json",
     "audit/seo-changes.json",

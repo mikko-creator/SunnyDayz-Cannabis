@@ -77,6 +77,21 @@ reviewers each viewed every contact sheet they made (100/100, 36/36, 68/68, 61/6
 320, 390, 430, 844×390, 768, 1024, 1440 and 1920, and their skeptics viewed theirs at 360, 414, 600, 1280
 and 1366×657.
 
+## Logo size (requested after the first publish)
+
+The header logo grows wherever the nav has room for it, measured per width with a classic 17px scrollbar's
+worth kept spare: phones 104 → 128–140px (112px on phones under 600px tall, so the hero buttons stay clear of
+the dock), tablets → 152px, 1025–1180 → 128–150px, 1261–1360 → 164px, 1361 and up 136 → 176px. It stays as it
+was at 1181–1260, where the store pill leaves under 30px free. The header store pill now shows its badge and
+name only; its address line showed about half the address and took the room the logo needed (the full address
+is in the store chooser). The footer logo goes 180 → 240px, never wider than its column.
+
+The hero's tuck under the nav is now computed from the logo width instead of three hand-tuned numbers, so the
+two cannot drift apart. Checked on 1,666 viewports (320–2560, 1px steps through 1000–1480, two heights) and
+481 more with a 17px scrollbar: no overlap, nothing outside the nav, no gap under the announce bar (the old
+build had up to 12px), hero copy at least 27px below the nav, no sideways scroll. The detector was proven
+able to fire by injecting a 420px logo.
+
 ## For the client to decide
 
 - **Age-gate EXIT** goes back when the visitor came from another site, otherwise to `https://www.google.com/`.
