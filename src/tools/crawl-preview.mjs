@@ -29,15 +29,24 @@ function refsOf(html, pageUrl) {
   for (const m of html.matchAll(/url\(\s*['"]?([^'")]+)/g)) out.push(['style-url', m[1]]);
   return out.filter(([, u]) => !/^(mailto:|tel:|sms:|javascript:|data:|#)/.test(u)).map(([k, u]) => { try { return [k, strip(new URL(u.replace(/&amp;/g, '&'), pageUrl).href)]; } catch { return null; } }).filter(Boolean);
 }
+// polite against a real host: a small delay between requests per worker, and a 429 (rate limit) is
+// waited out (Retry-After, else exponential backoff) and retried — it is the host, not the preview
+const DELAY = Number(args.delay || 0);
 async function get(u) {
-  for (let i = 0; i < 3; i++) {
-    try { const r = await fetch(u, { redirect: 'follow' }); const ct = r.headers.get('content-type') || ''; const body = /text\/(html|css)/.test(ct) ? await r.text() : (await r.arrayBuffer(), null); return { status: r.status, ct, body, final: r.url }; }
-    catch (e) { if (i === 2) return { status: 0, err: String(e) }; await new Promise((res) => setTimeout(res, 500 * (i + 1))); }
+  for (let i = 0; i < 6; i++) {
+    try {
+      if (DELAY) await new Promise((res) => setTimeout(res, DELAY));
+      const r = await fetch(u, { redirect: 'follow' });
+      if (r.status === 429 && i < 5) { const ra = Number(r.headers.get('retry-after')) || 0; await r.arrayBuffer().catch(() => {}); await new Promise((res) => setTimeout(res, Math.max(ra * 1000, 2000 * 2 ** i))); continue; }
+      const ct = r.headers.get('content-type') || ''; const body = /text\/(html|css)/.test(ct) ? await r.text() : (await r.arrayBuffer(), null); return { status: r.status, ct, body, final: r.url };
+    }
+    catch (e) { if (i === 5) return { status: 0, err: String(e) }; await new Promise((res) => setTimeout(res, 500 * (i + 1))); }
   }
+  return { status: 429 };
 }
 async function pool(items, fn) { let i = 0; await Promise.all(Array.from({ length: C }, async () => { while (i < items.length) { const k = i++; await fn(items[k]); } })); }
 while (pageQ.length) {
-  const batch = pageQ.splice(0).filter((u) => !seenPages.has(u));
+  const batch = [...new Set(pageQ.splice(0))].filter((u) => !seenPages.has(u)); // one request per URL, however many pages link it
   batch.forEach((u) => seenPages.add(u));
   await pool(batch, async (u) => {
     const r = await get(u);
